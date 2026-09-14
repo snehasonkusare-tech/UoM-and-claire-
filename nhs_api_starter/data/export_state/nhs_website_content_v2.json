@@ -1,0 +1,151 @@
+{
+  "api": "NHS Website Content API v2",
+  "environment": "integration",
+  "base_url": "https://int.api.service.nhs.uk/nhs-website-content",
+  "requests_started": 32,
+  "manifest_complete": false,
+  "manifest_error": "manifest/pages/ returned HTTP 401 (text/html)",
+  "catalogue_complete": true,
+  "details_complete": false,
+  "errors": [
+    {
+      "path": "manifest/pages/",
+      "message": "manifest/pages/ returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:55:10.692188+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "health-a-to-z",
+      "message": "health-a-to-z returned HTTP 404 (application/json)",
+      "recorded_at_utc": "2026-09-08T20:55:10.801903+00:00",
+      "status": 404,
+      "content_type": "application/json",
+      "www_authenticate": null
+    },
+    {
+      "path": "health-a-to-z/conditions",
+      "message": "health-a-to-z/conditions returned HTTP 404 (application/json)",
+      "recorded_at_utc": "2026-09-08T20:55:11.339430+00:00",
+      "status": 404,
+      "content_type": "application/json",
+      "www_authenticate": null
+    },
+    {
+      "path": "conditions",
+      "message": "conditions returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:55:11.967066+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "medicines",
+      "message": "medicines returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:02.342491+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "mental-health",
+      "message": "mental-health returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:02.944028+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "live-well",
+      "message": "live-well returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:07.971994+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "pregnancy",
+      "message": "pregnancy returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:08.127034+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "nhs-services",
+      "message": "nhs-services returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:08.576033+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "contraception",
+      "message": "contraception returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:09.515828+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "vaccinations",
+      "message": "vaccinations returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:09.682971+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "womens-health",
+      "message": "womens-health returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:10.201902+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "baby",
+      "message": "baby returned HTTP 404 (application/json)",
+      "recorded_at_utc": "2026-09-08T20:56:10.796018+00:00",
+      "status": 404,
+      "content_type": "application/json",
+      "www_authenticate": null
+    },
+    {
+      "path": "social-care-and-support",
+      "message": "social-care-and-support returned HTTP 404 (application/json)",
+      "recorded_at_utc": "2026-09-08T20:56:11.346163+00:00",
+      "status": 404,
+      "content_type": "application/json",
+      "www_authenticate": null
+    },
+    {
+      "path": "conditions/back-pain",
+      "message": "conditions/back-pain returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:14.928328+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "conditions/bowel-incontinence",
+      "message": "conditions/bowel-incontinence returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:15.512626+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    },
+    {
+      "path": "conditions/catarrh",
+      "message": "conditions/catarrh returned HTTP 401 (text/html)",
+      "recorded_at_utc": "2026-09-08T20:56:16.078892+00:00",
+      "status": 401,
+      "content_type": "text/html",
+      "www_authenticate": "Basic realm=\"secure\""
+    }
+  ],
+  "created_at_utc": "2026-09-08T20:55:00.622801+00:00",
+  "updated_at_utc": "2026-09-08T20:56:16.079891+00:00",
+  "detail_targets_discovered": 74
+}

@@ -1,0 +1,570 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Tests and treatments A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Tests and treatments A to Z",
+        "alternateName": ""
+    },
+    "description": "Find out about surgery and procedures, tests, screening and other treatments, including why they're done and what happens.",
+    "url": "https://www.nhs.uk/tests-and-treatments/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2025-04-16T12:24:19+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://www.nhs.uk/tests-and-treatments/",
+                    "name": "Tests and treatments A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about common vitamins and minerals, including what they do, how much you need, and how to ensure you get enough.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-23T11:12:15+00:00",
+                "dateModified": "2025-04-15T14:10:47+00:00",
+                "lastReviewed": [
+                    "2020-08-02T23:00:00+00:00",
+                    "2023-08-02T23:00:00+00:00"
+                ],
+                "reviewDue": "2023-08-02T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/conditions/vitamins-and-minerals/",
+            "name": "Vitamins and minerals"
+        },
+        {
+            "description": "Read about screening for Down's syndrome, Edwards' syndrome and Patau's syndrome in pregnancy, which is offered for all babies. Find out how to get it, what happens and when you get the results.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2020-12-03T09:48:34+00:00",
+                "dateModified": "2026-05-05T17:13:24+00:00",
+                "lastReviewed": [
+                    "2025-06-26T11:00:00+00:00",
+                    "2028-06-26T11:00:00+00:00"
+                ],
+                "reviewDue": "2028-06-26T11:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/pregnancy/your-pregnancy-care/screening-for-downs-edwards-pataus-syndrome/",
+            "name": "Screening for Down's syndrome, Edwards' syndrome and Patau's syndrome"
+        },
+        {
+            "description": "Find out about screening for sickle cell and thalassaemia in pregnancy, including how and why it's done, how to get it and when you receive the results.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2020-12-03T11:31:59+00:00",
+                "dateModified": "2026-05-08T16:25:48+00:00",
+                "lastReviewed": [
+                    "2026-05-06T14:00:00+00:00",
+                    "2029-05-06T14:00:00+00:00"
+                ],
+                "reviewDue": "2029-05-06T14:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/pregnancy/your-pregnancy-care/screening-for-sickle-cell-and-thalassaemia/",
+            "name": "Screening for sickle cell and thalassaemia"
+        },
+        {
+            "description": "Where to get help if you are having suicidal thoughts, and what to do if you are worried about someone else.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2021-02-03T10:55:36+00:00",
+                "dateModified": "2026-05-15T11:28:13+00:00",
+                "lastReviewed": [
+                    "2024-04-25T23:00:00+00:00",
+                    "2027-04-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-25T23:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+            "name": "Help for suicidal thoughts"
+        },
+        {
+            "description": "Find out about the different methods of contraception, where to get them and how well they work at preventing pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T08:56:50+00:00",
+                "dateModified": "2025-04-15T14:22:43+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/",
+            "name": "Contraception"
+        },
+        {
+            "description": "Read more about how a contraceptive patch works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:37+00:00",
+                "dateModified": "2025-04-15T14:27:08+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/contraceptive-patch/",
+            "name": "Contraceptive patch"
+        },
+        {
+            "description": "Read more about how the vaginal ring works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:49+00:00",
+                "dateModified": "2025-04-15T14:25:18+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/vaginal-ring/",
+            "name": "Vaginal ring"
+        },
+        {
+            "description": "Find out how diaphragms and caps work to prevent pregnancy, how effective they are, where to get them and how to use them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:10+00:00",
+                "dateModified": "2025-04-15T14:27:28+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/contraceptive-diaphragm-or-cap/",
+            "name": "Diaphragm or cap"
+        },
+        {
+            "description": "Find out how to use condoms, also sometimes called external or male condoms, to prevent pregnancy and reduce the risk of sexually transmitted infections (STIs).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:43+00:00",
+                "dateModified": "2026-05-08T12:37:15+00:00",
+                "lastReviewed": [
+                    "2024-01-26T00:00:00+00:00",
+                    "2027-01-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/condoms/",
+            "name": "Condoms"
+        },
+        {
+            "description": "Find out about vasectomy, including how it is carried out, risks and benefits and getting it on the NHS.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:02+00:00",
+                "dateModified": "2025-07-21T09:10:58+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sterlisation (male)"
+                ]
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/vasectomy-male-sterilisation/",
+            "name": "Vasectomy"
+        },
+        {
+            "description": "Find out how to use internal condoms, sometimes called female condoms, to help prevent pregnancy and reduce the risk of sexually transmitted infections (STIs).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:05:30+00:00",
+                "dateModified": "2026-05-08T12:41:07+00:00",
+                "lastReviewed": [
+                    "2024-02-15T12:50:00+00:00",
+                    "2027-02-15T12:50:00+00:00"
+                ],
+                "reviewDue": "2027-02-15T12:50:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/internal-condoms/",
+            "name": "Internal (female) condoms"
+        },
+        {
+            "description": "Find out about natural family planning, also called fertility awareness or lactational amenorrhoea, and how it works to help prevent pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:57+00:00",
+                "dateModified": "2026-05-08T12:42:59+00:00",
+                "lastReviewed": [
+                    "2024-02-09T00:00:00+00:00",
+                    "2027-02-09T12:09:00+00:00"
+                ],
+                "reviewDue": "2027-02-09T12:09:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/natural-family-planning/",
+            "name": "Natural family planning"
+        },
+        {
+            "description": "Find out about an IUD (intrauterine device) or copper coil, including who can use it, how well it works and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:53+00:00",
+                "dateModified": "2025-04-15T14:26:08+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/iud-coil/",
+            "name": "IUD (intrauterine device) or copper coil"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:41+00:00",
+                "dateModified": "2025-04-15T14:26:26+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/ius-hormonal-coil/",
+            "name": "IUS (intrauterine system) or hormonal coil"
+        },
+        {
+            "description": "Find how the contraceptive implant works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:25+00:00",
+                "dateModified": "2025-04-15T14:28:34+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/contraceptive-implant/",
+            "name": "Contraceptive implant"
+        },
+        {
+            "description": "Find out about the contraceptive injection, including who can use it, how well it works and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:22+00:00",
+                "dateModified": "2025-04-15T14:26:53+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/contraceptive-injection/",
+            "name": "Contraceptive injection"
+        },
+        {
+            "description": "The progestogen-only pill, also called the mini pill, is a type of hormonal contraception.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:18+00:00",
+                "dateModified": "2025-04-15T14:27:49+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/progestogen-only-pill/",
+            "name": "Progestogen-only pill"
+        },
+        {
+            "description": "Find out about the combined contraceptive pill, including who can take it and where to get it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:07+00:00",
+                "dateModified": "2025-04-15T14:28:14+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/combined-pill/",
+            "name": "Combined pill"
+        },
+        {
+            "description": "Find out how female sterilisation (also called “getting your tubes tied” or tubal ligation) works to prevent pregnancy, how it’s done and what to expect after surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:31+00:00",
+                "dateModified": "2025-04-15T14:25:51+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sterilisation (female)"
+                ]
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/female-sterilisation/",
+            "name": "Female sterilisation"
+        },
+        {
+            "description": "Find out more about the emergency contraceptive pill (morning after pill), including how to get it and when to take it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T08:59:55+00:00",
+                "dateModified": "2025-04-15T14:25:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/contraception/methods-of-contraception/emergency-contraceptive-pill-morning-after-pill/",
+            "name": "Emergency contraceptive pill (morning after pill)"
+        },
+        {
+            "description": "Find out about NHS vaccinations for babies, children and adults, including why they're important and how to get them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [],
+                "datePublished": "2024-03-06T17:39:14+00:00",
+                "dateModified": "2026-08-17T06:02:06+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/vaccinations/",
+            "name": "Vaccinations"
+        },
+        {
+            "description": "Find out about the 4-in-1 pre-school booster, including who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:47+00:00",
+                "dateModified": "2025-04-15T14:19:44+00:00",
+                "lastReviewed": [
+                    "2023-12-13T16:52:00+00:00",
+                    "2026-12-13T16:52:00+00:00"
+                ],
+                "reviewDue": "2026-12-13T16:52:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Pre-school booster vaccine"
+                ]
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/vaccinations/4-in-1-preschool-booster-vaccine/",
+            "name": "4-in-1 pre-school booster vaccine"
+        },
+        {
+            "description": "NHS information about the 6-in-1 vaccine, including what the vaccine helps protect against, who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:48+00:00",
+                "dateModified": "2026-01-01T13:03:29+00:00",
+                "lastReviewed": [
+                    "2023-06-26T15:54:00+00:00",
+                    "2026-06-26T15:54:00+00:00"
+                ],
+                "reviewDue": "2026-06-26T15:54:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/vaccinations/6-in-1-vaccine/",
+            "name": "6-in-1 vaccine"
+        },
+        {
+            "description": "Find out about the BCG vaccine for tuberculosis (TB), including who should have it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:52+00:00",
+                "dateModified": "2026-01-26T16:59:15+00:00",
+                "lastReviewed": [
+                    "2023-12-04T16:56:00+00:00",
+                    "2026-12-04T16:56:00+00:00"
+                ],
+                "reviewDue": "2026-12-04T16:56:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/vaccinations/bcg-vaccine-for-tuberculosis-tb/",
+            "name": "BCG vaccine for tuberculosis (TB)"
+        },
+        {
+            "description": "Find out about the chickenpox vaccine, including who can get it on the NHS, how to get it and what the side effects are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:53+00:00",
+                "dateModified": "2026-01-02T10:40:36+00:00",
+                "lastReviewed": [
+                    "2024-03-19T08:12:00+00:00",
+                    "2027-03-19T08:12:00+00:00"
+                ],
+                "reviewDue": "2027-03-19T08:12:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://int.api.service.nhs.uk/nhs-website-content/vaccinations/chickenpox-vaccine/",
+            "name": "Chickenpox vaccine"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://www.nhs.uk/tests-and-treatments/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://www.nhs.uk/tests-and-treatments/?page=7",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://www.nhs.uk/tests-and-treatments/?page=1",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://www.nhs.uk/tests-and-treatments/?page=2",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ],
+    "webpage": "https://www.nhs.uk/tests-and-treatments/"
+}

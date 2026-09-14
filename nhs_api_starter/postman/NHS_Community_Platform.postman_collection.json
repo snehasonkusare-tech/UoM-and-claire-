@@ -1,0 +1,357 @@
+{
+  "info": {
+    "name": "NHS Community Navigation - API Tests",
+    "description": "Postman tests for NHS Website Content API v2 and Directory of Healthcare Services (Service Search) API v3. Run folders 01 and 02 with a 1100 ms delay. The legacy DoS and Website Content diagnostic folders are optional and should be run separately.",
+    "_postman_id": "00000000-0000-4000-8000-000000000001",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "01 - NHS Website Content API v2",
+      "description": "Core Website Content smoke test. This is the Content request that was verified successfully in the NHS integration environment.",
+      "item": [
+        {
+          "name": "Symptoms A - smoke test",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200\", function () { pm.response.to.have.status(200); });",
+                  "let body = null;",
+                  "pm.test(\"Response is JSON\", function () { body = pm.response.json(); pm.expect(body).to.be.an(\"object\"); });",
+                  "if (body) {",
+                  "  pm.test(\"significantLink is a non-empty array\", function () {",
+                  "    pm.expect(body.significantLink).to.be.an(\"array\").that.is.not.empty;",
+                  "  });",
+                  "  pm.test(\"Every returned item has a name and URL\", function () {",
+                  "    body.significantLink.forEach(function (item) {",
+                  "      pm.expect(item.name).to.be.a(\"string\").and.not.empty;",
+                  "      pm.expect(item.url).to.be.a(\"string\").and.not.empty;",
+                  "    });",
+                  "  });",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{content_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{content_base}}/symptoms?category=a&page=1",
+              "host": ["{{content_base}}"],
+              "path": ["symptoms"],
+              "query": [
+                { "key": "category", "value": "a" },
+                { "key": "page", "value": "1" }
+              ]
+            },
+            "description": "Returns the first A-Z symptoms page. Expected: HTTP 200 and a non-empty significantLink array. NHS Website Content API v2 uses the apikey header in integration."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "02 - Directory of Healthcare Services v3",
+      "description": "Core DoHS/Service Search v3 checks. These requests use api-version=3 and the apikey header.",
+      "item": [
+        {
+          "name": "Known organisation Y02494",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200\", function () { pm.response.to.have.status(200); });",
+                  "let body = null;",
+                  "pm.test(\"Response is JSON\", function () { body = pm.response.json(); pm.expect(body).to.be.an(\"object\"); });",
+                  "if (body) {",
+                  "  pm.test(\"value is a non-empty array\", function () { pm.expect(body.value).to.be.an(\"array\").that.is.not.empty; });",
+                  "  pm.test(\"Y02494 is returned\", function () {",
+                  "    pm.expect(body.value.some(function (item) { return item.ODSCode === \"Y02494\"; })).to.equal(true);",
+                  "  });",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{dohs_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{dohs_base}}/?api-version=3&search=Y02494&$top=5",
+              "host": ["{{dohs_base}}"],
+              "path": [""],
+              "query": [
+                { "key": "api-version", "value": "3" },
+                { "key": "search", "value": "Y02494" },
+                { "key": "$top", "value": "5" }
+              ]
+            },
+            "description": "Known-record smoke test. Expected: HTTP 200 and Shakespeare Medical Practice with ODSCode Y02494."
+          },
+          "response": []
+        },
+        {
+          "name": "EPS-enabled community pharmacies",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200\", function () { pm.response.to.have.status(200); });",
+                  "let body = null;",
+                  "pm.test(\"Response is JSON\", function () { body = pm.response.json(); pm.expect(body).to.be.an(\"object\"); });",
+                  "if (body) {",
+                  "  pm.test(\"value is a non-empty array\", function () { pm.expect(body.value).to.be.an(\"array\").that.is.not.empty; });",
+                  "  pm.test(\"All records are EPS-enabled community pharmacies\", function () {",
+                  "    body.value.forEach(function (item) {",
+                  "      pm.expect(item.OrganisationTypeId).to.equal(\"PHA\");",
+                  "      pm.expect(item.OrganisationSubType).to.equal(\"Community\");",
+                  "      pm.expect(String(item.IsEpsEnabled).toLowerCase()).to.equal(\"true\");",
+                  "    });",
+                  "  });",
+                  "  pm.test(\"OData count is present\", function () { pm.expect(body).to.have.property(\"@odata.count\"); });",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{dohs_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{dohs_base}}/?api-version=3&search=*&$top=5&$count=true&$filter=IsEpsEnabled eq 'true' and OrganisationTypeId eq 'PHA' and OrganisationSubType eq 'Community'",
+              "host": ["{{dohs_base}}"],
+              "path": [""],
+              "query": [
+                { "key": "api-version", "value": "3" },
+                { "key": "search", "value": "*" },
+                { "key": "$top", "value": "5" },
+                { "key": "$count", "value": "true" },
+                { "key": "$filter", "value": "IsEpsEnabled eq 'true' and OrganisationTypeId eq 'PHA' and OrganisationSubType eq 'Community'" }
+              ]
+            },
+            "description": "Returns five EPS-enabled community pharmacies and the matching OData count."
+          },
+          "response": []
+        },
+        {
+          "name": "Nearest EPS-enabled pharmacies to Manchester",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200\", function () { pm.response.to.have.status(200); });",
+                  "let body = null;",
+                  "pm.test(\"Response is JSON\", function () { body = pm.response.json(); pm.expect(body).to.be.an(\"object\"); });",
+                  "if (body) {",
+                  "  pm.test(\"value is a non-empty array\", function () { pm.expect(body.value).to.be.an(\"array\").that.is.not.empty; });",
+                  "  pm.test(\"All records are EPS-enabled community pharmacies\", function () {",
+                  "    body.value.forEach(function (item) {",
+                  "      pm.expect(item.OrganisationTypeId).to.equal(\"PHA\");",
+                  "      pm.expect(item.OrganisationSubType).to.equal(\"Community\");",
+                  "      pm.expect(String(item.IsEpsEnabled).toLowerCase()).to.equal(\"true\");",
+                  "      pm.expect(item.Latitude).to.be.a(\"number\");",
+                  "      pm.expect(item.Longitude).to.be.a(\"number\");",
+                  "    });",
+                  "  });",
+                  "  const originLat = Number(pm.environment.get(\"latitude\"));",
+                  "  const originLon = Number(pm.environment.get(\"longitude\"));",
+                  "  function radians(value) { return value * Math.PI / 180; }",
+                  "  function distance(item) {",
+                  "    const earthRadiusKm = 6371;",
+                  "    const deltaLat = radians(item.Latitude - originLat);",
+                  "    const deltaLon = radians(item.Longitude - originLon);",
+                  "    const a = Math.sin(deltaLat / 2) ** 2 + Math.cos(radians(originLat)) * Math.cos(radians(item.Latitude)) * Math.sin(deltaLon / 2) ** 2;",
+                  "    return earthRadiusKm * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));",
+                  "  }",
+                  "  pm.test(\"Results are ordered nearest first\", function () {",
+                  "    const distances = body.value.map(distance);",
+                  "    for (let index = 1; index < distances.length; index += 1) {",
+                  "      pm.expect(distances[index] + 0.01).to.be.at.least(distances[index - 1]);",
+                  "    }",
+                  "  });",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{dohs_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{dohs_base}}/?api-version=3&search=*&$top=5&$filter=IsEpsEnabled eq 'true' and OrganisationTypeId eq 'PHA' and OrganisationSubType eq 'Community'&$orderby=geo.distance(Geocode, geography'POINT({{longitude}} {{latitude}})')",
+              "host": ["{{dohs_base}}"],
+              "path": [""],
+              "query": [
+                { "key": "api-version", "value": "3" },
+                { "key": "search", "value": "*" },
+                { "key": "$top", "value": "5" },
+                { "key": "$filter", "value": "IsEpsEnabled eq 'true' and OrganisationTypeId eq 'PHA' and OrganisationSubType eq 'Community'" },
+                { "key": "$orderby", "value": "geo.distance(Geocode, geography'POINT({{longitude}} {{latitude}})')" }
+              ]
+            },
+            "description": "Uses the longitude and latitude environment variables. Defaults point to central Manchester. Expected: HTTP 200 and nearest-first EPS-enabled community pharmacies."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "03 - Legacy DoS REST (optional; run separately)",
+      "description": "This older API is not covered by the NHS application API key. It requires separate legacy DoS Basic Auth credentials. Skip this folder unless those credentials have been issued to you.",
+      "item": [
+        {
+          "name": "Pharmacies by postcode",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200\", function () { pm.response.to.have.status(200); });",
+                  "pm.test(\"Response is JSON\", function () { pm.expect(pm.response.json()).to.exist; });"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "auth": {
+              "type": "basic",
+              "basic": [
+                { "key": "username", "value": "{{dos_username}}", "type": "string" },
+                { "key": "password", "value": "{{dos_password}}", "type": "string" }
+              ]
+            },
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{dos_base}}/services/byServiceType/0/{{postcode}}/10/0/0/0/0/13/10",
+              "host": ["{{dos_base}}"],
+              "path": ["services", "byServiceType", "0", "{{postcode}}", "10", "0", "0", "0", "0", "13", "10"]
+            },
+            "description": "Optional legacy Directory of Services request using Basic Auth. The content_api_key and dohs_api_key do not authenticate this endpoint."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "04 - Website Content detail diagnostics (run separately)",
+      "description": "Diagnostic requests for Website Content v2 detail/index routes. As verified on 8 September 2026, the integration gateway accepted the application key but its staging content origin returned an HTML 401 Access Denied response for these routes. Symptoms A in folder 01 still passed. Run this folder only when checking whether NHS has restored those upstream routes.",
+      "item": [
+        {
+          "name": "Conditions index - diagnostic",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200 when the NHS upstream route is healthy\", function () { pm.response.to.have.status(200); });",
+                  "pm.test(\"Response is JSON, not an upstream HTML error\", function () { pm.expect(pm.response.headers.get(\"Content-Type\") || \"\").to.include(\"json\"); });"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{content_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{content_base}}/conditions?page=1",
+              "host": ["{{content_base}}"],
+              "path": ["conditions"],
+              "query": [{ "key": "page", "value": "1" }]
+            },
+            "description": "Diagnostic only. A current HTTP 401 HTML Access Denied page from nhswebsite-staging.nhs.uk indicates the known NHS upstream issue, not a missing Postman API key."
+          },
+          "response": []
+        },
+        {
+          "name": "Back pain detail with modules - diagnostic",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200 when the NHS upstream route is healthy\", function () { pm.response.to.have.status(200); });",
+                  "pm.test(\"Response is JSON, not an upstream HTML error\", function () { pm.expect(pm.response.headers.get(\"Content-Type\") || \"\").to.include(\"json\"); });"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{content_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{content_base}}/conditions/back-pain/?modules=true",
+              "host": ["{{content_base}}"],
+              "path": ["conditions", "back-pain", ""],
+              "query": [{ "key": "modules", "value": "true" }]
+            },
+            "description": "Diagnostic only. The trailing slash and modules parameter match Website Content API v2."
+          },
+          "response": []
+        },
+        {
+          "name": "Module manifest - diagnostic",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"HTTP status is 200 when the NHS upstream route is healthy\", function () { pm.response.to.have.status(200); });",
+                  "pm.test(\"Response is JSON, not an upstream HTML error\", function () { pm.expect(pm.response.headers.get(\"Content-Type\") || \"\").to.include(\"json\"); });"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json", "type": "text" },
+              { "key": "apikey", "value": "{{content_api_key}}", "type": "text" }
+            ],
+            "url": {
+              "raw": "{{content_base}}/manifest/pages",
+              "host": ["{{content_base}}"],
+              "path": ["manifest", "pages"]
+            },
+            "description": "Diagnostic only. Use this to check whether the NHS Website Content integration origin is healthy again."
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}

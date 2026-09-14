@@ -1,0 +1,26 @@
+﻿FileName,RowMeaning,JoinKey,Notes
+dohs_organisations.csv,"One row per DoHS organisation; scalar fields, summaries and counts.",SearchKey,Index columns preserve source-array order within each organisation or service.
+organisation_aliases.csv,One row per organisation alias.,SearchKey,Index columns preserve source-array order within each organisation or service.
+organisation_contacts.csv,One row per organisation-level contact method.,SearchKey,Index columns preserve source-array order within each organisation or service.
+organisation_facilities.csv,One row per organisation facility entry.,SearchKey,Index columns preserve source-array order within each organisation or service.
+organisation_opening_times.csv,One row per organisation-level opening-time entry.,SearchKey,Index columns preserve source-array order within each organisation or service.
+organisation_metrics.csv,One row per organisation-level metric.,SearchKey,Index columns preserve source-array order within each organisation or service.
+accepting_patients_dentists.csv,One row per dentist patient-acceptance category.,SearchKey,Index columns preserve source-array order within each organisation or service.
+gsd_data_suppliers.csv,One row per supplier of a Generic Directory of Services profile.,SearchKey,Index columns preserve source-array order within each organisation or service.
+gsd_services.csv,One row per legacy GSD service ID and name.,SearchKey,Index columns preserve source-array order within each organisation or service.
+gsd_metrics.csv,One row per descriptive GSD profile element.,SearchKey,Index columns preserve source-array order within each organisation or service.
+services.csv,One row per top-level service offered by an organisation.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_contacts.csv,One row per contact attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_providers.csv,One row per provider attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_treatments.csv,One row per treatment attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_age_ranges.csv,One row per age range attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_opening_times.csv,One row per opening-time entry attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_metrics.csv,One row per metric attached to a service.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_key_value_data.csv,One row per service-specific key/value item.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_opening_periods.csv,One row per dated service-opening period.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_opening_period_services.csv,One row per service assigned to an opening period.,SearchKey,Index columns preserve source-array order within each organisation or service.
+service_opening_period_daily_times.csv,One row per daily time inside an opening period.,SearchKey,Index columns preserve source-array order within each organisation or service.
+trusts.csv,One row per trust related to an organisation.,SearchKey,Index columns preserve source-array order within each organisation or service.
+related_iapt_ccgs.csv,One row per IAPT CCG related to an organisation.,SearchKey,Index columns preserve source-array order within each organisation or service.
+last_updated_dates.csv,One row per organisation containing field-level update dates.,SearchKey,Index columns preserve source-array order within each organisation or service.
+last_updated_key_value_data.csv,One row per update date for a service key/value item.,SearchKey,Index columns preserve source-array order within each organisation or service.

@@ -1,0 +1,381 @@
+﻿SourceFile,SearchKey,ODSCode,OrganisationName,ServiceIndex,ServiceCode,ServiceName,AgeRangeIndex,FromAgeDays,ToAgeDays
+page_000025.json,X100058,RAJ32,Mid Essex Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000025.json,X100058,RAJ32,Mid Essex Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000025.json,X100133,RATJC,Basildon Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000026.json,X100725,RAL27,North Middlesex Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000026.json,X100733,RWELR,Rutland Memorial Hospital - University Hospitals Of Leicester NHS Trust,1,SRV0178,Urgent care centre,1,0,47481
+page_000026.json,X101015,RNUCE,Bicester Community Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000026.json,X1013,RJ611,Croydon University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000026.json,X101355,RY409,Herts & Essex Hospital,2,SRV0178,Urgent care centre,1,730,47481
+page_000026.json,X1014,RTFED,Wansbeck General Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000026.json,X1016,RJL30,"Diana, Princess Of Wales Hospital",1,SRV0001,Accident and emergency services,1,0,47481
+page_000026.json,X101789,RALC7,Chase Farm Hospital,2,SRV0541,Urgent Treatment Centre,1,1826,47481
+page_000026.json,X101968,RTF86,Northumbria Specialist Emergency Care Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000026.json,X101968,RTF86,Northumbria Specialist Emergency Care Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000027.json,X102323,NMK59,Bracknell Healthspace,1,SRV0178,Urgent care centre,1,730,47481
+page_000027.json,X102339,AD907,Ashford Hospital,1,SRV0178,Urgent care centre,1,1095,47481
+page_000027.json,X1029,RRV03,University College Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000028.json,X104610,RNS01,Northampton General Hospital (Acute),1,SRV0001,Accident and emergency services,1,0,6208
+page_000028.json,X104610,RNS01,Northampton General Hospital (Acute),1,SRV0001,Accident and emergency services,2,5844,47481
+page_000028.json,X104736,R1K01,Northwick Park Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000028.json,X104737,R1K02,Central Middlesex Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000028.json,X104739,R1K04,Ealing Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000028.json,X105106,RDU50,Wexham Park Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000028.json,X105298,RH5A8,Musgrove Park Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000028.json,X105341,RT182,North Cambridgeshire Hospital - Cambridgeshire and Peterborough NHS Foundation Trust,1,SRV0178,Urgent care centre,1,730,47481
+page_000028.json,X105342,RT133,Doddington Hospital - Cambridgeshire and Peterborough NHS Foundation Trust,1,SRV0178,Urgent care centre,1,730,47481
+page_000028.json,X105348,RT1FC,Princess of Wales Hospital - Cambridgeshire and Peterborough NHS Foundation Trust,1,SRV0178,Urgent care centre,1,730,47481
+page_000028.json,X1057,RK5BC,King's Mill Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000029.json,X1064,RWH20,New QEII Hospital,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000029.json,X1068,RXQ02,Stoke Mandeville Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000029.json,X1070,RWF03,Maidstone Hospital,1,SRV0001,Accident and emergency services,1,365,47481
+page_000029.json,X1071,RXPCW,Shotley Bridge Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000029.json,X1072,RTRAT,The James Cook University Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000029.json,X1072,RTRAT,The James Cook University Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000029.json,X1080,RVV09,Queen Elizabeth The Queen Mother Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000029.json,X108146,NNF16,Bridlington Hospital - City Health Care Partnership Cic,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000029.json,X1082,RL403,New Cross Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000029.json,X1082,RL403,New Cross Hospital,3,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000030.json,X1088,RGP75,James Paget University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000030.json,X1089,RP5BA,Bassetlaw Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000030.json,X1099,RM316,Rochdale Infirmary,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000031.json,X1108,RXF03,Pontefract Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000031.json,X111285,RJ842,Falmouth Hospital,1,SRV0178,Urgent care centre,1,730,47481
+page_000031.json,X111308,RATPH,Orsett Hospital Minor Injuries Unit - North East London NHS Foundation Trust,1,SRV0178,Urgent care centre,1,365,47481
+page_000031.json,X111319,RDR3E,Crawley Hospital- Sussex Community NHS Trust,1,SRV0541,Urgent Treatment Centre,1,91,364
+page_000031.json,X111319,RDR3E,Crawley Hospital- Sussex Community NHS Trust,1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000031.json,X111864,AAH01,Tetbury Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000032.json,X113670,RDE03,Ipswich Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000033.json,X114116,RDRCR,Crowborough War Memorial Hospital - Sussex Community NHS Foundation Trust,1,SRV0178,Urgent care centre,1,91,364
+page_000033.json,X114116,RDRCR,Crowborough War Memorial Hospital - Sussex Community NHS Foundation Trust,1,SRV0178,Urgent care centre,2,365,47481
+page_000033.json,X114316,RTP04,East Surrey Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000034.json,X1164,RP5DR,Doncaster Royal Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000034.json,X1164,RP5DR,Doncaster Royal Infirmary,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000034.json,X116610,RTG02,Queen's Hospital Burton,1,SRV0001,Accident and emergency services,1,0,47481
+page_000034.json,X116877,RY28P,Health Care Resource Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000035.json,X1182,RVR05,St Helier Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000035.json,X1184,RRF02,Royal Albert Edward Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000035.json,X118598,RQM91,West Middlesex University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000035.json,X1188,RWY02,Calderdale Royal Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000035.json,X1195,RJD01,Stafford Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000035.json,X119698,RY551,Grantham & District Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000036.json,X121091,RY21N,Huyton Primary Care Centre,1,SRV0178,Urgent care centre,1,0,47481
+page_000036.json,X1214,RJZ01,King's College Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000036.json,X1217,RVR50,Epsom Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000036.json,X1217,RVR50,Epsom Hospital,3,SRV0541,Urgent Treatment Centre,1,5844,47481
+page_000037.json,X122433,RYW56,Selly Oak Health Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000037.json,X1232,RTD02,The Royal Victoria Infirmary,1,SRV0001,Accident and emergency services,1,0,5843
+page_000037.json,X1232,RTD02,The Royal Victoria Infirmary,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000038.json,X124234,AXT02,Shakespeare Walk-In Centre,1,SRV0178,Urgent care centre,1,0,47481
+page_000038.json,X1243,RYR18,Worthing Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000038.json,X1245,RXR20,Royal Blackburn Teaching Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000039.json,X124988,NDAH9,Gravesham Community Hospital - Virgin Care Adult Community Services,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000040.json,X1268,RPA02,Medway Maritime Hospital,1,SRV0001,Accident and emergency services,1,6574,47481
+page_000040.json,X1270,RVWSX,Peterlee Community Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000040.json,X1270,RVWSX,Peterlee Community Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000040.json,X1271,RWDLA,Pilgrim Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000040.json,X1271,RWDLA,Pilgrim Hospital,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000041.json,X1293,RR7EN,Queen Elizabeth Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000041.json,X1293,RR7EN,Queen Elizabeth Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000041.json,X13,RDEE4,Colchester Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000042.json,X130979,NQT5F,Skelmersdale Walk In Centre,1,SRV0178,Urgent care centre,1,0,47481
+page_000042.json,X130980,NQT5G,West Lancashire Adult Community Health Services,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000042.json,X1311,RHM01,Southampton General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000042.json,X1314,RXN01,Chorley and South Ribble Hospital,1,SRV0001,Accident and emergency services,1,6574,47481
+page_000042.json,X1314,RXN01,Chorley and South Ribble Hospital,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000042.json,X131614,RYFFC,Tiverton Urgent Treatment Centre,1,SRV0541,Urgent Treatment Centre,1,730,47481
+page_000043.json,X1320,RWP50,Worcestershire Royal Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000043.json,X1322,RHU03,Queen Alexandra Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000043.json,X132585,NNFA7,Goole & District Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000043.json,X133004,RK906,Cumberland Centre,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000044.json,X1334,RJ701,St George's Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000044.json,X1335,RJ224,University Hospital Lewisham,1,SRV0001,Accident and emergency services,1,0,47481
+page_000044.json,X1338,RJE01,Royal Stoke University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000044.json,X134,RCUEF,Sheffield Children's Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000044.json,X134557,R0A02,Manchester Royal Infirmary,1,SRV0001,Accident and emergency services,1,0,5843
+page_000044.json,X134557,R0A02,Manchester Royal Infirmary,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000045.json,X134726,R0A07,Wythenshawe Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000045.json,X1352,RHQNG,Northern General Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000045.json,X1352,RHQNG,Northern General Hospital,2,SRV0178,Urgent care centre,1,5844,47481
+page_000046.json,X1370,RH880,North Devon District Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000046.json,X137255,ARN03,King Street Walk in Centre ,1,SRV0178,Urgent care centre,1,182,394
+page_000046.json,X137255,ARN03,King Street Walk in Centre ,1,SRV0178,Urgent care centre,2,365,47481
+page_000047.json,X138670,AXA02,Royal London Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000048.json,X140,RA723,Bristol Royal Hospital For Children,1,SRV0001,Accident and emergency services,1,0,5843
+page_000049.json,X1420,RTGFA,Florence Nightingale Community Hospital,1,SRV0541,Urgent Treatment Centre,1,91,394
+page_000049.json,X1420,RTGFA,Florence Nightingale Community Hospital,1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000049.json,X1421,RWP31,Kidderminster Hospital & Treatment Centre,2,SRV0178,Urgent care centre,1,365,47481
+page_000049.json,X1422,RVV01,William Harvey Hospital (Ashford),1,SRV0001,Accident and emergency services,1,0,47481
+page_000049.json,X1439,RWG08,Hemel Hempstead Hospital,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000051.json,X147390,RRK97,Heartlands Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000051.json,X147391,RRK98,Good Hope Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000051.json,X147392,RRK99,Solihull Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000051.json,X1476,RGT01,Addenbrooke's,1,SRV0001,Accident and emergency services,1,0,47481
+page_000051.json,X147621,RW44V,South Liverpool NHS Treatment Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000053.json,X150906,NNJ14,Oadby,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000053.json,X150921,RH5O4,Yeovil District Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000053.json,X150921,RH5O4,Yeovil District Hospital,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000053.json,X151009,R0B01,Sunderland Royal Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000053.json,X151009,R0B01,Sunderland Royal Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000053.json,X151010,R0B02,Bishop Auckland Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000053.json,X151010,R0B02,Bishop Auckland Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000053.json,X151016,R0B0Q,South Tyneside District Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000053.json,X151029,R0B15,University Hospital Of Hartlepool,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000053.json,X151053,AXT05,Corby Urgent Care Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000053.json,X151285,R0B1G,University Hospital Of North Durham,1,SRV0001,Accident and emergency services,1,0,5843
+page_000053.json,X151285,R0B1G,University Hospital Of North Durham,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000054.json,X151415,RW43E,Smithdown Minor Injury Centre For Children,1,SRV0178,Urgent care centre,1,0,5843
+page_000054.json,X151417,RW43D,Old Swan Walk In Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000054.json,X152528,AQN04,PHL Lymington Urgent Treatment Centre,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000055.json,X1528,RQM01,Chelsea and Westminster Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000055.json,X1533,RWEAA,Leicester Royal Infirmary,1,SRV0001,Accident and emergency services,1,0,6573
+page_000055.json,X1540,RWDDA,Lincoln County Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000055.json,X1540,RWDDA,Lincoln County Hospital,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000056.json,X154170,RNNBX,West Cumberland Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000056.json,X154175,RNN62,Cumberland Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000056.json,X1545,RTH05,Horton General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000056.json,X154551,RAJ1U,Harold Wood Polyclinic,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000057.json,X1566,RJC03,Stratford Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000058.json,X1577,RYR16,St Richard's Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000059.json,X1587,RTFDR,Hexham General Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000060.json,X159574,R0D01,Poole Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000060.json,X159574,R0D01,Poole Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000060.json,X159575,R0D02,Royal Bournemouth Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000060.json,X159575,R0D02,Royal Bournemouth Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000061.json,X162,RA901,Torbay Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000061.json,X1626,RXQ50,Wycombe Hospital,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000061.json,X163018,N6J7V,Princess Royal Hospital,1,SRV0001,Accident and emergency services,1,6209,47481
+page_000061.json,X163399,Z7T1B,Halton General Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000061.json,X163403,P4W6C,St Chad's Clinic,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000062.json,X1636,RXF10,Dewsbury and District Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000063.json,X1655,RRK15,Queen Elizabeth Hospital Birmingham,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000064.json,X1661,RN325,The Great Western Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000064.json,X1661,RN325,The Great Western Hospital,2,SRV0541,Urgent Treatment Centre,1,0,6573
+page_000065.json,X1672,RYJ01,St Mary's Hospital (HQ),1,SRV0001,Accident and emergency services,1,0,47481
+page_000065.json,X1676,RR813,St James's Hospital,1,SRV0001,Accident and emergency services,1,6574,47481
+page_000067.json,X169954,E0A3H,Royal Sussex County Hospital,1,SRV0001,Accident and emergency services,1,0,6208
+page_000067.json,X169954,E0A3H,Royal Sussex County Hospital,1,SRV0001,Accident and emergency services,2,6209,47481
+page_000067.json,X1700,RNZ02,Salisbury District Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000068.json,X1709,RTH08,John Radcliffe Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000068.json,X171,RBS25,Alder Hey Children's NHS Foundation Trust,1,SRV0001,Accident and emergency services,1,0,5843
+page_000069.json,X1724,RTXBW,Westmorland General Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000070.json,X1730,RJN71,Macclesfield District General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000070.json,X1730,RJN71,Macclesfield District General Hospital,3,SRV0178,Urgent care centre,1,1095,47481
+page_000071.json,X1743,RYJ02,Charing Cross Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000071.json,X1745,RWA01,Hull Royal Infirmary,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000071.json,X1750,RTFFS,North Tyneside General Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000072.json,X1758,RNQ51,Kettering General Hospital,1,SRV0001,Accident and emergency services,1,6574,47481
+page_000072.json,X1760,RWJ09,Stepping Hill Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000072.json,X176076,I3W1A,Midland Metropolitan University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000072.json,X176325,K4Y8N,Manchester Urgent Primary Care Hub,1,SRV0178,Urgent care centre,1,0,47481
+page_000073.json,X1764,RTXBU,Furness General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000073.json,X1764,RTXBU,Furness General Hospital,2,SRV0178,Urgent care centre,1,0,47481
+page_000073.json,X1769,RXWAT,Princess Royal Hospital ,1,SRV0001,Accident and emergency services,1,0,47481
+page_000073.json,X1769,RXWAT,Princess Royal Hospital ,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000074.json,X178015,RW42H,Litherland Town Hall,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000074.json,X1785,RHQHH,Royal Hallamshire Hospital,2,SRV0178,Urgent care centre,1,5844,47481
+page_000075.json,X178742,U4O3U,Forest Of Dean Community Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000075.json,X1792,RTDCA,Ponteland Road Health Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000076.json,X1798,RPC04,Queen Victoria Hospital (East Grinstead),1,SRV0178,Urgent care centre,1,365,47481
+page_000077.json,X1811,RFSDA,Chesterfield Royal Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000079.json,X183121,A9F7M,Blaydon Cdc,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000079.json,X1837,RQXM1,Homerton University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000080.json,X1842,RXWAS,Royal Shrewsbury Hospital ,1,SRV0001,Accident and emergency services,1,0,47481
+page_000080.json,X1842,RXWAS,Royal Shrewsbury Hospital ,3,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000082.json,X186140,RWV47,Stowford Lodge,1,SRV0178,Urgent care centre,1,730,47481
+page_000083.json,X187846,RH8H8,NHS Walk-In Centre,1,SRV0178,Urgent care centre,1,730,47481
+page_000083.json,X1879,RWWWH,Warrington Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000084.json,X1888,RWP01,Alexandra Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000085.json,X1893,RN707,Darent Valley Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000085.json,X1899,RTGFG,Royal Derby Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000085.json,X1899,RTGFG,Royal Derby Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000087.json,X1928,RYJ03,Hammersmith Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000087.json,X1962,RXC01,Conquest Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000087.json,X1963,RH801,Royal Devon and Exeter Hospital (Wonford),1,SRV0001,Accident and emergency services,1,0,47481
+page_000087.json,X1967,RVVKC,Kent and Canterbury Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000087.json,X1967,RVVKC,Kent and Canterbury Hospital,2,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000087.json,X1974,RXL01,Blackpool Victoria Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000088.json,X2013,RQWG0,Princess Alexandra Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000088.json,X2013,RQWG0,Princess Alexandra Hospital,3,SRV0541,Urgent Treatment Centre,1,30,394
+page_000088.json,X2013,RQWG0,Princess Alexandra Hospital,3,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000088.json,X2027,RX1RA,Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus,1,SRV0001,Accident and emergency services,1,0,47481
+page_000088.json,X2038,RHW01,Royal Berkshire Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000088.json,X2038,RHW01,Royal Berkshire Hospital,3,SRV0178,Urgent care centre,1,0,47481
+page_000088.json,X2051,RJC02,Warwick Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000088.json,X2082,RVJ01,Southmead Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000088.json,X2085,RHU10,Gosport War Memorial Hospital - Portsmouth Hospitals NHS Trust,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000088.json,X2101,RWY01,Huddersfield Royal Infirmary,1,SRV0001,Accident and emergency services,1,0,5843
+page_000088.json,X2101,RWY01,Huddersfield Royal Infirmary,1,SRV0001,Accident and emergency services,2,0,47481
+page_000088.json,X2103,RVWAE,University Hospital Of North Tees,1,SRV0001,Accident and emergency services,1,0,5843
+page_000088.json,X2103,RVWAE,University Hospital Of North Tees,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000089.json,X2122,RTX02,Royal Lancaster Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2127,RLQ01,"The County Hospital, Wye Valley NHS Trust",1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2132,RM301,Salford Royal,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2139,RGR50,West Suffolk Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X219,RALWH,The Whittington Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2205,RR801,Leeds General Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2210,RMP01,Tameside & Glossop Integrated Care NHS Foundation Trust,1,SRV0001,Accident and emergency services,1,0,47481
+page_000089.json,X2241,RXPDA,Darlington Memorial Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000089.json,X2241,RXPDA,Darlington Memorial Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000089.json,X2249,RP5MM,Montagu Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000090.json,X2255,RXC02,Eastbourne District General Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000090.json,X2266,RKB03,Hospital Of St Cross,2,SRV0541,Urgent Treatment Centre,1,1826,47481
+page_000090.json,X2286,RKB01,University Hospital (Coventry),1,SRV0001,Accident and emergency services,1,0,6573
+page_000090.json,X2286,RKB01,University Hospital (Coventry),1,SRV0001,Accident and emergency services,2,6574,47481
+page_000090.json,X2286,RKB01,University Hospital (Coventry),3,SRV0178,Urgent care centre,1,4383,47481
+page_000090.json,X2298,NTPAD,"Practice Plus Group Surgical Centre, St Mary's Portsmouth",1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000090.json,X2298,NTPAD,"Practice Plus Group Surgical Centre, St Mary's Portsmouth",1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000090.json,X231,RBD01,Dorset County Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000091.json,X2417,RJ866,Bodmin Hospital - Cornwall Partnership NHS Foundation Trust,1,SRV0178,Urgent care centre,1,730,47481
+page_000091.json,X25,REF01,West Cornwall Hospital (Penzance),1,SRV0178,Urgent care centre,1,365,47481
+page_000092.json,X2542,RJ867,Stratton Hospital - Cornwall Partnership NHS Foundation Trust,1,SRV0178,Urgent care centre,1,730,47481
+page_000093.json,X272,RFRPA,Rotherham Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000093.json,X2860,RWFTW,Tunbridge Wells Hospital at Pembury,1,SRV0001,Accident and emergency services,1,0,47481
+page_000093.json,X28687,RNNBE,Penrith Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000093.json,X28689,RNN42,Workington Community Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000093.json,X29318,RDR2V,Bognor Regis War Memorial Hospital,1,SRV0178,Urgent care centre,1,91,364
+page_000093.json,X29318,RDR2V,Bognor Regis War Memorial Hospital,1,SRV0178,Urgent care centre,2,365,47481
+page_000093.json,X2955,RTR18,Redcar Primary Care Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X29932,RJF05,Sir Robert Peel Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000094.json,X29932,RJF05,Sir Robert Peel Hospital,1,SRV0178,Urgent care centre,2,1095,47481
+page_000094.json,X30003,RY567,Johnson Community Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X30004,RY572,County Hospital Louth,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X30005,RY539,Skegness and District General Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X30006,RY568,John Coupland Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X30066,R1D22,Bridgnorth Community Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X30067,R1D21,Ludlow Community Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X30068,R1D34,Whitchurch Community Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X30077,RDYEF,Weymouth Community Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000094.json,X30100,RDYER,Blandford Community Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X3015,RJ817,Camborne Redruth Community Hospital - Cornwall Partnership NHS Foundation Trust,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X3150,NNW12,Navas [The Merlin Vaz Health & Social Care Centre],1,SRV0541,Urgent Treatment Centre,1,0,364
+page_000094.json,X3150,NNW12,Navas [The Merlin Vaz Health & Social Care Centre],1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000094.json,X3232,RGN80,Peterborough City Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000094.json,X325,REF12,Royal Cornwall Hospital (Treliske),1,SRV0001,Accident and emergency services,1,0,47481
+page_000094.json,X3361,RYYCW,"Royal Victoria Hospital, Folkestone",1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X3372,RYYCH,"Victoria Hospital, Deal",1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000094.json,X33854,R1A04,Princess of Wales Community Hospital - Worcestershire Health and Care NHS Trust,1,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X339,RD816,Milton Keynes Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000094.json,X33912,NLT02,North Somerset Community Hospital,1,SRV0178,Urgent care centre,1,365,47481
+page_000094.json,X3398,RYYC3,Queen Victoria Memorial Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000095.json,X34443,RN541,Royal Hampshire County Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000095.json,X34465,RY8DG,Ripley Hospital,2,SRV0541,Urgent Treatment Centre,1,91,394
+page_000095.json,X34465,RY8DG,Ripley Hospital,2,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000095.json,X34468,RY838,Whitworth Hospital,2,SRV0541,Urgent Treatment Centre,1,91,394
+page_000095.json,X34468,RY838,Whitworth Hospital,2,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000095.json,X3464,REMRQ,Royal Liverpool University Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000095.json,X3464,REMRQ,Royal Liverpool University Hospital,2,SRV0178,Urgent care centre,1,0,47481
+page_000095.json,X34868,RCBL8,"Malton, Norton & District Hospital",2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000095.json,X352,RBK02,Manor Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000097.json,X381,RAE01,Bradford Royal Infirmary,1,SRV0001,Accident and emergency services,1,0,47481
+page_000098.json,X392,RBL14,Arrowe Park Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000100.json,X414,RA701,Bristol Royal Infirmary,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000101.json,X427,RDEE2,Clacton and District Hospital,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000102.json,X436,RA7C2,Weston General Hospital,1,SRV0001,Accident and emergency services,1,30,364
+page_000102.json,X436,RA7C2,Weston General Hospital,1,SRV0001,Accident and emergency services,2,365,5843
+page_000102.json,X436,RA7C2,Weston General Hospital,1,SRV0001,Accident and emergency services,3,5844,47481
+page_000102.json,X441,RAJ01,Southend Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000102.json,X441,RAJ01,Southend Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000103.json,X46039,NL809,North Kirklees NHS Walk In Centre,1,SRV0178,Urgent care centre,1,730,47481
+page_000103.json,X46260,RYYD9,Sevenoaks Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000103.json,X46344,R1HKH,Whipps Cross Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000103.json,X46345,R1HM0,St Bartholomew's Hospital,1,SRV0178,Urgent care centre,1,730,47481
+page_000103.json,X46346,R1HNH,Newham Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000103.json,X46458,NDJZZ,Caterham Dene Community Hospital,1,SRV0178,Urgent care centre,1,1826,47481
+page_000103.json,X46604,R1D19,Oswestry Health Centre,1,SRV0178,Urgent care centre,1,365,47481
+page_000104.json,X493,RCX70,The Queen Elizabeth Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000105.json,X498,RALWA,Watford General Hospital,1,SRV0001,Accident and emergency services,1,0,5843
+page_000105.json,X498,RALWA,Watford General Hospital,1,SRV0001,Accident and emergency services,2,5844,47481
+page_000105.json,X505,RBT20,Leighton Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000105.json,X505,RBT20,Leighton Hospital,3,SRV0178,Urgent care centre,1,0,47481
+page_000106.json,X532,RC110,Bedford Hospital South Wing,1,SRV0001,Accident and emergency services,1,0,47481
+page_000106.json,X539,RFFAA,Barnsley Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000108.json,X577,RF4DG,King George Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000108.json,X577,RF4DG,King George Hospital,3,SRV0178,Urgent care centre,1,0,47481
+page_000108.json,X587,RCD01,Harrogate District Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000108.json,X590,RDU01,Frimley Park Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000109.json,X592,RCD6D,The New Selby War Memorial Hospital - Harrogate and District NHS Foundation Trust,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000109.json,X606,REM21,Aintree University Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000110.json,X627,RF4QH,Queen's Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000110.json,X627,RF4QH,Queen's Hospital,3,SRV0178,Urgent care centre,1,0,47481
+page_000110.json,X631,RCB55,The York Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000111.json,X651,RCD02,Ripon and District Community Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000112.json,X676,RAS01,Hillingdon Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000113.json,X694,RA957,Newton Abbot Community Hospital - Torbay and South Devon NHS Foundation Trust,3,SRV0541,Urgent Treatment Centre,1,730,47481
+page_000115.json,X739,RC971,Luton and Dunstable Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000116.json,X77,RBN01,Whiston Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000117.json,X775,RA201,Royal Surrey County Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000117.json,X787,RAL01,Royal Free Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000118.json,X805,RCF22,Airedale General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000119.json,X809,RAX01,Kingston Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000119.json,X826,RD130,"Royal United Hospitals, Bath",1,SRV0001,Accident and emergency services,1,0,47481
+page_000119.json,X826,RD130,"Royal United Hospitals, Bath",3,SRV0541,Urgent Treatment Centre,1,0,6573
+page_000121.json,X857,RHM02,Royal South Hants Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000121.json,X85788,RWX84,St Mark,1,SRV0178,Urgent care centre,1,730,47481
+page_000121.json,X870,RJR05,Countess Of Chester Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000121.json,X876,RWH01,Lister Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000121.json,X882,RNA01,Russells Hall Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000121.json,X882,RNA01,Russells Hall Hospital,3,SRV0541,Urgent Treatment Centre,1,30,394
+page_000121.json,X882,RNA01,Russells Hall Hospital,3,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000121.json,X88840,RDR3L,Horsham Hospital,1,SRV0178,Urgent care centre,1,91,364
+page_000121.json,X88840,RDR3L,Horsham Hospital,1,SRV0178,Urgent care centre,2,365,47481
+page_000121.json,X88902,R1F01,St Mary's Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000121.json,X88937,RXC18,Uckfield Hospital,1,SRV0178,Urgent care centre,1,91,364
+page_000121.json,X88937,RXC18,Uckfield Hospital,1,SRV0178,Urgent care centre,2,365,47481
+page_000121.json,X88955,RW170,Petersfield Hospital - Southern Health NHS Foundation Trust,2,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000121.json,X88964,RXCLV,Lewes Victoria Hospital,1,SRV0541,Urgent Treatment Centre,1,91,364
+page_000121.json,X88964,RXCLV,Lewes Victoria Hospital,1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000121.json,X891,RM317,Royal Oldham Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000121.json,X891,RM317,Royal Oldham Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000121.json,X892,RK5HP,Newark Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000121.json,X896,RVV02,Buckland Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000122.json,X899,RPA17,Sheppey Community Hospital,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000122.json,X90457,RYX02,Soho NHS Walk-in Centre,1,SRV0178,Urgent care centre,1,5844,37254
+page_000122.json,X907,RXN02,Royal Preston Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000122.json,X909,RTR45,Friarage Hospital,2,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000122.json,X910,RM315,Fairfield Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000122.json,X91155,RCBCA,Scarborough Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000123.json,X919,RR807,Wharfedale Hospital,1,SRV0541,Urgent Treatment Centre,1,365,24105
+page_000123.json,X921,RK950,Derriford Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000123.json,X921,RK950,Derriford Hospital,3,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000123.json,X92212,RY922,Teddington Memorial Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000123.json,X92277,RYX23,Finchley NHS Walk-In Centre,1,SRV0178,Urgent care centre,1,1826,47481
+page_000123.json,X929,RMC01,Royal Bolton Hospital,1,SRV0001,Accident and emergency services,1,5844,47481
+page_000123.json,X93192,R1J21,North Cotswold Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000123.json,X93225,NNF94,East Riding Community Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000124.json,X93984,AC008,Rossendale Minor Injuries Unit,1,SRV0178,Urgent care centre,1,0,47481
+page_000124.json,X95103,R1J08,Tewkesbury Community Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000124.json,X95105,R1J07,Vale Community Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000124.json,X95106,R1J13,Stroud General Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000124.json,X95110,R1J06,Cirencester Hospital,2,SRV0178,Urgent care centre,1,365,47481
+page_000124.json,X95191,RK935,South Hams Hospital,1,SRV0178,Urgent care centre,1,730,47481
+page_000124.json,X95205,RY2D3,Leigh Health Centre,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000124.json,X95214,RY8AH,Buxton Hospital,1,SRV0541,Urgent Treatment Centre,1,91,394
+page_000124.json,X95214,RY8AH,Buxton Hospital,1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000124.json,X95228,NQTE1,Coventry Walk In Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000124.json,X95228,NQTE1,Coventry Walk In Centre,1,SRV0541,Urgent Treatment Centre,2,6574,47481
+page_000124.json,X95237,NQTE9,Washwood Heath Urgent Care Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000124.json,X953,RXF05,Pinderfields Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000124.json,X95639,RWX8X,West Berkshire Community Hospital,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000125.json,X95890,NQTE4,Summerfield Urgent Care Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000125.json,X964,RPA29,Sittingbourne Hospital,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000125.json,X965,RTK01,St Peter's Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000125.json,X96535,YDC24,Nottingham NHS Urgent Care Centre,1,SRV0541,Urgent Treatment Centre,1,0,47481
+page_000125.json,X96559,YDCD7,Brighton Station NHS Walk in Centre,1,SRV0178,Urgent care centre,1,1826,47481
+page_000125.json,X96561,YDCE1,Norwich Practices Health Centre (Walk-In Centre),1,SRV0178,Urgent care centre,1,365,47481
+page_000125.json,X96572,YDC40,Urgent Treatment Centre,1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000125.json,X96573,YDC41,Victoria Central Health Centre,1,SRV0178,Urgent care centre,1,365,47481
+page_000125.json,X96582,YDC10,Edgware NHS Walk-In Centre,1,SRV0178,Urgent care centre,1,730,47481
+page_000125.json,X970,RJ122,St Thomas',1,SRV0001,Accident and emergency services,1,0,47481
+page_000125.json,X97022,RBN55,St Helens Walk-In Centre,1,SRV0541,Urgent Treatment Centre,1,60,394
+page_000125.json,X97022,RBN55,St Helens Walk-In Centre,1,SRV0541,Urgent Treatment Centre,2,365,47481
+page_000125.json,X972,RM102,Norfolk and Norwich University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000125.json,X97277,NCNDC,Dmc Community Dermatology Service - Swale CCG (Sheppey Community Hospital),1,SRV0541,Urgent Treatment Centre,1,365,47481
+page_000125.json,X974,RTE03,Gloucestershire Royal Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000126.json,X97839,RJ231,Queen Elizabeth Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000126.json,X97874,RJZ30,Princess Royal University Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000126.json,X988,RJL32,Scunthorpe General Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000126.json,X991,RN506,Basingstoke and North Hampshire Hospital,1,SRV0001,Accident and emergency services,1,0,47481
+page_000126.json,X99174,RNUDM,Witney Community Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000126.json,X99175,RNUDQ,Abingdon Community Hospital,1,SRV0178,Urgent care centre,1,0,47481
+page_000126.json,X99584,RAL26,Barnet Hospital,1,SRV0001,Accident and emergency services,1,0,47481

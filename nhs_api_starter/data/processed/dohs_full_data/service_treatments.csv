@@ -1,0 +1,17 @@
+﻿SourceFile,SearchKey,ODSCode,OrganisationName,ServiceIndex,ServiceCode,ServiceName,TreatmentIndex,Name
+page_000030.json,X109603,RWXJC,Finchampstead Road,1,SRV0228,Musculo-skeletal services,1,
+page_000040.json,X128155,RXV88,Trafford Primary Care Psychological Therapy Service,1,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",1,
+page_000040.json,X128155,RXV88,Trafford Primary Care Psychological Therapy Service,1,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",2,
+page_000040.json,X128155,RXV88,Trafford Primary Care Psychological Therapy Service,1,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",3,
+page_000063.json,X1655,RRK15,Queen Elizabeth Hospital Birmingham,2,DEL0045,Sports and Exercise Medicine,1,Non-Surgical Musculoskeletal
+page_000063.json,X1655,RRK15,Queen Elizabeth Hospital Birmingham,2,DEL0045,Sports and Exercise Medicine,2,Sports Medicine
+page_000063.json,X1655,RRK15,Queen Elizabeth Hospital Birmingham,2,DEL0045,Sports and Exercise Medicine,3,Sports Injury
+page_000063.json,X1655,RRK15,Queen Elizabeth Hospital Birmingham,2,DEL0045,Sports and Exercise Medicine,4,Soft Tissue Injury
+page_000087.json,X1912,RRJ05,Royal Orthopaedic Hospital,1,DEL0045,Sports and Exercise Medicine,1,Soft Tissue Injury
+page_000087.json,X1912,RRJ05,Royal Orthopaedic Hospital,1,DEL0045,Sports and Exercise Medicine,2,Sports Medicine
+page_000087.json,X1912,RRJ05,Royal Orthopaedic Hospital,1,DEL0045,Sports and Exercise Medicine,3,Sports Injury
+page_000087.json,X1912,RRJ05,Royal Orthopaedic Hospital,1,DEL0045,Sports and Exercise Medicine,4,Non-Surgical Musculoskeletal
+page_000087.json,X1912,RRJ05,Royal Orthopaedic Hospital,1,DEL0045,Sports and Exercise Medicine,5,Exercise Medicine
+page_000126.json,X98510,RXVD8,Bolton NHS Talking Therapies for Anxiety and Depression,2,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",1,
+page_000126.json,X98510,RXVD8,Bolton NHS Talking Therapies for Anxiety and Depression,2,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",2,
+page_000126.json,X98510,RXVD8,Bolton NHS Talking Therapies for Anxiety and Depression,2,SRV0339,"NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) ",3,

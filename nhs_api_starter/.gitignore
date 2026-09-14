@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Raw exports and run state can be very large and may contain NHS data.
+data/raw/
+data/export_state/
+data/processed/

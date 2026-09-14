@@ -1,0 +1,15 @@
+{
+  "api": "Directory of Healthcare Services v3",
+  "environment": "integration",
+  "base_url": "https://int.api.service.nhs.uk/service-search-api/",
+  "page_size": 1000,
+  "next_page": 128,
+  "last_search_key": "X99999",
+  "records_saved": 126028,
+  "approximate_total": 126028,
+  "requests_started": 127,
+  "complete": true,
+  "created_at_utc": "2026-09-08T20:56:44.379202+00:00",
+  "updated_at_utc": "2026-09-08T20:59:59.698473+00:00",
+  "completed_at_utc": "2026-09-08T20:59:59.698473+00:00"
+}

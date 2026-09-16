@@ -1,0 +1,657 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:30.090969+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Pelvic pain",
+      "url": "https://www.nhs.uk/symptoms/pelvic-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Pelvic pain",
+  "meta_description": "Find out about common causes of pelvic pain in adults, how you can ease pelvic pain and when you should get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "24 November 2025",
+    "next_review_due": "24 November 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about common causes of pelvic pain in adults, how you can ease pelvic pain and when you should get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/pelvic-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nPelvic pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about common causes of pelvic pain in adults, how you can ease pelvic pain and when you should get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "28 Nov 2025, 10:28 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 2:16 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Pelvic pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/pelvic-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Pelvic pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-11-28T10:28:54+00:00",
+      "description": "Find out about common causes of pelvic pain in adults, how you can ease pelvic pain and when you should get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pelvic pain is felt in your lower tummy. The pain can vary from sharp and stabbing to dull or throbbing.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Pelvic pain varies. It may affect a small area around your pelvis (your lower tummy), your lower back or the whole area.</p><p>Types of pelvic pain include:</p><ul><li>a sharp, stabbing or burning pain that happens suddenly</li><li>a pain that comes on slowly but does not go away</li><li>a dull or heavy ache, or feeling of pressure</li><li>a twisted or knotted feeling</li><li>a cramping or throbbing pain, which may come and go</li><li>pain only when you're doing something, like exercising, having sex or peeing</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of pelvic pain",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Many things can cause pelvic pain, like periods, urinary tract infections or constipation. Less often, it can be something serious like appendicitis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Pelvic pain can be caused by many things. It might be caused by an infection, or a condition that affects organs in the pelvic area such as the bowel or bladder.</p><p>Getting diagnosed may take some time. The symptoms of pelvic pain are very similar to other common conditions. It's important to share as much information with your doctor as possible.</p><p>Pelvic pain can affect anyone. Common causes of pelvic pain include:</p><ul><li><a href=\"/conditions/constipation/\">constipation</a> or <a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome</a></li><li><a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a></li><li><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a></li></ul><p>Some causes of pelvic pain can be serious and need urgent treatment. This includes conditions such as <a href=\"/conditions/appendicitis/\">appendicitis</a> and <a href=\"/conditions/peritonitis/\">peritonitis</a> that require surgery.</p><p>Do not self-diagnose. See a GP if you're worried about pelvic pain.</p><h3>Pelvic pain in women</h3><p>Pelvic pain is more common in women and common causes include:</p><ul><li><a href=\"/symptoms/period-pain/\">period pain</a></li><li>conditions affecting female reproductive organs, such as an <a href=\"/conditions/ovarian-cyst/\">ovarian cyst</a> or <a href=\"/conditions/endometriosis/\">endometriosis</a></li><li><a href=\"/pregnancy/common-symptoms/pelvic-pain/\">pelvic pain in pregnancy</a></li></ul><p>Rarely it could be something more serious, such as an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a>, <a href=\"/conditions/womb-cancer/\">womb cancer</a>, <a href=\"/conditions/ovarian-cancer/\">ovarian cancer</a> or <a href=\"https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>.</p><h3>Pelvic pain in men</h3><p>Pelvic pain can sometimes be caused by an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a>, or conditions affecting the testicles or prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a>.</p>"
+            }
+          ],
+          "headline": "Common causes of pelvic pain",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have pelvic pain that comes and goes or does not go away\n </li>\n<li>\n  you have bloating that comes and goes or does not go away\n </li>\n<li>\n  you're losing weight without trying to\n </li>\n<li>\n  you feel full quickly or have no appetite\n </li>\n<li>\n  you have constipation or diarrhoea that does not go away\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You have pelvic pain and:\n</p>\n<ul>\n<li>\n  you find it difficult to pee or poo\n </li>\n<li>\n  there's blood in your pee or poo\n </li>\n<li>\n  you have unusual discharge, fluid or bleeding from your vagina\n </li>\n<li>\n  you have pain when peeing or need to pee more than usual\n </li>\n<li>\n  you have a very high temperature (or you feel hot, cold or shivery)\n </li>\n<li>\n  you have vomiting and diarrhoea, or you feel sick\n </li>\n<li>\n  you are pregnant or may be pregnant\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n<p>\n If you are 20 weeks pregnant or more, contact your midwife or maternity unit.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if:",
+              "identifier": "immediate",
+              "text": "<p>\n You have pelvic pain and:\n</p>\n<ul>\n<li>\n  it's severe, getting worse, or hurts when you move or touch the area\n </li>\n<li>\n  you feel faint, dizzy or lightheaded, or pass out\n </li>\n<li>\n  you have pain in the tip of your shoulder\n </li>\n<li>\n  you have difficulty breathing\n </li>\n<li>\n  you have heavy bleeding from your vagina\n </li>\n<li>\n  you suddenly feel confused\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for pelvic pain depends on what's causing it. A GP may suggest antibiotics or painkillers, or refer you to a specialist for tests.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Any treatment for pelvic pain will depend on the cause.</p><p>A GP might suggest treatments such as:</p><ul><li><a href=\"/medicines/antibiotics/\">antibiotics</a></li><li>painkillers</li><li><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a>, such as exercises for the pelvic floor muscles</li><li>hormone treatments</li></ul><p>They may refer you for tests or to a specialist if they do not know what is causing your pain.</p>"
+            }
+          ],
+          "headline": "Treatments for pelvic pain",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pelvic pain is common. There are things you can do to ease the pain but get medical help if the pain is severe or does not get better.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Pelvic pain",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Pelvic pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Pelvic pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Pelvic pain is felt in your lower tummy. The pain can vary from sharp and stabbing to dull or throbbing.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Many things can cause pelvic pain, like periods, urinary tract infections or constipation. Less often, it can be something serious like appendicitis.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for pelvic pain depends on what's causing it. A GP may suggest antibiotics or painkillers, or refer you to a specialist for tests.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-11-24T03:00:00+00:00",
+        "2028-11-24T04:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Pelvic pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Pelvic pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/pelvic-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of pelvic pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of pelvic pain"
+        }
+      ],
+      "text": "Symptoms of pelvic pain\nPelvic pain varies. It may affect a small area around your pelvis (your lower tummy), your lower back or the whole area.\nTypes of pelvic pain include:\na sharp, stabbing or burning pain that happens suddenly\na pain that comes on slowly but does not go away\na dull or heavy ache, or feeling of pressure\na twisted or knotted feeling\na cramping or throbbing pain, which may come and go\npain only when you're doing something, like exercising, having sex or peeing",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a sharp, stabbing or burning pain that happens suddenly",
+            "a pain that comes on slowly but does not go away",
+            "a dull or heavy ache, or feeling of pressure",
+            "a twisted or knotted feeling",
+            "a cramping or throbbing pain, which may come and go",
+            "pain only when you're doing something, like exercising, having sex or peeing"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of pelvic pain</h2>\n<p data-block-key=\"6g7dy\">Pelvic pain varies. It may affect a small area around your pelvis (your lower tummy), your lower back or the whole area.</p><p data-block-key=\"1f5gr\">Types of pelvic pain include:</p><ul><li data-block-key=\"o98\">a sharp, stabbing or burning pain that happens suddenly</li><li data-block-key=\"bnkpj\">a pain that comes on slowly but does not go away</li><li data-block-key=\"a1l38\">a dull or heavy ache, or feeling of pressure</li><li data-block-key=\"cbq0p\">a twisted or knotted feeling</li><li data-block-key=\"5nkh8\">a cramping or throbbing pain, which may come and go</li><li data-block-key=\"5m23d\">pain only when you're doing something, like exercising, having sex or peeing</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Common causes of pelvic pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of pelvic pain"
+        },
+        {
+          "level": "h3",
+          "text": "Pelvic pain in women"
+        },
+        {
+          "level": "h3",
+          "text": "Pelvic pain in men"
+        }
+      ],
+      "text": "Common causes of pelvic pain\nPelvic pain can be caused by many things. It might be caused by an infection, or a condition that affects organs in the pelvic area such as the bowel or bladder.\nGetting diagnosed may take some time. The symptoms of pelvic pain are very similar to other common conditions. It's important to share as much information with your doctor as possible.\nPelvic pain can affect anyone. Common causes of pelvic pain include:\nconstipation\nor\nirritable bowel syndrome\nurinary tract infections (UTIs)\nsexually transmitted infections (STIs)\nSome causes of pelvic pain can be serious and need urgent treatment. This includes conditions such as\nappendicitis\nand\nperitonitis\nthat require surgery.\nDo not self-diagnose. See a GP if you're worried about pelvic pain.\nPelvic pain in women\nPelvic pain is more common in women and common causes include:\nperiod pain\nconditions affecting female reproductive organs, such as an\novarian cyst\nor\nendometriosis\npelvic pain in pregnancy\nRarely it could be something more serious, such as an\nectopic pregnancy\n,\nwomb cancer\n,\novarian cancer\nor\npelvic inflammatory disease\n.\nPelvic pain in men\nPelvic pain can sometimes be caused by an\ninguinal hernia\n, or conditions affecting the testicles or prostate, such as\nprostatitis\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "constipation\nor\nirritable bowel syndrome",
+            "urinary tract infections (UTIs)",
+            "sexually transmitted infections (STIs)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "period pain",
+            "conditions affecting female reproductive organs, such as an\novarian cyst\nor\nendometriosis",
+            "pelvic pain in pregnancy"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "constipation",
+          "url": "https://www.nhs.uk/conditions/constipation/"
+        },
+        {
+          "text": "irritable bowel syndrome",
+          "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+        },
+        {
+          "text": "urinary tract infections (UTIs)",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        },
+        {
+          "text": "sexually transmitted infections (STIs)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "appendicitis",
+          "url": "https://www.nhs.uk/conditions/appendicitis/"
+        },
+        {
+          "text": "peritonitis",
+          "url": "https://www.nhs.uk/conditions/peritonitis/"
+        },
+        {
+          "text": "period pain",
+          "url": "https://www.nhs.uk/symptoms/period-pain/"
+        },
+        {
+          "text": "ovarian cyst",
+          "url": "https://www.nhs.uk/conditions/ovarian-cyst/"
+        },
+        {
+          "text": "endometriosis",
+          "url": "https://www.nhs.uk/conditions/endometriosis/"
+        },
+        {
+          "text": "pelvic pain in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/pelvic-pain/"
+        },
+        {
+          "text": "ectopic pregnancy",
+          "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+        },
+        {
+          "text": "womb cancer",
+          "url": "https://www.nhs.uk/conditions/womb-cancer/"
+        },
+        {
+          "text": "ovarian cancer",
+          "url": "https://www.nhs.uk/conditions/ovarian-cancer/"
+        },
+        {
+          "text": "pelvic inflammatory disease",
+          "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+        },
+        {
+          "text": "inguinal hernia",
+          "url": "https://www.nhs.uk/tests-and-treatments/inguinal-hernia-repair/"
+        },
+        {
+          "text": "prostatitis",
+          "url": "https://www.nhs.uk/conditions/prostatitis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of pelvic pain</h2>\n<p data-block-key=\"ush4g\">Pelvic pain can be caused by many things. It might be caused by an infection, or a condition that affects organs in the pelvic area such as the bowel or bladder.</p><p data-block-key=\"egguo\">Getting diagnosed may take some time. The symptoms of pelvic pain are very similar to other common conditions. It's important to share as much information with your doctor as possible.</p><p data-block-key=\"5t8fv\">Pelvic pain can affect anyone. Common causes of pelvic pain include:</p><ul><li data-block-key=\"4aqcq\"><a href=\"/conditions/constipation/\">constipation</a> or <a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome</a></li><li data-block-key=\"c5pvi\"><a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a></li><li data-block-key=\"623j5\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a></li></ul><p data-block-key=\"ea477\">Some causes of pelvic pain can be serious and need urgent treatment. This includes conditions such as <a href=\"/conditions/appendicitis/\">appendicitis</a> and <a href=\"/conditions/peritonitis/\">peritonitis</a> that require surgery.</p><p data-block-key=\"4sph8\">Do not self-diagnose. See a GP if you're worried about pelvic pain.</p><h3 data-block-key=\"fhqrq\">Pelvic pain in women</h3><p data-block-key=\"5aili\">Pelvic pain is more common in women and common causes include:</p><ul><li data-block-key=\"dkdpi\"><a href=\"/symptoms/period-pain/\">period pain</a></li><li data-block-key=\"doukh\">conditions affecting female reproductive organs, such as an <a href=\"/conditions/ovarian-cyst/\">ovarian cyst</a> or <a href=\"/conditions/endometriosis/\">endometriosis</a></li><li data-block-key=\"5oasm\"><a href=\"/pregnancy/common-symptoms/pelvic-pain/\">pelvic pain in pregnancy</a></li></ul><p data-block-key=\"2bnd8\">Rarely it could be something more serious, such as an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a>, <a href=\"/conditions/womb-cancer/\">womb cancer</a>, <a href=\"/conditions/ovarian-cancer/\">ovarian cancer</a> or <a href=\"https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>.</p><h3 data-block-key=\"2uk5o\">Pelvic pain in men</h3><p data-block-key=\"fopan\">Pelvic pain can sometimes be caused by an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a>, or conditions affecting the testicles or prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have pelvic pain that comes and goes or does not go away\nyou have bloating that comes and goes or does not go away\nyou're losing weight without trying to\nyou feel full quickly or have no appetite\nyou have constipation or diarrhoea that does not go away",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have pelvic pain that comes and goes or does not go away",
+            "you have bloating that comes and goes or does not go away",
+            "you're losing weight without trying to",
+            "you feel full quickly or have no appetite",
+            "you have constipation or diarrhoea that does not go away"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"qzced\">you have pelvic pain that comes and goes or does not go away</li><li data-block-key=\"7mn44\">you have bloating that comes and goes or does not go away</li><li data-block-key=\"eivhi\">you're losing weight without trying to</li><li data-block-key=\"7ufvr\">you feel full quickly or have no appetite</li><li data-block-key=\"3o2j9\">you have constipation or diarrhoea that does not go away</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Get help from NHS 111 if:"
+        },
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if:"
+        }
+      ],
+      "text": "Urgent advice:\nGet help from NHS 111 if:\nYou have pelvic pain and:\nyou find it difficult to pee or poo\nthere's blood in your pee or poo\nyou have unusual discharge, fluid or bleeding from your vagina\nyou have pain when peeing or need to pee more than usual\nyou have a very high temperature (or you feel hot, cold or shivery)\nyou have vomiting and diarrhoea, or you feel sick\nyou are pregnant or may be pregnant\nYou can call 111 or\nget help from 111 online\n.\nIf you are 20 weeks pregnant or more, contact your midwife or maternity unit.\nImmediate action required:\nCall 999 or go to A&E if:\nYou have pelvic pain and:\nit's severe, getting worse, or hurts when you move or touch the area\nyou feel faint, dizzy or lightheaded, or pass out\nyou have pain in the tip of your shoulder\nyou have difficulty breathing\nyou have heavy bleeding from your vagina\nyou suddenly feel confused\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you find it difficult to pee or poo",
+            "there's blood in your pee or poo",
+            "you have unusual discharge, fluid or bleeding from your vagina",
+            "you have pain when peeing or need to pee more than usual",
+            "you have a very high temperature (or you feel hot, cold or shivery)",
+            "you have vomiting and diarrhoea, or you feel sick",
+            "you are pregnant or may be pregnant"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "it's severe, getting worse, or hurts when you move or touch the area",
+            "you feel faint, dizzy or lightheaded, or pass out",
+            "you have pain in the tip of your shoulder",
+            "you have difficulty breathing",
+            "you have heavy bleeding from your vagina",
+            "you suddenly feel confused"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"qzced\">You have pelvic pain and:</p><ul><li data-block-key=\"9bji3\">you find it difficult to pee or poo</li><li data-block-key=\"fvq3b\">there's blood in your pee or poo</li><li data-block-key=\"cvlqk\">you have unusual discharge, fluid or bleeding from your vagina</li><li data-block-key=\"5sm1s\">you have pain when peeing or need to pee more than usual</li><li data-block-key=\"39ven\">you have a very high temperature (or you feel hot, cold or shivery)</li><li data-block-key=\"9e9lh\">you have vomiting and diarrhoea, or you feel sick</li><li data-block-key=\"41b2d\">you are pregnant or may be pregnant</li></ul><p data-block-key=\"8k6po\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p><p data-block-key=\"41faa\">If you are 20 weeks pregnant or more, contact your midwife or maternity unit.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"mq593\">You have pelvic pain and:</p><ul><li data-block-key=\"5m8kl\">it's severe, getting worse, or hurts when you move or touch the area</li><li data-block-key=\"e97o2\">you feel faint, dizzy or lightheaded, or pass out</li><li data-block-key=\"9q41s\">you have pain in the tip of your shoulder</li><li data-block-key=\"665m0\">you have difficulty breathing</li><li data-block-key=\"935nk\">you have heavy bleeding from your vagina</li><li data-block-key=\"fomi2\">you suddenly feel confused</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments for pelvic pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for pelvic pain"
+        }
+      ],
+      "text": "Treatments for pelvic pain\nAny treatment for pelvic pain will depend on the cause.\nA GP might suggest treatments such as:\nantibiotics\npainkillers\nphysiotherapy\n, such as exercises for the pelvic floor muscles\nhormone treatments\nThey may refer you for tests or to a specialist if they do not know what is causing your pain.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "antibiotics",
+            "painkillers",
+            "physiotherapy\n, such as exercises for the pelvic floor muscles",
+            "hormone treatments"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "antibiotics",
+          "url": "https://www.nhs.uk/medicines/antibiotics/"
+        },
+        {
+          "text": "physiotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for pelvic pain</h2>\n<p data-block-key=\"6g7dy\">Any treatment for pelvic pain will depend on the cause.</p><p data-block-key=\"5ajov\">A GP might suggest treatments such as:</p><ul><li data-block-key=\"dosb5\"><a href=\"/medicines/antibiotics/\">antibiotics</a></li><li data-block-key=\"6mn3o\">painkillers</li><li data-block-key=\"c18rg\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a>, such as exercises for the pelvic floor muscles</li><li data-block-key=\"4vh79\">hormone treatments</li></ul><p data-block-key=\"bnp30\">They may refer you for tests or to a specialist if they do not know what is causing your pain.</p>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of pelvic pain\nPelvic pain varies. It may affect a small area around your pelvis (your lower tummy), your lower back or the whole area.\nTypes of pelvic pain include:\na sharp, stabbing or burning pain that happens suddenly\na pain that comes on slowly but does not go away\na dull or heavy ache, or feeling of pressure\na twisted or knotted feeling\na cramping or throbbing pain, which may come and go\npain only when you're doing something, like exercising, having sex or peeing\nCommon causes of pelvic pain\nPelvic pain can be caused by many things. It might be caused by an infection, or a condition that affects organs in the pelvic area such as the bowel or bladder.\nGetting diagnosed may take some time. The symptoms of pelvic pain are very similar to other common conditions. It's important to share as much information with your doctor as possible.\nPelvic pain can affect anyone. Common causes of pelvic pain include:\nconstipation\nor\nirritable bowel syndrome\nurinary tract infections (UTIs)\nsexually transmitted infections (STIs)\nSome causes of pelvic pain can be serious and need urgent treatment. This includes conditions such as\nappendicitis\nand\nperitonitis\nthat require surgery.\nDo not self-diagnose. See a GP if you're worried about pelvic pain.\nPelvic pain in women\nPelvic pain is more common in women and common causes include:\nperiod pain\nconditions affecting female reproductive organs, such as an\novarian cyst\nor\nendometriosis\npelvic pain in pregnancy\nRarely it could be something more serious, such as an\nectopic pregnancy\n,\nwomb cancer\n,\novarian cancer\nor\npelvic inflammatory disease\n.\nPelvic pain in men\nPelvic pain can sometimes be caused by an\ninguinal hernia\n, or conditions affecting the testicles or prostate, such as\nprostatitis\n.\nNon-urgent advice:\nSee a GP if:\nyou have pelvic pain that comes and goes or does not go away\nyou have bloating that comes and goes or does not go away\nyou're losing weight without trying to\nyou feel full quickly or have no appetite\nyou have constipation or diarrhoea that does not go away\nUrgent advice:\nGet help from NHS 111 if:\nYou have pelvic pain and:\nyou find it difficult to pee or poo\nthere's blood in your pee or poo\nyou have unusual discharge, fluid or bleeding from your vagina\nyou have pain when peeing or need to pee more than usual\nyou have a very high temperature (or you feel hot, cold or shivery)\nyou have vomiting and diarrhoea, or you feel sick\nyou are pregnant or may be pregnant\nYou can call 111 or\nget help from 111 online\n.\nIf you are 20 weeks pregnant or more, contact your midwife or maternity unit.\nImmediate action required:\nCall 999 or go to A&E if:\nYou have pelvic pain and:\nit's severe, getting worse, or hurts when you move or touch the area\nyou feel faint, dizzy or lightheaded, or pass out\nyou have pain in the tip of your shoulder\nyou have difficulty breathing\nyou have heavy bleeding from your vagina\nyou suddenly feel confused\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nTreatments for pelvic pain\nAny treatment for pelvic pain will depend on the cause.\nA GP might suggest treatments such as:\nantibiotics\npainkillers\nphysiotherapy\n, such as exercises for the pelvic floor muscles\nhormone treatments\nThey may refer you for tests or to a specialist if they do not know what is causing your pain.\nPage last reviewed: 24 November 2025\nNext review due: 24 November 2028",
+  "links": [
+    {
+      "text": "constipation",
+      "url": "https://www.nhs.uk/conditions/constipation/"
+    },
+    {
+      "text": "irritable bowel syndrome",
+      "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+    },
+    {
+      "text": "urinary tract infections (UTIs)",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+    },
+    {
+      "text": "sexually transmitted infections (STIs)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "appendicitis",
+      "url": "https://www.nhs.uk/conditions/appendicitis/"
+    },
+    {
+      "text": "peritonitis",
+      "url": "https://www.nhs.uk/conditions/peritonitis/"
+    },
+    {
+      "text": "period pain",
+      "url": "https://www.nhs.uk/symptoms/period-pain/"
+    },
+    {
+      "text": "ovarian cyst",
+      "url": "https://www.nhs.uk/conditions/ovarian-cyst/"
+    },
+    {
+      "text": "endometriosis",
+      "url": "https://www.nhs.uk/conditions/endometriosis/"
+    },
+    {
+      "text": "pelvic pain in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/pelvic-pain/"
+    },
+    {
+      "text": "ectopic pregnancy",
+      "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+    },
+    {
+      "text": "womb cancer",
+      "url": "https://www.nhs.uk/conditions/womb-cancer/"
+    },
+    {
+      "text": "ovarian cancer",
+      "url": "https://www.nhs.uk/conditions/ovarian-cancer/"
+    },
+    {
+      "text": "pelvic inflammatory disease",
+      "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+    },
+    {
+      "text": "inguinal hernia",
+      "url": "https://www.nhs.uk/tests-and-treatments/inguinal-hernia-repair/"
+    },
+    {
+      "text": "prostatitis",
+      "url": "https://www.nhs.uk/conditions/prostatitis/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "antibiotics",
+      "url": "https://www.nhs.uk/medicines/antibiotics/"
+    },
+    {
+      "text": "physiotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of pelvic pain</h2>\n<p data-block-key=\"6g7dy\">Pelvic pain varies. It may affect a small area around your pelvis (your lower tummy), your lower back or the whole area.</p><p data-block-key=\"1f5gr\">Types of pelvic pain include:</p><ul><li data-block-key=\"o98\">a sharp, stabbing or burning pain that happens suddenly</li><li data-block-key=\"bnkpj\">a pain that comes on slowly but does not go away</li><li data-block-key=\"a1l38\">a dull or heavy ache, or feeling of pressure</li><li data-block-key=\"cbq0p\">a twisted or knotted feeling</li><li data-block-key=\"5nkh8\">a cramping or throbbing pain, which may come and go</li><li data-block-key=\"5m23d\">pain only when you're doing something, like exercising, having sex or peeing</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of pelvic pain</h2>\n<p data-block-key=\"ush4g\">Pelvic pain can be caused by many things. It might be caused by an infection, or a condition that affects organs in the pelvic area such as the bowel or bladder.</p><p data-block-key=\"egguo\">Getting diagnosed may take some time. The symptoms of pelvic pain are very similar to other common conditions. It's important to share as much information with your doctor as possible.</p><p data-block-key=\"5t8fv\">Pelvic pain can affect anyone. Common causes of pelvic pain include:</p><ul><li data-block-key=\"4aqcq\"><a href=\"/conditions/constipation/\">constipation</a> or <a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome</a></li><li data-block-key=\"c5pvi\"><a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a></li><li data-block-key=\"623j5\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a></li></ul><p data-block-key=\"ea477\">Some causes of pelvic pain can be serious and need urgent treatment. This includes conditions such as <a href=\"/conditions/appendicitis/\">appendicitis</a> and <a href=\"/conditions/peritonitis/\">peritonitis</a> that require surgery.</p><p data-block-key=\"4sph8\">Do not self-diagnose. See a GP if you're worried about pelvic pain.</p><h3 data-block-key=\"fhqrq\">Pelvic pain in women</h3><p data-block-key=\"5aili\">Pelvic pain is more common in women and common causes include:</p><ul><li data-block-key=\"dkdpi\"><a href=\"/symptoms/period-pain/\">period pain</a></li><li data-block-key=\"doukh\">conditions affecting female reproductive organs, such as an <a href=\"/conditions/ovarian-cyst/\">ovarian cyst</a> or <a href=\"/conditions/endometriosis/\">endometriosis</a></li><li data-block-key=\"5oasm\"><a href=\"/pregnancy/common-symptoms/pelvic-pain/\">pelvic pain in pregnancy</a></li></ul><p data-block-key=\"2bnd8\">Rarely it could be something more serious, such as an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a>, <a href=\"/conditions/womb-cancer/\">womb cancer</a>, <a href=\"/conditions/ovarian-cancer/\">ovarian cancer</a> or <a href=\"https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>.</p><h3 data-block-key=\"2uk5o\">Pelvic pain in men</h3><p data-block-key=\"fopan\">Pelvic pain can sometimes be caused by an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a>, or conditions affecting the testicles or prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"qzced\">you have pelvic pain that comes and goes or does not go away</li><li data-block-key=\"7mn44\">you have bloating that comes and goes or does not go away</li><li data-block-key=\"eivhi\">you're losing weight without trying to</li><li data-block-key=\"7ufvr\">you feel full quickly or have no appetite</li><li data-block-key=\"3o2j9\">you have constipation or diarrhoea that does not go away</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"qzced\">You have pelvic pain and:</p><ul><li data-block-key=\"9bji3\">you find it difficult to pee or poo</li><li data-block-key=\"fvq3b\">there's blood in your pee or poo</li><li data-block-key=\"cvlqk\">you have unusual discharge, fluid or bleeding from your vagina</li><li data-block-key=\"5sm1s\">you have pain when peeing or need to pee more than usual</li><li data-block-key=\"39ven\">you have a very high temperature (or you feel hot, cold or shivery)</li><li data-block-key=\"9e9lh\">you have vomiting and diarrhoea, or you feel sick</li><li data-block-key=\"41b2d\">you are pregnant or may be pregnant</li></ul><p data-block-key=\"8k6po\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p><p data-block-key=\"41faa\">If you are 20 weeks pregnant or more, contact your midwife or maternity unit.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"mq593\">You have pelvic pain and:</p><ul><li data-block-key=\"5m8kl\">it's severe, getting worse, or hurts when you move or touch the area</li><li data-block-key=\"e97o2\">you feel faint, dizzy or lightheaded, or pass out</li><li data-block-key=\"9q41s\">you have pain in the tip of your shoulder</li><li data-block-key=\"665m0\">you have difficulty breathing</li><li data-block-key=\"935nk\">you have heavy bleeding from your vagina</li><li data-block-key=\"fomi2\">you suddenly feel confused</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for pelvic pain</h2>\n<p data-block-key=\"6g7dy\">Any treatment for pelvic pain will depend on the cause.</p><p data-block-key=\"5ajov\">A GP might suggest treatments such as:</p><ul><li data-block-key=\"dosb5\"><a href=\"/medicines/antibiotics/\">antibiotics</a></li><li data-block-key=\"6mn3o\">painkillers</li><li data-block-key=\"c18rg\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a>, such as exercises for the pelvic floor muscles</li><li data-block-key=\"4vh79\">hormone treatments</li></ul><p data-block-key=\"bnp30\">They may refer you for tests or to a specialist if they do not know what is causing your pain.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 24 November 2025<br/>\n    Next review due: 24 November 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,800 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:42.087972+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Anxiety, fear and panic",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Anxiety, fear and panic",
+  "meta_description": "NHS information and advice about what to do if you find it hard to cope with anxiety, fear or panic.",
+  "review_dates": {
+    "page_last_reviewed": "13 July 2026",
+    "next_review_due": "13 July 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information and advice about what to do if you find it hard to cope with anxiety, fear or panic."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Get help with anxiety, fear or panic"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information and advice about what to do if you find it hard to cope with anxiety, fear or panic."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "14 Jul 2026, 1:14 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "2 Feb 2021, 4:01 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Anxiety, fear and panic"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Anxiety, fear and panic"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-14T12:14:43+00:00",
+      "description": "NHS information and advice about what to do if you find it hard to cope with anxiety, fear or panic.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most people feel anxious or scared sometimes, but if it's affecting your life there are things you can try that may help.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Anxiety, fear and panic",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anxiety, fear and panic",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anxiety, fear and panic",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anxiety, fear and panic",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Anxiety can cause physical symptoms like a fast heartbeat and dizziness and mental symptoms like feeling tense or nervous and not being able to relax.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things that can help with anxiety include talking to others, taking regular exercise and using relaxation techniques like meditation.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You may need medical help if you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are many different causes of anxiety, fear or panic. Sometimes these emotions are caused by a condition such as generalised anxiety disorder.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Anxiety can cause physical symptoms like a fast heartbeat and dizziness and mental symptoms like feeling tense or nervous and not being able to relax.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Anxiety can cause many different symptoms. It might affect how you feel physically, mentally and how you behave.</p><p>It's not always easy to recognise when anxiety is the reason you're feeling or acting differently.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<listvalue: 'body':=\"\" 'physical=\"\" 0x74903a475cd0=\"\" <streamvalue=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" [structvalue({'title':=\"\" at=\"\" object=\"\" richtext:=\"\" symptoms',=\"\">&gt;]&gt;}), StructValue({'title': 'Mental symptoms', 'body': <streamvalue 0x74903a3cbad0=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" at=\"\" object=\"\" richtext:=\"\">&gt;]&gt;}), StructValue({'title': 'Changes in behaviour', 'body': <streamvalue 0x74903ac25670=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" at=\"\" object=\"\" richtext:=\"\">&gt;]&gt;})]&gt;</streamvalue></streamvalue></listvalue:>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Symptoms of a panic attack",
+              "text": "<p>If you experience sudden, intense anxiety and fear, it might be the symptoms of a panic attack. Other symptoms may include:</p><ul><li>a racing heartbeat</li><li>feeling faint, dizzy or light-headed</li><li>feeling that you're losing control</li><li>sweating, trembling or shaking</li><li>shortness of breath or breathing very quickly</li><li>a tingling in your fingers or lips</li><li>feeling sick (nausea)</li></ul><p>A panic attack usually lasts 5 to 20 minutes. They can be frightening, but they're not dangerous and should not harm you.</p>"
+            }
+          ],
+          "headline": "Symptoms of anxiety",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that can help with anxiety include talking to others, taking regular exercise and using relaxation techniques like meditation.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try talking about your feelings to a friend, family member, health professional or counsellor</p></li><li><p>regular exercise such as running, walking, swimming and yoga – this can help you relax</p></li><li><p>eat a healthy diet with regular meals to keep your energy levels stable</p></li><li><p>use calming breathing exercises or try mediation</p></li><li><p>listen to <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">free mental wellbeing audio guides</a></p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets that you can easily achieve</p></li><li><p>do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p></li><li><p>do not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety</p></li><li><p>try not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to help with anxiety, fear and panic",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may find it helpful to get support from other people affected by anxiety, either at a local support group or online.",
+          "hasHealthAspect": "http://schema.org/LivingWithHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Learning more about anxiety, fear and panic can be useful as it may help you better manage your feelings. You may also find it helpful to get support from other people with similar experiences.</p><h3>Mind</h3><p>Information and support for anyone concerned about their mental health.</p><ul><li>Website: <a href=\"https://www.mind.org.uk/\">www.mind.org.uk</a></li><li><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/how-to-manage-anxiety-and-worry/\">How to manage anxiety and worry (Mind)</a></li><li><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/\">Panic attacks (Mind)</a></li><li><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group (Mind)</a></li></ul><h3>Samaritans</h3><p>You can contact <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Samaritans</a> by <a href=\"Tel: 116 123\">calling 116 123</a> if you need someone to talk to at any time, day or night.</p><h3>Every Mind Matters</h3><p>Every Mind Matters is a NHS online service that can give you practical advice on how to reduce your anxiety, manage stress and worry, and boost your mental wellbeing.</p><ul><li>Website: <a href=\"https://www.nhs.uk/every-mind-matters\">www.nhs.uk/every-mind-matters</a></li><li><a href=\"https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/\">Managing anxiety (Every Mind Matters)</a></li><li><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/\">Self-help CBT techniques (Every Mind Matters)</a></li></ul>"
+            }
+          ],
+          "headline": "Help and support for anxiety, fear and panic",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#support"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may need medical help if you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping, then you may need medical help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're struggling to cope with anxiety, fear or panic\n </li>\n<li>\n  things you're trying yourself are not helping\n </li>\n<li>\n  you would prefer to get a referral to an NHS talking therapies service from a GP\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Other ways to get help",
+              "text": "<p>If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find NHS talking therapies for anxiety and depression",
+                "target": "/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+              }
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many different causes of anxiety, fear or panic. Sometimes these emotions are caused by a condition such as generalised anxiety disorder.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are many different causes of anxiety, fear or panic and it's different for everyone.</p><p>When you're feeling anxious or scared, your body releases stress hormones, such as adrenaline and cortisol.</p><p>This can be helpful in some situations, but it might also cause physical symptoms such as an increased heart rate and increased sweating. In some people, it might cause a panic attack.</p><p>Regular anxiety, fear or panic can also be the main symptom of several health conditions. Do not self-diagnose – speak to a GP if you're worried about how you're feeling.</p><h3>Identifying the cause</h3><p>If you know what's causing anxiety, fear or panic, it might be easier to find ways to manage it.</p><p>Some examples of possible causes include:</p><ul><li>work – feeling pressure at work, unemployment or retirement</li><li>family – relationship difficulties, divorce or <a href=\"/social-care-and-support/support-and-benefits-for-carers/\">caring for someone</a></li><li>financial problems – unexpected bills or borrowing money</li><li>health – illness, injury or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">losing someone (bereavement)</a></li><li>difficult past experiences – bullying, abuse or neglect</li></ul><p>Even significant life events such as buying a house, having a baby or planning a wedding could lead to feelings of stress and anxiety.</p><p>You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p>"
+            }
+          ],
+          "headline": "Causes of anxiety, fear and panic",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/#causes"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-07-13T13:01:00+00:00",
+        "2029-07-13T13:01:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Anxiety, fear and panic",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Important: Get urgent help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Important: Get urgent help"
+        }
+      ],
+      "text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out where to get urgent help for mental health",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h2>\n<p data-block-key=\"qgy60\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"9vpgb\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of anxiety",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of anxiety"
+        },
+        {
+          "level": "h3",
+          "text": "Symptoms of a panic attack"
+        }
+      ],
+      "text": "Symptoms of anxiety\nAnxiety can cause many different symptoms. It might affect how you feel physically, mentally and how you behave.\nIt's not always easy to recognise when anxiety is the reason you're feeling or acting differently.\nPhysical symptoms\nfaster, irregular or more noticeable heartbeat\nfeeling light-headed and dizzy\nheadaches\nchest pains\nloss of appetite\nindigestion, stomach cramps, bloating and feeling sick (nausea)\nconstipation or diarrhoea\nsweating\nbreathlessness\nfeeling hot\nshaking\nMental symptoms\nfeeling tense or nervous\nbeing unable to relax\nworrying about the past or future\nfeeling tearful\nnot being able to sleep\ndifficulty concentrating\nfear of the worst happening\nintrusive traumatic memories\nobsessive thoughts\nChanges in behaviour\nnot being able to enjoy your leisure time\ndifficulty looking after yourself\nstruggling to form or maintain relationships\nworried about trying new things\navoiding places and situations that create anxiety\ncompulsive behaviour, such as constantly checking things\nSymptoms of a panic attack\nIf you experience sudden, intense anxiety and fear, it might be the symptoms of a panic attack. Other symptoms may include:\na racing heartbeat\nfeeling faint, dizzy or light-headed\nfeeling that you're losing control\nsweating, trembling or shaking\nshortness of breath or breathing very quickly\na tingling in your fingers or lips\nfeeling sick (nausea)\nA panic attack usually lasts 5 to 20 minutes. They can be frightening, but they're not dangerous and should not harm you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "faster, irregular or more noticeable heartbeat",
+            "feeling light-headed and dizzy",
+            "headaches",
+            "chest pains",
+            "loss of appetite",
+            "indigestion, stomach cramps, bloating and feeling sick (nausea)",
+            "constipation or diarrhoea",
+            "sweating",
+            "breathlessness",
+            "feeling hot",
+            "shaking"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "feeling tense or nervous",
+            "being unable to relax",
+            "worrying about the past or future",
+            "feeling tearful",
+            "not being able to sleep",
+            "difficulty concentrating",
+            "fear of the worst happening",
+            "intrusive traumatic memories",
+            "obsessive thoughts"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "not being able to enjoy your leisure time",
+            "difficulty looking after yourself",
+            "struggling to form or maintain relationships",
+            "worried about trying new things",
+            "avoiding places and situations that create anxiety",
+            "compulsive behaviour, such as constantly checking things"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "a racing heartbeat",
+            "feeling faint, dizzy or light-headed",
+            "feeling that you're losing control",
+            "sweating, trembling or shaking",
+            "shortness of breath or breathing very quickly",
+            "a tingling in your fingers or lips",
+            "feeling sick (nausea)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of anxiety</h2>\n<p data-block-key=\"izbvd\">Anxiety can cause many different symptoms. It might affect how you feel physically, mentally and how you behave.</p><p data-block-key=\"8qcv0\">It's not always easy to recognise when anxiety is the reason you're feeling or acting differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Physical symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"yygp6\">faster, irregular or more noticeable heartbeat</li><li data-block-key=\"b63rq\">feeling light-headed and dizzy</li><li data-block-key=\"5jqba\">headaches</li><li data-block-key=\"6rtlc\">chest pains</li><li data-block-key=\"9hagq\">loss of appetite</li><li data-block-key=\"eqkf4\">indigestion, stomach cramps, bloating and feeling sick (nausea)</li><li data-block-key=\"actcl\">constipation or diarrhoea</li><li data-block-key=\"dm21q\">sweating</li><li data-block-key=\"d15kp\">breathlessness</li><li data-block-key=\"3v4uh\">feeling hot</li><li data-block-key=\"37dhp\">shaking</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Mental symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"86px1\">feeling tense or nervous</li><li data-block-key=\"8rp9g\">being unable to relax</li><li data-block-key=\"4lqsv\">worrying about the past or future</li><li data-block-key=\"cit6f\">feeling tearful</li><li data-block-key=\"449q2\">not being able to sleep</li><li data-block-key=\"dh6bc\">difficulty concentrating</li><li data-block-key=\"a2prj\">fear of the worst happening</li><li data-block-key=\"1ribr\">intrusive traumatic memories</li><li data-block-key=\"5cglj\">obsessive thoughts</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Changes in behaviour\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"395tm\">not being able to enjoy your leisure time</li><li data-block-key=\"4308n\">difficulty looking after yourself</li><li data-block-key=\"1ebic\">struggling to form or maintain relationships</li><li data-block-key=\"1428i\">worried about trying new things</li><li data-block-key=\"7lvv5\">avoiding places and situations that create anxiety</li><li data-block-key=\"4h05m\">compulsive behaviour, such as constantly checking things</li></ul>\n</div>\n</details>\n</div>\n<h3 data-block-key=\"tc5w3\">Symptoms of a panic attack</h3><p data-block-key=\"9347c\">If you experience sudden, intense anxiety and fear, it might be the symptoms of a panic attack. Other symptoms may include:</p><ul><li data-block-key=\"9sgsp\">a racing heartbeat</li><li data-block-key=\"1kv1b\">feeling faint, dizzy or light-headed</li><li data-block-key=\"6ldpg\">feeling that you're losing control</li><li data-block-key=\"8v56s\">sweating, trembling or shaking</li><li data-block-key=\"f0s1v\">shortness of breath or breathing very quickly</li><li data-block-key=\"8vinu\">a tingling in your fingers or lips</li><li data-block-key=\"k929\">feeling sick (nausea)</li></ul><p data-block-key=\"4l1c8\">A panic attack usually lasts 5 to 20 minutes. They can be frightening, but they're not dangerous and should not harm you.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Things you can try to help with anxiety, fear and panic",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help with anxiety, fear and panic"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "Audio: How to cope with anxiety – a relaxation technique"
+        }
+      ],
+      "text": "Things you can try to help with anxiety, fear and panic\nDo\ntry talking about your feelings to a friend, family member, health professional or counsellor\nregular exercise such as running, walking, swimming and yoga – this can help you relax\neat a healthy diet with regular meals to keep your energy levels stable\nuse calming breathing exercises or try mediation\nlisten to\nfree mental wellbeing audio guides\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ndo not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety\ntry not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life\ntry not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health\nAudio: How to cope with anxiety – a relaxation technique\nIn this audio guide, a doctor explains how you can take control of anxiety.\nMedia last reviewed: 5 April 2025\nMedia review due: 5 April 2028",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try talking about your feelings to a friend, family member, health professional or counsellor",
+            "regular exercise such as running, walking, swimming and yoga – this can help you relax",
+            "eat a healthy diet with regular meals to keep your energy levels stable",
+            "use calming breathing exercises or try mediation",
+            "listen to\nfree mental wellbeing audio guides"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not try to do everything at once – set small targets that you can easily achieve",
+            "do not focus on the things you cannot change – focus your time and energy into helping yourself feel better",
+            "do not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety",
+            "try not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life",
+            "try not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "free mental wellbeing audio guides",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help with anxiety, fear and panic</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"d4itl\">try talking about your feelings to a friend, family member, health professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jf1if\">regular exercise such as running, walking, swimming and yoga – this can help you relax</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"iendj\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ss1io\">use calming breathing exercises or try mediation</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"5tcnb\">listen to <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">free mental wellbeing audio guides</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"26mld\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6784u\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gl7o8\">do not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9w1t4\">try not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k0nml\">try not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Audio: How to cope with anxiety – a relaxation technique</h3>\n<p>In this audio guide, a doctor explains how you can take control of anxiety.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2163080377001\" id=\"2163080377001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 5 April 2025<br/>\n    Media review due: 5 April 2028\n  </div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Help and support for anxiety, fear and panic",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Help and support for anxiety, fear and panic"
+        },
+        {
+          "level": "h3",
+          "text": "Mind"
+        },
+        {
+          "level": "h3",
+          "text": "Samaritans"
+        },
+        {
+          "level": "h3",
+          "text": "Every Mind Matters"
+        }
+      ],
+      "text": "Help and support for anxiety, fear and panic\nLearning more about anxiety, fear and panic can be useful as it may help you better manage your feelings. You may also find it helpful to get support from other people with similar experiences.\nMind\nInformation and support for anyone concerned about their mental health.\nWebsite:\nwww.mind.org.uk\nHow to manage anxiety and worry (Mind)\nPanic attacks (Mind)\nHow to find a support group (Mind)\nSamaritans\nYou can contact\nSamaritans\nby\ncalling 116 123\nif you need someone to talk to at any time, day or night.\nEvery Mind Matters\nEvery Mind Matters is a NHS online service that can give you practical advice on how to reduce your anxiety, manage stress and worry, and boost your mental wellbeing.\nWebsite:\nwww.nhs.uk/every-mind-matters\nManaging anxiety (Every Mind Matters)\nSelf-help CBT techniques (Every Mind Matters)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Website:\nwww.mind.org.uk",
+            "How to manage anxiety and worry (Mind)",
+            "Panic attacks (Mind)",
+            "How to find a support group (Mind)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Website:\nwww.nhs.uk/every-mind-matters",
+            "Managing anxiety (Every Mind Matters)",
+            "Self-help CBT techniques (Every Mind Matters)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "www.mind.org.uk",
+          "url": "https://www.mind.org.uk/"
+        },
+        {
+          "text": "How to manage anxiety and worry (Mind)",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/how-to-manage-anxiety-and-worry/"
+        },
+        {
+          "text": "Panic attacks (Mind)",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/"
+        },
+        {
+          "text": "How to find a support group (Mind)",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+        },
+        {
+          "text": "Samaritans",
+          "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+        },
+        {
+          "text": "calling 116 123",
+          "url": "Tel: 116 123"
+        },
+        {
+          "text": "www.nhs.uk/every-mind-matters",
+          "url": "https://www.nhs.uk/every-mind-matters"
+        },
+        {
+          "text": "Managing anxiety (Every Mind Matters)",
+          "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/"
+        },
+        {
+          "text": "Self-help CBT techniques (Every Mind Matters)",
+          "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"support\">Help and support for anxiety, fear and panic</h2>\n<p data-block-key=\"ifldx\">Learning more about anxiety, fear and panic can be useful as it may help you better manage your feelings. You may also find it helpful to get support from other people with similar experiences.</p><h3 data-block-key=\"6743k\">Mind</h3><p data-block-key=\"4hjs1\">Information and support for anyone concerned about their mental health.</p><ul><li data-block-key=\"d4eih\">Website: <a href=\"https://www.mind.org.uk/\">www.mind.org.uk</a></li><li data-block-key=\"2mi3e\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/how-to-manage-anxiety-and-worry/\">How to manage anxiety and worry (Mind)</a></li><li data-block-key=\"5j8dq\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/\">Panic attacks (Mind)</a></li><li data-block-key=\"dtss1\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group (Mind)</a></li></ul><h3 data-block-key=\"didgd\">Samaritans</h3><p data-block-key=\"e0sfm\">You can contact <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Samaritans</a> by <a href=\"Tel: 116 123\">calling 116 123</a> if you need someone to talk to at any time, day or night.</p><h3 data-block-key=\"861g3\">Every Mind Matters</h3><p data-block-key=\"ejoph\">Every Mind Matters is a NHS online service that can give you practical advice on how to reduce your anxiety, manage stress and worry, and boost your mental wellbeing.</p><ul><li data-block-key=\"8221k\">Website: <a href=\"https://www.nhs.uk/every-mind-matters\">www.nhs.uk/every-mind-matters</a></li><li data-block-key=\"4fsdj\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/\">Managing anxiety (Every Mind Matters)</a></li><li data-block-key=\"7quou\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/\">Self-help CBT techniques (Every Mind Matters)</a></li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Other ways to get help"
+        }
+      ],
+      "text": "When and where to get medical help\nIf you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping, then you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with anxiety, fear or panic\nthings you're trying yourself are not helping\nyou would prefer to get a referral to an NHS talking therapies service from a GP\nOther ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're struggling to cope with anxiety, fear or panic",
+            "things you're trying yourself are not helping",
+            "you would prefer to get a referral to an NHS talking therapies service from a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find NHS talking therapies for anxiety and depression",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "find out more about mental health support for children and young people",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"b92p3\">If you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping, then you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"av39a\">you're struggling to cope with anxiety, fear or panic</li><li data-block-key=\"c0fq5\">things you're trying yourself are not helping</li><li data-block-key=\"3g1a2\">you would prefer to get a referral to an NHS talking therapies service from a GP</li></ul>\n</div>\n</div>\n<h3 data-block-key=\"vlytp\">Other ways to get help</h3><p data-block-key=\"55lk5\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"vlytp\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of anxiety, fear and panic",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of anxiety, fear and panic"
+        },
+        {
+          "level": "h3",
+          "text": "Identifying the cause"
+        }
+      ],
+      "text": "Causes of anxiety, fear and panic\nThere are many different causes of anxiety, fear or panic and it's different for everyone.\nWhen you're feeling anxious or scared, your body releases stress hormones, such as adrenaline and cortisol.\nThis can be helpful in some situations, but it might also cause physical symptoms such as an increased heart rate and increased sweating. In some people, it might cause a panic attack.\nRegular anxiety, fear or panic can also be the main symptom of several health conditions. Do not self-diagnose – speak to a GP if you're worried about how you're feeling.\nIdentifying the cause\nIf you know what's causing anxiety, fear or panic, it might be easier to find ways to manage it.\nSome examples of possible causes include:\nwork – feeling pressure at work, unemployment or retirement\nfamily – relationship difficulties, divorce or\ncaring for someone\nfinancial problems – unexpected bills or borrowing money\nhealth – illness, injury or\nlosing someone (bereavement)\ndifficult past experiences – bullying, abuse or neglect\nEven significant life events such as buying a house, having a baby or planning a wedding could lead to feelings of stress and anxiety.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "work – feeling pressure at work, unemployment or retirement",
+            "family – relationship difficulties, divorce or\ncaring for someone",
+            "financial problems – unexpected bills or borrowing money",
+            "health – illness, injury or\nlosing someone (bereavement)",
+            "difficult past experiences – bullying, abuse or neglect"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "caring for someone",
+          "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/"
+        },
+        {
+          "text": "losing someone (bereavement)",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of anxiety, fear and panic</h2>\n<p data-block-key=\"cvo44\">There are many different causes of anxiety, fear or panic and it's different for everyone.</p><p data-block-key=\"6ivp5\">When you're feeling anxious or scared, your body releases stress hormones, such as adrenaline and cortisol.</p><p data-block-key=\"1ji9h\">This can be helpful in some situations, but it might also cause physical symptoms such as an increased heart rate and increased sweating. In some people, it might cause a panic attack.</p><p data-block-key=\"ampkt\">Regular anxiety, fear or panic can also be the main symptom of several health conditions. Do not self-diagnose – speak to a GP if you're worried about how you're feeling.</p><h3 data-block-key=\"gqfdt\">Identifying the cause</h3><p data-block-key=\"rrdkl\">If you know what's causing anxiety, fear or panic, it might be easier to find ways to manage it.</p><p data-block-key=\"pkm4z\">Some examples of possible causes include:</p><ul><li data-block-key=\"jabwi\">work – feeling pressure at work, unemployment or retirement</li><li data-block-key=\"aj6ua\">family – relationship difficulties, divorce or <a href=\"/social-care-and-support/support-and-benefits-for-carers/\">caring for someone</a></li><li data-block-key=\"j001r\">financial problems – unexpected bills or borrowing money</li><li data-block-key=\"jltje\">health – illness, injury or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">losing someone (bereavement)</a></li><li data-block-key=\"6x8u7\">difficult past experiences – bullying, abuse or neglect</li></ul><p data-block-key=\"r0qbi\">Even significant life events such as buying a house, having a baby or planning a wedding could lead to feelings of stress and anxiety.</p><p data-block-key=\"c0e73\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Conditions related to anxiety, fear and panic\nSymptoms\nPossible cause\nFeelings of anxiety that will not go away, anxiety is affecting your life\nGeneralised anxiety disorder (GAD)\nOverwhelming fear of something specific like an object, place or animal\nPhobias\nRegularly experiencing panic attacks\nPanic disorder\nOften reliving traumatic past experiences, nightmares and flashbacks\nPTSD (post-traumatic stress disorder)",
+      "lists": [],
+      "links": [
+        {
+          "text": "Generalised anxiety disorder (GAD)",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+        },
+        {
+          "text": "Phobias",
+          "url": "https://www.nhs.uk/mental-health/conditions/phobias/"
+        },
+        {
+          "text": "Panic disorder",
+          "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/"
+        },
+        {
+          "text": "PTSD (post-traumatic stress disorder)",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Conditions related to anxiety, fear and panic</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Feelings of anxiety that will not go away, anxiety is affecting your life</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder-gad/\">Generalised anxiety disorder (GAD)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Overwhelming fear of something specific like an object, place or animal</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/phobias/\">Phobias</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Regularly experiencing panic attacks</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/panic-disorder/\">Panic disorder</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Often reliving traumatic past experiences, nightmares and flashbacks</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">PTSD (post-traumatic stress disorder)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health\nSymptoms of anxiety\nAnxiety can cause many different symptoms. It might affect how you feel physically, mentally and how you behave.\nIt's not always easy to recognise when anxiety is the reason you're feeling or acting differently.\nPhysical symptoms\nfaster, irregular or more noticeable heartbeat\nfeeling light-headed and dizzy\nheadaches\nchest pains\nloss of appetite\nindigestion, stomach cramps, bloating and feeling sick (nausea)\nconstipation or diarrhoea\nsweating\nbreathlessness\nfeeling hot\nshaking\nMental symptoms\nfeeling tense or nervous\nbeing unable to relax\nworrying about the past or future\nfeeling tearful\nnot being able to sleep\ndifficulty concentrating\nfear of the worst happening\nintrusive traumatic memories\nobsessive thoughts\nChanges in behaviour\nnot being able to enjoy your leisure time\ndifficulty looking after yourself\nstruggling to form or maintain relationships\nworried about trying new things\navoiding places and situations that create anxiety\ncompulsive behaviour, such as constantly checking things\nSymptoms of a panic attack\nIf you experience sudden, intense anxiety and fear, it might be the symptoms of a panic attack. Other symptoms may include:\na racing heartbeat\nfeeling faint, dizzy or light-headed\nfeeling that you're losing control\nsweating, trembling or shaking\nshortness of breath or breathing very quickly\na tingling in your fingers or lips\nfeeling sick (nausea)\nA panic attack usually lasts 5 to 20 minutes. They can be frightening, but they're not dangerous and should not harm you.\nThings you can try to help with anxiety, fear and panic\nDo\ntry talking about your feelings to a friend, family member, health professional or counsellor\nregular exercise such as running, walking, swimming and yoga – this can help you relax\neat a healthy diet with regular meals to keep your energy levels stable\nuse calming breathing exercises or try mediation\nlisten to\nfree mental wellbeing audio guides\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ndo not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety\ntry not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life\ntry not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health\nAudio: How to cope with anxiety – a relaxation technique\nIn this audio guide, a doctor explains how you can take control of anxiety.\nMedia last reviewed: 5 April 2025\nMedia review due: 5 April 2028\nHelp and support for anxiety, fear and panic\nLearning more about anxiety, fear and panic can be useful as it may help you better manage your feelings. You may also find it helpful to get support from other people with similar experiences.\nMind\nInformation and support for anyone concerned about their mental health.\nWebsite:\nwww.mind.org.uk\nHow to manage anxiety and worry (Mind)\nPanic attacks (Mind)\nHow to find a support group (Mind)\nSamaritans\nYou can contact\nSamaritans\nby\ncalling 116 123\nif you need someone to talk to at any time, day or night.\nEvery Mind Matters\nEvery Mind Matters is a NHS online service that can give you practical advice on how to reduce your anxiety, manage stress and worry, and boost your mental wellbeing.\nWebsite:\nwww.nhs.uk/every-mind-matters\nManaging anxiety (Every Mind Matters)\nSelf-help CBT techniques (Every Mind Matters)\nWhen and where to get medical help\nIf you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping, then you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with anxiety, fear or panic\nthings you're trying yourself are not helping\nyou would prefer to get a referral to an NHS talking therapies service from a GP\nOther ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.\nCauses of anxiety, fear and panic\nThere are many different causes of anxiety, fear or panic and it's different for everyone.\nWhen you're feeling anxious or scared, your body releases stress hormones, such as adrenaline and cortisol.\nThis can be helpful in some situations, but it might also cause physical symptoms such as an increased heart rate and increased sweating. In some people, it might cause a panic attack.\nRegular anxiety, fear or panic can also be the main symptom of several health conditions. Do not self-diagnose – speak to a GP if you're worried about how you're feeling.\nIdentifying the cause\nIf you know what's causing anxiety, fear or panic, it might be easier to find ways to manage it.\nSome examples of possible causes include:\nwork – feeling pressure at work, unemployment or retirement\nfamily – relationship difficulties, divorce or\ncaring for someone\nfinancial problems – unexpected bills or borrowing money\nhealth – illness, injury or\nlosing someone (bereavement)\ndifficult past experiences – bullying, abuse or neglect\nEven significant life events such as buying a house, having a baby or planning a wedding could lead to feelings of stress and anxiety.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.\nConditions related to anxiety, fear and panic\nSymptoms\nPossible cause\nFeelings of anxiety that will not go away, anxiety is affecting your life\nGeneralised anxiety disorder (GAD)\nOverwhelming fear of something specific like an object, place or animal\nPhobias\nRegularly experiencing panic attacks\nPanic disorder\nOften reliving traumatic past experiences, nightmares and flashbacks\nPTSD (post-traumatic stress disorder)",
+  "links": [
+    {
+      "text": "Find out where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+    },
+    {
+      "text": "free mental wellbeing audio guides",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/"
+    },
+    {
+      "text": "www.mind.org.uk",
+      "url": "https://www.mind.org.uk/"
+    },
+    {
+      "text": "How to manage anxiety and worry (Mind)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/how-to-manage-anxiety-and-worry/"
+    },
+    {
+      "text": "Panic attacks (Mind)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/"
+    },
+    {
+      "text": "How to find a support group (Mind)",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+    },
+    {
+      "text": "Samaritans",
+      "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    },
+    {
+      "text": "calling 116 123",
+      "url": "Tel: 116 123"
+    },
+    {
+      "text": "www.nhs.uk/every-mind-matters",
+      "url": "https://www.nhs.uk/every-mind-matters"
+    },
+    {
+      "text": "Managing anxiety (Every Mind Matters)",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/"
+    },
+    {
+      "text": "Self-help CBT techniques (Every Mind Matters)",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/"
+    },
+    {
+      "text": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "find out more about mental health support for children and young people",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+    },
+    {
+      "text": "caring for someone",
+      "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/"
+    },
+    {
+      "text": "losing someone (bereavement)",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    },
+    {
+      "text": "Generalised anxiety disorder (GAD)",
+      "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+    },
+    {
+      "text": "Phobias",
+      "url": "https://www.nhs.uk/mental-health/conditions/phobias/"
+    },
+    {
+      "text": "Panic disorder",
+      "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/"
+    },
+    {
+      "text": "PTSD (post-traumatic stress disorder)",
+      "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h2>\n<p data-block-key=\"qgy60\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"9vpgb\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of anxiety</h2>\n<p data-block-key=\"izbvd\">Anxiety can cause many different symptoms. It might affect how you feel physically, mentally and how you behave.</p><p data-block-key=\"8qcv0\">It's not always easy to recognise when anxiety is the reason you're feeling or acting differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Physical symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"yygp6\">faster, irregular or more noticeable heartbeat</li><li data-block-key=\"b63rq\">feeling light-headed and dizzy</li><li data-block-key=\"5jqba\">headaches</li><li data-block-key=\"6rtlc\">chest pains</li><li data-block-key=\"9hagq\">loss of appetite</li><li data-block-key=\"eqkf4\">indigestion, stomach cramps, bloating and feeling sick (nausea)</li><li data-block-key=\"actcl\">constipation or diarrhoea</li><li data-block-key=\"dm21q\">sweating</li><li data-block-key=\"d15kp\">breathlessness</li><li data-block-key=\"3v4uh\">feeling hot</li><li data-block-key=\"37dhp\">shaking</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Mental symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"86px1\">feeling tense or nervous</li><li data-block-key=\"8rp9g\">being unable to relax</li><li data-block-key=\"4lqsv\">worrying about the past or future</li><li data-block-key=\"cit6f\">feeling tearful</li><li data-block-key=\"449q2\">not being able to sleep</li><li data-block-key=\"dh6bc\">difficulty concentrating</li><li data-block-key=\"a2prj\">fear of the worst happening</li><li data-block-key=\"1ribr\">intrusive traumatic memories</li><li data-block-key=\"5cglj\">obsessive thoughts</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Changes in behaviour\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ul><li data-block-key=\"395tm\">not being able to enjoy your leisure time</li><li data-block-key=\"4308n\">difficulty looking after yourself</li><li data-block-key=\"1ebic\">struggling to form or maintain relationships</li><li data-block-key=\"1428i\">worried about trying new things</li><li data-block-key=\"7lvv5\">avoiding places and situations that create anxiety</li><li data-block-key=\"4h05m\">compulsive behaviour, such as constantly checking things</li></ul>\n</div>\n</details>\n</div>\n<h3 data-block-key=\"tc5w3\">Symptoms of a panic attack</h3><p data-block-key=\"9347c\">If you experience sudden, intense anxiety and fear, it might be the symptoms of a panic attack. Other symptoms may include:</p><ul><li data-block-key=\"9sgsp\">a racing heartbeat</li><li data-block-key=\"1kv1b\">feeling faint, dizzy or light-headed</li><li data-block-key=\"6ldpg\">feeling that you're losing control</li><li data-block-key=\"8v56s\">sweating, trembling or shaking</li><li data-block-key=\"f0s1v\">shortness of breath or breathing very quickly</li><li data-block-key=\"8vinu\">a tingling in your fingers or lips</li><li data-block-key=\"k929\">feeling sick (nausea)</li></ul><p data-block-key=\"4l1c8\">A panic attack usually lasts 5 to 20 minutes. They can be frightening, but they're not dangerous and should not harm you.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help with anxiety, fear and panic</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"d4itl\">try talking about your feelings to a friend, family member, health professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jf1if\">regular exercise such as running, walking, swimming and yoga – this can help you relax</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"iendj\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ss1io\">use calming breathing exercises or try mediation</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"5tcnb\">listen to <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">free mental wellbeing audio guides</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"26mld\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6784u\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gl7o8\">do not avoid situations that make you anxious – try slowly building up time spent in worrying situations to gradually reduce anxiety</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9w1t4\">try not to tell yourself that you're alone – most people experience anxiety or fear at some point in their life</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k0nml\">try not to use alcohol, cigarettes, gambling or drugs to relieve anxiety as these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Audio: How to cope with anxiety – a relaxation technique</h3>\n<p>In this audio guide, a doctor explains how you can take control of anxiety.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2163080377001\" id=\"2163080377001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 5 April 2025<br/>\n    Media review due: 5 April 2028\n  </div>\n</div>\n</section>\n<section>\n<h2 id=\"support\">Help and support for anxiety, fear and panic</h2>\n<p data-block-key=\"ifldx\">Learning more about anxiety, fear and panic can be useful as it may help you better manage your feelings. You may also find it helpful to get support from other people with similar experiences.</p><h3 data-block-key=\"6743k\">Mind</h3><p data-block-key=\"4hjs1\">Information and support for anyone concerned about their mental health.</p><ul><li data-block-key=\"d4eih\">Website: <a href=\"https://www.mind.org.uk/\">www.mind.org.uk</a></li><li data-block-key=\"2mi3e\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-problems/how-to-manage-anxiety-and-worry/\">How to manage anxiety and worry (Mind)</a></li><li data-block-key=\"5j8dq\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/panic-attacks/\">Panic attacks (Mind)</a></li><li data-block-key=\"dtss1\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group (Mind)</a></li></ul><h3 data-block-key=\"didgd\">Samaritans</h3><p data-block-key=\"e0sfm\">You can contact <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Samaritans</a> by <a href=\"Tel: 116 123\">calling 116 123</a> if you need someone to talk to at any time, day or night.</p><h3 data-block-key=\"861g3\">Every Mind Matters</h3><p data-block-key=\"ejoph\">Every Mind Matters is a NHS online service that can give you practical advice on how to reduce your anxiety, manage stress and worry, and boost your mental wellbeing.</p><ul><li data-block-key=\"8221k\">Website: <a href=\"https://www.nhs.uk/every-mind-matters\">www.nhs.uk/every-mind-matters</a></li><li data-block-key=\"4fsdj\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/\">Managing anxiety (Every Mind Matters)</a></li><li data-block-key=\"7quou\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/\">Self-help CBT techniques (Every Mind Matters)</a></li></ul>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"b92p3\">If you're struggling to cope with feelings of anxiety, fear and panic and the things you're doing are not helping, then you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"av39a\">you're struggling to cope with anxiety, fear or panic</li><li data-block-key=\"c0fq5\">things you're trying yourself are not helping</li><li data-block-key=\"3g1a2\">you would prefer to get a referral to an NHS talking therapies service from a GP</li></ul>\n</div>\n</div>\n<h3 data-block-key=\"vlytp\">Other ways to get help</h3><p data-block-key=\"55lk5\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"vlytp\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of anxiety, fear and panic</h2>\n<p data-block-key=\"cvo44\">There are many different causes of anxiety, fear or panic and it's different for everyone.</p><p data-block-key=\"6ivp5\">When you're feeling anxious or scared, your body releases stress hormones, such as adrenaline and cortisol.</p><p data-block-key=\"1ji9h\">This can be helpful in some situations, but it might also cause physical symptoms such as an increased heart rate and increased sweating. In some people, it might cause a panic attack.</p><p data-block-key=\"ampkt\">Regular anxiety, fear or panic can also be the main symptom of several health conditions. Do not self-diagnose – speak to a GP if you're worried about how you're feeling.</p><h3 data-block-key=\"gqfdt\">Identifying the cause</h3><p data-block-key=\"rrdkl\">If you know what's causing anxiety, fear or panic, it might be easier to find ways to manage it.</p><p data-block-key=\"pkm4z\">Some examples of possible causes include:</p><ul><li data-block-key=\"jabwi\">work – feeling pressure at work, unemployment or retirement</li><li data-block-key=\"aj6ua\">family – relationship difficulties, divorce or <a href=\"/social-care-and-support/support-and-benefits-for-carers/\">caring for someone</a></li><li data-block-key=\"j001r\">financial problems – unexpected bills or borrowing money</li><li data-block-key=\"jltje\">health – illness, injury or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">losing someone (bereavement)</a></li><li data-block-key=\"6x8u7\">difficult past experiences – bullying, abuse or neglect</li></ul><p data-block-key=\"r0qbi\">Even significant life events such as buying a house, having a baby or planning a wedding could lead to feelings of stress and anxiety.</p><p data-block-key=\"c0e73\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p>\n</section>\n<section>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Conditions related to anxiety, fear and panic</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Feelings of anxiety that will not go away, anxiety is affecting your life</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder-gad/\">Generalised anxiety disorder (GAD)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Overwhelming fear of something specific like an object, place or animal</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/phobias/\">Phobias</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Regularly experiencing panic attacks</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/panic-disorder/\">Panic disorder</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\">Often reliving traumatic past experiences, nightmares and flashbacks</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kwur1\"><a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">PTSD (post-traumatic stress disorder)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

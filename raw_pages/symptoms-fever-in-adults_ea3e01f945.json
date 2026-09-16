@@ -1,0 +1,566 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/fever-in-adults/",
+  "final_url": "https://www.nhs.uk/symptoms/fever-in-adults/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:40.575166+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Fever in adults, see High temperature (fever) in adults",
+      "url": "https://www.nhs.uk/symptoms/fever-in-adults/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "H",
+      "label": "High temperature (fever) in adults",
+      "url": "https://www.nhs.uk/symptoms/fever-in-adults/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "High temperature (fever) in adults",
+  "meta_description": "Find out about high temperature (fever) in adults including what causes it, how to tell if you have a high temperature and how to treat it.",
+  "review_dates": {
+    "page_last_reviewed": "24 May 2023",
+    "next_review_due": "24 May 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about high temperature (fever) in adults including what causes it, how to tell if you have a high temperature and how to treat it."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/fever-in-adults/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHigh temperature (fever) in adults\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about high temperature (fever) in adults including what causes it, how to tell if you have a high temperature and how to treat it."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 3:51 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "7 Apr 2020, 3 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Fever in adults"
+        ],
+        "name": "High temperature (fever) in adults"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/fever-in-adults/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "High temperature (fever) in adults"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T14:51:21+00:00",
+      "description": "Find out about high temperature (fever) in adults including what causes it, how to tell if you have a high temperature and how to treat it.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of a high temperature can include your chest or back feeling hot, sweating and shivering (chills).",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may have a high temperature if:</p><ul><li>your chest or back feels hotter than usual</li><li>you have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)</li><li>a thermometer says your temperature is 38C or above</li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>If you feel hot, cold or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.</p>"
+            }
+          ],
+          "headline": "Check if you have a high temperature",
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To treat a high temperature, try to get lots of rest, drink plenty of water to keep hydrated and take paracetamol or ibuprofen.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are some things you can do to help treat a high temperature.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>get lots of rest</p></li><li><p>drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear</p></li><li><p>take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> if you feel uncomfortable</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>Try to stay at home and avoid contact with other people until you do not have a high temperature.</p>"
+            }
+          ],
+          "headline": "Treating a high temperature",
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  a high temperature and you've been treating it at home but it's not getting better or is getting worse\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A high temperature is usually caused by your body fighting an infection, such as a cold or flu.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Many things can cause a high temperature. It's not usually a sign of anything serious.</p><p>It's often just caused by your body fighting an infection, such as a <a href=\"/conditions/common-cold/\">cold</a> or <a href=\"/conditions/flu/\">flu</a>.</p><p>Sometimes it could be a sign of something more serious if your temperature is very high or will not come down.</p>"
+            }
+          ],
+          "headline": "Causes of a high temperature",
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A high temperature (fever) is usually considered to be 38C or above. It's not usually serious and there are things you can do yourself to treat it.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in adults",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in adults",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in adults",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of a high temperature can include your chest or back feeling hot, sweating and shivering (chills).</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To treat a high temperature, try to get lots of rest, drink plenty of water to keep hydrated and take paracetamol or ibuprofen.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A high temperature is usually caused by your body fighting an infection, such as a cold or flu.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-05-24T13:00:00+00:00",
+        "2026-05-24T14:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "High temperature (fever) in adults",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "High temperature (fever) in adults",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/fever-in-adults/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/fever-in-adults/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "What is a high temperature?",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What is a high temperature?"
+        }
+      ],
+      "text": "What is a high temperature?\nNormal body temperature is different for everyone and changes during the day.\nA high temperature is usually considered to be 38C or above. This is sometimes called a fever.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2>What is a high temperature?</h2>\n<p data-block-key=\"bfj6g\">Normal body temperature is different for everyone and changes during the day.</p><p data-block-key=\"34tkn\">A high temperature is usually considered to be 38C or above. This is sometimes called a fever.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Check if you have a high temperature",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Check if you have a high temperature"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Check if you have a high temperature\nYou may have a high temperature if:\nyour chest or back feels hotter than usual\nyou have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)\na thermometer says your temperature is 38C or above\nImportant\nIf you feel hot, cold or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your chest or back feels hotter than usual",
+            "you have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)",
+            "a thermometer says your temperature is 38C or above"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Check if you have a high temperature</h2>\n<p data-block-key=\"s6mvj\">You may have a high temperature if:</p><ul><li data-block-key=\"5olin\">your chest or back feels hotter than usual</li><li data-block-key=\"06jdq\">you have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)</li><li data-block-key=\"58huu\">a thermometer says your temperature is 38C or above</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"tpsg3\">If you feel hot, cold or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Taking your temperature",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Taking your temperature"
+        },
+        {
+          "level": "h3",
+          "text": "Other types of thermometer"
+        }
+      ],
+      "text": "Taking your temperature\nYou do not need to take your temperature using a thermometer, but you can if you have one.\nMake sure you use it correctly to help get an accurate result.\nHow to take your temperature with a digital thermometer\nTo use a digital thermometer:\nClean the tip with cold water and soap, then rinse it.\nTurn the thermometer on.\nPut the tip under your tongue, towards the back of your mouth.\nClose your lips around the thermometer.\nWait until it beeps or flashes.\nRemove the thermometer and check the temperature on the display.\nYou can also use a digital thermometer in your armpit. Make sure you keep your arm tight against your body until the thermometer beeps or flashes.\nOther types of thermometer\nIf you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.\nDo not use:\na glass thermometer because they can be dangerous\nan infrared thermometer because some do not meet UK regulations\nforehead strips because they're not accurate",
+      "lists": [
+        {
+          "type": "ordered",
+          "items": [
+            "Clean the tip with cold water and soap, then rinse it.",
+            "Turn the thermometer on.",
+            "Put the tip under your tongue, towards the back of your mouth.",
+            "Close your lips around the thermometer.",
+            "Wait until it beeps or flashes.",
+            "Remove the thermometer and check the temperature on the display."
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "a glass thermometer because they can be dangerous",
+            "an infrared thermometer because some do not meet UK regulations",
+            "forehead strips because they're not accurate"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h3 data-block-key=\"bfj6g\">Taking your temperature</h3><p data-block-key=\"6ti1o\">You do not need to take your temperature using a thermometer, but you can if you have one.</p><p data-block-key=\"25knl\">Make sure you use it correctly to help get an accurate result.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to take your temperature with a digital thermometer\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xngwt\">To use a digital thermometer:</p><ol><li data-block-key=\"21udb\">Clean the tip with cold water and soap, then rinse it.</li><li data-block-key=\"am9qe\">Turn the thermometer on.</li><li data-block-key=\"1dq0v\">Put the tip under your tongue, towards the back of your mouth.</li><li data-block-key=\"ene34\">Close your lips around the thermometer.</li><li data-block-key=\"9uqus\">Wait until it beeps or flashes.</li><li data-block-key=\"50bi2\">Remove the thermometer and check the temperature on the display.</li></ol><p data-block-key=\"ctc76\">You can also use a digital thermometer in your armpit. Make sure you keep your arm tight against your body until the thermometer beeps or flashes.</p>\n</div>\n</details>\n<h3 data-block-key=\"juh90\">Other types of thermometer</h3><p data-block-key=\"5f9vf\">If you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.</p><p data-block-key=\"cgksr\">Do not use:</p><ul><li data-block-key=\"dvq6j\">a glass thermometer because they can be dangerous</li><li data-block-key=\"b3plq\">an infrared thermometer because some do not meet UK regulations</li><li data-block-key=\"1m2rt\">forehead strips because they're not accurate</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Advice for children and babies",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Advice for children and babies"
+        }
+      ],
+      "text": "Information:\nAdvice for children and babies\nThis page is for adults. For advice about children and babies, including how to take a temperature, see:\nhigh temperature (fever) in children\nhow to take your baby's temperature",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "high temperature (fever) in children",
+            "how to take your baby's temperature"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "high temperature (fever) in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        },
+        {
+          "text": "how to take your baby's temperature",
+          "url": "https://www.nhs.uk/baby/health/how-to-take-your-babys-temperature/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"rc4gq\">Advice for children and babies</h3><p data-block-key=\"d6pbs\">This page is for adults. For advice about children and babies, including how to take a temperature, see:</p><ul><li data-block-key=\"80l1s\"><a href=\"/symptoms/fever-in-children/\">high temperature (fever) in children</a></li><li data-block-key=\"a4pe6\"><a href=\"/baby/health/how-to-take-your-babys-temperature/\">how to take your baby's temperature</a></li></ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treating a high temperature",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treating a high temperature"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        }
+      ],
+      "text": "Treating a high temperature\nThere are some things you can do to help treat a high temperature.\nDo\nget lots of rest\ndrink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear\ntake\nparacetamol\nor\nibuprofen\nif you feel uncomfortable\nInformation:\nTry to stay at home and avoid contact with other people until you do not have a high temperature.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "get lots of rest",
+            "drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear",
+            "take\nparacetamol\nor\nibuprofen\nif you feel uncomfortable"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Treating a high temperature</h2>\n<p data-block-key=\"bfj6g\">There are some things you can do to help treat a high temperature.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vjc8e\">get lots of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3kbqf\">drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3kbqf\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> if you feel uncomfortable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"5bwt2\">Try to stay at home and avoid contact with other people until you do not have a high temperature.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if you have:\na high temperature and you've been treating it at home but it's not getting better or is getting worse\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a high temperature and you've been treating it at home but it's not getting better or is getting worse"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vew7s\">a high temperature and you've been treating it at home but it's not getting better or is getting worse</li></ul><p data-block-key=\"ed31e\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Causes of a high temperature",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of a high temperature"
+        }
+      ],
+      "text": "Causes of a high temperature\nMany things can cause a high temperature. It's not usually a sign of anything serious.\nIt's often just caused by your body fighting an infection, such as a\ncold\nor\nflu\n.\nSometimes it could be a sign of something more serious if your temperature is very high or will not come down.",
+      "lists": [],
+      "links": [
+        {
+          "text": "cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "flu",
+          "url": "https://www.nhs.uk/conditions/flu/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of a high temperature</h2>\n<p data-block-key=\"bfj6g\">Many things can cause a high temperature. It's not usually a sign of anything serious.</p><p data-block-key=\"5ikio\">It's often just caused by your body fighting an infection, such as a <a href=\"/conditions/common-cold/\">cold</a> or <a href=\"/conditions/flu/\">flu</a>.</p><p data-block-key=\"7ujt6\">Sometimes it could be a sign of something more serious if your temperature is very high or will not come down.</p>\n</section>"
+    }
+  ],
+  "page_text": "What is a high temperature?\nNormal body temperature is different for everyone and changes during the day.\nA high temperature is usually considered to be 38C or above. This is sometimes called a fever.\nCheck if you have a high temperature\nYou may have a high temperature if:\nyour chest or back feels hotter than usual\nyou have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)\na thermometer says your temperature is 38C or above\nImportant\nIf you feel hot, cold or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.\nTaking your temperature\nYou do not need to take your temperature using a thermometer, but you can if you have one.\nMake sure you use it correctly to help get an accurate result.\nHow to take your temperature with a digital thermometer\nTo use a digital thermometer:\nClean the tip with cold water and soap, then rinse it.\nTurn the thermometer on.\nPut the tip under your tongue, towards the back of your mouth.\nClose your lips around the thermometer.\nWait until it beeps or flashes.\nRemove the thermometer and check the temperature on the display.\nYou can also use a digital thermometer in your armpit. Make sure you keep your arm tight against your body until the thermometer beeps or flashes.\nOther types of thermometer\nIf you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.\nDo not use:\na glass thermometer because they can be dangerous\nan infrared thermometer because some do not meet UK regulations\nforehead strips because they're not accurate\nInformation:\nAdvice for children and babies\nThis page is for adults. For advice about children and babies, including how to take a temperature, see:\nhigh temperature (fever) in children\nhow to take your baby's temperature\nTreating a high temperature\nThere are some things you can do to help treat a high temperature.\nDo\nget lots of rest\ndrink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear\ntake\nparacetamol\nor\nibuprofen\nif you feel uncomfortable\nInformation:\nTry to stay at home and avoid contact with other people until you do not have a high temperature.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if you have:\na high temperature and you've been treating it at home but it's not getting better or is getting worse\nYou can call 111 or\nget help from 111 online\n.\nCauses of a high temperature\nMany things can cause a high temperature. It's not usually a sign of anything serious.\nIt's often just caused by your body fighting an infection, such as a\ncold\nor\nflu\n.\nSometimes it could be a sign of something more serious if your temperature is very high or will not come down.\nPage last reviewed: 24 May 2023\nNext review due: 24 May 2026",
+  "links": [
+    {
+      "text": "high temperature (fever) in children",
+      "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+    },
+    {
+      "text": "how to take your baby's temperature",
+      "url": "https://www.nhs.uk/baby/health/how-to-take-your-babys-temperature/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "cold",
+      "url": "https://www.nhs.uk/conditions/common-cold/"
+    },
+    {
+      "text": "flu",
+      "url": "https://www.nhs.uk/conditions/flu/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2>What is a high temperature?</h2>\n<p data-block-key=\"bfj6g\">Normal body temperature is different for everyone and changes during the day.</p><p data-block-key=\"34tkn\">A high temperature is usually considered to be 38C or above. This is sometimes called a fever.</p>\n</section>\n<section>\n<h2 id=\"symptoms\">Check if you have a high temperature</h2>\n<p data-block-key=\"s6mvj\">You may have a high temperature if:</p><ul><li data-block-key=\"5olin\">your chest or back feels hotter than usual</li><li data-block-key=\"06jdq\">you have other symptoms, such as feeling hot or cold, feeling shivery (chills), sweating, or your skin being warm and red (this may be harder to see on black or brown skin)</li><li data-block-key=\"58huu\">a thermometer says your temperature is 38C or above</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"tpsg3\">If you feel hot, cold or shivery, you may have a high temperature even if a thermometer says your temperature is below 38C.</p>\n</div>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"bfj6g\">Taking your temperature</h3><p data-block-key=\"6ti1o\">You do not need to take your temperature using a thermometer, but you can if you have one.</p><p data-block-key=\"25knl\">Make sure you use it correctly to help get an accurate result.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to take your temperature with a digital thermometer\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xngwt\">To use a digital thermometer:</p><ol><li data-block-key=\"21udb\">Clean the tip with cold water and soap, then rinse it.</li><li data-block-key=\"am9qe\">Turn the thermometer on.</li><li data-block-key=\"1dq0v\">Put the tip under your tongue, towards the back of your mouth.</li><li data-block-key=\"ene34\">Close your lips around the thermometer.</li><li data-block-key=\"9uqus\">Wait until it beeps or flashes.</li><li data-block-key=\"50bi2\">Remove the thermometer and check the temperature on the display.</li></ol><p data-block-key=\"ctc76\">You can also use a digital thermometer in your armpit. Make sure you keep your arm tight against your body until the thermometer beeps or flashes.</p>\n</div>\n</details>\n<h3 data-block-key=\"juh90\">Other types of thermometer</h3><p data-block-key=\"5f9vf\">If you use a digital ear thermometer, follow the instructions that come with it. You usually need to gently pull your ear up and back before putting the thermometer in your ear.</p><p data-block-key=\"cgksr\">Do not use:</p><ul><li data-block-key=\"dvq6j\">a glass thermometer because they can be dangerous</li><li data-block-key=\"b3plq\">an infrared thermometer because some do not meet UK regulations</li><li data-block-key=\"1m2rt\">forehead strips because they're not accurate</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"rc4gq\">Advice for children and babies</h3><p data-block-key=\"d6pbs\">This page is for adults. For advice about children and babies, including how to take a temperature, see:</p><ul><li data-block-key=\"80l1s\"><a href=\"/symptoms/fever-in-children/\">high temperature (fever) in children</a></li><li data-block-key=\"a4pe6\"><a href=\"/baby/health/how-to-take-your-babys-temperature/\">how to take your baby's temperature</a></li></ul>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Treating a high temperature</h2>\n<p data-block-key=\"bfj6g\">There are some things you can do to help treat a high temperature.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vjc8e\">get lots of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3kbqf\">drink plenty of fluids (water is best) to avoid dehydration – drink enough so your pee is light yellow and clear</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3kbqf\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> if you feel uncomfortable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"5bwt2\">Try to stay at home and avoid contact with other people until you do not have a high temperature.</p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vew7s\">a high temperature and you've been treating it at home but it's not getting better or is getting worse</li></ul><p data-block-key=\"ed31e\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of a high temperature</h2>\n<p data-block-key=\"bfj6g\">Many things can cause a high temperature. It's not usually a sign of anything serious.</p><p data-block-key=\"5ikio\">It's often just caused by your body fighting an infection, such as a <a href=\"/conditions/common-cold/\">cold</a> or <a href=\"/conditions/flu/\">flu</a>.</p><p data-block-key=\"7ujt6\">Sometimes it could be a sign of something more serious if your temperature is very high or will not come down.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 24 May 2023<br/>\n    Next review due: 24 May 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

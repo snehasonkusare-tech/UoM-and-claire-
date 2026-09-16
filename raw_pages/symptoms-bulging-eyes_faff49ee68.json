@@ -1,0 +1,600 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/bulging-eyes/",
+  "final_url": "https://www.nhs.uk/symptoms/bulging-eyes/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:05.247479+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bulging eyes (exophthalmos)",
+      "url": "https://www.nhs.uk/symptoms/bulging-eyes/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Bulging eyes (exophthalmos)",
+  "meta_description": "Find out what can cause the eye to bulge and what treatments may help.",
+  "review_dates": {
+    "page_last_reviewed": "26 June 2026",
+    "next_review_due": "26 June 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what can cause the eye to bulge and what treatments may help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/bulging-eyes/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBulging eyes (exophthalmos)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what can cause the eye to bulge and what treatments may help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "1 Jul 2026, 11:59 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 4:59 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Bulging eyes (exophthalmos)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/bulging-eyes/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Bulging eyes (exophthalmos)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-01T10:59:57+00:00",
+      "description": "Find out what can cause the eye to bulge and what treatments may help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have bulging eyes, you may notice they seem to stick out more than usual and you can see more of the whites of your eyes.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "",
+                  "datePublished": "2017-09-25T10:53:59+00:00",
+                  "keywords": [
+                    "Eye health",
+                    "Exophthalmos",
+                    "bulging eye",
+                    "Double vision",
+                    "eyes",
+                    "thyroid eye disease",
+                    "eye condition",
+                    "thyroid"
+                  ],
+                  "license": "<p data-block-key=\"to2tx\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262818/view</p>",
+                  "name": "A close-up of a bulging eye from the side. The eye is sticking out more than usual and a lot of the white of the eyeball is showing.",
+                  "provider": "Science Photo Library",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.max-600x600.jpg"
+                }
+              ],
+              "text": ""
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may have bulging eyes if:</p><ul><li>your eyes seem to be sticking out more than usual</li><li>you can see less of your upper eye lids (your eyes might look like they’re open very wide)</li><li>you can see more of the whites of your eyes</li></ul><p>Any other symptoms you have will depend on what's causing your eyes to stick out, but could include:</p><ul><li>pain or problems closing your eyes or moving them around</li><li>dry eyes or feeling like there’s dirt or grit in them</li><li>your eyes are uncomfortable in, or sensitive to, bright light</li><li>blurred or double vision</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of bulging eyes",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A common cause of bulging eyes is a problem with the thyroid gland, but it can also be caused by other things such as an infection.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A common cause of bulging eyes is an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid gland (hyperthyroidism)</a>.</p><p>This is where the thyroid gland (a small gland in your neck), produces too much of the thyroid hormones.</p><p>Less common causes of bulging eyes include:</p><ul><li>an infection or injury around or behind your eyes</li><li>bleeding behind the eyes or problems with blood vessels behind the eyes</li><li>tumours, including those caused by <a href=\"/conditions/neuroblastoma/\">neuroblastoma</a> and some <a href=\"/conditions/soft-tissue-sarcoma/\">soft tissue sarcomas</a></li></ul>"
+            }
+          ],
+          "headline": "Causes of bulging eyes",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have a bulging eye or bulging eyes\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E immediately if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  your child's eye or eyes have just started bulging\n </li>\n<li>\n  your eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision\n </li>\n<li>\n  your eye or eyes have started bulging and you have a severe headache or feel sick\n </li>\n<li>\n  you have severe eye pain, or severe eye pain that started suddenly\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for bulging eyes depends on the cause. It might include eyedrops and medicine to treat any problems with your thyroid gland.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for bulging eyes depends on the cause.</p><p>You may need:</p><ul><li>eyedrops, gels or ointments</li><li>medicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)</li><li>surgery to correct any bulging that does not go away after other treatments</li></ul><p>If the cause is not clear, a GP may refer you to a specialist and you may need further tests.</p>"
+            }
+          ],
+          "headline": "Treatment for bulging eyes",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have bulging eyes, there are some things you can do to help the problem, such as raising your head while lying down and not smoking.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have bulging eyes, there are things you can do to help ease your symptoms.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>use pillows to keep your head raised up when lying down</p></li><li><p>wear sunglasses if your eyes are sensitive in bright light</p></li><li><p>if you wear contact lenses, take them out and wear glasses to rest your eyes</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not smoke or drink too much alcohol</p></li><li><p>do not spend too long in smoky, dry or dusty places</p></li><li><p>do not spend too long in air conditioned or heated rooms</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can do if you have bulging eyes",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bulging eyes (also called exophthalmos) are often caused by problems with the thyroid gland. Treatment is often needed.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Bulging eyes (exophthalmos)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bulging eyes (exophthalmos)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bulging eyes (exophthalmos)",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bulging eyes (exophthalmos)",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have bulging eyes, you may notice they seem to stick out more than usual and you can see more of the whites of your eyes.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A common cause of bulging eyes is a problem with the thyroid gland, but it can also be caused by other things such as an infection.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for bulging eyes depends on the cause. It might include eyedrops and medicine to treat any problems with your thyroid gland.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have bulging eyes, there are some things you can do to help the problem, such as raising your head while lying down and not smoking.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-06-25T23:00:00+00:00",
+        "2029-06-26T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Bulging eyes (exophthalmos)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Bulging eyes (exophthalmos)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/bulging-eyes/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/bulging-eyes/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of bulging eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of bulging eyes"
+        }
+      ],
+      "text": "Symptoms of bulging eyes\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262818/view\nYou may have bulging eyes if:\nyour eyes seem to be sticking out more than usual\nyou can see less of your upper eye lids (your eyes might look like they’re open very wide)\nyou can see more of the whites of your eyes\nAny other symptoms you have will depend on what's causing your eyes to stick out, but could include:\npain or problems closing your eyes or moving them around\ndry eyes or feeling like there’s dirt or grit in them\nyour eyes are uncomfortable in, or sensitive to, bright light\nblurred or double vision",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your eyes seem to be sticking out more than usual",
+            "you can see less of your upper eye lids (your eyes might look like they’re open very wide)",
+            "you can see more of the whites of your eyes"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "pain or problems closing your eyes or moving them around",
+            "dry eyes or feeling like there’s dirt or grit in them",
+            "your eyes are uncomfortable in, or sensitive to, bright light",
+            "blurred or double vision"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of bulging eyes</h2>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a bulging eye from the side. The eye is sticking out more than usual and a lot of the white of the eyeball is showing.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1534.jpg 1534w,\n    \"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"to2tx\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262818/view</p>\n</div>\n</figure>\n<p data-block-key=\"u7fdm\">You may have bulging eyes if:</p><ul><li data-block-key=\"fl9i8\">your eyes seem to be sticking out more than usual</li><li data-block-key=\"4llo2\">you can see less of your upper eye lids (your eyes might look like they’re open very wide)</li><li data-block-key=\"fttk0\">you can see more of the whites of your eyes</li></ul><p data-block-key=\"2paup\">Any other symptoms you have will depend on what's causing your eyes to stick out, but could include:</p><ul><li data-block-key=\"7d020\">pain or problems closing your eyes or moving them around</li><li data-block-key=\"b880j\">dry eyes or feeling like there’s dirt or grit in them</li><li data-block-key=\"at720\">your eyes are uncomfortable in, or sensitive to, bright light</li><li data-block-key=\"29hp\">blurred or double vision</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of bulging eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of bulging eyes"
+        }
+      ],
+      "text": "Causes of bulging eyes\nA common cause of bulging eyes is an\noveractive thyroid gland (hyperthyroidism)\n.\nThis is where the thyroid gland (a small gland in your neck), produces too much of the thyroid hormones.\nLess common causes of bulging eyes include:\nan infection or injury around or behind your eyes\nbleeding behind the eyes or problems with blood vessels behind the eyes\ntumours, including those caused by\nneuroblastoma\nand some\nsoft tissue sarcomas",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an infection or injury around or behind your eyes",
+            "bleeding behind the eyes or problems with blood vessels behind the eyes",
+            "tumours, including those caused by\nneuroblastoma\nand some\nsoft tissue sarcomas"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "overactive thyroid gland (hyperthyroidism)",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "neuroblastoma",
+          "url": "https://www.nhs.uk/conditions/neuroblastoma/"
+        },
+        {
+          "text": "soft tissue sarcomas",
+          "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of bulging eyes</h2>\n<p data-block-key=\"ajndn\">A common cause of bulging eyes is an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid gland (hyperthyroidism)</a>.</p><p data-block-key=\"nah2\">This is where the thyroid gland (a small gland in your neck), produces too much of the thyroid hormones.</p><p data-block-key=\"e5kn6\">Less common causes of bulging eyes include:</p><ul><li data-block-key=\"6pqgd\">an infection or injury around or behind your eyes</li><li data-block-key=\"5e3o2\">bleeding behind the eyes or problems with blood vessels behind the eyes</li><li data-block-key=\"2ju1i\">tumours, including those caused by <a href=\"/conditions/neuroblastoma/\">neuroblastoma</a> and some <a href=\"/conditions/soft-tissue-sarcoma/\">soft tissue sarcomas</a></li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have a bulging eye or bulging eyes",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have a bulging eye or bulging eyes"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"oi6xz\">you have a bulging eye or bulging eyes</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Immediate action required: Call 999 or go to A&E immediately if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E immediately if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E immediately if:\nyour child's eye or eyes have just started bulging\nyour eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision\nyour eye or eyes have started bulging and you have a severe headache or feel sick\nyou have severe eye pain, or severe eye pain that started suddenly\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your child's eye or eyes have just started bulging",
+            "your eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision",
+            "your eye or eyes have started bulging and you have a severe headache or feel sick",
+            "you have severe eye pain, or severe eye pain that started suddenly"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E immediately if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"p6d28\">your child's eye or eyes have just started bulging</li><li data-block-key=\"2go6b\">your eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision</li><li data-block-key=\"b2dja\">your eye or eyes have started bulging and you have a severe headache or feel sick</li><li data-block-key=\"enc80\">you have severe eye pain, or severe eye pain that started suddenly</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for bulging eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for bulging eyes"
+        }
+      ],
+      "text": "Treatment for bulging eyes\nTreatment for bulging eyes depends on the cause.\nYou may need:\neyedrops, gels or ointments\nmedicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)\nsurgery to correct any bulging that does not go away after other treatments\nIf the cause is not clear, a GP may refer you to a specialist and you may need further tests.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "eyedrops, gels or ointments",
+            "medicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)",
+            "surgery to correct any bulging that does not go away after other treatments"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for bulging eyes</h2>\n<p data-block-key=\"vtfea\">Treatment for bulging eyes depends on the cause.</p><p data-block-key=\"4it5h\">You may need:</p><ul><li data-block-key=\"fc17i\">eyedrops, gels or ointments</li><li data-block-key=\"10ke1\">medicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)</li><li data-block-key=\"4jfiv\">surgery to correct any bulging that does not go away after other treatments</li></ul><p data-block-key=\"2ao6o\">If the cause is not clear, a GP may refer you to a specialist and you may need further tests.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Things you can do if you have bulging eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do if you have bulging eyes"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can do if you have bulging eyes\nIf you have bulging eyes, there are things you can do to help ease your symptoms.\nDo\nuse pillows to keep your head raised up when lying down\nwear sunglasses if your eyes are sensitive in bright light\nif you wear contact lenses, take them out and wear glasses to rest your eyes\nDon’t\ndo not smoke or drink too much alcohol\ndo not spend too long in smoky, dry or dusty places\ndo not spend too long in air conditioned or heated rooms",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "use pillows to keep your head raised up when lying down",
+            "wear sunglasses if your eyes are sensitive in bright light",
+            "if you wear contact lenses, take them out and wear glasses to rest your eyes"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not smoke or drink too much alcohol",
+            "do not spend too long in smoky, dry or dusty places",
+            "do not spend too long in air conditioned or heated rooms"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do if you have bulging eyes</h2>\n<p data-block-key=\"kbdz1\">If you have bulging eyes, there are things you can do to help ease your symptoms.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qmsfb\">use pillows to keep your head raised up when lying down</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qmsfb\">wear sunglasses if your eyes are sensitive in bright light</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ipauc\">if you wear contact lenses, take them out and wear glasses to rest your eyes</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jqn79\">do not smoke or drink too much alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"xzu5p\">do not spend too long in smoky, dry or dusty places</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"xzu5p\">do not spend too long in air conditioned or heated rooms</p>\n</li>\n</ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of bulging eyes\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262818/view\nYou may have bulging eyes if:\nyour eyes seem to be sticking out more than usual\nyou can see less of your upper eye lids (your eyes might look like they’re open very wide)\nyou can see more of the whites of your eyes\nAny other symptoms you have will depend on what's causing your eyes to stick out, but could include:\npain or problems closing your eyes or moving them around\ndry eyes or feeling like there’s dirt or grit in them\nyour eyes are uncomfortable in, or sensitive to, bright light\nblurred or double vision\nCauses of bulging eyes\nA common cause of bulging eyes is an\noveractive thyroid gland (hyperthyroidism)\n.\nThis is where the thyroid gland (a small gland in your neck), produces too much of the thyroid hormones.\nLess common causes of bulging eyes include:\nan infection or injury around or behind your eyes\nbleeding behind the eyes or problems with blood vessels behind the eyes\ntumours, including those caused by\nneuroblastoma\nand some\nsoft tissue sarcomas\nNon-urgent advice:\nSee a GP if:\nyou have a bulging eye or bulging eyes\nImmediate action required:\nCall 999 or go to A&E immediately if:\nyour child's eye or eyes have just started bulging\nyour eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision\nyour eye or eyes have started bulging and you have a severe headache or feel sick\nyou have severe eye pain, or severe eye pain that started suddenly\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nTreatment for bulging eyes\nTreatment for bulging eyes depends on the cause.\nYou may need:\neyedrops, gels or ointments\nmedicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)\nsurgery to correct any bulging that does not go away after other treatments\nIf the cause is not clear, a GP may refer you to a specialist and you may need further tests.\nThings you can do if you have bulging eyes\nIf you have bulging eyes, there are things you can do to help ease your symptoms.\nDo\nuse pillows to keep your head raised up when lying down\nwear sunglasses if your eyes are sensitive in bright light\nif you wear contact lenses, take them out and wear glasses to rest your eyes\nDon’t\ndo not smoke or drink too much alcohol\ndo not spend too long in smoky, dry or dusty places\ndo not spend too long in air conditioned or heated rooms\nPage last reviewed: 26 June 2026\nNext review due: 26 June 2029",
+  "links": [
+    {
+      "text": "overactive thyroid gland (hyperthyroidism)",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "neuroblastoma",
+      "url": "https://www.nhs.uk/conditions/neuroblastoma/"
+    },
+    {
+      "text": "soft tissue sarcomas",
+      "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-320.jpg",
+      "alt": "A close-up of a bulging eye from the side. The eye is sticking out more than usual and a lot of the white of the eyeball is showing.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of bulging eyes</h2>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a bulging eye from the side. The eye is sticking out more than usual and a lot of the white of the eyeball is showing.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2700138.original.width-1534.jpg 1534w,\n    \"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"to2tx\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262818/view</p>\n</div>\n</figure>\n<p data-block-key=\"u7fdm\">You may have bulging eyes if:</p><ul><li data-block-key=\"fl9i8\">your eyes seem to be sticking out more than usual</li><li data-block-key=\"4llo2\">you can see less of your upper eye lids (your eyes might look like they’re open very wide)</li><li data-block-key=\"fttk0\">you can see more of the whites of your eyes</li></ul><p data-block-key=\"2paup\">Any other symptoms you have will depend on what's causing your eyes to stick out, but could include:</p><ul><li data-block-key=\"7d020\">pain or problems closing your eyes or moving them around</li><li data-block-key=\"b880j\">dry eyes or feeling like there’s dirt or grit in them</li><li data-block-key=\"at720\">your eyes are uncomfortable in, or sensitive to, bright light</li><li data-block-key=\"29hp\">blurred or double vision</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of bulging eyes</h2>\n<p data-block-key=\"ajndn\">A common cause of bulging eyes is an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid gland (hyperthyroidism)</a>.</p><p data-block-key=\"nah2\">This is where the thyroid gland (a small gland in your neck), produces too much of the thyroid hormones.</p><p data-block-key=\"e5kn6\">Less common causes of bulging eyes include:</p><ul><li data-block-key=\"6pqgd\">an infection or injury around or behind your eyes</li><li data-block-key=\"5e3o2\">bleeding behind the eyes or problems with blood vessels behind the eyes</li><li data-block-key=\"2ju1i\">tumours, including those caused by <a href=\"/conditions/neuroblastoma/\">neuroblastoma</a> and some <a href=\"/conditions/soft-tissue-sarcoma/\">soft tissue sarcomas</a></li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"oi6xz\">you have a bulging eye or bulging eyes</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E immediately if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"p6d28\">your child's eye or eyes have just started bulging</li><li data-block-key=\"2go6b\">your eye or eyes have started bulging and you have any changes to your vision, like wavy lines, flashing or loss of vision</li><li data-block-key=\"b2dja\">your eye or eyes have started bulging and you have a severe headache or feel sick</li><li data-block-key=\"enc80\">you have severe eye pain, or severe eye pain that started suddenly</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for bulging eyes</h2>\n<p data-block-key=\"vtfea\">Treatment for bulging eyes depends on the cause.</p><p data-block-key=\"4it5h\">You may need:</p><ul><li data-block-key=\"fc17i\">eyedrops, gels or ointments</li><li data-block-key=\"10ke1\">medicine prescribed by a doctor (if the bulging is caused by an infection, swelling, or a problem with your thyroid gland)</li><li data-block-key=\"4jfiv\">surgery to correct any bulging that does not go away after other treatments</li></ul><p data-block-key=\"2ao6o\">If the cause is not clear, a GP may refer you to a specialist and you may need further tests.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do if you have bulging eyes</h2>\n<p data-block-key=\"kbdz1\">If you have bulging eyes, there are things you can do to help ease your symptoms.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qmsfb\">use pillows to keep your head raised up when lying down</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qmsfb\">wear sunglasses if your eyes are sensitive in bright light</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ipauc\">if you wear contact lenses, take them out and wear glasses to rest your eyes</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jqn79\">do not smoke or drink too much alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"xzu5p\">do not spend too long in smoky, dry or dusty places</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"xzu5p\">do not spend too long in air conditioned or heated rooms</p>\n</li>\n</ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 26 June 2026<br/>\n    Next review due: 26 June 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,499 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/ovulation-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/ovulation-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:22.675461+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "O",
+      "label": "Ovulation pain",
+      "url": "https://www.nhs.uk/symptoms/ovulation-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Ovulation pain",
+  "meta_description": "NHS information about ovulation pain, including symptoms, treatments and when to get help.",
+  "review_dates": {
+    "page_last_reviewed": "17 July 2026",
+    "next_review_due": "17 July 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about ovulation pain, including symptoms, treatments and when to get help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/ovulation-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nOvulation pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about ovulation pain, including symptoms, treatments and when to get help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "29 Jul 2026, 1:37 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 2:20 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Ovulation pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/ovulation-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Ovulation pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-29T12:37:02+00:00",
+      "description": "NHS information about ovulation pain, including symptoms, treatments and when to get help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Ovulation pain ranges from dull cramps to sharp or sudden twinges, which can last from a few minutes to 1 or 2 days.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Some women get ovulation pain.</p><p>It can affect anyone who ovulates, which is when an egg is released as part of your menstrual cycle.</p><p>Ovulation pain often:</p><ul><li>feels like a dull pain or sharp sudden twinges</li><li>lasts from a few minutes to 1 or 2 days</li><li>happens about 14 days before a period</li><li>only affects 1 side of your tummy at a time</li><li>switches sides each time, depending on which ovary releases an egg</li></ul><p>You may also have a little vaginal bleeding or discharge during ovulation.</p>"
+            }
+          ],
+          "headline": "Symptoms of ovulation pain",
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Ovulation pain happens when an ovary releases an egg. Some conditions may also cause similar pain, such as endometriosis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Ovulation pain is caused by the ovary releasing the egg.</p><p>There are some conditions that may cause a similar pain.</p><p>These include:</p><ul><li>conditions that affect the womb or ovaries, such as <a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/ovarian-cyst/\">ovarian cysts</a></li><li>some sexually transmitted infections (STIs), such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li><li>scar tissue (adhesions) from surgery you've had near the ovaries, such as a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a></li><li>an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li></ul>"
+            }
+          ],
+          "headline": "Causes of ovulation pain",
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You should always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You have tummy pain and:\n</p>\n<ul>\n<li>\n  the pain is severe and painkillers have not helped\n </li>\n<li>\n  the pain keeps coming back\n </li>\n<li>\n  you think you may be pregnant\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A GP may advise treatment for ovulation pain, such as painkillers, or contraception to stop you ovulating, if the pain is severe.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If ovulation is the only cause of your pain and it's not severe, a warm bath or painkillers, such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, may be all you need.</p><p>A GP may advise <a href=\"/contraception/\">contraception</a> to stop you from ovulating, such as the contraceptive pill or a contraceptive implant.</p><p>If a GP thinks something else is causing the pain, they may refer you for tests or to see a specialist. Treatment will depend on what the cause is.</p>"
+            }
+          ],
+          "headline": "Treatment for ovulation pain",
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Ovulation pain is common and is felt on 1 side of your lower tummy about 14 days before your period. It's usually nothing to worry about.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ovulation pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Ovulation pain",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Ovulation pain",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Ovulation pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Ovulation pain happens when an ovary releases an egg. Some conditions may also cause similar pain, such as endometriosis.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Ovulation pain ranges from dull cramps to sharp or sudden twinges, which can last from a few minutes to 1 or 2 days.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A GP may advise treatment for ovulation pain, such as painkillers, or contraception to stop you ovulating, if the pain is severe.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-07-17T01:00:00+00:00",
+        "2029-07-17T01:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Ovulation pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Ovulation pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/ovulation-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/ovulation-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of ovulation pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of ovulation pain"
+        }
+      ],
+      "text": "Symptoms of ovulation pain\nSome women get ovulation pain.\nIt can affect anyone who ovulates, which is when an egg is released as part of your menstrual cycle.\nOvulation pain often:\nfeels like a dull pain or sharp sudden twinges\nlasts from a few minutes to 1 or 2 days\nhappens about 14 days before a period\nonly affects 1 side of your tummy at a time\nswitches sides each time, depending on which ovary releases an egg\nYou may also have a little vaginal bleeding or discharge during ovulation.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "feels like a dull pain or sharp sudden twinges",
+            "lasts from a few minutes to 1 or 2 days",
+            "happens about 14 days before a period",
+            "only affects 1 side of your tummy at a time",
+            "switches sides each time, depending on which ovary releases an egg"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of ovulation pain</h2>\n<p data-block-key=\"cw0y8\">Some women get ovulation pain.</p><p data-block-key=\"e4a3\">It can affect anyone who ovulates, which is when an egg is released as part of your menstrual cycle.</p><p data-block-key=\"7gbr8\">Ovulation pain often:</p><ul><li data-block-key=\"6un6j\">feels like a dull pain or sharp sudden twinges</li><li data-block-key=\"8gvm6\">lasts from a few minutes to 1 or 2 days</li><li data-block-key=\"1t55c\">happens about 14 days before a period</li><li data-block-key=\"cu9gt\">only affects 1 side of your tummy at a time</li><li data-block-key=\"8vkhp\">switches sides each time, depending on which ovary releases an egg</li></ul><p data-block-key=\"ap7jd\">You may also have a little vaginal bleeding or discharge during ovulation.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of ovulation pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of ovulation pain"
+        }
+      ],
+      "text": "Causes of ovulation pain\nOvulation pain is caused by the ovary releasing the egg.\nThere are some conditions that may cause a similar pain.\nThese include:\nconditions that affect the womb or ovaries, such as\nendometriosis\nand\novarian cysts\nsome sexually transmitted infections (STIs), such as\nchlamydia\nscar tissue (adhesions) from surgery you've had near the ovaries, such as a\ncaesarean section\nan\nectopic pregnancy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "conditions that affect the womb or ovaries, such as\nendometriosis\nand\novarian cysts",
+            "some sexually transmitted infections (STIs), such as\nchlamydia",
+            "scar tissue (adhesions) from surgery you've had near the ovaries, such as a\ncaesarean section",
+            "an\nectopic pregnancy"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "endometriosis",
+          "url": "https://www.nhs.uk/conditions/endometriosis/"
+        },
+        {
+          "text": "ovarian cysts",
+          "url": "https://www.nhs.uk/conditions/ovarian-cyst/"
+        },
+        {
+          "text": "chlamydia",
+          "url": "https://www.nhs.uk/conditions/chlamydia/"
+        },
+        {
+          "text": "caesarean section",
+          "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/"
+        },
+        {
+          "text": "ectopic pregnancy",
+          "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of ovulation pain</h2>\n<p data-block-key=\"cw0y8\">Ovulation pain is caused by the ovary releasing the egg.</p><p data-block-key=\"8p8lg\">There are some conditions that may cause a similar pain.</p><p data-block-key=\"bs0r1\">These include:</p><ul><li data-block-key=\"3tn19\">conditions that affect the womb or ovaries, such as <a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/ovarian-cyst/\">ovarian cysts</a></li><li data-block-key=\"bo4da\">some sexually transmitted infections (STIs), such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li><li data-block-key=\"dqkpn\">scar tissue (adhesions) from surgery you've had near the ovaries, such as a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a></li><li data-block-key=\"3bm7u\">an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "When and where to get medical help\nYou should always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nYou have tummy pain and:\nthe pain is severe and painkillers have not helped\nthe pain keeps coming back\nyou think you may be pregnant\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the pain is severe and painkillers have not helped",
+            "the pain keeps coming back",
+            "you think you may be pregnant"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"ah8xi\">You should always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"wxw7k\">You have tummy pain and:</p><ul><li data-block-key=\"ccptu\">the pain is severe and painkillers have not helped</li><li data-block-key=\"4vl35\">the pain keeps coming back</li><li data-block-key=\"fmv8s\">you think you may be pregnant</li></ul><p data-block-key=\"918d6\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment for ovulation pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for ovulation pain"
+        }
+      ],
+      "text": "Treatment for ovulation pain\nIf ovulation is the only cause of your pain and it's not severe, a warm bath or painkillers, such as\nparacetamol\nor\nibuprofen\n, may be all you need.\nA GP may advise\ncontraception\nto stop you from ovulating, such as the contraceptive pill or a contraceptive implant.\nIf a GP thinks something else is causing the pain, they may refer you for tests or to see a specialist. Treatment will depend on what the cause is.",
+      "lists": [],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "contraception",
+          "url": "https://www.nhs.uk/contraception/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for ovulation pain</h2>\n<p data-block-key=\"cw0y8\">If ovulation is the only cause of your pain and it's not severe, a warm bath or painkillers, such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, may be all you need.</p><p data-block-key=\"chchd\">A GP may advise <a href=\"/contraception/\">contraception</a> to stop you from ovulating, such as the contraceptive pill or a contraceptive implant.</p><p data-block-key=\"7ov2u\">If a GP thinks something else is causing the pain, they may refer you for tests or to see a specialist. Treatment will depend on what the cause is.</p>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of ovulation pain\nSome women get ovulation pain.\nIt can affect anyone who ovulates, which is when an egg is released as part of your menstrual cycle.\nOvulation pain often:\nfeels like a dull pain or sharp sudden twinges\nlasts from a few minutes to 1 or 2 days\nhappens about 14 days before a period\nonly affects 1 side of your tummy at a time\nswitches sides each time, depending on which ovary releases an egg\nYou may also have a little vaginal bleeding or discharge during ovulation.\nCauses of ovulation pain\nOvulation pain is caused by the ovary releasing the egg.\nThere are some conditions that may cause a similar pain.\nThese include:\nconditions that affect the womb or ovaries, such as\nendometriosis\nand\novarian cysts\nsome sexually transmitted infections (STIs), such as\nchlamydia\nscar tissue (adhesions) from surgery you've had near the ovaries, such as a\ncaesarean section\nan\nectopic pregnancy\nWhen and where to get medical help\nYou should always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nYou have tummy pain and:\nthe pain is severe and painkillers have not helped\nthe pain keeps coming back\nyou think you may be pregnant\nYou can call 111 or\nget help from 111 online\n.\nTreatment for ovulation pain\nIf ovulation is the only cause of your pain and it's not severe, a warm bath or painkillers, such as\nparacetamol\nor\nibuprofen\n, may be all you need.\nA GP may advise\ncontraception\nto stop you from ovulating, such as the contraceptive pill or a contraceptive implant.\nIf a GP thinks something else is causing the pain, they may refer you for tests or to see a specialist. Treatment will depend on what the cause is.\nPage last reviewed: 17 July 2026\nNext review due: 17 July 2029",
+  "links": [
+    {
+      "text": "endometriosis",
+      "url": "https://www.nhs.uk/conditions/endometriosis/"
+    },
+    {
+      "text": "ovarian cysts",
+      "url": "https://www.nhs.uk/conditions/ovarian-cyst/"
+    },
+    {
+      "text": "chlamydia",
+      "url": "https://www.nhs.uk/conditions/chlamydia/"
+    },
+    {
+      "text": "caesarean section",
+      "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/"
+    },
+    {
+      "text": "ectopic pregnancy",
+      "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "contraception",
+      "url": "https://www.nhs.uk/contraception/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of ovulation pain</h2>\n<p data-block-key=\"cw0y8\">Some women get ovulation pain.</p><p data-block-key=\"e4a3\">It can affect anyone who ovulates, which is when an egg is released as part of your menstrual cycle.</p><p data-block-key=\"7gbr8\">Ovulation pain often:</p><ul><li data-block-key=\"6un6j\">feels like a dull pain or sharp sudden twinges</li><li data-block-key=\"8gvm6\">lasts from a few minutes to 1 or 2 days</li><li data-block-key=\"1t55c\">happens about 14 days before a period</li><li data-block-key=\"cu9gt\">only affects 1 side of your tummy at a time</li><li data-block-key=\"8vkhp\">switches sides each time, depending on which ovary releases an egg</li></ul><p data-block-key=\"ap7jd\">You may also have a little vaginal bleeding or discharge during ovulation.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of ovulation pain</h2>\n<p data-block-key=\"cw0y8\">Ovulation pain is caused by the ovary releasing the egg.</p><p data-block-key=\"8p8lg\">There are some conditions that may cause a similar pain.</p><p data-block-key=\"bs0r1\">These include:</p><ul><li data-block-key=\"3tn19\">conditions that affect the womb or ovaries, such as <a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/ovarian-cyst/\">ovarian cysts</a></li><li data-block-key=\"bo4da\">some sexually transmitted infections (STIs), such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li><li data-block-key=\"dqkpn\">scar tissue (adhesions) from surgery you've had near the ovaries, such as a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a></li><li data-block-key=\"3bm7u\">an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li></ul>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"ah8xi\">You should always get medical advice for tummy pain that does not get better after taking painkillers or keeps coming back.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"wxw7k\">You have tummy pain and:</p><ul><li data-block-key=\"ccptu\">the pain is severe and painkillers have not helped</li><li data-block-key=\"4vl35\">the pain keeps coming back</li><li data-block-key=\"fmv8s\">you think you may be pregnant</li></ul><p data-block-key=\"918d6\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for ovulation pain</h2>\n<p data-block-key=\"cw0y8\">If ovulation is the only cause of your pain and it's not severe, a warm bath or painkillers, such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, may be all you need.</p><p data-block-key=\"chchd\">A GP may advise <a href=\"/contraception/\">contraception</a> to stop you from ovulating, such as the contraceptive pill or a contraceptive implant.</p><p data-block-key=\"7ov2u\">If a GP thinks something else is causing the pain, they may refer you for tests or to see a specialist. Treatment will depend on what the cause is.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 17 July 2026<br/>\n    Next review due: 17 July 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

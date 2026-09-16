@@ -1,0 +1,578 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/",
+  "final_url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:49.751384+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bleeding between periods or after sex, see Vaginal bleeding between periods or after sex",
+      "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "V",
+      "label": "Vaginal bleeding between periods or after sex",
+      "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Vaginal bleeding between periods or after sex",
+  "meta_description": "Find out about bleeding between periods or after sex, including what causes it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "13 August 2024",
+    "next_review_due": "13 August 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about bleeding between periods or after sex, including what causes it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Vaginal bleeding between periods or after sex"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about bleeding between periods or after sex, including what causes it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "2 Sep 2026, 10:53 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "14 Aug 2024, 4:17 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Bleeding between periods or after sex"
+        ],
+        "name": "Vaginal bleeding between periods or after sex"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Vaginal bleeding between periods or after sex"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-09-02T09:53:45+00:00",
+      "description": "Find out about bleeding between periods or after sex, including what causes it and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bleeding from your vagina between periods or after sex has many different causes. It's not usually serious, but always get it checked by a doctor.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding between periods or after sex",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding between periods or after sex",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Bleeding between periods or after sex can be caused by many things, including contraception, womb or cervix problems, infections or cancer.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To find the cause of bleeding between periods or after sex, you may need a pregnancy test, STI test and an examination of your vagina and cervix.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP or go to a sexual health clinic if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're bleeding between periods or after sex\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find a sexual health clinic\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)\n </li>\n</ul>\n<p>\n This could be a sign of an\n <a href=\"/conditions/ectopic-pregnancy/\">\n  ectopic pregnancy\n </a>\n and needs to be checked as soon as possible.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms/\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bleeding between periods or after sex can be caused by many things, including contraception, womb or cervix problems, infections or cancer.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Bleeding between periods or after sex can have lots of possible causes.</p><h3><b>Bleeding between periods</b></h3><p>Common causes of bleeding between periods include:</p><ul><li>hormonal <a href=\"/contraception/\">contraception</a>, such as the contraceptive pill</li><li>small growths in and around the womb, such as polyps or <a href=\"/conditions/fibroids/\">fibroids</a></li><li><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul><h3>Bleeding after sex</h3><p>Causes of bleeding after sex include:</p><ul><li>changes to the surface of the cervix (cervical ectropion)</li><li>small growths on the cervix (polyps)</li><li><a href=\"/symptoms/vaginal-dryness/\">vaginal dryness</a></li><li><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>Bleeding between periods or after sex can sometimes be a sign of cancer. Always get any unusual bleeding checked by a GP or sexual health clinic.</p>"
+            }
+          ],
+          "headline": "Causes of bleeding between periods or after sex",
+          "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To find the cause of bleeding between periods or after sex, you may need a pregnancy test, STI test and an examination of your vagina and cervix.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To find out what's causing bleeding between periods or after sex, a doctor or nurse will ask questions about your symptoms and medical history.</p><p>You may have tests including:</p><ul><li>a pregnancy test</li><li>a blood test</li><li>a test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)</li><li>an examination of your vagina and cervix</li></ul><p>Any treatment you need will depend on what's causing the bleeding.</p><p>If further tests are needed, you may be referred for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, <a href=\"/tests-and-treatments/colposcopy/\">colposcopy</a> or <a href=\"/tests-and-treatments/hysteroscopy/\">hysteroscopy</a>.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/#diagnosis"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-08-13T09:36:00+00:00",
+        "2027-08-13T09:36:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Vaginal bleeding between periods or after sex",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Symptoms A to Z",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/vaginal-bleeding-between-periods-or-after-sex/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "This page is about bleeding between periods or after sex. Find out about other kinds of unusual bleeding:\nperiod problems\nvaginal bleeding in pregnancy\n, including implantation bleeding, which can happen at the start of pregnancy\npostmenopausal bleeding",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "period problems",
+            "vaginal bleeding in pregnancy\n, including implantation bleeding, which can happen at the start of pregnancy",
+            "postmenopausal bleeding"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "period problems",
+          "url": "https://www.nhs.uk/conditions/periods/period-problems/"
+        },
+        {
+          "text": "vaginal bleeding in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+        },
+        {
+          "text": "postmenopausal bleeding",
+          "url": "https://www.nhs.uk/symptoms/post-menopausal-bleeding/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"9zzk9\">This page is about bleeding between periods or after sex. Find out about other kinds of unusual bleeding:</p><ul><li data-block-key=\"6g2o\"><a href=\"/conditions/periods/period-problems/\">period problems</a></li><li data-block-key=\"972mo\"><a href=\"/pregnancy/common-symptoms/vaginal-bleeding/\">vaginal bleeding in pregnancy</a>, including implantation bleeding, which can happen at the start of pregnancy</li><li data-block-key=\"a80ke\"><a href=\"/symptoms/post-menopausal-bleeding/\">postmenopausal bleeding</a></li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP or go to a sexual health clinic if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP or go to a sexual health clinic if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP or go to a sexual health clinic if:\nyou're bleeding between periods or after sex\nFind a sexual health clinic",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're bleeding between periods or after sex"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a sexual health clinic",
+          "url": "https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or go to a sexual health clinic if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vtv00\">you're bleeding between periods or after sex</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)\nThis could be a sign of an\nectopic pregnancy\nand needs to be checked as soon as possible.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ectopic pregnancy",
+          "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+        },
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vtv00\">you have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)</li></ul><p data-block-key=\"b8f2v\">This could be a sign of an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a> and needs to be checked as soon as possible.</p><p data-block-key=\"e3aca\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Causes of bleeding between periods or after sex",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of bleeding between periods or after sex"
+        },
+        {
+          "level": "h3",
+          "text": "Bleeding between periods"
+        },
+        {
+          "level": "h3",
+          "text": "Bleeding after sex"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Causes of bleeding between periods or after sex\nBleeding between periods or after sex can have lots of possible causes.\nBleeding between periods\nCommon causes of bleeding between periods include:\nhormonal\ncontraception\n, such as the contraceptive pill\nsmall growths in and around the womb, such as polyps or\nfibroids\nsexually transmitted infections (STIs)\n, such as\nchlamydia\nBleeding after sex\nCauses of bleeding after sex include:\nchanges to the surface of the cervix (cervical ectropion)\nsmall growths on the cervix (polyps)\nvaginal dryness\nsexually transmitted infections (STIs)\n, such as\nchlamydia\nImportant\nBleeding between periods or after sex can sometimes be a sign of cancer. Always get any unusual bleeding checked by a GP or sexual health clinic.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "hormonal\ncontraception\n, such as the contraceptive pill",
+            "small growths in and around the womb, such as polyps or\nfibroids",
+            "sexually transmitted infections (STIs)\n, such as\nchlamydia"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "changes to the surface of the cervix (cervical ectropion)",
+            "small growths on the cervix (polyps)",
+            "vaginal dryness",
+            "sexually transmitted infections (STIs)\n, such as\nchlamydia"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "contraception",
+          "url": "https://www.nhs.uk/contraception/"
+        },
+        {
+          "text": "fibroids",
+          "url": "https://www.nhs.uk/conditions/fibroids/"
+        },
+        {
+          "text": "sexually transmitted infections (STIs)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "chlamydia",
+          "url": "https://www.nhs.uk/conditions/chlamydia/"
+        },
+        {
+          "text": "vaginal dryness",
+          "url": "https://www.nhs.uk/symptoms/vaginal-dryness/"
+        },
+        {
+          "text": "sexually transmitted infections (STIs)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "chlamydia",
+          "url": "https://www.nhs.uk/conditions/chlamydia/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of bleeding between periods or after sex</h2>\n<p data-block-key=\"w9dvk\">Bleeding between periods or after sex can have lots of possible causes.</p><h3 data-block-key=\"2ocsc\"><b>Bleeding between periods</b></h3><p data-block-key=\"14g2d\">Common causes of bleeding between periods include:</p><ul><li data-block-key=\"m3si\">hormonal <a href=\"/contraception/\">contraception</a>, such as the contraceptive pill</li><li data-block-key=\"1jku6\">small growths in and around the womb, such as polyps or <a href=\"/conditions/fibroids/\">fibroids</a></li><li data-block-key=\"cp2pt\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul><h3 data-block-key=\"4tob\">Bleeding after sex</h3><p data-block-key=\"2rsre\">Causes of bleeding after sex include:</p><ul><li data-block-key=\"b3k79\">changes to the surface of the cervix (cervical ectropion)</li><li data-block-key=\"f9sio\">small growths on the cervix (polyps)</li><li data-block-key=\"2khc5\"><a href=\"/symptoms/vaginal-dryness/\">vaginal dryness</a></li><li data-block-key=\"a2e52\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"l6dlv\">Bleeding between periods or after sex can sometimes be a sign of cancer. Always get any unusual bleeding checked by a GP or sexual health clinic.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nTo find out what's causing bleeding between periods or after sex, a doctor or nurse will ask questions about your symptoms and medical history.\nYou may have tests including:\na pregnancy test\na blood test\na test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)\nan examination of your vagina and cervix\nAny treatment you need will depend on what's causing the bleeding.\nIf further tests are needed, you may be referred for an\nultrasound scan\n,\ncolposcopy\nor\nhysteroscopy\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a pregnancy test",
+            "a blood test",
+            "a test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)",
+            "an examination of your vagina and cervix"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        },
+        {
+          "text": "colposcopy",
+          "url": "https://www.nhs.uk/tests-and-treatments/colposcopy/"
+        },
+        {
+          "text": "hysteroscopy",
+          "url": "https://www.nhs.uk/tests-and-treatments/hysteroscopy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"w9dvk\">To find out what's causing bleeding between periods or after sex, a doctor or nurse will ask questions about your symptoms and medical history.</p><p data-block-key=\"6kkua\">You may have tests including:</p><ul><li data-block-key=\"1lkmf\">a pregnancy test</li><li data-block-key=\"7uf09\">a blood test</li><li data-block-key=\"3tv48\">a test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)</li><li data-block-key=\"5hgco\">an examination of your vagina and cervix</li></ul><p data-block-key=\"drvm\">Any treatment you need will depend on what's causing the bleeding.</p><p data-block-key=\"dljef\">If further tests are needed, you may be referred for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, <a href=\"/tests-and-treatments/colposcopy/\">colposcopy</a> or <a href=\"/tests-and-treatments/hysteroscopy/\">hysteroscopy</a>.</p>\n</section>"
+    }
+  ],
+  "page_text": "This page is about bleeding between periods or after sex. Find out about other kinds of unusual bleeding:\nperiod problems\nvaginal bleeding in pregnancy\n, including implantation bleeding, which can happen at the start of pregnancy\npostmenopausal bleeding\nNon-urgent advice:\nSee a GP or go to a sexual health clinic if:\nyou're bleeding between periods or after sex\nFind a sexual health clinic\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)\nThis could be a sign of an\nectopic pregnancy\nand needs to be checked as soon as possible.\nYou can call 111 or\nget help from 111 online\n.\nCauses of bleeding between periods or after sex\nBleeding between periods or after sex can have lots of possible causes.\nBleeding between periods\nCommon causes of bleeding between periods include:\nhormonal\ncontraception\n, such as the contraceptive pill\nsmall growths in and around the womb, such as polyps or\nfibroids\nsexually transmitted infections (STIs)\n, such as\nchlamydia\nBleeding after sex\nCauses of bleeding after sex include:\nchanges to the surface of the cervix (cervical ectropion)\nsmall growths on the cervix (polyps)\nvaginal dryness\nsexually transmitted infections (STIs)\n, such as\nchlamydia\nImportant\nBleeding between periods or after sex can sometimes be a sign of cancer. Always get any unusual bleeding checked by a GP or sexual health clinic.\nWhat happens at your appointment\nTo find out what's causing bleeding between periods or after sex, a doctor or nurse will ask questions about your symptoms and medical history.\nYou may have tests including:\na pregnancy test\na blood test\na test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)\nan examination of your vagina and cervix\nAny treatment you need will depend on what's causing the bleeding.\nIf further tests are needed, you may be referred for an\nultrasound scan\n,\ncolposcopy\nor\nhysteroscopy\n.",
+  "links": [
+    {
+      "text": "period problems",
+      "url": "https://www.nhs.uk/conditions/periods/period-problems/"
+    },
+    {
+      "text": "vaginal bleeding in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+    },
+    {
+      "text": "postmenopausal bleeding",
+      "url": "https://www.nhs.uk/symptoms/post-menopausal-bleeding/"
+    },
+    {
+      "text": "Find a sexual health clinic",
+      "url": "https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/"
+    },
+    {
+      "text": "ectopic pregnancy",
+      "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms/"
+    },
+    {
+      "text": "contraception",
+      "url": "https://www.nhs.uk/contraception/"
+    },
+    {
+      "text": "fibroids",
+      "url": "https://www.nhs.uk/conditions/fibroids/"
+    },
+    {
+      "text": "sexually transmitted infections (STIs)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "chlamydia",
+      "url": "https://www.nhs.uk/conditions/chlamydia/"
+    },
+    {
+      "text": "vaginal dryness",
+      "url": "https://www.nhs.uk/symptoms/vaginal-dryness/"
+    },
+    {
+      "text": "sexually transmitted infections (STIs)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "chlamydia",
+      "url": "https://www.nhs.uk/conditions/chlamydia/"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "colposcopy",
+      "url": "https://www.nhs.uk/tests-and-treatments/colposcopy/"
+    },
+    {
+      "text": "hysteroscopy",
+      "url": "https://www.nhs.uk/tests-and-treatments/hysteroscopy/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"9zzk9\">This page is about bleeding between periods or after sex. Find out about other kinds of unusual bleeding:</p><ul><li data-block-key=\"6g2o\"><a href=\"/conditions/periods/period-problems/\">period problems</a></li><li data-block-key=\"972mo\"><a href=\"/pregnancy/common-symptoms/vaginal-bleeding/\">vaginal bleeding in pregnancy</a>, including implantation bleeding, which can happen at the start of pregnancy</li><li data-block-key=\"a80ke\"><a href=\"/symptoms/post-menopausal-bleeding/\">postmenopausal bleeding</a></li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or go to a sexual health clinic if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vtv00\">you're bleeding between periods or after sex</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/nhs-services/sexual-health-services/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"vtv00\">you have recently missed a period, have unusual vaginal bleeding, and have pain anywhere in your tummy (abdomen), including your lower tummy (pelvic pain)</li></ul><p data-block-key=\"b8f2v\">This could be a sign of an <a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a> and needs to be checked as soon as possible.</p><p data-block-key=\"e3aca\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of bleeding between periods or after sex</h2>\n<p data-block-key=\"w9dvk\">Bleeding between periods or after sex can have lots of possible causes.</p><h3 data-block-key=\"2ocsc\"><b>Bleeding between periods</b></h3><p data-block-key=\"14g2d\">Common causes of bleeding between periods include:</p><ul><li data-block-key=\"m3si\">hormonal <a href=\"/contraception/\">contraception</a>, such as the contraceptive pill</li><li data-block-key=\"1jku6\">small growths in and around the womb, such as polyps or <a href=\"/conditions/fibroids/\">fibroids</a></li><li data-block-key=\"cp2pt\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul><h3 data-block-key=\"4tob\">Bleeding after sex</h3><p data-block-key=\"2rsre\">Causes of bleeding after sex include:</p><ul><li data-block-key=\"b3k79\">changes to the surface of the cervix (cervical ectropion)</li><li data-block-key=\"f9sio\">small growths on the cervix (polyps)</li><li data-block-key=\"2khc5\"><a href=\"/symptoms/vaginal-dryness/\">vaginal dryness</a></li><li data-block-key=\"a2e52\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infections (STIs)</a>, such as <a href=\"/conditions/chlamydia/\">chlamydia</a></li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"l6dlv\">Bleeding between periods or after sex can sometimes be a sign of cancer. Always get any unusual bleeding checked by a GP or sexual health clinic.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"w9dvk\">To find out what's causing bleeding between periods or after sex, a doctor or nurse will ask questions about your symptoms and medical history.</p><p data-block-key=\"6kkua\">You may have tests including:</p><ul><li data-block-key=\"1lkmf\">a pregnancy test</li><li data-block-key=\"7uf09\">a blood test</li><li data-block-key=\"3tv48\">a test for sexually transmitted infections (STIs), this may involve a urine test or taking a small sample of fluid from your vagina using a cotton bud (swab)</li><li data-block-key=\"5hgco\">an examination of your vagina and cervix</li></ul><p data-block-key=\"drvm\">Any treatment you need will depend on what's causing the bleeding.</p><p data-block-key=\"dljef\">If further tests are needed, you may be referred for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, <a href=\"/tests-and-treatments/colposcopy/\">colposcopy</a> or <a href=\"/tests-and-treatments/hysteroscopy/\">hysteroscopy</a>.</p>\n</section>\n</div>\n</div>\n</article>"
+}

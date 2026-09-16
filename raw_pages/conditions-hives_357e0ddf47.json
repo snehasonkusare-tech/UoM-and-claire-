@@ -1,0 +1,724 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/hives/",
+  "final_url": "https://www.nhs.uk/conditions/hives/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:57.154090+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hives",
+      "url": "https://www.nhs.uk/conditions/hives/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Hives",
+  "meta_description": "Find out about hives (also called urticaria), which is a raised, itchy rash that's usually caused by a reaction to things like food, pollen, insect bites or chemicals.",
+  "review_dates": {
+    "page_last_reviewed": "26 April 2024",
+    "next_review_due": "26 April 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about hives (also called urticaria), which is a raised, itchy rash that's usually caused by a reaction to things like food, pollen, insect bites or chemicals."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/hives/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHives\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about hives (also called urticaria), which is a raised, itchy rash that's usually caused by a reaction to things like food, pollen, insect bites or chemicals."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/nhsuk-cms/images/S_0619_Hives_M2800250_OG.original.width-1200.jpg"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "Raised, patchy rash from hives, shown on white skin. Some patches are round with a darker outline and pale pink centre."
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "30 Jul 2025, 12:24 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 1:26 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "Raised, patchy rash from hives, shown on white skin. Some patches are round with a darker outline and pale pink centre."
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Hives"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/hives/",
+              "genre": [
+                "Condition"
+              ],
+              "name": "Hives"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-30T11:24:37+00:00",
+      "description": "Find out about hives (also called urticaria), which is a raised, itchy rash that's usually caused by a reaction to things like food, pollen, insect bites or chemicals.",
+      "genre": [
+        "Condition"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptom of hives is a raised rash that's very itchy. It can look red, but this may be harder to see on brown and black skin.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The main symptom of hives is an itchy rash.</p><p>The rash can:</p><ul><li>be raised bumps or patches in many shapes and sizes</li><li>appear anywhere on the body</li><li>be on 1 area or spread across the body</li><li>feel itchy, sting or burn</li><li>look pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of hives",
+          "url": "https://www.nhs.uk/conditions/hives/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can usually treat hives with antihistamines from a pharmacy.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A pharmacist can give you advice about <a href=\"/medicines/antihistamines/\">antihistamine</a> treatment to help a hives rash.</p><p>Tell the pharmacist if you have a long-term condition, because you might not be able to take antihistamines.</p><p>This treatment might not be suitable for young children.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+              }
+            }
+          ],
+          "headline": "A pharmacist can help with hives",
+          "url": "https://www.nhs.uk/conditions/hives/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  symptoms of hives do not improve after 2 days\n </li>\n<li>\n  you're worried about your child's hives\n </li>\n<li>\n  the rash is spreading\n </li>\n<li>\n  hives keeps coming back (you may be allergic to something)\n </li>\n<li>\n  you also have a high temperature and feel unwell\n </li>\n<li>\n  you also have swelling under your skin (this might be\n  <a href=\"/conditions/angioedema/\">\n   angioedema\n  </a>\n  )\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/hives/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  your lips, mouth, throat or tongue suddenly become swollen\n </li>\n<li>\n  you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)\n </li>\n<li>\n  your throat feels tight or you're struggling to swallow\n </li>\n<li>\n  your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)\n </li>\n<li>\n  you suddenly become very confused, drowsy or dizzy\n </li>\n<li>\n  someone faints and cannot be woken up\n </li>\n<li>\n  a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)\n </li>\n</ul>\n<p>\n You or the person who's unwell may also have a rash that's swollen, raised or itchy.\n</p>\n<p>\n These can be signs of a serious allergic reaction and may need immediate treatment in hospital.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/hives/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can usually treat hives with antihistamines from a pharmacy. If it does not get better, a GP might prescribe antihistamines or steroids.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP might prescribe menthol cream, antihistamines or <a href=\"/medicines/steroids/\">steroid tablets</a>.</p><p>If hives does not go away with treatment, you may be referred to a skin specialist (dermatologist).</p>"
+            }
+          ],
+          "headline": "Treatment for hives from a GP",
+          "url": "https://www.nhs.uk/conditions/hives/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hives cannot always be prevented, but you can avoid triggers such as eating certain foods and contact with some plants, animals and chemicals.",
+          "hasHealthAspect": "http://schema.org/PreventionHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You get hives when something causes high levels of histamine and other chemicals to be released in your skin. This is known as a trigger.</p><p>Triggers can include:</p><ul><li>eating certain foods</li><li>contact with certain plants, animals, chemicals and latex</li><li>cold, such as cold water or wind</li><li>hot, sweaty skin from exercise, emotional stress or eating spicy food</li><li>a reaction to a medicine, insect bite or sting</li><li>scratching or pressing on your skin, such as wearing itchy or tight clothing</li><li>an infection</li><li>a problem with your immune system</li><li>water or sunlight, but this is rare</li></ul><p>Try to find out what triggers hives for you, so you can avoid those triggers, if possible. This may help prevent an episode of hives.</p>"
+            }
+          ],
+          "headline": "You cannot always prevent hives",
+          "url": "https://www.nhs.uk/conditions/hives/#prevention"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hives is an itchy, raised rash usually caused by a reaction to things like food, pollen, insect bites or chemicals.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Hives",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hives",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptom of hives is a raised rash that's very itchy. It can look red, but this may be harder to see on brown and black skin.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can usually treat hives with antihistamines from a pharmacy. If it does not get better, a GP might prescribe antihistamines or steroids.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/hives/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-04-25T23:00:00+00:00",
+        "2027-04-25T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Hives",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hives",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/hives/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/hives/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of hives",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of hives"
+        }
+      ],
+      "text": "Symptoms of hives\nThe main symptom of hives is an itchy rash.\nThe rash can:\nbe raised bumps or patches in many shapes and sizes\nappear anywhere on the body\nbe on 1 area or spread across the body\nfeel itchy, sting or burn\nlook pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin\nHere is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.\n1: White skin with hives rash (thumbnail).\n1\n2: White skin with hives rash (thumbnail).\n2\n3: Hives rash on light brown skin (thumbnail).\n3\n4: Hives rash on light brown skin (thumbnail).\n4\n5: Hives rash on light brown skin (thumbnail).\n5\n6: Dark brown skin with hives rash (thumbnail).\n6\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view\nLong description, image 1\nHives rash on the leg and hand of a child with white skin.\nThe skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.\nTheir hand is pink with some red patches between their thumb and finger and on their fingertips.\nCredit:\nElizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&stamp=2&imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&p=278658&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d\nLong description, image 2\nHives rash on the leg, arm and hand of a person with white skin.\nSmall, slightly raised pink spots cover their leg. Some are close together and some are further apart.\nThe same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.\nCredit:\nLoisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&stamp=2&imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&p=373224&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nLong description, image 3\nHives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.\nThere are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.\nCredit:\nkonmesa :https://www.shutterstock.com/image-photo/urticaria-301493921\nLong description, image 4\nHives rash on the cheek, chin and neck of a person with light brown skin.\nThere are about 50 raised bumps in different shapes and sizes.\nSome of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.\nCredit:\nArlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460\nLong description, image 5\nHives rash on the thigh and hip of a child with light brown skin.\nThere are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.\nSome patches are close to or join others, while some are further apart.\nSome patches are dark pink. Others are lighter pink with a darker pink border around the patch.\nThere's a long, dark pink patch spreading from their groin to their hip.\nCredit:\nApiwut Sookkasame\nhttps://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490\nLong description, image 6\nHives rash on the thigh of a person with dark brown skin.\nThere are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.\nThe skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.\nThe rash is the same colour as the person's skin.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "be raised bumps or patches in many shapes and sizes",
+            "appear anywhere on the body",
+            "be on 1 area or spread across the body",
+            "feel itchy, sting or burn",
+            "look pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "1: White skin with hives rash (thumbnail).\n1",
+            "2: White skin with hives rash (thumbnail).\n2",
+            "3: Hives rash on light brown skin (thumbnail).\n3",
+            "4: Hives rash on light brown skin (thumbnail).\n4",
+            "5: Hives rash on light brown skin (thumbnail).\n5",
+            "6: Dark brown skin with hives rash (thumbnail).\n6"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "1: White skin with hives rash (thumbnail). 1",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-1"
+        },
+        {
+          "text": "2: White skin with hives rash (thumbnail). 2",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-2"
+        },
+        {
+          "text": "3: Hives rash on light brown skin (thumbnail). 3",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-3"
+        },
+        {
+          "text": "4: Hives rash on light brown skin (thumbnail). 4",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-4"
+        },
+        {
+          "text": "5: Hives rash on light brown skin (thumbnail). 5",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-5"
+        },
+        {
+          "text": "6: Dark brown skin with hives rash (thumbnail). 6",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-6"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of hives</h2>\n<p data-block-key=\"vuxgp\">The main symptom of hives is an itchy rash.</p><p data-block-key=\"acp5u\">The rash can:</p><ul><li data-block-key=\"er8qi\">be raised bumps or patches in many shapes and sizes</li><li data-block-key=\"9ppcn\">appear anywhere on the body</li><li data-block-key=\"6opgs\">be on 1 area or spread across the body</li><li data-block-key=\"cj13e\">feel itchy, sting or burn</li><li data-block-key=\"9ka3l\">look pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin</li></ul>\n<section aria-label=\"Image gallery\" class=\"nhsuk-gallery\" data-module=\"nhsuk-gallery\">\n<span class=\"nhsuk-u-visually-hidden\">Here is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.</span>\n<ul class=\"nhsuk-gallery__list\">\n<li class=\"nhsuk-gallery__list-item nhsuk-gallery__list-item--selected\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 1: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-1\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">1: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">1</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 2: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-2\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">2: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">2</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 3: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-3\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">3: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">3</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 4: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-4\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">4: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">4</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 5: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-5\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">5: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">5</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 6: \"Dark brown skin with hives rash (thumbnail).\"' href=\"#gallery-image-6\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">6: Dark brown skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">6</span>\n</a>\n</li>\n</ul>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-1\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Hives rash on the thigh and hand of a child with white skin. A long description is available next.\" class=\"media__item\" id=\"image-1\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"uu1p5\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 1\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"ztsgi\">Hives rash on the leg and hand of a child with white skin.</p><p data-block-key=\"4m2ta\">The skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.</p><p data-block-key=\"731kn\">Their hand is pink with some red patches between their thumb and finger and on their fingertips.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-2\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A rash of hives spots on the leg, arm and hand of a person with white skin. A long description is available next.\" class=\"media__item\" id=\"image-2\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"m0rlm\">Elizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&amp;stamp=2&amp;imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&amp;p=278658&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 2\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the leg, arm and hand of a person with white skin.</p><p data-block-key=\"7q7vo\">Small, slightly raised pink spots cover their leg. Some are close together and some are further apart.</p><p data-block-key=\"e32k0\">The same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-3\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with small skin-coloured bumps from hives. A long description is available next.\" class=\"media__item\" id=\"image-3\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"vss35\">Loisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&amp;stamp=2&amp;imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&amp;p=373224&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 3\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.</p><p data-block-key=\"87iv7\">There are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-4\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with bumps that look like blisters from hives. A long description is available next.\" class=\"media__item\" id=\"image-4\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origi.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"dpszn\">konmesa :https://www.shutterstock.com/image-photo/urticaria-301493921</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 4\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the cheek, chin and neck of a person with light brown skin.</p><p data-block-key=\"am0e8\">There are about 50 raised bumps in different shapes and sizes.</p><p data-block-key=\"769k5\">Some of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-5\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A child with light brown skin and the hives rash on their leg and hip. A long description is available next.\" class=\"media__item\" id=\"image-5\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"z4u44\">Arlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 5\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the thigh and hip of a child with light brown skin.</p><p data-block-key=\"d4pm\">There are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.</p><p data-block-key=\"bah70\">Some patches are close to or join others, while some are further apart.</p><p data-block-key=\"9nj01\">Some patches are dark pink. Others are lighter pink with a darker pink border around the patch.</p><p data-block-key=\"7nejr\">There's a long, dark pink patch spreading from their groin to their hip.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-6\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Dark brown skin with many raised patches on the thigh from hives. A long description is available next.\" class=\"media__item\" id=\"image-6\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.orig.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"0bziq\">Apiwut Sookkasame<br/><br/>https://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 6\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"wh7w6\">Hives rash on the thigh of a person with dark brown skin.</p><p data-block-key=\"1u6qi\">There are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.</p><p data-block-key=\"1ks7j\">The skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.</p><p data-block-key=\"8760r\">The rash is the same colour as the person's skin.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n</section>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Here is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.\n1: White skin with hives rash (thumbnail).\n1\n2: White skin with hives rash (thumbnail).\n2\n3: Hives rash on light brown skin (thumbnail).\n3\n4: Hives rash on light brown skin (thumbnail).\n4\n5: Hives rash on light brown skin (thumbnail).\n5\n6: Dark brown skin with hives rash (thumbnail).\n6\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view\nLong description, image 1\nHives rash on the leg and hand of a child with white skin.\nThe skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.\nTheir hand is pink with some red patches between their thumb and finger and on their fingertips.\nCredit:\nElizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&stamp=2&imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&p=278658&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d\nLong description, image 2\nHives rash on the leg, arm and hand of a person with white skin.\nSmall, slightly raised pink spots cover their leg. Some are close together and some are further apart.\nThe same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.\nCredit:\nLoisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&stamp=2&imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&p=373224&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nLong description, image 3\nHives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.\nThere are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.\nCredit:\nkonmesa :https://www.shutterstock.com/image-photo/urticaria-301493921\nLong description, image 4\nHives rash on the cheek, chin and neck of a person with light brown skin.\nThere are about 50 raised bumps in different shapes and sizes.\nSome of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.\nCredit:\nArlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460\nLong description, image 5\nHives rash on the thigh and hip of a child with light brown skin.\nThere are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.\nSome patches are close to or join others, while some are further apart.\nSome patches are dark pink. Others are lighter pink with a darker pink border around the patch.\nThere's a long, dark pink patch spreading from their groin to their hip.\nCredit:\nApiwut Sookkasame\nhttps://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490\nLong description, image 6\nHives rash on the thigh of a person with dark brown skin.\nThere are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.\nThe skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.\nThe rash is the same colour as the person's skin.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "1: White skin with hives rash (thumbnail).\n1",
+            "2: White skin with hives rash (thumbnail).\n2",
+            "3: Hives rash on light brown skin (thumbnail).\n3",
+            "4: Hives rash on light brown skin (thumbnail).\n4",
+            "5: Hives rash on light brown skin (thumbnail).\n5",
+            "6: Dark brown skin with hives rash (thumbnail).\n6"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "1: White skin with hives rash (thumbnail). 1",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-1"
+        },
+        {
+          "text": "2: White skin with hives rash (thumbnail). 2",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-2"
+        },
+        {
+          "text": "3: Hives rash on light brown skin (thumbnail). 3",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-3"
+        },
+        {
+          "text": "4: Hives rash on light brown skin (thumbnail). 4",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-4"
+        },
+        {
+          "text": "5: Hives rash on light brown skin (thumbnail). 5",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-5"
+        },
+        {
+          "text": "6: Dark brown skin with hives rash (thumbnail). 6",
+          "url": "https://www.nhs.uk/conditions/hives/#gallery-image-6"
+        }
+      ],
+      "html": "<section aria-label=\"Image gallery\" class=\"nhsuk-gallery\" data-module=\"nhsuk-gallery\">\n<span class=\"nhsuk-u-visually-hidden\">Here is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.</span>\n<ul class=\"nhsuk-gallery__list\">\n<li class=\"nhsuk-gallery__list-item nhsuk-gallery__list-item--selected\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 1: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-1\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">1: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">1</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 2: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-2\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">2: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">2</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 3: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-3\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">3: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">3</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 4: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-4\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">4: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">4</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 5: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-5\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">5: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">5</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 6: \"Dark brown skin with hives rash (thumbnail).\"' href=\"#gallery-image-6\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">6: Dark brown skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">6</span>\n</a>\n</li>\n</ul>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-1\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Hives rash on the thigh and hand of a child with white skin. A long description is available next.\" class=\"media__item\" id=\"image-1\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"uu1p5\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 1\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"ztsgi\">Hives rash on the leg and hand of a child with white skin.</p><p data-block-key=\"4m2ta\">The skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.</p><p data-block-key=\"731kn\">Their hand is pink with some red patches between their thumb and finger and on their fingertips.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-2\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A rash of hives spots on the leg, arm and hand of a person with white skin. A long description is available next.\" class=\"media__item\" id=\"image-2\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"m0rlm\">Elizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&amp;stamp=2&amp;imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&amp;p=278658&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 2\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the leg, arm and hand of a person with white skin.</p><p data-block-key=\"7q7vo\">Small, slightly raised pink spots cover their leg. Some are close together and some are further apart.</p><p data-block-key=\"e32k0\">The same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-3\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with small skin-coloured bumps from hives. A long description is available next.\" class=\"media__item\" id=\"image-3\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"vss35\">Loisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&amp;stamp=2&amp;imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&amp;p=373224&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 3\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.</p><p data-block-key=\"87iv7\">There are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-4\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with bumps that look like blisters from hives. A long description is available next.\" class=\"media__item\" id=\"image-4\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origi.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"dpszn\">konmesa :https://www.shutterstock.com/image-photo/urticaria-301493921</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 4\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the cheek, chin and neck of a person with light brown skin.</p><p data-block-key=\"am0e8\">There are about 50 raised bumps in different shapes and sizes.</p><p data-block-key=\"769k5\">Some of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-5\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A child with light brown skin and the hives rash on their leg and hip. A long description is available next.\" class=\"media__item\" id=\"image-5\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"z4u44\">Arlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 5\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the thigh and hip of a child with light brown skin.</p><p data-block-key=\"d4pm\">There are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.</p><p data-block-key=\"bah70\">Some patches are close to or join others, while some are further apart.</p><p data-block-key=\"9nj01\">Some patches are dark pink. Others are lighter pink with a darker pink border around the patch.</p><p data-block-key=\"7nejr\">There's a long, dark pink patch spreading from their groin to their hip.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-6\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Dark brown skin with many raised patches on the thigh from hives. A long description is available next.\" class=\"media__item\" id=\"image-6\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.orig.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"0bziq\">Apiwut Sookkasame<br/><br/>https://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 6\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"wh7w6\">Hives rash on the thigh of a person with dark brown skin.</p><p data-block-key=\"1u6qi\">There are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.</p><p data-block-key=\"1ks7j\">The skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.</p><p data-block-key=\"8760r\">The rash is the same colour as the person's skin.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "If you're not sure it's hives",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "If you're not sure it's hives"
+        }
+      ],
+      "text": "If you're not sure it's hives\nFind out about other\nrashes in babies and children\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "rashes in babies and children",
+          "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"6g1l3\">If you're not sure it's hives</h3><p data-block-key=\"a214p\">Find out about other <a href=\"/symptoms/rashes-babies-and-children/\">rashes in babies and children</a>.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "A pharmacist can help with hives",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with hives"
+        }
+      ],
+      "text": "A pharmacist can help with hives\nA pharmacist can give you advice about\nantihistamine\ntreatment to help a hives rash.\nTell the pharmacist if you have a long-term condition, because you might not be able to take antihistamines.\nThis treatment might not be suitable for young children.\nFind a pharmacy",
+      "lists": [],
+      "links": [
+        {
+          "text": "antihistamine",
+          "url": "https://www.nhs.uk/medicines/antihistamines/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">A pharmacist can help with hives</h2>\n<p data-block-key=\"80bff\">A pharmacist can give you advice about <a href=\"/medicines/antihistamines/\">antihistamine</a> treatment to help a hives rash.</p><p data-block-key=\"fvc7z\">Tell the pharmacist if you have a long-term condition, because you might not be able to take antihistamines.</p><p data-block-key=\"tnjmj\">This treatment might not be suitable for young children.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nsymptoms of hives do not improve after 2 days\nyou're worried about your child's hives\nthe rash is spreading\nhives keeps coming back (you may be allergic to something)\nyou also have a high temperature and feel unwell\nyou also have swelling under your skin (this might be\nangioedema\n)\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "symptoms of hives do not improve after 2 days",
+            "you're worried about your child's hives",
+            "the rash is spreading",
+            "hives keeps coming back (you may be allergic to something)",
+            "you also have a high temperature and feel unwell",
+            "you also have swelling under your skin (this might be\nangioedema\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kazyz\">symptoms of hives do not improve after 2 days</li><li data-block-key=\"8uwge\">you're worried about your child's hives</li><li data-block-key=\"b58cf\">the rash is spreading</li><li data-block-key=\"8sr1l\">hives keeps coming back (you may be allergic to something)</li><li data-block-key=\"0s47t\">you also have a high temperature and feel unwell</li><li data-block-key=\"n1190\">you also have swelling under your skin (this might be <a href=\"/conditions/angioedema/\">angioedema</a>)</li></ul><p data-block-key=\"isl2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nyour lips, mouth, throat or tongue suddenly become swollen\nyou're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)\nyour throat feels tight or you're struggling to swallow\nyour skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)\nyou suddenly become very confused, drowsy or dizzy\nsomeone faints and cannot be woken up\na child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)\nYou or the person who's unwell may also have a rash that's swollen, raised or itchy.\nThese can be signs of a serious allergic reaction and may need immediate treatment in hospital.\nFind your nearest A&E",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your lips, mouth, throat or tongue suddenly become swollen",
+            "you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)",
+            "your throat feels tight or you're struggling to swallow",
+            "your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)",
+            "you suddenly become very confused, drowsy or dizzy",
+            "someone faints and cannot be woken up",
+            "a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"aoldi\">your lips, mouth, throat or tongue suddenly become swollen</li><li data-block-key=\"2edlt\">you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)</li><li data-block-key=\"c5ts1\">your throat feels tight or you're struggling to swallow</li><li data-block-key=\"3bntj\">your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)</li><li data-block-key=\"3iecv\">you suddenly become very confused, drowsy or dizzy</li><li data-block-key=\"3g1l2\">someone faints and cannot be woken up</li><li data-block-key=\"7fv9e\">a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)</li></ul><p data-block-key=\"4skoc\">You or the person who's unwell may also have a rash that's swollen, raised or itchy.</p><p data-block-key=\"d0011\">These can be signs of a serious allergic reaction and may need immediate treatment in hospital.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Treatment for hives from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for hives from a GP"
+        }
+      ],
+      "text": "Treatment for hives from a GP\nA GP might prescribe menthol cream, antihistamines or\nsteroid tablets\n.\nIf hives does not go away with treatment, you may be referred to a skin specialist (dermatologist).",
+      "lists": [],
+      "links": [
+        {
+          "text": "steroid tablets",
+          "url": "https://www.nhs.uk/medicines/steroids/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for hives from a GP</h2>\n<p data-block-key=\"5tlu1\">A GP might prescribe menthol cream, antihistamines or <a href=\"/medicines/steroids/\">steroid tablets</a>.</p><p data-block-key=\"3l8ym\">If hives does not go away with treatment, you may be referred to a skin specialist (dermatologist).</p>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "You cannot always prevent hives",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "You cannot always prevent hives"
+        }
+      ],
+      "text": "You cannot always prevent hives\nYou get hives when something causes high levels of histamine and other chemicals to be released in your skin. This is known as a trigger.\nTriggers can include:\neating certain foods\ncontact with certain plants, animals, chemicals and latex\ncold, such as cold water or wind\nhot, sweaty skin from exercise, emotional stress or eating spicy food\na reaction to a medicine, insect bite or sting\nscratching or pressing on your skin, such as wearing itchy or tight clothing\nan infection\na problem with your immune system\nwater or sunlight, but this is rare\nTry to find out what triggers hives for you, so you can avoid those triggers, if possible. This may help prevent an episode of hives.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "eating certain foods",
+            "contact with certain plants, animals, chemicals and latex",
+            "cold, such as cold water or wind",
+            "hot, sweaty skin from exercise, emotional stress or eating spicy food",
+            "a reaction to a medicine, insect bite or sting",
+            "scratching or pressing on your skin, such as wearing itchy or tight clothing",
+            "an infection",
+            "a problem with your immune system",
+            "water or sunlight, but this is rare"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"prevention\">You cannot always prevent hives</h2>\n<p data-block-key=\"54q0c\">You get hives when something causes high levels of histamine and other chemicals to be released in your skin. This is known as a trigger.</p><p data-block-key=\"nnqmp\">Triggers can include:</p><ul><li data-block-key=\"vduc7\">eating certain foods</li><li data-block-key=\"98z9a\">contact with certain plants, animals, chemicals and latex</li><li data-block-key=\"fnb82\">cold, such as cold water or wind</li><li data-block-key=\"f7aqb\">hot, sweaty skin from exercise, emotional stress or eating spicy food</li><li data-block-key=\"fy7o0\">a reaction to a medicine, insect bite or sting</li><li data-block-key=\"7bwmt\">scratching or pressing on your skin, such as wearing itchy or tight clothing</li><li data-block-key=\"t4j98\">an infection</li><li data-block-key=\"146ca\">a problem with your immune system</li><li data-block-key=\"7xckt\">water or sunlight, but this is rare</li></ul><p data-block-key=\"v48vr\">Try to find out what triggers hives for you, so you can avoid those triggers, if possible. This may help prevent an episode of hives.</p>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of hives\nThe main symptom of hives is an itchy rash.\nThe rash can:\nbe raised bumps or patches in many shapes and sizes\nappear anywhere on the body\nbe on 1 area or spread across the body\nfeel itchy, sting or burn\nlook pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin\nHere is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.\n1: White skin with hives rash (thumbnail).\n1\n2: White skin with hives rash (thumbnail).\n2\n3: Hives rash on light brown skin (thumbnail).\n3\n4: Hives rash on light brown skin (thumbnail).\n4\n5: Hives rash on light brown skin (thumbnail).\n5\n6: Dark brown skin with hives rash (thumbnail).\n6\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view\nLong description, image 1\nHives rash on the leg and hand of a child with white skin.\nThe skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.\nTheir hand is pink with some red patches between their thumb and finger and on their fingertips.\nCredit:\nElizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&stamp=2&imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&p=278658&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d\nLong description, image 2\nHives rash on the leg, arm and hand of a person with white skin.\nSmall, slightly raised pink spots cover their leg. Some are close together and some are further apart.\nThe same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.\nCredit:\nLoisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&stamp=2&imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&p=373224&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nLong description, image 3\nHives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.\nThere are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.\nCredit:\nkonmesa :https://www.shutterstock.com/image-photo/urticaria-301493921\nLong description, image 4\nHives rash on the cheek, chin and neck of a person with light brown skin.\nThere are about 50 raised bumps in different shapes and sizes.\nSome of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.\nCredit:\nArlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460\nLong description, image 5\nHives rash on the thigh and hip of a child with light brown skin.\nThere are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.\nSome patches are close to or join others, while some are further apart.\nSome patches are dark pink. Others are lighter pink with a darker pink border around the patch.\nThere's a long, dark pink patch spreading from their groin to their hip.\nCredit:\nApiwut Sookkasame\nhttps://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490\nLong description, image 6\nHives rash on the thigh of a person with dark brown skin.\nThere are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.\nThe skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.\nThe rash is the same colour as the person's skin.\nIf you're not sure it's hives\nFind out about other\nrashes in babies and children\n.\nA pharmacist can help with hives\nA pharmacist can give you advice about\nantihistamine\ntreatment to help a hives rash.\nTell the pharmacist if you have a long-term condition, because you might not be able to take antihistamines.\nThis treatment might not be suitable for young children.\nFind a pharmacy\nNon-urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nsymptoms of hives do not improve after 2 days\nyou're worried about your child's hives\nthe rash is spreading\nhives keeps coming back (you may be allergic to something)\nyou also have a high temperature and feel unwell\nyou also have swelling under your skin (this might be\nangioedema\n)\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 if:\nyour lips, mouth, throat or tongue suddenly become swollen\nyou're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)\nyour throat feels tight or you're struggling to swallow\nyour skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)\nyou suddenly become very confused, drowsy or dizzy\nsomeone faints and cannot be woken up\na child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)\nYou or the person who's unwell may also have a rash that's swollen, raised or itchy.\nThese can be signs of a serious allergic reaction and may need immediate treatment in hospital.\nFind your nearest A&E\nTreatment for hives from a GP\nA GP might prescribe menthol cream, antihistamines or\nsteroid tablets\n.\nIf hives does not go away with treatment, you may be referred to a skin specialist (dermatologist).\nYou cannot always prevent hives\nYou get hives when something causes high levels of histamine and other chemicals to be released in your skin. This is known as a trigger.\nTriggers can include:\neating certain foods\ncontact with certain plants, animals, chemicals and latex\ncold, such as cold water or wind\nhot, sweaty skin from exercise, emotional stress or eating spicy food\na reaction to a medicine, insect bite or sting\nscratching or pressing on your skin, such as wearing itchy or tight clothing\nan infection\na problem with your immune system\nwater or sunlight, but this is rare\nTry to find out what triggers hives for you, so you can avoid those triggers, if possible. This may help prevent an episode of hives.\nPage last reviewed: 26 April 2024\nNext review due: 26 April 2027",
+  "links": [
+    {
+      "text": "1: White skin with hives rash (thumbnail). 1",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-1"
+    },
+    {
+      "text": "2: White skin with hives rash (thumbnail). 2",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-2"
+    },
+    {
+      "text": "3: Hives rash on light brown skin (thumbnail). 3",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-3"
+    },
+    {
+      "text": "4: Hives rash on light brown skin (thumbnail). 4",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-4"
+    },
+    {
+      "text": "5: Hives rash on light brown skin (thumbnail). 5",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-5"
+    },
+    {
+      "text": "6: Dark brown skin with hives rash (thumbnail). 6",
+      "url": "https://www.nhs.uk/conditions/hives/#gallery-image-6"
+    },
+    {
+      "text": "rashes in babies and children",
+      "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+    },
+    {
+      "text": "antihistamine",
+      "url": "https://www.nhs.uk/medicines/antihistamines/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+    },
+    {
+      "text": "angioedema",
+      "url": "https://www.nhs.uk/conditions/angioedema/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+    },
+    {
+      "text": "steroid tablets",
+      "url": "https://www.nhs.uk/medicines/steroids/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg",
+      "alt": "",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "Hives rash on the thigh and hand of a child with white skin. A long description is available next.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "A rash of hives spots on the leg, arm and hand of a person with white skin. A long description is available next.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg",
+      "alt": "Light brown skin with small skin-coloured bumps from hives. A long description is available next.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg",
+      "alt": "Light brown skin with bumps that look like blisters from hives. A long description is available next.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg",
+      "alt": "A child with light brown skin and the hives rash on their leg and hip. A long description is available next.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg",
+      "alt": "Dark brown skin with many raised patches on the thigh from hives. A long description is available next.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of hives</h2>\n<p data-block-key=\"vuxgp\">The main symptom of hives is an itchy rash.</p><p data-block-key=\"acp5u\">The rash can:</p><ul><li data-block-key=\"er8qi\">be raised bumps or patches in many shapes and sizes</li><li data-block-key=\"9ppcn\">appear anywhere on the body</li><li data-block-key=\"6opgs\">be on 1 area or spread across the body</li><li data-block-key=\"cj13e\">feel itchy, sting or burn</li><li data-block-key=\"9ka3l\">look pink or red when affecting someone with white skin; the colour of the rash can be harder to see on brown and black skin</li></ul>\n<section aria-label=\"Image gallery\" class=\"nhsuk-gallery\" data-module=\"nhsuk-gallery\">\n<span class=\"nhsuk-u-visually-hidden\">Here is an image gallery with images and detailed descriptions. Select an image tab to get the bigger version of the image and to access the description.</span>\n<ul class=\"nhsuk-gallery__list\">\n<li class=\"nhsuk-gallery__list-item nhsuk-gallery__list-item--selected\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 1: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-1\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">1: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">1</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 2: \"White skin with hives rash (thumbnail).\"' href=\"#gallery-image-2\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">2: White skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">2</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 3: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-3\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">3: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">3</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 4: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-4\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">4: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">4</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 5: \"Hives rash on light brown skin (thumbnail).\"' href=\"#gallery-image-5\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">5: Hives rash on light brown skin (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">5</span>\n</a>\n</li>\n<li class=\"nhsuk-gallery__list-item\">\n<a class=\"nhsuk-gallery__tab\" data-event-trigger=\"click\" data-event-value='Image gallery tab 6: \"Dark brown skin with hives rash (thumbnail).\"' href=\"#gallery-image-6\">\n<img alt=\"\" aria-hidden=\"true\" class=\"nhsuk-gallery__tab__image\" height=\"100\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" width=\"150\"/>\n<span class=\"nhsuk-gallery__tab__text\">6: Dark brown skin with hives rash (thumbnail).</span>\n<span aria-hidden=\"true\" class=\"nhsuk-gallery__list-item__counter\">6</span>\n</a>\n</li>\n</ul>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-1\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Hives rash on the thigh and hand of a child with white skin. A long description is available next.\" class=\"media__item\" id=\"image-1\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/C0269180-Urticaria-SPL.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"uu1p5\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694159/view</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 1\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"ztsgi\">Hives rash on the leg and hand of a child with white skin.</p><p data-block-key=\"4m2ta\">The skin on most of their thigh is pink, raised and bumpy. At the side of their thigh, close to their hand, are deep creases in the skin.</p><p data-block-key=\"731kn\">Their hand is pink with some red patches between their thumb and finger and on their fingertips.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-2\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A rash of hives spots on the leg, arm and hand of a person with white skin. A long description is available next.\" class=\"media__item\" id=\"image-2\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/GDR5M4.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"m0rlm\">Elizabeth Nunn / Alamy Stock Photo https://www.alamy.com/stock-photo-an-urticarial-rash-caused-by-an-allergic-reaction-to-penicillin-111762116.html?pv=1&amp;stamp=2&amp;imageid=261CE1C1-DA64-4EAE-8D55-1794DA842BD3&amp;p=278658&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dGDR5M4%26qt_raw%3dGDR5M4%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 2\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the leg, arm and hand of a person with white skin.</p><p data-block-key=\"7q7vo\">Small, slightly raised pink spots cover their leg. Some are close together and some are further apart.</p><p data-block-key=\"e32k0\">The same spotty rash spreads along the side of their arm and across the top of their hand. The knuckles and fingertips are red.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-3\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with small skin-coloured bumps from hives. A long description is available next.\" class=\"media__item\" id=\"image-3\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/AP98R8.original.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"vss35\">Loisjoy Thurstun / Alamy Stock Photo https://www.alamy.com/close-up-of-toddler-with-urticaria-caused-by-sensitivity-to-plum-skins-image8981367.html?pv=1&amp;stamp=2&amp;imageid=51FCF349-CE6C-46DB-B51B-CBCAE97EA94D&amp;p=373224&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAP98R8%26qt_raw%3DAP98R8%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 3\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5p87y\">Hives rash on the knee of a person with light brown skin. The skin is slightly darker brown around where the rash is.</p><p data-block-key=\"87iv7\">There are many skin-coloured bumps on and around the knee which vary in size from around 2mm to 1cm. The larger bumps look puffy like blisters. Some bumps are very close together in groups.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-4\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Light brown skin with bumps that look like blisters from hives. A long description is available next.\" class=\"media__item\" id=\"image-4\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origin.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_301493921_copy.origi.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"dpszn\">konmesa :https://www.shutterstock.com/image-photo/urticaria-301493921</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 4\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the cheek, chin and neck of a person with light brown skin.</p><p data-block-key=\"am0e8\">There are about 50 raised bumps in different shapes and sizes.</p><p data-block-key=\"769k5\">Some of the bumps are small circles and others are larger, uneven shapes. Most are close together in groups, but some are further apart. The bumps are a lighter brown than the surrounding skin and look puffy, like blisters.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-5\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"A child with light brown skin and the hives rash on their leg and hip. A long description is available next.\" class=\"media__item\" id=\"image-5\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1101565460.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"z4u44\">Arlee. P: https://www.shutterstock.com/image-photo/child-symptoms-itchy-urticaria-body-arm-1101565460</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 5\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xr3zv\">Hives rash on the thigh and hip of a child with light brown skin.</p><p data-block-key=\"d4pm\">There are about 20 patches of pink skin in different shapes and sizes. The patches are mainly flat and vary in size from around 1cm to 8cm.</p><p data-block-key=\"bah70\">Some patches are close to or join others, while some are further apart.</p><p data-block-key=\"9nj01\">Some patches are dark pink. Others are lighter pink with a darker pink border around the patch.</p><p data-block-key=\"7nejr\">There's a long, dark pink patch spreading from their groin to their hip.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n<div class=\"nhsuk-gallery__panel\" id=\"gallery-image-6\">\n<figure class=\"media nhsuk-gallery-image-proto\" role=\"tabpanel\">\n<img alt=\"Dark brown skin with many raised patches on the thigh from hives. A long description is available next.\" class=\"media__item\" id=\"image-6\" sizes=\"(min-width: 1000px) 420px, (min-width: 768px) 40vw, 100vw\" src=\"https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg\" srcset=\"\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-400x267.jpg 400w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-420x280.jpg 420w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-767x511.jpg 767w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-799x533.jpg 799w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.origi.2e16d0ba.fill-840x560.jpg 840w,\n          \n            https://assets.nhs.uk/nhsuk-cms/images/shutterstock_1040514490_copy.orig.2e16d0ba.fill-1125x750.jpg 1125w,\n          \n        \" tabindex=\"-1\"/>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n        Credit: <p data-block-key=\"0bziq\">Apiwut Sookkasame<br/><br/>https://www.shutterstock.com/image-photo/urticaria-on-legs-1040514490</p>\n</div>\n<div class=\"nhsuk-gallery-caption\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Long description, image 6\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"wh7w6\">Hives rash on the thigh of a person with dark brown skin.</p><p data-block-key=\"1u6qi\">There are many raised patches of skin in different shapes and sizes very close to each other. They range from around 5mm to 5cm.</p><p data-block-key=\"1ks7j\">The skin near the left knee also has raised lines, like scars. The skin on the inside of the thigh is smooth.</p><p data-block-key=\"8760r\">The rash is the same colour as the person's skin.</p>\n</div>\n</details>\n</div>\n</figure>\n</div>\n</section>\n</section>\n<section>\n<h3 data-block-key=\"6g1l3\">If you're not sure it's hives</h3><p data-block-key=\"a214p\">Find out about other <a href=\"/symptoms/rashes-babies-and-children/\">rashes in babies and children</a>.</p>\n</section>\n<section>\n<h2 id=\"self-care\">A pharmacist can help with hives</h2>\n<p data-block-key=\"80bff\">A pharmacist can give you advice about <a href=\"/medicines/antihistamines/\">antihistamine</a> treatment to help a hives rash.</p><p data-block-key=\"fvc7z\">Tell the pharmacist if you have a long-term condition, because you might not be able to take antihistamines.</p><p data-block-key=\"tnjmj\">This treatment might not be suitable for young children.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kazyz\">symptoms of hives do not improve after 2 days</li><li data-block-key=\"8uwge\">you're worried about your child's hives</li><li data-block-key=\"b58cf\">the rash is spreading</li><li data-block-key=\"8sr1l\">hives keeps coming back (you may be allergic to something)</li><li data-block-key=\"0s47t\">you also have a high temperature and feel unwell</li><li data-block-key=\"n1190\">you also have swelling under your skin (this might be <a href=\"/conditions/angioedema/\">angioedema</a>)</li></ul><p data-block-key=\"isl2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"aoldi\">your lips, mouth, throat or tongue suddenly become swollen</li><li data-block-key=\"2edlt\">you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air)</li><li data-block-key=\"c5ts1\">your throat feels tight or you're struggling to swallow</li><li data-block-key=\"3bntj\">your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet)</li><li data-block-key=\"3iecv\">you suddenly become very confused, drowsy or dizzy</li><li data-block-key=\"3g1l2\">someone faints and cannot be woken up</li><li data-block-key=\"7fv9e\">a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face)</li></ul><p data-block-key=\"4skoc\">You or the person who's unwell may also have a rash that's swollen, raised or itchy.</p><p data-block-key=\"d0011\">These can be signs of a serious allergic reaction and may need immediate treatment in hospital.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for hives from a GP</h2>\n<p data-block-key=\"5tlu1\">A GP might prescribe menthol cream, antihistamines or <a href=\"/medicines/steroids/\">steroid tablets</a>.</p><p data-block-key=\"3l8ym\">If hives does not go away with treatment, you may be referred to a skin specialist (dermatologist).</p>\n</section>\n<section>\n<h2 id=\"prevention\">You cannot always prevent hives</h2>\n<p data-block-key=\"54q0c\">You get hives when something causes high levels of histamine and other chemicals to be released in your skin. This is known as a trigger.</p><p data-block-key=\"nnqmp\">Triggers can include:</p><ul><li data-block-key=\"vduc7\">eating certain foods</li><li data-block-key=\"98z9a\">contact with certain plants, animals, chemicals and latex</li><li data-block-key=\"fnb82\">cold, such as cold water or wind</li><li data-block-key=\"f7aqb\">hot, sweaty skin from exercise, emotional stress or eating spicy food</li><li data-block-key=\"fy7o0\">a reaction to a medicine, insect bite or sting</li><li data-block-key=\"7bwmt\">scratching or pressing on your skin, such as wearing itchy or tight clothing</li><li data-block-key=\"t4j98\">an infection</li><li data-block-key=\"146ca\">a problem with your immune system</li><li data-block-key=\"7xckt\">water or sunlight, but this is rare</li></ul><p data-block-key=\"v48vr\">Try to find out what triggers hives for you, so you can avoid those triggers, if possible. This may help prevent an episode of hives.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 26 April 2024<br/>\n    Next review due: 26 April 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

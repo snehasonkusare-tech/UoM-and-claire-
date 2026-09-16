@@ -1,0 +1,501 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/",
+  "final_url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:26.810456+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Pain in the palm of the hand",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Pain in the palm of the hand",
+  "meta_description": "Find out what to do about pain in the palm of your hand, when to get help and the common causes.",
+  "review_dates": {
+    "page_last_reviewed": "16 December 2025",
+    "next_review_due": "16 December 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    },
+    {
+      "text": "Hand pain",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what to do about pain in the palm of your hand, when to get help and the common causes."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Pain in the palm of the hand"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what to do about pain in the palm of your hand, when to get help and the common causes."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "15 Apr 2026, 7:40 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 4:05 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Pain in the palm of the hand"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/",
+              "genre": [],
+              "name": "Hand pain"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Pain in the palm of the hand"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-15T06:40:19+00:00",
+      "description": "Find out what to do about pain in the palm of your hand, when to get help and the common causes.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many causes of pain in the palm of your hand. You can often ease the pain yourself. But see a GP if the pain does not improve.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Pain in the palm of the hand",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Pain in the palm of the hand",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of pain in the palm of your hand include an injury, carpal tunnel syndrome and arthritis.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can ease palm pain by taking painkillers, keeping it rested, using a bandage for support and reducing activities that put pressure on the palm.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of pain in the palm of your hand include an injury, carpal tunnel syndrome and arthritis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Pain in the palm of your hand is often caused by bruising or injuring your hand, but it can be caused by lots of things.</p><p>Do not try to diagnose the cause of your pain yourself.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>If you think you may have broken your hand, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>"
+            }
+          ],
+          "headline": "Common causes of pain in the palm of your hand",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can ease palm pain by taking painkillers, keeping it rested, using a bandage for support and reducing activities that put pressure on the palm.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may be able to treat the pain yourself if your hand is not broken.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>rest your hand when you can</p></li><li><p>put an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours</p></li><li><p>take paracetamol to ease the pain</p></li><li><p>remove any jewellery if your hand is swollen</p></li><li><p>stop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework</p></li><li><p>wrap a bandage around your hand to support it</p></li><li><p>wear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p></li><li><p>keep your hands and wrists moving with gentle exercises to help ease pain and stiffness</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p></li><li><p>do not lift heavy objects or grip anything too tightly</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with hand pain",
+              "text": "<p>You can ask a pharmacist about:</p><ul><li>the best painkiller to take</li><li>the best splint to support your hand and ease pain</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How you can ease palm pain yourself",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  pain in the palm of your hand is stopping you doing normal activities\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you have any tingling or loss of sensation in your hand\n </li>\n<li>\n  you have diabetes – hand problems can be more serious if you have diabetes\n </li>\n<li>\n  your palm is painful, warm, swollen and stiff\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have severe pain in your hand\n </li>\n<li>\n  you feel faint, dizzy or sick from the pain\n </li>\n<li>\n  you have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery\n </li>\n<li>\n  you heard a snap, grinding or popping noise at the time of the injury\n </li>\n<li>\n  you're not able to move your thumb or hold things\n </li>\n<li>\n  your finger or thumb has changed shape or colour\n </li>\n<li>\n  you've lost the feeling in part or all of your hand\n </li>\n</ul>\n<p>\n These might be signs of a broken hand or an infection.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/#emergency-medical-help-old"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-12-16T10:30:00+00:00",
+        "2028-12-16T10:30:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Pain in the palm of the hand",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hand pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hand-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/pain-in-the-palm-of-the-hand/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of pain in the palm of your hand",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of pain in the palm of your hand"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Common causes of pain in the palm of your hand\nPain in the palm of your hand is often caused by bruising or injuring your hand, but it can be caused by lots of things.\nDo not try to diagnose the cause of your pain yourself.\nPossible causes of pain in the palm of the hand\nSymptoms\nPossible cause\nAching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping\nCarpal tunnel syndrome\nSudden sharp pain, swelling, a popping or snapping sound during the injury\nBroken bone in the hand\nPain or tenderness in your palm at the base of your fingers or thumb, stiffness, clicking when you move your finger or thumb\nTrigger finger\nPain, swelling and stiffness that lasts a long time, may be hard to move fingers, may have a lump\nArthritis\nSharp or burning pain, tingling or numbness, palm feels more or less sensitive to touch or heat\nPeripheral neuropathy\nHeat, pain and redness in the palms\nErythromelalgia\nImportant\nIf you think you may have broken your hand, do not try to treat it yourself. Contact NHS 111 to find out what to do.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of pain in the palm of your hand</h2>\n<p data-block-key=\"1reor\">Pain in the palm of your hand is often caused by bruising or injuring your hand, but it can be caused by lots of things.</p><p data-block-key=\"am03j\">Do not try to diagnose the cause of your pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of pain in the palm of the hand</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Aching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Carpal tunnel syndrome</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"1yxv2\">Sudden sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"1yxv2\">Broken bone in the hand</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Pain or tenderness in your palm at the base of your fingers or thumb, stiffness, clicking when you move your finger or thumb</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Trigger finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Pain, swelling and stiffness that lasts a long time, may be hard to move fingers, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Sharp or burning pain, tingling or numbness, palm feels more or less sensitive to touch or heat</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Peripheral neuropathy</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Heat, pain and redness in the palms</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Erythromelalgia</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"op62t\">If you think you may have broken your hand, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How you can ease palm pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease palm pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don't"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with hand pain"
+        }
+      ],
+      "text": "How you can ease palm pain yourself\nYou may be able to treat the pain yourself if your hand is not broken.\nDo\nrest your hand when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours\ntake paracetamol to ease the pain\nremove any jewellery if your hand is swollen\nstop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework\nwrap a bandage around your hand to support it\nwear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets\nkeep your hands and wrists moving with gentle exercises to help ease pain and stiffness\nDon't\ndo not use heat packs or have hot baths for the first 2 to 3 days after an injury\ndo not lift heavy objects or grip anything too tightly\nA pharmacist can help with hand pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nthe best splint to support your hand and ease pain\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest your hand when you can",
+            "put an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours",
+            "take paracetamol to ease the pain",
+            "remove any jewellery if your hand is swollen",
+            "stop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework",
+            "wrap a bandage around your hand to support it",
+            "wear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets",
+            "keep your hands and wrists moving with gentle exercises to help ease pain and stiffness"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not use heat packs or have hot baths for the first 2 to 3 days after an injury",
+            "do not lift heavy objects or grip anything too tightly"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller to take",
+            "the best splint to support your hand and ease pain",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease palm pain yourself</h2>\n<p data-block-key=\"1reor\">You may be able to treat the pain yourself if your hand is not broken.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0w4c6\">rest your hand when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">put an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">take paracetamol to ease the pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">remove any jewellery if your hand is swollen</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">stop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">wrap a bandage around your hand to support it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">wear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">keep your hands and wrists moving with gentle exercises to help ease pain and stiffness</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don't\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9oeyc\">do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9oeyc\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"1reor\">A pharmacist can help with hand pain</h3><p data-block-key=\"2c328\">You can ask a pharmacist about:</p><ul><li data-block-key=\"4r7o7\">the best painkiller to take</li><li data-block-key=\"2tojb\">the best splint to support your hand and ease pain</li><li data-block-key=\"8a6a5\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\npain in the palm of your hand is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your hand\nyou have diabetes – hand problems can be more serious if you have diabetes\nyour palm is painful, warm, swollen and stiff\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pain in the palm of your hand is stopping you doing normal activities",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you have any tingling or loss of sensation in your hand",
+            "you have diabetes – hand problems can be more serious if you have diabetes",
+            "your palm is painful, warm, swollen and stiff"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k370t\">pain in the palm of your hand is stopping you doing normal activities</li><li data-block-key=\"6holv\">the pain is getting worse or keeps coming back</li><li data-block-key=\"b5d1e\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"55k0h\">you have any tingling or loss of sensation in your hand</li><li data-block-key=\"3h6ul\">you have diabetes – hand problems can be more serious if you have diabetes</li><li data-block-key=\"o2so\">your palm is painful, warm, swollen and stiff</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nGet help from NHS 111 if:\nyou have severe pain in your hand\nyou feel faint, dizzy or sick from the pain\nyou have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery\nyou heard a snap, grinding or popping noise at the time of the injury\nyou're not able to move your thumb or hold things\nyour finger or thumb has changed shape or colour\nyou've lost the feeling in part or all of your hand\nThese might be signs of a broken hand or an infection.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe pain in your hand",
+            "you feel faint, dizzy or sick from the pain",
+            "you have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery",
+            "you heard a snap, grinding or popping noise at the time of the injury",
+            "you're not able to move your thumb or hold things",
+            "your finger or thumb has changed shape or colour",
+            "you've lost the feeling in part or all of your hand"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k370t\">you have severe pain in your hand</li><li data-block-key=\"668no\">you feel faint, dizzy or sick from the pain</li><li data-block-key=\"6uq9r\">you have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery</li><li data-block-key=\"bek7j\">you heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"1smp3\">you're not able to move your thumb or hold things</li><li data-block-key=\"8euiu\">your finger or thumb has changed shape or colour</li><li data-block-key=\"fnfbs\">you've lost the feeling in part or all of your hand</li></ul><p data-block-key=\"67acg\">These might be signs of a broken hand or an infection.</p><p data-block-key=\"da78h\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of pain in the palm of your hand\nPain in the palm of your hand is often caused by bruising or injuring your hand, but it can be caused by lots of things.\nDo not try to diagnose the cause of your pain yourself.\nPossible causes of pain in the palm of the hand\nSymptoms\nPossible cause\nAching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping\nCarpal tunnel syndrome\nSudden sharp pain, swelling, a popping or snapping sound during the injury\nBroken bone in the hand\nPain or tenderness in your palm at the base of your fingers or thumb, stiffness, clicking when you move your finger or thumb\nTrigger finger\nPain, swelling and stiffness that lasts a long time, may be hard to move fingers, may have a lump\nArthritis\nSharp or burning pain, tingling or numbness, palm feels more or less sensitive to touch or heat\nPeripheral neuropathy\nHeat, pain and redness in the palms\nErythromelalgia\nImportant\nIf you think you may have broken your hand, do not try to treat it yourself. Contact NHS 111 to find out what to do.\nHow you can ease palm pain yourself\nYou may be able to treat the pain yourself if your hand is not broken.\nDo\nrest your hand when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours\ntake paracetamol to ease the pain\nremove any jewellery if your hand is swollen\nstop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework\nwrap a bandage around your hand to support it\nwear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets\nkeep your hands and wrists moving with gentle exercises to help ease pain and stiffness\nDon't\ndo not use heat packs or have hot baths for the first 2 to 3 days after an injury\ndo not lift heavy objects or grip anything too tightly\nA pharmacist can help with hand pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nthe best splint to support your hand and ease pain\nif you need to see a GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\npain in the palm of your hand is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your hand\nyou have diabetes – hand problems can be more serious if you have diabetes\nyour palm is painful, warm, swollen and stiff\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nGet help from NHS 111 if:\nyou have severe pain in your hand\nyou feel faint, dizzy or sick from the pain\nyou have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery\nyou heard a snap, grinding or popping noise at the time of the injury\nyou're not able to move your thumb or hold things\nyour finger or thumb has changed shape or colour\nyou've lost the feeling in part or all of your hand\nThese might be signs of a broken hand or an infection.\nYou can call 111 or\nget help from 111 online\n.",
+  "links": [
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of pain in the palm of your hand</h2>\n<p data-block-key=\"1reor\">Pain in the palm of your hand is often caused by bruising or injuring your hand, but it can be caused by lots of things.</p><p data-block-key=\"am03j\">Do not try to diagnose the cause of your pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of pain in the palm of the hand</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Aching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Carpal tunnel syndrome</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"1yxv2\">Sudden sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"1yxv2\">Broken bone in the hand</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Pain or tenderness in your palm at the base of your fingers or thumb, stiffness, clicking when you move your finger or thumb</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Trigger finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Pain, swelling and stiffness that lasts a long time, may be hard to move fingers, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Sharp or burning pain, tingling or numbness, palm feels more or less sensitive to touch or heat</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Peripheral neuropathy</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Heat, pain and redness in the palms</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"lqvqp\">Erythromelalgia</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"op62t\">If you think you may have broken your hand, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease palm pain yourself</h2>\n<p data-block-key=\"1reor\">You may be able to treat the pain yourself if your hand is not broken.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0w4c6\">rest your hand when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">put an ice pack (or a bag of frozen peas) in a towel and place it on your palm for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">take paracetamol to ease the pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">remove any jewellery if your hand is swollen</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">stop or cut down activities that are causing the pain – for example, writing, typing, DIY or housework</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">wrap a bandage around your hand to support it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">wear a splint to support your palm and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rrgz9\">keep your hands and wrists moving with gentle exercises to help ease pain and stiffness</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don't\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9oeyc\">do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9oeyc\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"1reor\">A pharmacist can help with hand pain</h3><p data-block-key=\"2c328\">You can ask a pharmacist about:</p><ul><li data-block-key=\"4r7o7\">the best painkiller to take</li><li data-block-key=\"2tojb\">the best splint to support your hand and ease pain</li><li data-block-key=\"8a6a5\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k370t\">pain in the palm of your hand is stopping you doing normal activities</li><li data-block-key=\"6holv\">the pain is getting worse or keeps coming back</li><li data-block-key=\"b5d1e\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"55k0h\">you have any tingling or loss of sensation in your hand</li><li data-block-key=\"3h6ul\">you have diabetes – hand problems can be more serious if you have diabetes</li><li data-block-key=\"o2so\">your palm is painful, warm, swollen and stiff</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k370t\">you have severe pain in your hand</li><li data-block-key=\"668no\">you feel faint, dizzy or sick from the pain</li><li data-block-key=\"6uq9r\">you have pain in the palm of your hand and also feel generally unwell, or hot, cold or shivery</li><li data-block-key=\"bek7j\">you heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"1smp3\">you're not able to move your thumb or hold things</li><li data-block-key=\"8euiu\">your finger or thumb has changed shape or colour</li><li data-block-key=\"fnfbs\">you've lost the feeling in part or all of your hand</li></ul><p data-block-key=\"67acg\">These might be signs of a broken hand or an infection.</p><p data-block-key=\"da78h\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

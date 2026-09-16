@@ -1,0 +1,561 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hair-loss/",
+  "final_url": "https://www.nhs.uk/symptoms/hair-loss/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:47.115084+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hair loss",
+      "url": "https://www.nhs.uk/symptoms/hair-loss/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Hair loss",
+  "meta_description": "Hair loss can have many causes. Alopecia is the general medical term for hair loss. Find out when to see a GP and what treatments are available.",
+  "review_dates": {
+    "page_last_reviewed": "24 January 2024",
+    "next_review_due": "24 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Hair loss can have many causes. Alopecia is the general medical term for hair loss. Find out when to see a GP and what treatments are available."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hair-loss/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHair loss\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Hair loss can have many causes. Alopecia is the general medical term for hair loss. Find out when to see a GP and what treatments are available."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "7 Jul 2025, 2:25 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 10:39 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Hair loss"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hair-loss/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Hair loss"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-07T13:25:19+00:00",
+      "description": "Hair loss can have many causes. Alopecia is the general medical term for hair loss. Find out when to see a GP and what treatments are available.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hair loss can run in families. It can also be caused by things like an illness, stress and cancer treatment.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's normal to lose hair. We can lose between 50 and 100 hairs a day, often without noticing.</p><p>Hair loss is not usually anything to be worried about, but occasionally it can be a sign of a medical condition.</p><p>Some types of hair loss are permanent, like male and female pattern baldness. This type of hair loss usually runs in the family.</p><p>Other types of hair loss may be temporary. They can be caused by:</p><ul><li>an illness</li><li>stress</li><li>cancer treatment</li><li>weight loss</li><li>iron deficiency</li></ul>"
+            }
+          ],
+          "headline": "Causes of hair loss",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're worried about your hair loss\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A doctor may be able to diagnose the cause of hair loss by looking at your hair.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The GP may be able to tell you what's causing your hair loss by looking at your hair.</p><p>Tell them if your hair loss is affecting your wellbeing, and ask what treatments are available.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>See a GP to get an idea about what's causing your hair loss before thinking about going to a commercial hair clinic.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most hair loss does not need treatment. There are medicines that can sometimes help and some people may choose to wear a wig.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Most hair loss does not need treatment and is either:</p><ul><li>temporary and it'll grow back</li><li>a normal part of getting older</li></ul><p>Hair loss caused by a medical condition usually stops or grows back once you've recovered.</p><p>There are things you can try if your hair loss is causing you distress. But not all treatments are available on the NHS, so you may have to pay.</p><p>No treatment is 100% effective.</p><h3>Finasteride and minoxidil</h3><p>Finasteride and minoxidil are the main treatments for male pattern baldness.</p><p>Minoxidil can also be used to treat female pattern baldness. Women should not use finasteride.</p><p>These treatments:</p><ul><li>do not work for everyone</li><li>only work for as long as they're used</li><li>are not all available on the NHS, so can be expensive if you have to pay</li></ul><h3>Wigs</h3><p>Some wigs are available on the NHS, but you may have to pay unless you qualify for financial help.</p><p>Synthetic wigs:</p><ul><li>last 6 to 9 months</li><li>are easier to look after than real-hair wigs</li><li>can be itchy and hot</li><li>cost less than real-hair wigs</li></ul><p>Real-hair wigs:</p><ul><li>last 3 to 4 years</li><li>are harder to look after than synthetic wigs</li><li>look more natural than synthetic wigs</li><li>cost more than synthetic wigs</li></ul>"
+            }
+          ],
+          "headline": "Treatment for hair loss",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may be able to get counselling if hair loss is causing you distress. Joining a hair loss support group or online forum may also help.",
+          "hasHealthAspect": "http://schema.org/LivingWithHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Losing hair can be upsetting. For many people, their hair is an important part of who they are.</p><p>If your hair loss is causing you distress, your GP may be able to help you get some counselling.</p><p>You may also benefit from joining a support group, or speaking to other people in the same situation on online forums.</p>"
+            }
+          ],
+          "headline": "Emotional help",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#support"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hair loss can happen naturally or be caused by a medical condition. There are treatments that may help if your hair loss is upsetting you.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Hair loss",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hair loss",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Hair loss can run in families. It can also be caused by things like an illness, stress and cancer treatment.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Most hair loss does not need treatment. There are medicines that can sometimes help and some people may choose to wear a wig.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hair-loss/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-24T00:00:00+00:00",
+        "2027-01-24T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Hair loss",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hair loss",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hair-loss/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/hair-loss/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Losing your hair is not usually anything to be worried about, but it can be upsetting. Treatment may help with some types of hair loss.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"oazah\"><b>Losing your hair is not usually anything to be worried about, but it can be upsetting. Treatment may help with some types of hair loss.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of hair loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of hair loss"
+        }
+      ],
+      "text": "Causes of hair loss\nIt's normal to lose hair. We can lose between 50 and 100 hairs a day, often without noticing.\nHair loss is not usually anything to be worried about, but occasionally it can be a sign of a medical condition.\nSome types of hair loss are permanent, like male and female pattern baldness. This type of hair loss usually runs in the family.\nOther types of hair loss may be temporary. They can be caused by:\nan illness\nstress\ncancer treatment\nweight loss\niron deficiency",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an illness",
+            "stress",
+            "cancer treatment",
+            "weight loss",
+            "iron deficiency"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of hair loss</h2>\n<p data-block-key=\"z7t7d\">It's normal to lose hair. We can lose between 50 and 100 hairs a day, often without noticing.</p><p data-block-key=\"4be1r\">Hair loss is not usually anything to be worried about, but occasionally it can be a sign of a medical condition.</p><p data-block-key=\"ikl1a\">Some types of hair loss are permanent, like male and female pattern baldness. This type of hair loss usually runs in the family.</p><p data-block-key=\"umbry\">Other types of hair loss may be temporary. They can be caused by:</p><ul><li data-block-key=\"ty3li\">an illness</li><li data-block-key=\"48oh1\">stress</li><li data-block-key=\"ujdri\">cancer treatment</li><li data-block-key=\"fvk2q\">weight loss</li><li data-block-key=\"xl4yw\">iron deficiency</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou're worried about your hair loss",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're worried about your hair loss"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"o2zd6\">you're worried about your hair loss</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "What happens at your appointment\nThe GP may be able to tell you what's causing your hair loss by looking at your hair.\nTell them if your hair loss is affecting your wellbeing, and ask what treatments are available.\nImportant\nSee a GP to get an idea about what's causing your hair loss before thinking about going to a commercial hair clinic.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"nv166\">The GP may be able to tell you what's causing your hair loss by looking at your hair.</p><p data-block-key=\"3i00v\">Tell them if your hair loss is affecting your wellbeing, and ask what treatments are available.</p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xhu8g\">See a GP to get an idea about what's causing your hair loss before thinking about going to a commercial hair clinic.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for hair loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for hair loss"
+        },
+        {
+          "level": "h3",
+          "text": "Finasteride and minoxidil"
+        },
+        {
+          "level": "h3",
+          "text": "Wigs"
+        }
+      ],
+      "text": "Treatment for hair loss\nMost hair loss does not need treatment and is either:\ntemporary and it'll grow back\na normal part of getting older\nHair loss caused by a medical condition usually stops or grows back once you've recovered.\nThere are things you can try if your hair loss is causing you distress. But not all treatments are available on the NHS, so you may have to pay.\nNo treatment is 100% effective.\nFinasteride and minoxidil\nFinasteride and minoxidil are the main treatments for male pattern baldness.\nMinoxidil can also be used to treat female pattern baldness. Women should not use finasteride.\nThese treatments:\ndo not work for everyone\nonly work for as long as they're used\nare not all available on the NHS, so can be expensive if you have to pay\nWigs\nSome wigs are available on the NHS, but you may have to pay unless you qualify for financial help.\nSynthetic wigs:\nlast 6 to 9 months\nare easier to look after than real-hair wigs\ncan be itchy and hot\ncost less than real-hair wigs\nReal-hair wigs:\nlast 3 to 4 years\nare harder to look after than synthetic wigs\nlook more natural than synthetic wigs\ncost more than synthetic wigs",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "temporary and it'll grow back",
+            "a normal part of getting older"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not work for everyone",
+            "only work for as long as they're used",
+            "are not all available on the NHS, so can be expensive if you have to pay"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "last 6 to 9 months",
+            "are easier to look after than real-hair wigs",
+            "can be itchy and hot",
+            "cost less than real-hair wigs"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "last 3 to 4 years",
+            "are harder to look after than synthetic wigs",
+            "look more natural than synthetic wigs",
+            "cost more than synthetic wigs"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for hair loss</h2>\n<p data-block-key=\"7jtmm\">Most hair loss does not need treatment and is either:</p><ul><li data-block-key=\"9zez5\">temporary and it'll grow back</li><li data-block-key=\"m3rmi\">a normal part of getting older</li></ul><p data-block-key=\"we6mx\">Hair loss caused by a medical condition usually stops or grows back once you've recovered.</p><p data-block-key=\"d8n34\">There are things you can try if your hair loss is causing you distress. But not all treatments are available on the NHS, so you may have to pay.</p><p data-block-key=\"smip6\">No treatment is 100% effective.</p><h3 data-block-key=\"3lfyg\">Finasteride and minoxidil</h3><p data-block-key=\"q7oh4\">Finasteride and minoxidil are the main treatments for male pattern baldness.</p><p data-block-key=\"deh2v\">Minoxidil can also be used to treat female pattern baldness. Women should not use finasteride.</p><p data-block-key=\"ttxo7\">These treatments:</p><ul><li data-block-key=\"lusiq\">do not work for everyone</li><li data-block-key=\"lzzf4\">only work for as long as they're used</li><li data-block-key=\"0ryo6\">are not all available on the NHS, so can be expensive if you have to pay</li></ul><h3 data-block-key=\"7262j\">Wigs</h3><p data-block-key=\"n97kq\">Some wigs are available on the NHS, but you may have to pay unless you qualify for financial help.</p><p data-block-key=\"e5fiw\">Synthetic wigs:</p><ul><li data-block-key=\"m72g6\">last 6 to 9 months</li><li data-block-key=\"sfg8e\">are easier to look after than real-hair wigs</li><li data-block-key=\"sa86u\">can be itchy and hot</li><li data-block-key=\"h7sjn\">cost less than real-hair wigs</li></ul><p data-block-key=\"dwd7b\">Real-hair wigs:</p><ul><li data-block-key=\"4uu91\">last 3 to 4 years</li><li data-block-key=\"mw1u5\">are harder to look after than synthetic wigs</li><li data-block-key=\"qz552\">look more natural than synthetic wigs</li><li data-block-key=\"9ubla\">cost more than synthetic wigs</li></ul>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Find out more about NHS wigs and costs",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out more about NHS wigs and costs",
+          "url": "https://www.nhs.uk/using-the-nhs/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"1acrh\"><a href=\"/using-the-nhs/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/\">Find out more about NHS wigs and costs</a></p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Other hair loss treatments",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Other hair loss treatments"
+        }
+      ],
+      "text": "Other hair loss treatments\nOther possible treatments for hair loss\nTreatment\nDescription\nSteroid injection\nInjections given into bald patches\nSteroid creams\nCream applied to bald patches\nImmunotherapy\nChemical applied to bald patches\nImmunotherapy tablets\nTablets taken every day to prevent hair loss\nLight treatment\nShining ultraviolet light on bald patches\nPermanent make-up (micropigmentation)\nTattoo used to look like short hair and eyebrows\nHair transplant\nHair is removed from the back of the head and moved to thinning patches\nScalp reduction surgery\nSections of scalp with hair are stretched and stitched together\nArtificial hair transplant\nSurgery to implant artificial hairs\nSome of these treatments may not be available on the NHS.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Hair transplant",
+          "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/hair-transplant/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"p7ces\">Other hair loss treatments</h3>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Other possible treatments for hair loss</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Treatment\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Description\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Steroid injection</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Injections given into bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Steroid creams</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Cream applied to bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Immunotherapy</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Chemical applied to bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"gjrch\">Immunotherapy tablets</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"gjrch\">Tablets taken every day to prevent hair loss</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Light treatment</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Shining ultraviolet light on bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Permanent make-up (micropigmentation)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Tattoo used to look like short hair and eyebrows</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\"><a href=\"/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/hair-transplant/\">Hair transplant</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Hair is removed from the back of the head and moved to thinning patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Scalp reduction surgery</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Sections of scalp with hair are stretched and stitched together</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Artificial hair transplant</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Surgery to implant artificial hairs</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"27ho1\">Some of these treatments may not be available on the NHS.</p>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Emotional help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Emotional help"
+        }
+      ],
+      "text": "Emotional help\nLosing hair can be upsetting. For many people, their hair is an important part of who they are.\nIf your hair loss is causing you distress, your GP may be able to help you get some counselling.\nYou may also benefit from joining a support group, or speaking to other people in the same situation on online forums.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"support\">Emotional help</h2>\n<p data-block-key=\"yh5p8\">Losing hair can be upsetting. For many people, their hair is an important part of who they are.</p><p data-block-key=\"frohl\">If your hair loss is causing you distress, your GP may be able to help you get some counselling.</p><p data-block-key=\"518ld\">You may also benefit from joining a support group, or speaking to other people in the same situation on online forums.</p>\n</section>"
+    },
+    {
+      "position": 9,
+      "heading": "Further information and support",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Further information and support"
+        }
+      ],
+      "text": "Find a support group near you on the Alopecia UK website\nInformation:\nFurther information and support\nCancer Research UK: hair loss\nMacmillan: hair loss",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Cancer Research UK: hair loss",
+            "Macmillan: hair loss"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a support group near you on the Alopecia UK website",
+          "url": "https://www.alopecia.org.uk/Pages/Category/find-a-support-group?Take=10"
+        },
+        {
+          "text": "Cancer Research UK: hair loss",
+          "url": "https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss"
+        },
+        {
+          "text": "Macmillan: hair loss",
+          "url": "https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"lj2i7\"><a href=\"https://www.alopecia.org.uk/Pages/Category/find-a-support-group?Take=10\">Find a support group near you on the Alopecia UK website</a></p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"z3ku0\">Further information and support</h3><ul><li data-block-key=\"6m321\"><a href=\"https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss\">Cancer Research UK: hair loss</a></li><li data-block-key=\"g20e\"><a href=\"https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss\">Macmillan: hair loss</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Losing your hair is not usually anything to be worried about, but it can be upsetting. Treatment may help with some types of hair loss.\nCauses of hair loss\nIt's normal to lose hair. We can lose between 50 and 100 hairs a day, often without noticing.\nHair loss is not usually anything to be worried about, but occasionally it can be a sign of a medical condition.\nSome types of hair loss are permanent, like male and female pattern baldness. This type of hair loss usually runs in the family.\nOther types of hair loss may be temporary. They can be caused by:\nan illness\nstress\ncancer treatment\nweight loss\niron deficiency\nNon-urgent advice:\nSee a GP if:\nyou're worried about your hair loss\nWhat happens at your appointment\nThe GP may be able to tell you what's causing your hair loss by looking at your hair.\nTell them if your hair loss is affecting your wellbeing, and ask what treatments are available.\nImportant\nSee a GP to get an idea about what's causing your hair loss before thinking about going to a commercial hair clinic.\nTreatment for hair loss\nMost hair loss does not need treatment and is either:\ntemporary and it'll grow back\na normal part of getting older\nHair loss caused by a medical condition usually stops or grows back once you've recovered.\nThere are things you can try if your hair loss is causing you distress. But not all treatments are available on the NHS, so you may have to pay.\nNo treatment is 100% effective.\nFinasteride and minoxidil\nFinasteride and minoxidil are the main treatments for male pattern baldness.\nMinoxidil can also be used to treat female pattern baldness. Women should not use finasteride.\nThese treatments:\ndo not work for everyone\nonly work for as long as they're used\nare not all available on the NHS, so can be expensive if you have to pay\nWigs\nSome wigs are available on the NHS, but you may have to pay unless you qualify for financial help.\nSynthetic wigs:\nlast 6 to 9 months\nare easier to look after than real-hair wigs\ncan be itchy and hot\ncost less than real-hair wigs\nReal-hair wigs:\nlast 3 to 4 years\nare harder to look after than synthetic wigs\nlook more natural than synthetic wigs\ncost more than synthetic wigs\nFind out more about NHS wigs and costs\nOther hair loss treatments\nOther possible treatments for hair loss\nTreatment\nDescription\nSteroid injection\nInjections given into bald patches\nSteroid creams\nCream applied to bald patches\nImmunotherapy\nChemical applied to bald patches\nImmunotherapy tablets\nTablets taken every day to prevent hair loss\nLight treatment\nShining ultraviolet light on bald patches\nPermanent make-up (micropigmentation)\nTattoo used to look like short hair and eyebrows\nHair transplant\nHair is removed from the back of the head and moved to thinning patches\nScalp reduction surgery\nSections of scalp with hair are stretched and stitched together\nArtificial hair transplant\nSurgery to implant artificial hairs\nSome of these treatments may not be available on the NHS.\nEmotional help\nLosing hair can be upsetting. For many people, their hair is an important part of who they are.\nIf your hair loss is causing you distress, your GP may be able to help you get some counselling.\nYou may also benefit from joining a support group, or speaking to other people in the same situation on online forums.\nFind a support group near you on the Alopecia UK website\nInformation:\nFurther information and support\nCancer Research UK: hair loss\nMacmillan: hair loss\nPage last reviewed: 24 January 2024\nNext review due: 24 January 2027",
+  "links": [
+    {
+      "text": "Find out more about NHS wigs and costs",
+      "url": "https://www.nhs.uk/using-the-nhs/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/"
+    },
+    {
+      "text": "Hair transplant",
+      "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/hair-transplant/"
+    },
+    {
+      "text": "Find a support group near you on the Alopecia UK website",
+      "url": "https://www.alopecia.org.uk/Pages/Category/find-a-support-group?Take=10"
+    },
+    {
+      "text": "Cancer Research UK: hair loss",
+      "url": "https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss"
+    },
+    {
+      "text": "Macmillan: hair loss",
+      "url": "https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"oazah\"><b>Losing your hair is not usually anything to be worried about, but it can be upsetting. Treatment may help with some types of hair loss.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of hair loss</h2>\n<p data-block-key=\"z7t7d\">It's normal to lose hair. We can lose between 50 and 100 hairs a day, often without noticing.</p><p data-block-key=\"4be1r\">Hair loss is not usually anything to be worried about, but occasionally it can be a sign of a medical condition.</p><p data-block-key=\"ikl1a\">Some types of hair loss are permanent, like male and female pattern baldness. This type of hair loss usually runs in the family.</p><p data-block-key=\"umbry\">Other types of hair loss may be temporary. They can be caused by:</p><ul><li data-block-key=\"ty3li\">an illness</li><li data-block-key=\"48oh1\">stress</li><li data-block-key=\"ujdri\">cancer treatment</li><li data-block-key=\"fvk2q\">weight loss</li><li data-block-key=\"xl4yw\">iron deficiency</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"o2zd6\">you're worried about your hair loss</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"nv166\">The GP may be able to tell you what's causing your hair loss by looking at your hair.</p><p data-block-key=\"3i00v\">Tell them if your hair loss is affecting your wellbeing, and ask what treatments are available.</p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xhu8g\">See a GP to get an idea about what's causing your hair loss before thinking about going to a commercial hair clinic.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for hair loss</h2>\n<p data-block-key=\"7jtmm\">Most hair loss does not need treatment and is either:</p><ul><li data-block-key=\"9zez5\">temporary and it'll grow back</li><li data-block-key=\"m3rmi\">a normal part of getting older</li></ul><p data-block-key=\"we6mx\">Hair loss caused by a medical condition usually stops or grows back once you've recovered.</p><p data-block-key=\"d8n34\">There are things you can try if your hair loss is causing you distress. But not all treatments are available on the NHS, so you may have to pay.</p><p data-block-key=\"smip6\">No treatment is 100% effective.</p><h3 data-block-key=\"3lfyg\">Finasteride and minoxidil</h3><p data-block-key=\"q7oh4\">Finasteride and minoxidil are the main treatments for male pattern baldness.</p><p data-block-key=\"deh2v\">Minoxidil can also be used to treat female pattern baldness. Women should not use finasteride.</p><p data-block-key=\"ttxo7\">These treatments:</p><ul><li data-block-key=\"lusiq\">do not work for everyone</li><li data-block-key=\"lzzf4\">only work for as long as they're used</li><li data-block-key=\"0ryo6\">are not all available on the NHS, so can be expensive if you have to pay</li></ul><h3 data-block-key=\"7262j\">Wigs</h3><p data-block-key=\"n97kq\">Some wigs are available on the NHS, but you may have to pay unless you qualify for financial help.</p><p data-block-key=\"e5fiw\">Synthetic wigs:</p><ul><li data-block-key=\"m72g6\">last 6 to 9 months</li><li data-block-key=\"sfg8e\">are easier to look after than real-hair wigs</li><li data-block-key=\"sa86u\">can be itchy and hot</li><li data-block-key=\"h7sjn\">cost less than real-hair wigs</li></ul><p data-block-key=\"dwd7b\">Real-hair wigs:</p><ul><li data-block-key=\"4uu91\">last 3 to 4 years</li><li data-block-key=\"mw1u5\">are harder to look after than synthetic wigs</li><li data-block-key=\"qz552\">look more natural than synthetic wigs</li><li data-block-key=\"9ubla\">cost more than synthetic wigs</li></ul>\n</section>\n<section>\n<p data-block-key=\"1acrh\"><a href=\"/using-the-nhs/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/\">Find out more about NHS wigs and costs</a></p>\n</section>\n<section>\n<h3 data-block-key=\"p7ces\">Other hair loss treatments</h3>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Other possible treatments for hair loss</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Treatment\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Description\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Steroid injection</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Injections given into bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Steroid creams</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Cream applied to bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Immunotherapy</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Chemical applied to bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"gjrch\">Immunotherapy tablets</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"gjrch\">Tablets taken every day to prevent hair loss</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Light treatment</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Shining ultraviolet light on bald patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Permanent make-up (micropigmentation)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Tattoo used to look like short hair and eyebrows</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\"><a href=\"/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/hair-transplant/\">Hair transplant</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Hair is removed from the back of the head and moved to thinning patches</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Scalp reduction surgery</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Sections of scalp with hair are stretched and stitched together</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Artificial hair transplant</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4z6u7\">Surgery to implant artificial hairs</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"27ho1\">Some of these treatments may not be available on the NHS.</p>\n</section>\n<section>\n<h2 id=\"support\">Emotional help</h2>\n<p data-block-key=\"yh5p8\">Losing hair can be upsetting. For many people, their hair is an important part of who they are.</p><p data-block-key=\"frohl\">If your hair loss is causing you distress, your GP may be able to help you get some counselling.</p><p data-block-key=\"518ld\">You may also benefit from joining a support group, or speaking to other people in the same situation on online forums.</p>\n</section>\n<section>\n<p data-block-key=\"lj2i7\"><a href=\"https://www.alopecia.org.uk/Pages/Category/find-a-support-group?Take=10\">Find a support group near you on the Alopecia UK website</a></p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"z3ku0\">Further information and support</h3><ul><li data-block-key=\"6m321\"><a href=\"https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss\">Cancer Research UK: hair loss</a></li><li data-block-key=\"g20e\"><a href=\"https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss\">Macmillan: hair loss</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 24 January 2024<br/>\n    Next review due: 24 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,575 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/dizziness/",
+  "final_url": "https://www.nhs.uk/symptoms/dizziness/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:16.337745+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "D",
+      "label": "Dizziness",
+      "url": "https://www.nhs.uk/symptoms/dizziness/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Dizziness",
+  "meta_description": "Dizziness is a common symptom that’s not usually a sign of anything serious. Find out what you can do about it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "21 April 2023",
+    "next_review_due": "21 April 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Dizziness is a common symptom that’s not usually a sign of anything serious. Find out what you can do about it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/dizziness/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nDizziness\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Dizziness is a common symptom that’s not usually a sign of anything serious. Find out what you can do about it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "19 Jun 2025, 10:42 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 11:14 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Dizziness"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/dizziness/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Dizziness"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-06-19T09:42:01+00:00",
+      "description": "Dizziness is a common symptom that’s not usually a sign of anything serious. Find out what you can do about it and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of dizziness include problems with balance, feeling lightheaded and feeling like everything is spinning.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Dizziness includes feeling:</p><ul><li>off-balance</li><li>giddy</li><li>lightheaded or faint</li><li>like you're spinning or things around you are spinning (<a href=\"/conditions/vertigo/\">vertigo</a>)</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of dizziness",
+          "url": "https://www.nhs.uk/symptoms/dizziness/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that can help if you feel dizzy include lying down until it stops, drinking plenty of water and trying not to bend over or move suddenly.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Dizziness usually goes away on its own. But there are things you can do to take care of yourself while you're feeling dizzy.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>lie down until the dizziness passes, then get up slowly</p></li><li><p>move slowly and carefully</p></li><li><p>get plenty of rest</p></li><li><p>drink plenty of fluids, especially water</p></li><li><p>avoid coffee, cigarettes, alcohol and drugs</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not bend down suddenly</p></li><li><p>do not get up suddenly after sitting or lying down</p></li><li><p>do not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery</p></li></ul>"
+            }
+          ],
+          "headline": "How you can treat dizziness yourself",
+          "url": "https://www.nhs.uk/symptoms/dizziness/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're worried about your dizziness or vertigo\n </li>\n<li>\n  it will not go away or it keeps coming back\n </li>\n<li>\n  you're finding it harder to hear or speak\n </li>\n<li>\n  there's ringing or other sounds in your ears (tinnitus)\n </li>\n<li>\n  you have double vision, blurred vision or other changes in your eyesight\n </li>\n<li>\n  your face, arms or legs feel numb or weak\n </li>\n<li>\n  you have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/dizziness/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of dizziness include a problem inside your ear (such as an ear infection), a migraine, dehydration, anxiety and some medicines.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have other symptoms, this might give you an idea of the cause. Do not self-diagnose. See a GP if you're worried.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dizziness while you're ill with something else",
+              "text": "<div class=\"block-richtext\">\n<p>Dizziness often goes away after you're treated for something else. For example:</p><ul><li>an <a href=\"/conditions/ear-infections/\">ear infection</a></li><li><a href=\"/conditions/migraine/\">migraine</a></li><li><a href=\"/conditions/dehydration/\">dehydration</a> or <a href=\"/conditions/heat-exhaustion-heatstroke/\">heat exhaustion</a></li><li><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a> or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a> because of diabetes</li><li><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li><a href=\"/conditions/motion-sickness/\">motion sickness</a></li></ul>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dizziness for no obvious reason",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Dizziness symptoms\n          : \nWhen standing or sitting up suddenly\n<br/>\n            Possible causes\n          : \nSudden drop in blood pressure (postural hypotension)\n</p><p>\n            Dizziness symptoms\n          : \nFeeling off-balance, losing some hearing, ringing or other sounds in your ears (tinnitus)\n<br/>\n            Possible causes\n          : \nInner-ear problems\n</p><p>\n            Dizziness symptoms\n          : \nFeeling off-balance or like things are spinning, feeling or being sick, sometimes after a cold or flu\n<br/>\n            Possible causes\n          : \nLabyrinthitis\n</p><p>\n            Dizziness symptoms\n          : \nAfter starting new prescription medicine\n<br/>\n            Possible causes\n          : \nSide effect of medicine\n</p>\n</div></div>"
+            }
+          ],
+          "headline": "Causes of dizziness",
+          "url": "https://www.nhs.uk/symptoms/dizziness/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "It's common to sometimes feel dizzy, lightheaded or off-balance. It's not usually serious, but see a GP if you're worried.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Dizziness",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dizziness",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dizziness",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of dizziness include problems with balance, feeling lightheaded and feeling like everything is spinning.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things that can help if you feel dizzy include lying down until it stops, drinking plenty of water and trying not to bend over or move suddenly.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of dizziness include a problem inside your ear (such as an ear infection), a migraine, dehydration, anxiety and some medicines.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/dizziness/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-04-21T11:19:00+00:00",
+        "2026-04-21T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Dizziness",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Dizziness",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/dizziness/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/dizziness/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "It's common to sometimes feel dizzy, lightheaded or off-balance, and it's not usually serious. See a GP if you're worried.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"mayt1\"><b>It's common to sometimes feel dizzy, lightheaded or off-balance, and it's not usually serious. See a GP if you're worried.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of dizziness",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of dizziness"
+        }
+      ],
+      "text": "Symptoms of dizziness\nDizziness includes feeling:\noff-balance\ngiddy\nlightheaded or faint\nlike you're spinning or things around you are spinning (\nvertigo\n)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "off-balance",
+            "giddy",
+            "lightheaded or faint",
+            "like you're spinning or things around you are spinning (\nvertigo\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "vertigo",
+          "url": "https://www.nhs.uk/conditions/vertigo/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of dizziness</h2>\n<p data-block-key=\"lwbpc\">Dizziness includes feeling:</p><ul><li data-block-key=\"gkmt8\">off-balance</li><li data-block-key=\"o76ed\">giddy</li><li data-block-key=\"un2g3\">lightheaded or faint</li><li data-block-key=\"3pd73\">like you're spinning or things around you are spinning (<a href=\"/conditions/vertigo/\">vertigo</a>)</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How you can treat dizziness yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can treat dizziness yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How you can treat dizziness yourself\nDizziness usually goes away on its own. But there are things you can do to take care of yourself while you're feeling dizzy.\nDo\nlie down until the dizziness passes, then get up slowly\nmove slowly and carefully\nget plenty of rest\ndrink plenty of fluids, especially water\navoid coffee, cigarettes, alcohol and drugs\nDon’t\ndo not bend down suddenly\ndo not get up suddenly after sitting or lying down\ndo not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "lie down until the dizziness passes, then get up slowly",
+            "move slowly and carefully",
+            "get plenty of rest",
+            "drink plenty of fluids, especially water",
+            "avoid coffee, cigarettes, alcohol and drugs"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not bend down suddenly",
+            "do not get up suddenly after sitting or lying down",
+            "do not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">How you can treat dizziness yourself</h2>\n<p data-block-key=\"7h2l6\">Dizziness usually goes away on its own. But there are things you can do to take care of yourself while you're feeling dizzy.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mxf9y\">lie down until the dizziness passes, then get up slowly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4p0kp\">move slowly and carefully</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"63m2q\">get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c7xdu\">drink plenty of fluids, especially water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yew2t\">avoid coffee, cigarettes, alcohol and drugs</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ijlxe\">do not bend down suddenly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pj8mv\">do not get up suddenly after sitting or lying down</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"h3tca\">do not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou're worried about your dizziness or vertigo\nit will not go away or it keeps coming back\nyou're finding it harder to hear or speak\nthere's ringing or other sounds in your ears (tinnitus)\nyou have double vision, blurred vision or other changes in your eyesight\nyour face, arms or legs feel numb or weak\nyou have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're worried about your dizziness or vertigo",
+            "it will not go away or it keeps coming back",
+            "you're finding it harder to hear or speak",
+            "there's ringing or other sounds in your ears (tinnitus)",
+            "you have double vision, blurred vision or other changes in your eyesight",
+            "your face, arms or legs feel numb or weak",
+            "you have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"zvauf\">you're worried about your dizziness or vertigo</li><li data-block-key=\"27xd8\">it will not go away or it keeps coming back</li><li data-block-key=\"y9lnb\">you're finding it harder to hear or speak</li><li data-block-key=\"3dtmy\">there's ringing or other sounds in your ears (tinnitus)</li><li data-block-key=\"9qvr8\">you have double vision, blurred vision or other changes in your eyesight</li><li data-block-key=\"z05mm\">your face, arms or legs feel numb or weak</li><li data-block-key=\"1lqut\">you have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of dizziness",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of dizziness"
+        }
+      ],
+      "text": "Causes of dizziness\nIf you have other symptoms, this might give you an idea of the cause. Do not self-diagnose. See a GP if you're worried.\nDizziness while you're ill with something else\nDizziness often goes away after you're treated for something else. For example:\nan\near infection\nmigraine\ndehydration\nor\nheat exhaustion\nstress\nor\nanxiety\nlow blood sugar (hypoglycaemia)\nbecause of diabetes\niron deficiency anaemia\nmotion sickness\nDizziness for no obvious reason\nDizziness symptoms\nPossible causes\nWhen standing or sitting up suddenly\nSudden drop in blood pressure (postural hypotension)\nFeeling off-balance, losing some hearing, ringing or other sounds in your ears (\ntinnitus\n)\nInner-ear problems\nFeeling off-balance or like things are spinning, feeling or being sick, sometimes after a cold or flu\nLabyrinthitis\nAfter starting new prescription medicine\nSide effect of medicine",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an\near infection",
+            "migraine",
+            "dehydration\nor\nheat exhaustion",
+            "stress\nor\nanxiety",
+            "low blood sugar (hypoglycaemia)\nbecause of diabetes",
+            "iron deficiency anaemia",
+            "motion sickness"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ear infection",
+          "url": "https://www.nhs.uk/conditions/ear-infections/"
+        },
+        {
+          "text": "migraine",
+          "url": "https://www.nhs.uk/conditions/migraine/"
+        },
+        {
+          "text": "dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        },
+        {
+          "text": "heat exhaustion",
+          "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+        },
+        {
+          "text": "stress",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "text": "anxiety",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+        },
+        {
+          "text": "low blood sugar (hypoglycaemia)",
+          "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+        },
+        {
+          "text": "iron deficiency anaemia",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+        },
+        {
+          "text": "motion sickness",
+          "url": "https://www.nhs.uk/conditions/motion-sickness/"
+        },
+        {
+          "text": "tinnitus",
+          "url": "https://www.nhs.uk/conditions/tinnitus/"
+        },
+        {
+          "text": "Labyrinthitis",
+          "url": "https://www.nhs.uk/conditions/labyrinthitis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of dizziness</h2>\n<p data-block-key=\"w4iq4\">If you have other symptoms, this might give you an idea of the cause. Do not self-diagnose. See a GP if you're worried.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Dizziness while you're ill with something else\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"fe9mv\">Dizziness often goes away after you're treated for something else. For example:</p><ul><li data-block-key=\"coson\">an <a href=\"/conditions/ear-infections/\">ear infection</a></li><li data-block-key=\"aj1di\"><a href=\"/conditions/migraine/\">migraine</a></li><li data-block-key=\"j7o35\"><a href=\"/conditions/dehydration/\">dehydration</a> or <a href=\"/conditions/heat-exhaustion-heatstroke/\">heat exhaustion</a></li><li data-block-key=\"qyld9\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a> or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li data-block-key=\"kuvud\"><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a> because of diabetes</li><li data-block-key=\"66x4i\"><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li data-block-key=\"arvz4\"><a href=\"/conditions/motion-sickness/\">motion sickness</a></li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Dizziness for no obvious reason\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Dizziness for no obvious reason</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Dizziness symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">When standing or sitting up suddenly</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Sudden drop in blood pressure (postural hypotension)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Feeling off-balance, losing some hearing, ringing or other sounds in your ears (<a href=\"/conditions/tinnitus/\">tinnitus</a>)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Inner-ear problems</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Feeling off-balance or like things are spinning, feeling or being sick, sometimes after a cold or flu</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\"><a href=\"/conditions/labyrinthitis/\">Labyrinthitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">After starting new prescription medicine</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Side effect of medicine</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "It's common to sometimes feel dizzy, lightheaded or off-balance, and it's not usually serious. See a GP if you're worried.\nSymptoms of dizziness\nDizziness includes feeling:\noff-balance\ngiddy\nlightheaded or faint\nlike you're spinning or things around you are spinning (\nvertigo\n)\nHow you can treat dizziness yourself\nDizziness usually goes away on its own. But there are things you can do to take care of yourself while you're feeling dizzy.\nDo\nlie down until the dizziness passes, then get up slowly\nmove slowly and carefully\nget plenty of rest\ndrink plenty of fluids, especially water\navoid coffee, cigarettes, alcohol and drugs\nDon’t\ndo not bend down suddenly\ndo not get up suddenly after sitting or lying down\ndo not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery\nNon-urgent advice:\nSee a GP if:\nyou're worried about your dizziness or vertigo\nit will not go away or it keeps coming back\nyou're finding it harder to hear or speak\nthere's ringing or other sounds in your ears (tinnitus)\nyou have double vision, blurred vision or other changes in your eyesight\nyour face, arms or legs feel numb or weak\nyou have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick\nCauses of dizziness\nIf you have other symptoms, this might give you an idea of the cause. Do not self-diagnose. See a GP if you're worried.\nDizziness while you're ill with something else\nDizziness often goes away after you're treated for something else. For example:\nan\near infection\nmigraine\ndehydration\nor\nheat exhaustion\nstress\nor\nanxiety\nlow blood sugar (hypoglycaemia)\nbecause of diabetes\niron deficiency anaemia\nmotion sickness\nDizziness for no obvious reason\nDizziness symptoms\nPossible causes\nWhen standing or sitting up suddenly\nSudden drop in blood pressure (postural hypotension)\nFeeling off-balance, losing some hearing, ringing or other sounds in your ears (\ntinnitus\n)\nInner-ear problems\nFeeling off-balance or like things are spinning, feeling or being sick, sometimes after a cold or flu\nLabyrinthitis\nAfter starting new prescription medicine\nSide effect of medicine\nPage last reviewed: 21 April 2023\nNext review due: 21 April 2026",
+  "links": [
+    {
+      "text": "vertigo",
+      "url": "https://www.nhs.uk/conditions/vertigo/"
+    },
+    {
+      "text": "ear infection",
+      "url": "https://www.nhs.uk/conditions/ear-infections/"
+    },
+    {
+      "text": "migraine",
+      "url": "https://www.nhs.uk/conditions/migraine/"
+    },
+    {
+      "text": "dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    },
+    {
+      "text": "heat exhaustion",
+      "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+    },
+    {
+      "text": "low blood sugar (hypoglycaemia)",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+    },
+    {
+      "text": "iron deficiency anaemia",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+    },
+    {
+      "text": "motion sickness",
+      "url": "https://www.nhs.uk/conditions/motion-sickness/"
+    },
+    {
+      "text": "tinnitus",
+      "url": "https://www.nhs.uk/conditions/tinnitus/"
+    },
+    {
+      "text": "Labyrinthitis",
+      "url": "https://www.nhs.uk/conditions/labyrinthitis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"mayt1\"><b>It's common to sometimes feel dizzy, lightheaded or off-balance, and it's not usually serious. See a GP if you're worried.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of dizziness</h2>\n<p data-block-key=\"lwbpc\">Dizziness includes feeling:</p><ul><li data-block-key=\"gkmt8\">off-balance</li><li data-block-key=\"o76ed\">giddy</li><li data-block-key=\"un2g3\">lightheaded or faint</li><li data-block-key=\"3pd73\">like you're spinning or things around you are spinning (<a href=\"/conditions/vertigo/\">vertigo</a>)</li></ul>\n</section>\n<section>\n<h2 id=\"self-care\">How you can treat dizziness yourself</h2>\n<p data-block-key=\"7h2l6\">Dizziness usually goes away on its own. But there are things you can do to take care of yourself while you're feeling dizzy.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mxf9y\">lie down until the dizziness passes, then get up slowly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4p0kp\">move slowly and carefully</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"63m2q\">get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c7xdu\">drink plenty of fluids, especially water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yew2t\">avoid coffee, cigarettes, alcohol and drugs</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ijlxe\">do not bend down suddenly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pj8mv\">do not get up suddenly after sitting or lying down</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"h3tca\">do not do anything that could be dangerous while you're dizzy, like driving, climbing a ladder or using heavy machinery</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"zvauf\">you're worried about your dizziness or vertigo</li><li data-block-key=\"27xd8\">it will not go away or it keeps coming back</li><li data-block-key=\"y9lnb\">you're finding it harder to hear or speak</li><li data-block-key=\"3dtmy\">there's ringing or other sounds in your ears (tinnitus)</li><li data-block-key=\"9qvr8\">you have double vision, blurred vision or other changes in your eyesight</li><li data-block-key=\"z05mm\">your face, arms or legs feel numb or weak</li><li data-block-key=\"1lqut\">you have other symptoms like changes to your pulse, fainting or collapsing, headaches, feeling or being sick</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of dizziness</h2>\n<p data-block-key=\"w4iq4\">If you have other symptoms, this might give you an idea of the cause. Do not self-diagnose. See a GP if you're worried.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Dizziness while you're ill with something else\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"fe9mv\">Dizziness often goes away after you're treated for something else. For example:</p><ul><li data-block-key=\"coson\">an <a href=\"/conditions/ear-infections/\">ear infection</a></li><li data-block-key=\"aj1di\"><a href=\"/conditions/migraine/\">migraine</a></li><li data-block-key=\"j7o35\"><a href=\"/conditions/dehydration/\">dehydration</a> or <a href=\"/conditions/heat-exhaustion-heatstroke/\">heat exhaustion</a></li><li data-block-key=\"qyld9\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a> or <a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li data-block-key=\"kuvud\"><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a> because of diabetes</li><li data-block-key=\"66x4i\"><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li data-block-key=\"arvz4\"><a href=\"/conditions/motion-sickness/\">motion sickness</a></li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Dizziness for no obvious reason\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Dizziness for no obvious reason</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Dizziness symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">When standing or sitting up suddenly</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Sudden drop in blood pressure (postural hypotension)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Feeling off-balance, losing some hearing, ringing or other sounds in your ears (<a href=\"/conditions/tinnitus/\">tinnitus</a>)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Inner-ear problems</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Feeling off-balance or like things are spinning, feeling or being sick, sometimes after a cold or flu</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\"><a href=\"/conditions/labyrinthitis/\">Labyrinthitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">After starting new prescription medicine</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"a4hnm\">Side effect of medicine</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 21 April 2023<br/>\n    Next review due: 21 April 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

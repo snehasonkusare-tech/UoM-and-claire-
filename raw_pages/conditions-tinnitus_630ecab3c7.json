@@ -1,0 +1,719 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/tinnitus/",
+  "final_url": "https://www.nhs.uk/conditions/tinnitus/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:53.238408+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "T",
+      "label": "Tinnitus",
+      "url": "https://www.nhs.uk/conditions/tinnitus/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Tinnitus",
+  "meta_description": "Find out about tinnitus (hearing ringing or buzzing), including what you can do to help you cope with it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "12 January 2024",
+    "next_review_due": "12 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about tinnitus (hearing ringing or buzzing), including what you can do to help you cope with it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/tinnitus/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nTinnitus\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about tinnitus (hearing ringing or buzzing), including what you can do to help you cope with it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "6 May 2026, 10:07 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 3:34 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Tinnitus"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/tinnitus/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Tinnitus"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-06T21:07:34+00:00",
+      "description": "Find out about tinnitus (hearing ringing or buzzing), including what you can do to help you cope with it and when to get medical help.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Tinnitus can sound like ringing, buzzing, whooshing, humming, hissing, throbbing, music or singing. You may hear these sounds in your head or ears.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Tinnitus can sound like:</p><ul><li>ringing</li><li>buzzing</li><li>whooshing</li><li>humming</li><li>hissing</li><li>throbbing</li><li>music or singing</li></ul><p>You may hear these sounds in 1 or both ears, or in your head. They may come and go, or you might hear them all the time.</p>"
+            }
+          ],
+          "headline": "Symptoms of tinnitus",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "The cause of tinnitus is not always clear, but it's often linked to hearing loss, Ménière's disease, anxiety or depression, or certain conditions.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's not always clear what causes tinnitus, but it's often linked to:</p><ul><li>some form of <a href=\"/conditions/hearing-loss/\">hearing loss</a></li><li><a href=\"/conditions/menieres-disease/\">Ménière's disease</a></li><li>conditions such as diabetes, thyroid disorders or multiple sclerosis</li><li>anxiety or depression</li><li>taking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics, <a href=\"/medicines/nsaids/\">non-steroidal anti-inflammatory drugs (NSAIDs)</a> and aspirin</li></ul>"
+            }
+          ],
+          "headline": "Causes of tinnitus",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have tinnitus regularly or constantly\n </li>\n<li>\n  your tinnitus is getting worse\n </li>\n<li>\n  your tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have tinnitus that beats in time with your pulse\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To check what may be causing your tinnitus, a GP will look in your ears for an ear infection or earwax. They may also check for any hearing loss.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The GP will look in your ears to see if your tinnitus is caused by something they can treat, like an <a href=\"/conditions/ear-infections/\">ear infection</a> or a build-up of <a href=\"/conditions/earwax-build-up/\">earwax</a>.</p><p>They might also check for any hearing loss.</p><p>You may be referred to a specialist for further tests and treatment.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E or call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you have tinnitus after a head injury\n </li>\n<li>\n  you have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to help cope with tinnitus include trying to relax and avoiding stress or loud background noises, which can make tinnitus worse.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have tinnitus there are things you can do to help cope.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try to relax – deep breathing or yoga may help</p></li><li><p>try to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine</p></li><li><p>try to avoid things that can make tinnitus worse, such as stress or loud background noises</p></li><li><p>join a support group – talking to other people with tinnitus may help you cope</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus</p></li><li><p>do not focus on it, as this can make it worse – hobbies and activities may take your mind off it</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to help cope with tinnitus",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If your tinnitus is severe or persistent, you may be referred for cognitive behavioural therapy (CBT), counselling, or tinnitus retraining therapy.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If the cause of your tinnitus is unknown or cannot be treated, your GP or specialist may refer you for a type of talking therapy.</p><p>This could be:</p><ul><li><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> – to change the way you think about your tinnitus and reduce anxiety</li><li>tinnitus counselling – to help you learn about your tinnitus and find ways of coping with it</li><li>tinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus</li></ul><p>You'll usually be offered digital CBT first, which is a type of CBT that's delivered through an online programme or app on your computer, tablet or smartphone.</p><p>Tinnitus retraining therapy may be available on the NHS for people with severe or persistent tinnitus. It's unclear if tinnitus retraining therapy works for everyone. It's widely available privately.</p><p>If you have hearing loss, hearing aids may be recommended.</p>"
+            }
+          ],
+          "headline": "Treatments for tinnitus",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Tinnitus is where you hear noises that do not come from an outside source. It's not usually a sign of anything serious and may get better by itself.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Tinnitus",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Tinnitus",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Tinnitus",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Tinnitus",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Tinnitus can sound like ringing, buzzing, whooshing, humming, hissing, throbbing, music or singing. You may hear these sounds in your head or ears.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The cause of tinnitus is not always clear, but it's often linked to hearing loss, Ménière's disease, anxiety or depression, or certain conditions.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to help cope with tinnitus include trying to relax and avoiding stress or loud background noises, which can make tinnitus worse.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If your tinnitus is severe or persistent, you may be referred for cognitive behavioural therapy (CBT), counselling, or tinnitus retraining therapy.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/tinnitus/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-12T02:00:00+00:00",
+        "2027-01-12T02:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Tinnitus",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Tinnitus",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/tinnitus/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/tinnitus/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "2705775088001",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/c18153f7-21a9-46bb-bc66-971f4838374c/10s/master.m3u8?fastly_token=NjkxMzZhMWJfODJjNjA2NjVlODhmMmVjMmQ3MzJjZmQzODBjZDA0YzliZjliZGQ4MWM0NmYzOGYyNWM4NDNjNTllNmU5Mzg0Mg%3D%3D",
+      "description": "In this video, learn about tinnitus, its possible causes and the effects and how to deal with it.",
+      "duration": "PT4M47.381S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=2705775088001",
+      "name": "Tinnitus",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/c18153f7-21a9-46bb-bc66-971f4838374c/3632a74d-4d86-4bb1-929b-d579f9dc0ff7/160x90/match/image.jpg",
+      "uploadDate": "2025-09-22T08:37:40.749000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Tinnitus is the name for hearing noises that do not come from an outside source. It's not usually a sign of anything serious and may get better by itself.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"zpasw\"><b>Tinnitus is the name for hearing noises that do not come from an outside source. It's not usually a sign of anything serious and may get better by itself.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of tinnitus",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of tinnitus"
+        }
+      ],
+      "text": "Symptoms of tinnitus\nTinnitus can sound like:\nringing\nbuzzing\nwhooshing\nhumming\nhissing\nthrobbing\nmusic or singing\nYou may hear these sounds in 1 or both ears, or in your head. They may come and go, or you might hear them all the time.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "ringing",
+            "buzzing",
+            "whooshing",
+            "humming",
+            "hissing",
+            "throbbing",
+            "music or singing"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of tinnitus</h2>\n<p data-block-key=\"6t8z2\">Tinnitus can sound like:</p><ul><li data-block-key=\"1v5af\">ringing</li><li data-block-key=\"fk92j\">buzzing</li><li data-block-key=\"ylyhi\">whooshing</li><li data-block-key=\"8a5m8\">humming</li><li data-block-key=\"o6gao\">hissing</li><li data-block-key=\"jfi67\">throbbing</li><li data-block-key=\"t02py\">music or singing</li></ul><p data-block-key=\"7smd8\">You may hear these sounds in 1 or both ears, or in your head. They may come and go, or you might hear them all the time.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of tinnitus",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of tinnitus"
+        }
+      ],
+      "text": "Causes of tinnitus\nIt's not always clear what causes tinnitus, but it's often linked to:\nsome form of\nhearing loss\nMénière's disease\nconditions such as diabetes, thyroid disorders or multiple sclerosis\nanxiety or depression\ntaking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics,\nnon-steroidal anti-inflammatory drugs (NSAIDs)\nand aspirin",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "some form of\nhearing loss",
+            "Ménière's disease",
+            "conditions such as diabetes, thyroid disorders or multiple sclerosis",
+            "anxiety or depression",
+            "taking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics,\nnon-steroidal anti-inflammatory drugs (NSAIDs)\nand aspirin"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "hearing loss",
+          "url": "https://www.nhs.uk/conditions/hearing-loss/"
+        },
+        {
+          "text": "Ménière's disease",
+          "url": "https://www.nhs.uk/conditions/menieres-disease/"
+        },
+        {
+          "text": "non-steroidal anti-inflammatory drugs (NSAIDs)",
+          "url": "https://www.nhs.uk/medicines/nsaids/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of tinnitus</h2>\n<p data-block-key=\"vrn3s\">It's not always clear what causes tinnitus, but it's often linked to:</p><ul><li data-block-key=\"yue1g\">some form of <a href=\"/conditions/hearing-loss/\">hearing loss</a></li><li data-block-key=\"wmo62\"><a href=\"/conditions/menieres-disease/\">Ménière's disease</a></li><li data-block-key=\"vcnfw\">conditions such as diabetes, thyroid disorders or multiple sclerosis</li><li data-block-key=\"11x3g\">anxiety or depression</li><li data-block-key=\"zh0l1\">taking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics, <a href=\"/medicines/nsaids/\">non-steroidal anti-inflammatory drugs (NSAIDs)</a> and aspirin</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have tinnitus regularly or constantly\nyour tinnitus is getting worse\nyour tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have tinnitus regularly or constantly",
+            "your tinnitus is getting worse",
+            "your tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a2slv\">you have tinnitus regularly or constantly</li><li data-block-key=\"m8f3u\">your tinnitus is getting worse</li><li data-block-key=\"mwf05\">your tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Ask for an urgent GP appointment if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment if:\nyou have tinnitus that beats in time with your pulse",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have tinnitus that beats in time with your pulse"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"r5ix8\">you have tinnitus that beats in time with your pulse</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nThe GP will look in your ears to see if your tinnitus is caused by something they can treat, like an\near infection\nor a build-up of\nearwax\n.\nThey might also check for any hearing loss.\nYou may be referred to a specialist for further tests and treatment.",
+      "lists": [],
+      "links": [
+        {
+          "text": "ear infection",
+          "url": "https://www.nhs.uk/conditions/ear-infections/"
+        },
+        {
+          "text": "earwax",
+          "url": "https://www.nhs.uk/conditions/earwax-build-up/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"odnfc\">The GP will look in your ears to see if your tinnitus is caused by something they can treat, like an <a href=\"/conditions/ear-infections/\">ear infection</a> or a build-up of <a href=\"/conditions/earwax-build-up/\">earwax</a>.</p><p data-block-key=\"2db2\">They might also check for any hearing loss.</p><p data-block-key=\"2vav4\">You may be referred to a specialist for further tests and treatment.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Immediate action required: Go to A&E or call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E or call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E or call 999 if:\nyou have tinnitus after a head injury\nyou have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have tinnitus after a head injury",
+            "you have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"msolv\">you have tinnitus after a head injury</li><li data-block-key=\"5odbe\">you have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Things you can try to help cope with tinnitus",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help cope with tinnitus"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can try to help cope with tinnitus\nIf you have tinnitus there are things you can do to help cope.\nDo\ntry to relax – deep breathing or yoga may help\ntry to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine\ntry to avoid things that can make tinnitus worse, such as stress or loud background noises\njoin a support group – talking to other people with tinnitus may help you cope\nDon’t\ndo not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus\ndo not focus on it, as this can make it worse – hobbies and activities may take your mind off it",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try to relax – deep breathing or yoga may help",
+            "try to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine",
+            "try to avoid things that can make tinnitus worse, such as stress or loud background noises",
+            "join a support group – talking to other people with tinnitus may help you cope"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus",
+            "do not focus on it, as this can make it worse – hobbies and activities may take your mind off it"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help cope with tinnitus</h2>\n<p data-block-key=\"n7elu\">If you have tinnitus there are things you can do to help cope.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jbr87\">try to relax – deep breathing or yoga may help</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nyi4c\">try to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1dz4v\">try to avoid things that can make tinnitus worse, such as stress or loud background noises</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fr4xl\">join a support group – talking to other people with tinnitus may help you cope</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5t9rz\">do not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9pb9t\">do not focus on it, as this can make it worse – hobbies and activities may take your mind off it</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 9,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nThe Tinnitus UK website has more information about self-help for tinnitus\n. Their free helpline number is 0800 018 0527.\nYou can also\nfind a tinnitus support group near you on the Tinnitus UK website\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "The Tinnitus UK website has more information about self-help for tinnitus",
+          "url": "https://tinnitus.org.uk/support-for-you/what-can-i-do/self-help-tips/"
+        },
+        {
+          "text": "find a tinnitus support group near you on the Tinnitus UK website",
+          "url": "https://tinnitus.org.uk/how-we-can-help/support-groups/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"clxha\"><a href=\"https://tinnitus.org.uk/support-for-you/what-can-i-do/self-help-tips/\">The Tinnitus UK website has more information about self-help for tinnitus</a>. Their free helpline number is 0800 018 0527.</p><p data-block-key=\"cjscf\">You can also <a href=\"https://tinnitus.org.uk/how-we-can-help/support-groups/\">find a tinnitus support group near you on the Tinnitus UK website</a>.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 10,
+      "heading": "Treatments for tinnitus",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for tinnitus"
+        }
+      ],
+      "text": "Treatments for tinnitus\nIf the cause of your tinnitus is unknown or cannot be treated, your GP or specialist may refer you for a type of talking therapy.\nThis could be:\ncognitive behavioural therapy (CBT)\n– to change the way you think about your tinnitus and reduce anxiety\ntinnitus counselling – to help you learn about your tinnitus and find ways of coping with it\ntinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus\nYou'll usually be offered digital CBT first, which is a type of CBT that's delivered through an online programme or app on your computer, tablet or smartphone.\nTinnitus retraining therapy may be available on the NHS for people with severe or persistent tinnitus. It's unclear if tinnitus retraining therapy works for everyone. It's widely available privately.\nIf you have hearing loss, hearing aids may be recommended.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "cognitive behavioural therapy (CBT)\n– to change the way you think about your tinnitus and reduce anxiety",
+            "tinnitus counselling – to help you learn about your tinnitus and find ways of coping with it",
+            "tinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for tinnitus</h2>\n<p data-block-key=\"fq3om\">If the cause of your tinnitus is unknown or cannot be treated, your GP or specialist may refer you for a type of talking therapy.</p><p data-block-key=\"d2e03\">This could be:</p><ul><li data-block-key=\"h1urh\"><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> – to change the way you think about your tinnitus and reduce anxiety</li><li data-block-key=\"bod2h\">tinnitus counselling – to help you learn about your tinnitus and find ways of coping with it</li><li data-block-key=\"ksf27\">tinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus</li></ul><p data-block-key=\"cvla9\">You'll usually be offered digital CBT first, which is a type of CBT that's delivered through an online programme or app on your computer, tablet or smartphone.</p><p data-block-key=\"ejz22\">Tinnitus retraining therapy may be available on the NHS for people with severe or persistent tinnitus. It's unclear if tinnitus retraining therapy works for everyone. It's widely available privately.</p><p data-block-key=\"s97w1\">If you have hearing loss, hearing aids may be recommended.</p>\n</section>"
+    },
+    {
+      "position": 11,
+      "heading": "Video: Tinnitus",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Video: Tinnitus"
+        }
+      ],
+      "text": "Video: Tinnitus\nIn this video, learn about tinnitus, its possible causes and the effects and how to deal with it.\nMedia last reviewed: 1 June 2024\nMedia review due: 1 June 2027",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: Tinnitus</h2>\n<p>In this video, learn about tinnitus, its possible causes and the effects and how to deal with it.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2705775088001\" id=\"2705775088001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 1 June 2024<br/>\n    Media review due: 1 June 2027\n  </div>\n</div>\n</section>"
+    },
+    {
+      "position": 12,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Tinnitus is the name for hearing noises that do not come from an outside source. It's not usually a sign of anything serious and may get better by itself.\nSymptoms of tinnitus\nTinnitus can sound like:\nringing\nbuzzing\nwhooshing\nhumming\nhissing\nthrobbing\nmusic or singing\nYou may hear these sounds in 1 or both ears, or in your head. They may come and go, or you might hear them all the time.\nCauses of tinnitus\nIt's not always clear what causes tinnitus, but it's often linked to:\nsome form of\nhearing loss\nMénière's disease\nconditions such as diabetes, thyroid disorders or multiple sclerosis\nanxiety or depression\ntaking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics,\nnon-steroidal anti-inflammatory drugs (NSAIDs)\nand aspirin\nNon-urgent advice:\nSee a GP if:\nyou have tinnitus regularly or constantly\nyour tinnitus is getting worse\nyour tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed\nUrgent advice:\nAsk for an urgent GP appointment if:\nyou have tinnitus that beats in time with your pulse\nWhat happens at your appointment\nThe GP will look in your ears to see if your tinnitus is caused by something they can treat, like an\near infection\nor a build-up of\nearwax\n.\nThey might also check for any hearing loss.\nYou may be referred to a specialist for further tests and treatment.\nImmediate action required:\nGo to A&E or call 999 if:\nyou have tinnitus after a head injury\nyou have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nThings you can try to help cope with tinnitus\nIf you have tinnitus there are things you can do to help cope.\nDo\ntry to relax – deep breathing or yoga may help\ntry to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine\ntry to avoid things that can make tinnitus worse, such as stress or loud background noises\njoin a support group – talking to other people with tinnitus may help you cope\nDon’t\ndo not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus\ndo not focus on it, as this can make it worse – hobbies and activities may take your mind off it\nInformation:\nThe Tinnitus UK website has more information about self-help for tinnitus\n. Their free helpline number is 0800 018 0527.\nYou can also\nfind a tinnitus support group near you on the Tinnitus UK website\n.\nTreatments for tinnitus\nIf the cause of your tinnitus is unknown or cannot be treated, your GP or specialist may refer you for a type of talking therapy.\nThis could be:\ncognitive behavioural therapy (CBT)\n– to change the way you think about your tinnitus and reduce anxiety\ntinnitus counselling – to help you learn about your tinnitus and find ways of coping with it\ntinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus\nYou'll usually be offered digital CBT first, which is a type of CBT that's delivered through an online programme or app on your computer, tablet or smartphone.\nTinnitus retraining therapy may be available on the NHS for people with severe or persistent tinnitus. It's unclear if tinnitus retraining therapy works for everyone. It's widely available privately.\nIf you have hearing loss, hearing aids may be recommended.\nVideo: Tinnitus\nIn this video, learn about tinnitus, its possible causes and the effects and how to deal with it.\nMedia last reviewed: 1 June 2024\nMedia review due: 1 June 2027\nPage last reviewed: 12 January 2024\nNext review due: 12 January 2027",
+  "links": [
+    {
+      "text": "hearing loss",
+      "url": "https://www.nhs.uk/conditions/hearing-loss/"
+    },
+    {
+      "text": "Ménière's disease",
+      "url": "https://www.nhs.uk/conditions/menieres-disease/"
+    },
+    {
+      "text": "non-steroidal anti-inflammatory drugs (NSAIDs)",
+      "url": "https://www.nhs.uk/medicines/nsaids/"
+    },
+    {
+      "text": "ear infection",
+      "url": "https://www.nhs.uk/conditions/ear-infections/"
+    },
+    {
+      "text": "earwax",
+      "url": "https://www.nhs.uk/conditions/earwax-build-up/"
+    },
+    {
+      "text": "The Tinnitus UK website has more information about self-help for tinnitus",
+      "url": "https://tinnitus.org.uk/support-for-you/what-can-i-do/self-help-tips/"
+    },
+    {
+      "text": "find a tinnitus support group near you on the Tinnitus UK website",
+      "url": "https://tinnitus.org.uk/how-we-can-help/support-groups/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"zpasw\"><b>Tinnitus is the name for hearing noises that do not come from an outside source. It's not usually a sign of anything serious and may get better by itself.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of tinnitus</h2>\n<p data-block-key=\"6t8z2\">Tinnitus can sound like:</p><ul><li data-block-key=\"1v5af\">ringing</li><li data-block-key=\"fk92j\">buzzing</li><li data-block-key=\"ylyhi\">whooshing</li><li data-block-key=\"8a5m8\">humming</li><li data-block-key=\"o6gao\">hissing</li><li data-block-key=\"jfi67\">throbbing</li><li data-block-key=\"t02py\">music or singing</li></ul><p data-block-key=\"7smd8\">You may hear these sounds in 1 or both ears, or in your head. They may come and go, or you might hear them all the time.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of tinnitus</h2>\n<p data-block-key=\"vrn3s\">It's not always clear what causes tinnitus, but it's often linked to:</p><ul><li data-block-key=\"yue1g\">some form of <a href=\"/conditions/hearing-loss/\">hearing loss</a></li><li data-block-key=\"wmo62\"><a href=\"/conditions/menieres-disease/\">Ménière's disease</a></li><li data-block-key=\"vcnfw\">conditions such as diabetes, thyroid disorders or multiple sclerosis</li><li data-block-key=\"11x3g\">anxiety or depression</li><li data-block-key=\"zh0l1\">taking certain medicines – tinnitus can be a side effect of some chemotherapy medicines, antibiotics, <a href=\"/medicines/nsaids/\">non-steroidal anti-inflammatory drugs (NSAIDs)</a> and aspirin</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a2slv\">you have tinnitus regularly or constantly</li><li data-block-key=\"m8f3u\">your tinnitus is getting worse</li><li data-block-key=\"mwf05\">your tinnitus is bothering you – for example, it's affecting your sleep or concentration, or is making you feel anxious and depressed</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"r5ix8\">you have tinnitus that beats in time with your pulse</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"odnfc\">The GP will look in your ears to see if your tinnitus is caused by something they can treat, like an <a href=\"/conditions/ear-infections/\">ear infection</a> or a build-up of <a href=\"/conditions/earwax-build-up/\">earwax</a>.</p><p data-block-key=\"2db2\">They might also check for any hearing loss.</p><p data-block-key=\"2vav4\">You may be referred to a specialist for further tests and treatment.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"msolv\">you have tinnitus after a head injury</li><li data-block-key=\"5odbe\">you have tinnitus with sudden hearing loss, weakness in the muscles of your face, or a spinning sensation (vertigo)</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help cope with tinnitus</h2>\n<p data-block-key=\"n7elu\">If you have tinnitus there are things you can do to help cope.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jbr87\">try to relax – deep breathing or yoga may help</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nyi4c\">try to find ways to improve your sleep, such as sticking to a bedtime routine or cutting down on caffeine</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1dz4v\">try to avoid things that can make tinnitus worse, such as stress or loud background noises</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fr4xl\">join a support group – talking to other people with tinnitus may help you cope</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5t9rz\">do not have total silence – listening to soft music or sounds (called sound therapy) may distract you from the tinnitus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9pb9t\">do not focus on it, as this can make it worse – hobbies and activities may take your mind off it</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"clxha\"><a href=\"https://tinnitus.org.uk/support-for-you/what-can-i-do/self-help-tips/\">The Tinnitus UK website has more information about self-help for tinnitus</a>. Their free helpline number is 0800 018 0527.</p><p data-block-key=\"cjscf\">You can also <a href=\"https://tinnitus.org.uk/how-we-can-help/support-groups/\">find a tinnitus support group near you on the Tinnitus UK website</a>.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for tinnitus</h2>\n<p data-block-key=\"fq3om\">If the cause of your tinnitus is unknown or cannot be treated, your GP or specialist may refer you for a type of talking therapy.</p><p data-block-key=\"d2e03\">This could be:</p><ul><li data-block-key=\"h1urh\"><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> – to change the way you think about your tinnitus and reduce anxiety</li><li data-block-key=\"bod2h\">tinnitus counselling – to help you learn about your tinnitus and find ways of coping with it</li><li data-block-key=\"ksf27\">tinnitus retraining therapy – using sound therapy to retrain your brain to tune out and be less aware of the tinnitus</li></ul><p data-block-key=\"cvla9\">You'll usually be offered digital CBT first, which is a type of CBT that's delivered through an online programme or app on your computer, tablet or smartphone.</p><p data-block-key=\"ejz22\">Tinnitus retraining therapy may be available on the NHS for people with severe or persistent tinnitus. It's unclear if tinnitus retraining therapy works for everyone. It's widely available privately.</p><p data-block-key=\"s97w1\">If you have hearing loss, hearing aids may be recommended.</p>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: Tinnitus</h2>\n<p>In this video, learn about tinnitus, its possible causes and the effects and how to deal with it.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2705775088001\" id=\"2705775088001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 1 June 2024<br/>\n    Media review due: 1 June 2027\n  </div>\n</div>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 January 2024<br/>\n    Next review due: 12 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

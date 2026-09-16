@@ -1,0 +1,646 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/period-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/period-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:13.835020+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "M",
+      "label": "Menstrual pain, see Period pain",
+      "url": "https://www.nhs.uk/symptoms/period-pain/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "P",
+      "label": "Painful periods, see Period pain",
+      "url": "https://www.nhs.uk/symptoms/period-pain/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "P",
+      "label": "Period pain",
+      "url": "https://www.nhs.uk/symptoms/period-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Period pain",
+  "meta_description": "Find out about period pain, including symptoms, causes, when to see a GP, diagnosing underlying conditions and treatment.",
+  "review_dates": {
+    "page_last_reviewed": "18 March 2026",
+    "next_review_due": "18 March 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about period pain, including symptoms, causes, when to see a GP, diagnosing underlying conditions and treatment."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/period-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nPeriod pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about period pain, including symptoms, causes, when to see a GP, diagnosing underlying conditions and treatment."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "29 Jun 2026, 3:25 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 2:43 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Menstrual pain",
+          "Painful periods"
+        ],
+        "name": "Period pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/period-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Period pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-06-29T14:25:03+00:00",
+      "description": "Find out about period pain, including symptoms, causes, when to see a GP, diagnosing underlying conditions and treatment.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Period pain is pain in your tummy at the start of your period or just before. It may feel like cramps, a sharp pain or a dull ache.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Period pain usually happens to women and girls around the start of their period. It can affect anyone who has periods.</p><p>You may have period pain if:</p><ul><li>you have pain in your tummy at the start of your period, or just before your period</li><li>you have painful cramps in your tummy that spread to your back and thighs</li><li>you have a sharp pain or a dull ache in your tummy</li></ul><p>Period pain usually lasts for up to 3 days and can affect your daily activities.</p>"
+            }
+          ],
+          "headline": "Symptoms of period pain",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to ease period pain include having a warm bath or shower, massaging your tummy and back, and doing some gentle exercise.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are some things you can do to help ease period pain.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>have a warm bath or shower</p></li><li><p>use a heat pad or hot water bottle wrapped in a tea towel on your tummy</p></li><li><p>try massaging your tummy and back</p></li><li><p>try some gentle exercise like yoga, swimming, walking or cycling</p></li><li><p>use painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p><a href=\"/live-well/alcohol-advice/\">Cutting down on alcohol</a> and <a href=\"/live-well/quit-smoking/\">not smoking</a> may also help ease period pain.</p>"
+            }
+          ],
+          "headline": "How you can ease period pain",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Period pain happens when your womb tightens during your period. Sometimes conditions like endometriosis or fibroids can cause more painful periods.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Period pain happens when your womb tightens during your period. It's often a normal part of the menstrual cycle.</p><p>Sometimes painful periods can be caused by a condition such as:</p><ul><li>womb-like tissue growing in other places (<a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/adenomyosis/\">adenomyosis</a>)</li><li>growths in and around the womb (<a href=\"/conditions/fibroids/\">fibroids</a>)</li><li>an infection of the womb, fallopian tubes and ovaries (<a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>)</li></ul><p>An <a href=\"/contraception/methods-of-contraception/iud-coil/\">intrauterine device (IUD)</a> can also cause period pain, particularly during the first 3 to 6 months after it's put in.</p>"
+            }
+          ],
+          "headline": "Causes of period pain",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  your pelvic pain or period pain is severe or worse than usual, and painkillers have not helped\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your periods become more painful, heavier or irregular\n </li>\n<li>\n  your period pain is stopping you doing your usual daily activities\n </li>\n<li>\n  you have pain during sex, or when peeing or pooing\n </li>\n<li>\n  you're bleeding between periods\n </li>\n<li>\n  you've noticed a change in how much you are peeing or pooing\n </li>\n<li>\n  you have a swollen tummy\n </li>\n<li>\n  you have loss of appetite\n </li>\n<li>\n  you're losing weight without trying\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Painkillers, a TENS machine and contraception can be used to treat period pain. If the pain is caused by a medical condition, treating it will help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have severe period pain, a GP may recommend:</p><ul><li>anti-inflammatory medicines like <a href=\"/medicines/naproxen/\">naproxen</a>, flurbiprofen or mefenamic acid</li><li>a <a href=\"/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/\">TENS machine</a> – a small device that uses mild electrical impulses to reduce pain</li><li><a href=\"/contraception/\">contraception</a> like the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain</li></ul><p>The GP may refer you to a specialist (gynaecologist) if your period pain does not get better or they think you may have a condition, like fibroids, causing your pain.</p><p>You might need tests, such as an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, to find out what's causing your period pain. If a condition is found, treating it will help.</p><p>For example, if you have fibroids, you may be given medicine to shrink them or have surgery to remove them. If you have pelvic inflammatory disease, you'll usually need antibiotics.</p>"
+            }
+          ],
+          "headline": "Treatments for period pain",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "It's common to have pain or discomfort before or during your period. There are things you can do to help ease the pain.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Period pain",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Period pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Period pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Period pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Period pain is pain in your tummy at the start of your period or just before. It may feel like cramps, a sharp pain or a dull ache.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to ease period pain include having a warm bath or shower, massaging your tummy and back, and doing some gentle exercise.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Period pain happens when your womb tightens during your period. Sometimes conditions like endometriosis or fibroids can cause more painful periods.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Painkillers, a TENS machine and contraception can be used to treat period pain. If the pain is caused by a medical condition, treating it will help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/period-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-03-18T10:00:00+00:00",
+        "2029-03-18T10:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Period pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Period pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/period-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/period-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of period pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of period pain"
+        }
+      ],
+      "text": "Symptoms of period pain\nPeriod pain usually happens to women and girls around the start of their period. It can affect anyone who has periods.\nYou may have period pain if:\nyou have pain in your tummy at the start of your period, or just before your period\nyou have painful cramps in your tummy that spread to your back and thighs\nyou have a sharp pain or a dull ache in your tummy\nPeriod pain usually lasts for up to 3 days and can affect your daily activities.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have pain in your tummy at the start of your period, or just before your period",
+            "you have painful cramps in your tummy that spread to your back and thighs",
+            "you have a sharp pain or a dull ache in your tummy"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of period pain</h2>\n<p data-block-key=\"453w2\">Period pain usually happens to women and girls around the start of their period. It can affect anyone who has periods.</p><p data-block-key=\"epq3h\">You may have period pain if:</p><ul><li data-block-key=\"cokel\">you have pain in your tummy at the start of your period, or just before your period</li><li data-block-key=\"bgedm\">you have painful cramps in your tummy that spread to your back and thighs</li><li data-block-key=\"f9unv\">you have a sharp pain or a dull ache in your tummy</li></ul><p data-block-key=\"7l7pk\">Period pain usually lasts for up to 3 days and can affect your daily activities.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How you can ease period pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease period pain"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        }
+      ],
+      "text": "How you can ease period pain\nThere are some things you can do to help ease period pain.\nDo\nhave a warm bath or shower\nuse a heat pad or hot water bottle wrapped in a tea towel on your tummy\ntry massaging your tummy and back\ntry some gentle exercise like yoga, swimming, walking or cycling\nuse painkillers like\nparacetamol\nor\nibuprofen\nInformation:\nCutting down on alcohol\nand\nnot smoking\nmay also help ease period pain.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "have a warm bath or shower",
+            "use a heat pad or hot water bottle wrapped in a tea towel on your tummy",
+            "try massaging your tummy and back",
+            "try some gentle exercise like yoga, swimming, walking or cycling",
+            "use painkillers like\nparacetamol\nor\nibuprofen"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Cutting down on alcohol",
+          "url": "https://www.nhs.uk/live-well/alcohol-advice/"
+        },
+        {
+          "text": "not smoking",
+          "url": "https://www.nhs.uk/live-well/quit-smoking/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease period pain</h2>\n<p data-block-key=\"ds2y4\">There are some things you can do to help ease period pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">have a warm bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">use a heat pad or hot water bottle wrapped in a tea towel on your tummy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">try massaging your tummy and back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">try some gentle exercise like yoga, swimming, walking or cycling</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">use painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"gskax\"><a href=\"/live-well/alcohol-advice/\">Cutting down on alcohol</a> and <a href=\"/live-well/quit-smoking/\">not smoking</a> may also help ease period pain.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of period pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of period pain"
+        }
+      ],
+      "text": "Causes of period pain\nPeriod pain happens when your womb tightens during your period. It's often a normal part of the menstrual cycle.\nSometimes painful periods can be caused by a condition such as:\nwomb-like tissue growing in other places (\nendometriosis\nand\nadenomyosis\n)\ngrowths in and around the womb (\nfibroids\n)\nan infection of the womb, fallopian tubes and ovaries (\npelvic inflammatory disease\n)\nAn\nintrauterine device (IUD)\ncan also cause period pain, particularly during the first 3 to 6 months after it's put in.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "womb-like tissue growing in other places (\nendometriosis\nand\nadenomyosis\n)",
+            "growths in and around the womb (\nfibroids\n)",
+            "an infection of the womb, fallopian tubes and ovaries (\npelvic inflammatory disease\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "endometriosis",
+          "url": "https://www.nhs.uk/conditions/endometriosis/"
+        },
+        {
+          "text": "adenomyosis",
+          "url": "https://www.nhs.uk/conditions/adenomyosis/"
+        },
+        {
+          "text": "fibroids",
+          "url": "https://www.nhs.uk/conditions/fibroids/"
+        },
+        {
+          "text": "pelvic inflammatory disease",
+          "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+        },
+        {
+          "text": "intrauterine device (IUD)",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of period pain</h2>\n<p data-block-key=\"cj2ok\">Period pain happens when your womb tightens during your period. It's often a normal part of the menstrual cycle.</p><p data-block-key=\"7d3p9\">Sometimes painful periods can be caused by a condition such as:</p><ul><li data-block-key=\"2cgdo\">womb-like tissue growing in other places (<a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/adenomyosis/\">adenomyosis</a>)</li><li data-block-key=\"agbp\">growths in and around the womb (<a href=\"/conditions/fibroids/\">fibroids</a>)</li><li data-block-key=\"1sjcm\">an infection of the womb, fallopian tubes and ovaries (<a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>)</li></ul><p data-block-key=\"34mv4\">An <a href=\"/contraception/methods-of-contraception/iud-coil/\">intrauterine device (IUD)</a> can also cause period pain, particularly during the first 3 to 6 months after it's put in.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour pelvic pain or period pain is severe or worse than usual, and painkillers have not helped\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your pelvic pain or period pain is severe or worse than usual, and painkillers have not helped"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b6bmy\">your pelvic pain or period pain is severe or worse than usual, and painkillers have not helped</li></ul><p data-block-key=\"3cl6q\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour periods become more painful, heavier or irregular\nyour period pain is stopping you doing your usual daily activities\nyou have pain during sex, or when peeing or pooing\nyou're bleeding between periods\nyou've noticed a change in how much you are peeing or pooing\nyou have a swollen tummy\nyou have loss of appetite\nyou're losing weight without trying",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your periods become more painful, heavier or irregular",
+            "your period pain is stopping you doing your usual daily activities",
+            "you have pain during sex, or when peeing or pooing",
+            "you're bleeding between periods",
+            "you've noticed a change in how much you are peeing or pooing",
+            "you have a swollen tummy",
+            "you have loss of appetite",
+            "you're losing weight without trying"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kerb9\">your periods become more painful, heavier or irregular</li><li data-block-key=\"f5sl2\">your period pain is stopping you doing your usual daily activities</li><li data-block-key=\"flvfs\">you have pain during sex, or when peeing or pooing</li><li data-block-key=\"el4dp\">you're bleeding between periods</li><li data-block-key=\"as6qb\">you've noticed a change in how much you are peeing or pooing</li><li data-block-key=\"52cq9\">you have a swollen tummy</li><li data-block-key=\"eck05\">you have loss of appetite</li><li data-block-key=\"8lvad\">you're losing weight without trying</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatments for period pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for period pain"
+        }
+      ],
+      "text": "Treatments for period pain\nIf you have severe period pain, a GP may recommend:\nanti-inflammatory medicines like\nnaproxen\n, flurbiprofen or mefenamic acid\na\nTENS machine\n– a small device that uses mild electrical impulses to reduce pain\ncontraception\nlike the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain\nThe GP may refer you to a specialist (gynaecologist) if your period pain does not get better or they think you may have a condition, like fibroids, causing your pain.\nYou might need tests, such as an\nultrasound scan\n, to find out what's causing your period pain. If a condition is found, treating it will help.\nFor example, if you have fibroids, you may be given medicine to shrink them or have surgery to remove them. If you have pelvic inflammatory disease, you'll usually need antibiotics.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "anti-inflammatory medicines like\nnaproxen\n, flurbiprofen or mefenamic acid",
+            "a\nTENS machine\n– a small device that uses mild electrical impulses to reduce pain",
+            "contraception\nlike the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "naproxen",
+          "url": "https://www.nhs.uk/medicines/naproxen/"
+        },
+        {
+          "text": "TENS machine",
+          "url": "https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/"
+        },
+        {
+          "text": "contraception",
+          "url": "https://www.nhs.uk/contraception/"
+        },
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for period pain</h2>\n<p data-block-key=\"nfrjn\">If you have severe period pain, a GP may recommend:</p><ul><li data-block-key=\"91t1e\">anti-inflammatory medicines like <a href=\"/medicines/naproxen/\">naproxen</a>, flurbiprofen or mefenamic acid</li><li data-block-key=\"1i0k0\">a <a href=\"/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/\">TENS machine</a> – a small device that uses mild electrical impulses to reduce pain</li><li data-block-key=\"3u13p\"><a href=\"/contraception/\">contraception</a> like the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain</li></ul><p data-block-key=\"3th32\">The GP may refer you to a specialist (gynaecologist) if your period pain does not get better or they think you may have a condition, like fibroids, causing your pain.</p><p data-block-key=\"2sst4\">You might need tests, such as an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, to find out what's causing your period pain. If a condition is found, treating it will help.</p><p data-block-key=\"38tim\">For example, if you have fibroids, you may be given medicine to shrink them or have surgery to remove them. If you have pelvic inflammatory disease, you'll usually need antibiotics.</p>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of period pain\nPeriod pain usually happens to women and girls around the start of their period. It can affect anyone who has periods.\nYou may have period pain if:\nyou have pain in your tummy at the start of your period, or just before your period\nyou have painful cramps in your tummy that spread to your back and thighs\nyou have a sharp pain or a dull ache in your tummy\nPeriod pain usually lasts for up to 3 days and can affect your daily activities.\nHow you can ease period pain\nThere are some things you can do to help ease period pain.\nDo\nhave a warm bath or shower\nuse a heat pad or hot water bottle wrapped in a tea towel on your tummy\ntry massaging your tummy and back\ntry some gentle exercise like yoga, swimming, walking or cycling\nuse painkillers like\nparacetamol\nor\nibuprofen\nInformation:\nCutting down on alcohol\nand\nnot smoking\nmay also help ease period pain.\nCauses of period pain\nPeriod pain happens when your womb tightens during your period. It's often a normal part of the menstrual cycle.\nSometimes painful periods can be caused by a condition such as:\nwomb-like tissue growing in other places (\nendometriosis\nand\nadenomyosis\n)\ngrowths in and around the womb (\nfibroids\n)\nan infection of the womb, fallopian tubes and ovaries (\npelvic inflammatory disease\n)\nAn\nintrauterine device (IUD)\ncan also cause period pain, particularly during the first 3 to 6 months after it's put in.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour pelvic pain or period pain is severe or worse than usual, and painkillers have not helped\nYou can call 111 or\nget help from 111 online\n.\nNon-urgent advice:\nSee a GP if:\nyour periods become more painful, heavier or irregular\nyour period pain is stopping you doing your usual daily activities\nyou have pain during sex, or when peeing or pooing\nyou're bleeding between periods\nyou've noticed a change in how much you are peeing or pooing\nyou have a swollen tummy\nyou have loss of appetite\nyou're losing weight without trying\nTreatments for period pain\nIf you have severe period pain, a GP may recommend:\nanti-inflammatory medicines like\nnaproxen\n, flurbiprofen or mefenamic acid\na\nTENS machine\n– a small device that uses mild electrical impulses to reduce pain\ncontraception\nlike the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain\nThe GP may refer you to a specialist (gynaecologist) if your period pain does not get better or they think you may have a condition, like fibroids, causing your pain.\nYou might need tests, such as an\nultrasound scan\n, to find out what's causing your period pain. If a condition is found, treating it will help.\nFor example, if you have fibroids, you may be given medicine to shrink them or have surgery to remove them. If you have pelvic inflammatory disease, you'll usually need antibiotics.\nPage last reviewed: 18 March 2026\nNext review due: 18 March 2029",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Cutting down on alcohol",
+      "url": "https://www.nhs.uk/live-well/alcohol-advice/"
+    },
+    {
+      "text": "not smoking",
+      "url": "https://www.nhs.uk/live-well/quit-smoking/"
+    },
+    {
+      "text": "endometriosis",
+      "url": "https://www.nhs.uk/conditions/endometriosis/"
+    },
+    {
+      "text": "adenomyosis",
+      "url": "https://www.nhs.uk/conditions/adenomyosis/"
+    },
+    {
+      "text": "fibroids",
+      "url": "https://www.nhs.uk/conditions/fibroids/"
+    },
+    {
+      "text": "pelvic inflammatory disease",
+      "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+    },
+    {
+      "text": "intrauterine device (IUD)",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "naproxen",
+      "url": "https://www.nhs.uk/medicines/naproxen/"
+    },
+    {
+      "text": "TENS machine",
+      "url": "https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/"
+    },
+    {
+      "text": "contraception",
+      "url": "https://www.nhs.uk/contraception/"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of period pain</h2>\n<p data-block-key=\"453w2\">Period pain usually happens to women and girls around the start of their period. It can affect anyone who has periods.</p><p data-block-key=\"epq3h\">You may have period pain if:</p><ul><li data-block-key=\"cokel\">you have pain in your tummy at the start of your period, or just before your period</li><li data-block-key=\"bgedm\">you have painful cramps in your tummy that spread to your back and thighs</li><li data-block-key=\"f9unv\">you have a sharp pain or a dull ache in your tummy</li></ul><p data-block-key=\"7l7pk\">Period pain usually lasts for up to 3 days and can affect your daily activities.</p>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease period pain</h2>\n<p data-block-key=\"ds2y4\">There are some things you can do to help ease period pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">have a warm bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">use a heat pad or hot water bottle wrapped in a tea towel on your tummy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">try massaging your tummy and back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">try some gentle exercise like yoga, swimming, walking or cycling</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ez2qr\">use painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"gskax\"><a href=\"/live-well/alcohol-advice/\">Cutting down on alcohol</a> and <a href=\"/live-well/quit-smoking/\">not smoking</a> may also help ease period pain.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of period pain</h2>\n<p data-block-key=\"cj2ok\">Period pain happens when your womb tightens during your period. It's often a normal part of the menstrual cycle.</p><p data-block-key=\"7d3p9\">Sometimes painful periods can be caused by a condition such as:</p><ul><li data-block-key=\"2cgdo\">womb-like tissue growing in other places (<a href=\"/conditions/endometriosis/\">endometriosis</a> and <a href=\"/conditions/adenomyosis/\">adenomyosis</a>)</li><li data-block-key=\"agbp\">growths in and around the womb (<a href=\"/conditions/fibroids/\">fibroids</a>)</li><li data-block-key=\"1sjcm\">an infection of the womb, fallopian tubes and ovaries (<a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a>)</li></ul><p data-block-key=\"34mv4\">An <a href=\"/contraception/methods-of-contraception/iud-coil/\">intrauterine device (IUD)</a> can also cause period pain, particularly during the first 3 to 6 months after it's put in.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b6bmy\">your pelvic pain or period pain is severe or worse than usual, and painkillers have not helped</li></ul><p data-block-key=\"3cl6q\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kerb9\">your periods become more painful, heavier or irregular</li><li data-block-key=\"f5sl2\">your period pain is stopping you doing your usual daily activities</li><li data-block-key=\"flvfs\">you have pain during sex, or when peeing or pooing</li><li data-block-key=\"el4dp\">you're bleeding between periods</li><li data-block-key=\"as6qb\">you've noticed a change in how much you are peeing or pooing</li><li data-block-key=\"52cq9\">you have a swollen tummy</li><li data-block-key=\"eck05\">you have loss of appetite</li><li data-block-key=\"8lvad\">you're losing weight without trying</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for period pain</h2>\n<p data-block-key=\"nfrjn\">If you have severe period pain, a GP may recommend:</p><ul><li data-block-key=\"91t1e\">anti-inflammatory medicines like <a href=\"/medicines/naproxen/\">naproxen</a>, flurbiprofen or mefenamic acid</li><li data-block-key=\"1i0k0\">a <a href=\"/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/\">TENS machine</a> – a small device that uses mild electrical impulses to reduce pain</li><li data-block-key=\"3u13p\"><a href=\"/contraception/\">contraception</a> like the pill, implant or injection – these thin the womb lining, making your period lighter and easing the pain</li></ul><p data-block-key=\"3th32\">The GP may refer you to a specialist (gynaecologist) if your period pain does not get better or they think you may have a condition, like fibroids, causing your pain.</p><p data-block-key=\"2sst4\">You might need tests, such as an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>, to find out what's causing your period pain. If a condition is found, treating it will help.</p><p data-block-key=\"38tim\">For example, if you have fibroids, you may be given medicine to shrink them or have surgery to remove them. If you have pelvic inflammatory disease, you'll usually need antibiotics.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 18 March 2026<br/>\n    Next review due: 18 March 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

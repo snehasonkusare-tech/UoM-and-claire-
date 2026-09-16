@@ -1,0 +1,576 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/catarrh/",
+  "final_url": "https://www.nhs.uk/conditions/catarrh/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:06.432693+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "C",
+      "label": "Catarrh",
+      "url": "https://www.nhs.uk/conditions/catarrh/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Catarrh",
+  "meta_description": "Find out about catarrh, including what the symptoms are, what you can do to help ease it, when to get medical help, and treatments that may be recommended.",
+  "review_dates": {
+    "page_last_reviewed": "16 June 2026",
+    "next_review_due": "16 June 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about catarrh, including what the symptoms are, what you can do to help ease it, when to get medical help, and treatments that may be recommended."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/catarrh/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nCatarrh\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about catarrh, including what the symptoms are, what you can do to help ease it, when to get medical help, and treatments that may be recommended."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Jun 2026, 3:18 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 8:05 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Catarrh"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/catarrh/",
+              "genre": [
+                "Condition"
+              ],
+              "name": "Catarrh"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-06-16T14:18:18+00:00",
+      "description": "Find out about catarrh, including what the symptoms are, what you can do to help ease it, when to get medical help, and treatments that may be recommended.",
+      "genre": [
+        "Condition"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of catarrh include a blocked nose, feeling like there's a lump in your throat, and swallowing or coughing to try to clear your throat.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may get catarrh if you have an infection like a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a>.</p><p>Symptoms of catarrh include:</p><ul><li>a constantly blocked or runny nose</li><li>feeling like there's a lump or something stuck in your throat</li><li>a frequent need to swallow or cough to try to clear your throat</li><li>a feeling that mucus is slowly dripping down the back of your throat (postnasal drip)</li><li>a crackling feeling in your ears</li></ul><p>These symptoms usually only last a few days, but sometimes they can last longer.</p>"
+            }
+          ],
+          "headline": "Symptoms of catarrh",
+          "url": "https://www.nhs.uk/conditions/catarrh/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that may help ease the symptoms of catarrh include drinking plenty of water, gargling with salt water and using medicines like decongestants.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Although catarrh can be annoying, phlegm and mucus are not harmful and are the body's way of clearing infection.</p><p>It usually goes away by itself, but there are some things you can do to help ease the symptoms.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>drink plenty of water</p></li><li><p>sip ice-cold water when you need to clear your throat, rather than coughing or swallowing</p></li><li><p>try using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat</p></li><li><p>try gargling with salt water</p></li><li><p>try rinsing your nose with salt water</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "How to rinse your nose with a homemade salt water solution",
+              "text": "<div class=\"block-richtext\">\n<ol><li>Boil a pint of water, then leave it to cool.</li><li>Mix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.</li><li>Wash your hands.</li><li>Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li>Sniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.</li><li>Repeat the first 5 steps up to 3 times a day until your nose feels more comfortable.</li></ol><p>Any unused solution will keep for the rest of the day in a clean, covered container. But make a fresh solution at the start of each day.</p>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with catarrh",
+              "text": "<p>You could ask a pharmacist about:</p><ul><li><a href=\"/medicines/decongestants/\">decongestants</a> and other medicines to help relieve catarrh</li><li>salt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "Things you can do to help ease catarrh",
+          "url": "https://www.nhs.uk/conditions/catarrh/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have the symptoms of catarrh for more than a few weeks\n </li>\n<li>\n  you get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell\n </li>\n</ul>\n<p>\n The GP may want to rule out other conditions that could be causing your catarrh, such as nasal polyps.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/catarrh/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A GP may suggest treatments for catarrh like decongestants and salt water nose rinses.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP may suggest trying treatments for catarrh that you can get from a pharmacist, like decongestant medicines and salt water nose rinses.</p>"
+            }
+          ],
+          "headline": "Treatments from a GP",
+          "url": "https://www.nhs.uk/conditions/catarrh/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Catarrh is the body's natural reaction to things like infection. The lining in your nose, sinuses and throat becomes swollen and produces extra mucus.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Catarrh is your body's natural reaction to things like infection.</p><p>The lining in your nose, sinuses and throat becomes swollen and creates more mucus than normal.</p><p>Causes of catarrh include:</p><ul><li>infections like <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> and <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a></li><li>pollution and cigarette smoke</li><li>allergic reactions to things like pollen, dust and animals</li><li>conditions that affect the nose, such as <a href=\"/conditions/nasal-polyps/\">nasal polyps</a></li></ul>"
+            }
+          ],
+          "headline": "Causes of catarrh",
+          "url": "https://www.nhs.uk/conditions/catarrh/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Catarrh is a build-up of mucus in your nose and sinuses and phlegm in your throat. It usually clears up by itself but see a GP if it does not go away.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Catarrh",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Catarrh",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Catarrh",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Catarrh",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of catarrh include a blocked nose, feeling like there's a lump in your throat, and swallowing or coughing to try to clear your throat.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things that may help ease the symptoms of catarrh include drinking plenty of water, gargling with salt water and using medicines like decongestants.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A GP may suggest treatments for catarrh like decongestants and salt water nose rinses.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Catarrh is the body's natural reaction to things like infection. The lining in your nose, sinuses and throat becomes swollen and produces extra mucus.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/catarrh/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-06-16T09:00:00+00:00",
+        "2029-06-16T09:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Catarrh",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Catarrh",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/catarrh/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/catarrh/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of catarrh",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of catarrh"
+        }
+      ],
+      "text": "Symptoms of catarrh\nYou may get catarrh if you have an infection like a\ncold\n,\nflu\nor\nsinusitis\n.\nSymptoms of catarrh include:\na constantly blocked or runny nose\nfeeling like there's a lump or something stuck in your throat\na frequent need to swallow or cough to try to clear your throat\na feeling that mucus is slowly dripping down the back of your throat (postnasal drip)\na crackling feeling in your ears\nThese symptoms usually only last a few days, but sometimes they can last longer.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a constantly blocked or runny nose",
+            "feeling like there's a lump or something stuck in your throat",
+            "a frequent need to swallow or cough to try to clear your throat",
+            "a feeling that mucus is slowly dripping down the back of your throat (postnasal drip)",
+            "a crackling feeling in your ears"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "flu",
+          "url": "https://www.nhs.uk/conditions/flu/"
+        },
+        {
+          "text": "sinusitis",
+          "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of catarrh</h2>\n<p data-block-key=\"26nbc\">You may get catarrh if you have an infection like a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a>.</p><p data-block-key=\"bl64n\">Symptoms of catarrh include:</p><ul><li data-block-key=\"6mpnt\">a constantly blocked or runny nose</li><li data-block-key=\"7ujoi\">feeling like there's a lump or something stuck in your throat</li><li data-block-key=\"1308a\">a frequent need to swallow or cough to try to clear your throat</li><li data-block-key=\"7kdhu\">a feeling that mucus is slowly dripping down the back of your throat (postnasal drip)</li><li data-block-key=\"avmc1\">a crackling feeling in your ears</li></ul><p data-block-key=\"433bk\">These symptoms usually only last a few days, but sometimes they can last longer.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can do to help ease catarrh",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do to help ease catarrh"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with catarrh"
+        }
+      ],
+      "text": "Things you can do to help ease catarrh\nAlthough catarrh can be annoying, phlegm and mucus are not harmful and are the body's way of clearing infection.\nIt usually goes away by itself, but there are some things you can do to help ease the symptoms.\nDo\ndrink plenty of water\nsip ice-cold water when you need to clear your throat, rather than coughing or swallowing\ntry using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat\ntry gargling with salt water\ntry rinsing your nose with salt water\nHow to rinse your nose with a homemade salt water solution\nBoil a pint of water, then leave it to cool.\nMix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.\nWash your hands.\nStand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.\nSniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.\nRepeat the first 5 steps up to 3 times a day until your nose feels more comfortable.\nAny unused solution will keep for the rest of the day in a clean, covered container. But make a fresh solution at the start of each day.\nA pharmacist can help with catarrh\nYou could ask a pharmacist about:\ndecongestants\nand other medicines to help relieve catarrh\nsalt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "drink plenty of water",
+            "sip ice-cold water when you need to clear your throat, rather than coughing or swallowing",
+            "try using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat",
+            "try gargling with salt water",
+            "try rinsing your nose with salt water"
+          ]
+        },
+        {
+          "type": "ordered",
+          "items": [
+            "Boil a pint of water, then leave it to cool.",
+            "Mix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.",
+            "Wash your hands.",
+            "Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.",
+            "Sniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.",
+            "Repeat the first 5 steps up to 3 times a day until your nose feels more comfortable."
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "decongestants\nand other medicines to help relieve catarrh",
+            "salt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "decongestants",
+          "url": "https://www.nhs.uk/medicines/decongestants/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do to help ease catarrh</h2>\n<p data-block-key=\"e4fti\">Although catarrh can be annoying, phlegm and mucus are not harmful and are the body's way of clearing infection.</p><p data-block-key=\"src8\">It usually goes away by itself, but there are some things you can do to help ease the symptoms.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8o1cd\">drink plenty of water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"21jgv\">sip ice-cold water when you need to clear your throat, rather than coughing or swallowing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try gargling with salt water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try rinsing your nose with salt water</p>\n</li>\n</ul>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to rinse your nose with a homemade salt water solution\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"gfse8\">Boil a pint of water, then leave it to cool.</li><li data-block-key=\"9cbf8\">Mix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.</li><li data-block-key=\"831i3\">Wash your hands.</li><li data-block-key=\"4knl6\">Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li data-block-key=\"e8o0k\">Sniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.</li><li data-block-key=\"47h45\">Repeat the first 5 steps up to 3 times a day until your nose feels more comfortable.</li></ol><p data-block-key=\"662hn\">Any unused solution will keep for the rest of the day in a clean, covered container. But make a fresh solution at the start of each day.</p>\n</div>\n</details>\n<h3 data-block-key=\"kea0p\">A pharmacist can help with catarrh</h3><p data-block-key=\"60n5d\">You could ask a pharmacist about:</p><ul><li data-block-key=\"b28k2\"><a href=\"/medicines/decongestants/\">decongestants</a> and other medicines to help relieve catarrh</li><li data-block-key=\"2iupm\">salt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have the symptoms of catarrh for more than a few weeks\nyou get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell\nThe GP may want to rule out other conditions that could be causing your catarrh, such as nasal polyps.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have the symptoms of catarrh for more than a few weeks",
+            "you get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"rgzcm\">you have the symptoms of catarrh for more than a few weeks</li><li data-block-key=\"b5t47\">you get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell</li></ul><p data-block-key=\"egajg\">The GP may want to rule out other conditions that could be causing your catarrh, such as nasal polyps.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatments from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments from a GP"
+        }
+      ],
+      "text": "Treatments from a GP\nA GP may suggest trying treatments for catarrh that you can get from a pharmacist, like decongestant medicines and salt water nose rinses.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"52upw\">A GP may suggest trying treatments for catarrh that you can get from a pharmacist, like decongestant medicines and salt water nose rinses.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of catarrh",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of catarrh"
+        }
+      ],
+      "text": "Causes of catarrh\nCatarrh is your body's natural reaction to things like infection.\nThe lining in your nose, sinuses and throat becomes swollen and creates more mucus than normal.\nCauses of catarrh include:\ninfections like\ncold\n,\nflu\nand\nsinusitis\npollution and cigarette smoke\nallergic reactions to things like pollen, dust and animals\nconditions that affect the nose, such as\nnasal polyps",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "infections like\ncold\n,\nflu\nand\nsinusitis",
+            "pollution and cigarette smoke",
+            "allergic reactions to things like pollen, dust and animals",
+            "conditions that affect the nose, such as\nnasal polyps"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "flu",
+          "url": "https://www.nhs.uk/conditions/flu/"
+        },
+        {
+          "text": "sinusitis",
+          "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+        },
+        {
+          "text": "nasal polyps",
+          "url": "https://www.nhs.uk/conditions/nasal-polyps/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of catarrh</h2>\n<p data-block-key=\"1if35\">Catarrh is your body's natural reaction to things like infection.</p><p data-block-key=\"8od2e\">The lining in your nose, sinuses and throat becomes swollen and creates more mucus than normal.</p><p data-block-key=\"642n1\">Causes of catarrh include:</p><ul><li data-block-key=\"shps\">infections like <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> and <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a></li><li data-block-key=\"cbhjk\">pollution and cigarette smoke</li><li data-block-key=\"dhb0k\">allergic reactions to things like pollen, dust and animals</li><li data-block-key=\"c1lt6\">conditions that affect the nose, such as <a href=\"/conditions/nasal-polyps/\">nasal polyps</a></li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of catarrh\nYou may get catarrh if you have an infection like a\ncold\n,\nflu\nor\nsinusitis\n.\nSymptoms of catarrh include:\na constantly blocked or runny nose\nfeeling like there's a lump or something stuck in your throat\na frequent need to swallow or cough to try to clear your throat\na feeling that mucus is slowly dripping down the back of your throat (postnasal drip)\na crackling feeling in your ears\nThese symptoms usually only last a few days, but sometimes they can last longer.\nThings you can do to help ease catarrh\nAlthough catarrh can be annoying, phlegm and mucus are not harmful and are the body's way of clearing infection.\nIt usually goes away by itself, but there are some things you can do to help ease the symptoms.\nDo\ndrink plenty of water\nsip ice-cold water when you need to clear your throat, rather than coughing or swallowing\ntry using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat\ntry gargling with salt water\ntry rinsing your nose with salt water\nHow to rinse your nose with a homemade salt water solution\nBoil a pint of water, then leave it to cool.\nMix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.\nWash your hands.\nStand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.\nSniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.\nRepeat the first 5 steps up to 3 times a day until your nose feels more comfortable.\nAny unused solution will keep for the rest of the day in a clean, covered container. But make a fresh solution at the start of each day.\nA pharmacist can help with catarrh\nYou could ask a pharmacist about:\ndecongestants\nand other medicines to help relieve catarrh\nsalt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nyou have the symptoms of catarrh for more than a few weeks\nyou get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell\nThe GP may want to rule out other conditions that could be causing your catarrh, such as nasal polyps.\nTreatments from a GP\nA GP may suggest trying treatments for catarrh that you can get from a pharmacist, like decongestant medicines and salt water nose rinses.\nCauses of catarrh\nCatarrh is your body's natural reaction to things like infection.\nThe lining in your nose, sinuses and throat becomes swollen and creates more mucus than normal.\nCauses of catarrh include:\ninfections like\ncold\n,\nflu\nand\nsinusitis\npollution and cigarette smoke\nallergic reactions to things like pollen, dust and animals\nconditions that affect the nose, such as\nnasal polyps\nPage last reviewed: 16 June 2026\nNext review due: 16 June 2029",
+  "links": [
+    {
+      "text": "cold",
+      "url": "https://www.nhs.uk/conditions/common-cold/"
+    },
+    {
+      "text": "flu",
+      "url": "https://www.nhs.uk/conditions/flu/"
+    },
+    {
+      "text": "sinusitis",
+      "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+    },
+    {
+      "text": "decongestants",
+      "url": "https://www.nhs.uk/medicines/decongestants/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "cold",
+      "url": "https://www.nhs.uk/conditions/common-cold/"
+    },
+    {
+      "text": "flu",
+      "url": "https://www.nhs.uk/conditions/flu/"
+    },
+    {
+      "text": "sinusitis",
+      "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+    },
+    {
+      "text": "nasal polyps",
+      "url": "https://www.nhs.uk/conditions/nasal-polyps/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of catarrh</h2>\n<p data-block-key=\"26nbc\">You may get catarrh if you have an infection like a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a>.</p><p data-block-key=\"bl64n\">Symptoms of catarrh include:</p><ul><li data-block-key=\"6mpnt\">a constantly blocked or runny nose</li><li data-block-key=\"7ujoi\">feeling like there's a lump or something stuck in your throat</li><li data-block-key=\"1308a\">a frequent need to swallow or cough to try to clear your throat</li><li data-block-key=\"7kdhu\">a feeling that mucus is slowly dripping down the back of your throat (postnasal drip)</li><li data-block-key=\"avmc1\">a crackling feeling in your ears</li></ul><p data-block-key=\"433bk\">These symptoms usually only last a few days, but sometimes they can last longer.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do to help ease catarrh</h2>\n<p data-block-key=\"e4fti\">Although catarrh can be annoying, phlegm and mucus are not harmful and are the body's way of clearing infection.</p><p data-block-key=\"src8\">It usually goes away by itself, but there are some things you can do to help ease the symptoms.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8o1cd\">drink plenty of water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"21jgv\">sip ice-cold water when you need to clear your throat, rather than coughing or swallowing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try using a humidifier, or sitting in the bathroom with a hot shower running, to help loosen the mucus in your nose and throat</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try gargling with salt water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mfb51\">try rinsing your nose with salt water</p>\n</li>\n</ul>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to rinse your nose with a homemade salt water solution\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"gfse8\">Boil a pint of water, then leave it to cool.</li><li data-block-key=\"9cbf8\">Mix 1 teaspoon of salt and 1 teaspoon of bicarbonate of soda into the water.</li><li data-block-key=\"831i3\">Wash your hands.</li><li data-block-key=\"4knl6\">Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li data-block-key=\"e8o0k\">Sniff the water into 1 nostril at a time. Breathe through your mouth and allow the water to pour back into the sink. Try not to let the water go down the back of your throat.</li><li data-block-key=\"47h45\">Repeat the first 5 steps up to 3 times a day until your nose feels more comfortable.</li></ol><p data-block-key=\"662hn\">Any unused solution will keep for the rest of the day in a clean, covered container. But make a fresh solution at the start of each day.</p>\n</div>\n</details>\n<h3 data-block-key=\"kea0p\">A pharmacist can help with catarrh</h3><p data-block-key=\"60n5d\">You could ask a pharmacist about:</p><ul><li data-block-key=\"b28k2\"><a href=\"/medicines/decongestants/\">decongestants</a> and other medicines to help relieve catarrh</li><li data-block-key=\"2iupm\">salt water nose rinses – you can get several types, including specially designed bottles, nasal sprays and sachets</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"rgzcm\">you have the symptoms of catarrh for more than a few weeks</li><li data-block-key=\"b5t47\">you get new symptoms, such as a sore throat, problems swallowing or loss of sense of smell</li></ul><p data-block-key=\"egajg\">The GP may want to rule out other conditions that could be causing your catarrh, such as nasal polyps.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"52upw\">A GP may suggest trying treatments for catarrh that you can get from a pharmacist, like decongestant medicines and salt water nose rinses.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of catarrh</h2>\n<p data-block-key=\"1if35\">Catarrh is your body's natural reaction to things like infection.</p><p data-block-key=\"8od2e\">The lining in your nose, sinuses and throat becomes swollen and creates more mucus than normal.</p><p data-block-key=\"642n1\">Causes of catarrh include:</p><ul><li data-block-key=\"shps\">infections like <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> and <a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis</a></li><li data-block-key=\"cbhjk\">pollution and cigarette smoke</li><li data-block-key=\"dhb0k\">allergic reactions to things like pollen, dust and animals</li><li data-block-key=\"c1lt6\">conditions that affect the nose, such as <a href=\"/conditions/nasal-polyps/\">nasal polyps</a></li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 16 June 2026<br/>\n    Next review due: 16 June 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

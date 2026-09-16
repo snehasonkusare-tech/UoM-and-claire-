@@ -1,0 +1,489 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/nipple-discharge/",
+  "final_url": "https://www.nhs.uk/symptoms/nipple-discharge/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:21.282934+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "N",
+      "label": "Nipple discharge",
+      "url": "https://www.nhs.uk/symptoms/nipple-discharge/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Nipple discharge",
+  "meta_description": "Find out about nipple discharge, including what can cause it and when to see a GP. It's usually nothing serious, but it's important to get it checked.",
+  "review_dates": {
+    "page_last_reviewed": "29 January 2024",
+    "next_review_due": "29 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about nipple discharge, including what can cause it and when to see a GP. It's usually nothing serious, but it's important to get it checked."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/nipple-discharge/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nNipple discharge\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about nipple discharge, including what can cause it and when to see a GP. It's usually nothing serious, but it's important to get it checked."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "25 Aug 2026, 4:21 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 2:04 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Nipple discharge"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/nipple-discharge/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Nipple discharge"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-25T15:21:13+00:00",
+      "description": "Find out about nipple discharge, including what can cause it and when to see a GP. It's usually nothing serious, but it's important to get it checked.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Having nipple discharge does not mean you have breast cancer, but you should get it checked.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have nipple discharge, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have nipple discharge from either nipple\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Check your symptoms with NHS 111 online</h3><p>If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have nipple discharge, the GP will examine you. They may refer you for further tests, such as a mammogram (breast X-ray) and a biopsy.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have nipple discharge, the GP will examine your breasts or chest.</p><p>They may refer you to a hospital or breast clinic for further tests, which may include:</p><ul><li>an examination of your breasts or chest</li><li>a <a href=\"/tests-and-treatments/breast-screening-mammogram/\">mammogram</a> (breast X-ray) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li><li>a small sample of cells taken for testing (<a href=\"/tests-and-treatments/biopsy/\">biopsy</a>) – this is done using a needle</li></ul><p>The tests are often done during the same visit.</p><p>The hospital or breast clinic should let you know when and how you'll get your tests results. Some may be available that day. Others, such as a biopsy, can take several weeks.</p>"
+            }
+          ],
+          "headline": "What happens at your appointments",
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Possible causes of nipple discharge include pregnancy or breastfeeding, a blocked or enlarged milk duct, or a breast infection (mastitis).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Nipple discharge has many possible causes.</p><p>Common causes include:</p><ul><li>pregnancy or breastfeeding, which can lead to leaking from your nipples</li><li>non-cancerous changes in the breast that happen with age (duct ectasia)</li><li>a blocked or enlarged milk duct</li><li>a small, non-cancerous lump in the breast (papilloma)</li><li>a breast infection (<a href=\"/conditions/mastitis/\">mastitis</a>)</li><li>a side effect of a medicine, including the contraceptive pill</li></ul><p>Nipple discharge can sometimes be a sign of <a href=\"/conditions/breast-cancer/\">breast cancer</a>, so it's important to get it checked.</p>"
+            }
+          ],
+          "headline": "Causes of nipple discharge",
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Nipple discharge is not usually a sign of anything serious, but it's important to get it checked.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Nipple discharge",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Nipple discharge",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have nipple discharge, the GP will examine you. They may refer you for further tests, such as a mammogram (breast X-ray) and a biopsy.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Possible causes of nipple discharge include pregnancy or breastfeeding, a blocked or enlarged milk duct, or a breast infection (mastitis).</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-29T01:00:00+00:00",
+        "2027-01-29T01:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Nipple discharge",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Nipple discharge",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/nipple-discharge/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Who gets nipple discharge",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Who gets nipple discharge"
+        }
+      ],
+      "text": "Who gets nipple discharge\nNipple discharge is more common if you're pregnant or breastfeeding. But it can affect anyone.\nLiquid may leak from your nipples on its own or when they're squeezed. It can be lots of different colours, including clear, white, yellow, green or bloody.\nNipple discharge may be nothing serious, but sometimes it can be a sign of an underlying condition, including a breast cyst or\nbreast cancer\n. You should always get it checked.",
+      "lists": [],
+      "links": [
+        {
+          "text": "breast cancer",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2>Who gets nipple discharge</h2>\n<p data-block-key=\"oujvh\">Nipple discharge is more common if you're pregnant or breastfeeding. But it can affect anyone.</p><p data-block-key=\"opei\">Liquid may leak from your nipples on its own or when they're squeezed. It can be lots of different colours, including clear, white, yellow, green or bloody.</p><p data-block-key=\"2j7q2\">Nipple discharge may be nothing serious, but sometimes it can be a sign of an underlying condition, including a breast cyst or <a href=\"/conditions/breast-cancer/\">breast cancer</a>. You should always get it checked.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Check your symptoms with NHS 111 online"
+        }
+      ],
+      "text": "When and where to get medical help\nIf you have nipple discharge, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.\nNon-urgent advice:\nSee a GP if:\nyou have nipple discharge from either nipple\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have nipple discharge from either nipple"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"914t0\">If you have nipple discharge, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"19gwt\">you have nipple discharge from either nipple</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"5fx7t\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"2sgbc\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"eubm0\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "What happens at your appointments",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointments"
+        }
+      ],
+      "text": "What happens at your appointments\nIf you have nipple discharge, the GP will examine your breasts or chest.\nThey may refer you to a hospital or breast clinic for further tests, which may include:\nan examination of your breasts or chest\na\nmammogram\n(breast X-ray) or an\nultrasound scan\na small sample of cells taken for testing (\nbiopsy\n) – this is done using a needle\nThe tests are often done during the same visit.\nThe hospital or breast clinic should let you know when and how you'll get your tests results. Some may be available that day. Others, such as a biopsy, can take several weeks.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an examination of your breasts or chest",
+            "a\nmammogram\n(breast X-ray) or an\nultrasound scan",
+            "a small sample of cells taken for testing (\nbiopsy\n) – this is done using a needle"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "mammogram",
+          "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/"
+        },
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        },
+        {
+          "text": "biopsy",
+          "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointments</h2>\n<p data-block-key=\"t63xu\">If you have nipple discharge, the GP will examine your breasts or chest.</p><p data-block-key=\"a3740\">They may refer you to a hospital or breast clinic for further tests, which may include:</p><ul><li data-block-key=\"2b3ro\">an examination of your breasts or chest</li><li data-block-key=\"5g67q\">a <a href=\"/tests-and-treatments/breast-screening-mammogram/\">mammogram</a> (breast X-ray) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li><li data-block-key=\"4crek\">a small sample of cells taken for testing (<a href=\"/tests-and-treatments/biopsy/\">biopsy</a>) – this is done using a needle</li></ul><p data-block-key=\"fiouj\">The tests are often done during the same visit.</p><p data-block-key=\"b0ofo\">The hospital or breast clinic should let you know when and how you'll get your tests results. Some may be available that day. Others, such as a biopsy, can take several weeks.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Further information",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Further information"
+        }
+      ],
+      "text": "Information:\nFurther information\nBreast Cancer Now: what happens at a breast clinic appointment",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Breast Cancer Now: what happens at a breast clinic appointment"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Breast Cancer Now: what happens at a breast clinic appointment",
+          "url": "https://breastcancernow.org/information-support/facing-breast-cancer/what-expect-breast-clinic-appointment"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"z433o\">Further information</h3><ul><li data-block-key=\"f835e\"><a href=\"https://breastcancernow.org/information-support/facing-breast-cancer/what-expect-breast-clinic-appointment\">Breast Cancer Now: what happens at a breast clinic appointment</a></li></ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of nipple discharge",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of nipple discharge"
+        }
+      ],
+      "text": "Causes of nipple discharge\nNipple discharge has many possible causes.\nCommon causes include:\npregnancy or breastfeeding, which can lead to leaking from your nipples\nnon-cancerous changes in the breast that happen with age (duct ectasia)\na blocked or enlarged milk duct\na small, non-cancerous lump in the breast (papilloma)\na breast infection (\nmastitis\n)\na side effect of a medicine, including the contraceptive pill\nNipple discharge can sometimes be a sign of\nbreast cancer\n, so it's important to get it checked.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pregnancy or breastfeeding, which can lead to leaking from your nipples",
+            "non-cancerous changes in the breast that happen with age (duct ectasia)",
+            "a blocked or enlarged milk duct",
+            "a small, non-cancerous lump in the breast (papilloma)",
+            "a breast infection (\nmastitis\n)",
+            "a side effect of a medicine, including the contraceptive pill"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "mastitis",
+          "url": "https://www.nhs.uk/conditions/mastitis/"
+        },
+        {
+          "text": "breast cancer",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of nipple discharge</h2>\n<p data-block-key=\"fl8o2\">Nipple discharge has many possible causes.</p><p data-block-key=\"5f2j2\">Common causes include:</p><ul><li data-block-key=\"wnbtj\">pregnancy or breastfeeding, which can lead to leaking from your nipples</li><li data-block-key=\"3pec9\">non-cancerous changes in the breast that happen with age (duct ectasia)</li><li data-block-key=\"gg34b\">a blocked or enlarged milk duct</li><li data-block-key=\"343f4\">a small, non-cancerous lump in the breast (papilloma)</li><li data-block-key=\"u194n\">a breast infection (<a href=\"/conditions/mastitis/\">mastitis</a>)</li><li data-block-key=\"ih1oi\">a side effect of a medicine, including the contraceptive pill</li></ul><p data-block-key=\"a3fan\">Nipple discharge can sometimes be a sign of <a href=\"/conditions/breast-cancer/\">breast cancer</a>, so it's important to get it checked.</p>\n</section>"
+    }
+  ],
+  "page_text": "Who gets nipple discharge\nNipple discharge is more common if you're pregnant or breastfeeding. But it can affect anyone.\nLiquid may leak from your nipples on its own or when they're squeezed. It can be lots of different colours, including clear, white, yellow, green or bloody.\nNipple discharge may be nothing serious, but sometimes it can be a sign of an underlying condition, including a breast cyst or\nbreast cancer\n. You should always get it checked.\nWhen and where to get medical help\nIf you have nipple discharge, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.\nNon-urgent advice:\nSee a GP if:\nyou have nipple discharge from either nipple\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online\nWhat happens at your appointments\nIf you have nipple discharge, the GP will examine your breasts or chest.\nThey may refer you to a hospital or breast clinic for further tests, which may include:\nan examination of your breasts or chest\na\nmammogram\n(breast X-ray) or an\nultrasound scan\na small sample of cells taken for testing (\nbiopsy\n) – this is done using a needle\nThe tests are often done during the same visit.\nThe hospital or breast clinic should let you know when and how you'll get your tests results. Some may be available that day. Others, such as a biopsy, can take several weeks.\nInformation:\nFurther information\nBreast Cancer Now: what happens at a breast clinic appointment\nCauses of nipple discharge\nNipple discharge has many possible causes.\nCommon causes include:\npregnancy or breastfeeding, which can lead to leaking from your nipples\nnon-cancerous changes in the breast that happen with age (duct ectasia)\na blocked or enlarged milk duct\na small, non-cancerous lump in the breast (papilloma)\na breast infection (\nmastitis\n)\na side effect of a medicine, including the contraceptive pill\nNipple discharge can sometimes be a sign of\nbreast cancer\n, so it's important to get it checked.\nPage last reviewed: 29 January 2024\nNext review due: 29 January 2027",
+  "links": [
+    {
+      "text": "breast cancer",
+      "url": "https://www.nhs.uk/conditions/breast-cancer/"
+    },
+    {
+      "text": "Get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "mammogram",
+      "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "biopsy",
+      "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+    },
+    {
+      "text": "Breast Cancer Now: what happens at a breast clinic appointment",
+      "url": "https://breastcancernow.org/information-support/facing-breast-cancer/what-expect-breast-clinic-appointment"
+    },
+    {
+      "text": "mastitis",
+      "url": "https://www.nhs.uk/conditions/mastitis/"
+    },
+    {
+      "text": "breast cancer",
+      "url": "https://www.nhs.uk/conditions/breast-cancer/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2>Who gets nipple discharge</h2>\n<p data-block-key=\"oujvh\">Nipple discharge is more common if you're pregnant or breastfeeding. But it can affect anyone.</p><p data-block-key=\"opei\">Liquid may leak from your nipples on its own or when they're squeezed. It can be lots of different colours, including clear, white, yellow, green or bloody.</p><p data-block-key=\"2j7q2\">Nipple discharge may be nothing serious, but sometimes it can be a sign of an underlying condition, including a breast cyst or <a href=\"/conditions/breast-cancer/\">breast cancer</a>. You should always get it checked.</p>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"914t0\">If you have nipple discharge, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"19gwt\">you have nipple discharge from either nipple</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"5fx7t\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"2sgbc\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"eubm0\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointments</h2>\n<p data-block-key=\"t63xu\">If you have nipple discharge, the GP will examine your breasts or chest.</p><p data-block-key=\"a3740\">They may refer you to a hospital or breast clinic for further tests, which may include:</p><ul><li data-block-key=\"2b3ro\">an examination of your breasts or chest</li><li data-block-key=\"5g67q\">a <a href=\"/tests-and-treatments/breast-screening-mammogram/\">mammogram</a> (breast X-ray) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li><li data-block-key=\"4crek\">a small sample of cells taken for testing (<a href=\"/tests-and-treatments/biopsy/\">biopsy</a>) – this is done using a needle</li></ul><p data-block-key=\"fiouj\">The tests are often done during the same visit.</p><p data-block-key=\"b0ofo\">The hospital or breast clinic should let you know when and how you'll get your tests results. Some may be available that day. Others, such as a biopsy, can take several weeks.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"z433o\">Further information</h3><ul><li data-block-key=\"f835e\"><a href=\"https://breastcancernow.org/information-support/facing-breast-cancer/what-expect-breast-clinic-appointment\">Breast Cancer Now: what happens at a breast clinic appointment</a></li></ul>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of nipple discharge</h2>\n<p data-block-key=\"fl8o2\">Nipple discharge has many possible causes.</p><p data-block-key=\"5f2j2\">Common causes include:</p><ul><li data-block-key=\"wnbtj\">pregnancy or breastfeeding, which can lead to leaking from your nipples</li><li data-block-key=\"3pec9\">non-cancerous changes in the breast that happen with age (duct ectasia)</li><li data-block-key=\"gg34b\">a blocked or enlarged milk duct</li><li data-block-key=\"343f4\">a small, non-cancerous lump in the breast (papilloma)</li><li data-block-key=\"u194n\">a breast infection (<a href=\"/conditions/mastitis/\">mastitis</a>)</li><li data-block-key=\"ih1oi\">a side effect of a medicine, including the contraceptive pill</li></ul><p data-block-key=\"a3fan\">Nipple discharge can sometimes be a sign of <a href=\"/conditions/breast-cancer/\">breast cancer</a>, so it's important to get it checked.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 29 January 2024<br/>\n    Next review due: 29 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

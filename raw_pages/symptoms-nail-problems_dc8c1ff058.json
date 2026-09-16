@@ -1,0 +1,619 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/nail-problems/",
+  "final_url": "https://www.nhs.uk/symptoms/nail-problems/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:18.020487+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "N",
+      "label": "Nail problems",
+      "url": "https://www.nhs.uk/symptoms/nail-problems/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Nail problems",
+  "meta_description": "Find out about different nail problems, including brittle or crumbly nails, thickened, overgrown nails, or changes in nail colour.",
+  "review_dates": {
+    "page_last_reviewed": "12 March 2024",
+    "next_review_due": "12 March 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about different nail problems, including brittle or crumbly nails, thickened, overgrown nails, or changes in nail colour."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/nail-problems/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nNail problems\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about different nail problems, including brittle or crumbly nails, thickened, overgrown nails, or changes in nail colour."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2025, 11:35 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 1:27 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Nail problems"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/nail-problems/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Nail problems"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-09T10:35:43+00:00",
+      "description": "Find out about different nail problems, including brittle or crumbly nails, thickened, overgrown nails, or changes in nail colour.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "It's normal for nails to change over time and it's not always a sign of a problem. For example, they can become thicker and brittle as you get older.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's normal for nails to:</p><ul><li>become thicker or break more easily (brittle) as you get older</li><li>become harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)</li><li>change colour, become loose and eventually fall off after an injury</li></ul><p>Fingernails that fall off after an injury should grow back within 6 months. Toenails can take up to 18 months.</p>"
+            }
+          ],
+          "headline": "Your nails may change over time",
+          "url": "https://www.nhs.uk/symptoms/nail-problems/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to keep your nails healthy include keeping them clean and dry, and trimming them regularly.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are some things you can do to help with common nail problems.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>wear rubber gloves if your hands are often in water or you regularly use cleaning products</p></li><li><p>clean your nails with a soft nailbrush</p></li><li><p>apply hand cream to your nails and fingertips regularly</p></li><li><p>trim your nails regularly (it may help to cut them after a shower or bath)</p></li><li><p>cut injured, loose nails back to where they are still attached, so they do not bend or catch on objects</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not cut your nails down the edges, and only trim straight across the top to help avoid an <a href=\"/conditions/ingrown-toenail/\">ingrown toenail</a></p></li><li><p>do not clean under your nails with sharp objects</p></li><li><p>do not wear shoes that pinch your toes, especially when exercising</p></li><li><p>do not bite or pick your nails or the skin around them</p></li><li><p>do not ignore fungal infections on your skin, such as <a href=\"/conditions/athletes-foot/\">athlete's foot</a></p></li></ul>"
+            }
+          ],
+          "headline": "Things you can do to look after your nails",
+          "url": "https://www.nhs.uk/symptoms/nail-problems/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  a nail has changed shape, changed colour or fallen off and you do not know why\n </li>\n<li>\n  the skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail\n </li>\n</ul>\n<h3>\n See a podiatrist if:\n</h3>\n<ul>\n<li>\n  your nails are too tough to cut or you cannot reach them\n </li>\n</ul>\n<p>\n Some GPs may be able to refer you to a footcare specialist (podiatrist). You can also pay to see a podiatrist privately.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/other-health-services/podiatrists-and-chiropodists/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find a podiatrist\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/nail-problems/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of nail problems include injuries and fungal infections. Sometimes they can be a sign of a more serious condition, such as diabetes.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Most nail problems are caused by:</p><ul><li>injuries or biting your nails</li><li>staining your nails, for example, by smoking or applying a lot of nail varnish</li><li>not regularly trimming your nails, or cutting them at an angle</li><li>your hands often being in water or cleaning products</li><li>a <a href=\"/conditions/fungal-nail-infection/\">fungal nail infection</a></li></ul><p>Nail problems can sometimes be a symptom of a more serious or long-term condition, such as:</p><ul><li><a href=\"/conditions/psoriasis/\">psoriasis</a></li><li><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li>an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a> or <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li><a href=\"/conditions/diabetes/\">diabetes</a></li><li>heart, lung or liver disease</li></ul><p>Some medicines can also cause nail problems. Check the side effects of any medicine you're taking.</p>"
+            }
+          ],
+          "headline": "Causes of nail problems",
+          "url": "https://www.nhs.uk/symptoms/nail-problems/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Nail problems are not usually caused by anything serious. Common nail problems include brittle, loose nails that may change colour or shape.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Nail problems",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Nail problems",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Nail problems",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>It's normal for nails to change over time and it's not always a sign of a problem. For example, they can become thicker and brittle as you get older.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of nail problems include injuries and fungal infections. Sometimes they can be a sign of a more serious condition, such as diabetes.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to keep your nails healthy include keeping them clean and dry, and trimming them regularly.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/nail-problems/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-03-12T12:00:00+00:00",
+        "2027-03-12T12:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Nail problems",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Nail problems",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/nail-problems/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/nail-problems/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Nail problems are not usually caused by anything serious. Common nail problems include brittle, loose nails that may change colour or shape.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"hgoqh\"><b>Nail problems are not usually caused by anything serious. Common nail problems include brittle, loose nails that may change colour or shape.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Your nails may change over time",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Your nails may change over time"
+        }
+      ],
+      "text": "Your nails may change over time\nIt's normal for nails to:\nbecome thicker or break more easily (brittle) as you get older\nbecome harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)\nchange colour, become loose and eventually fall off after an injury\nFingernails that fall off after an injury should grow back within 6 months. Toenails can take up to 18 months.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "become thicker or break more easily (brittle) as you get older",
+            "become harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)",
+            "change colour, become loose and eventually fall off after an injury"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Your nails may change over time</h2>\n<p data-block-key=\"8ptvs\">It's normal for nails to:</p><ul><li data-block-key=\"nrvwe\">become thicker or break more easily (brittle) as you get older</li><li data-block-key=\"5yp5h\">become harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)</li><li data-block-key=\"wsq7w\">change colour, become loose and eventually fall off after an injury</li></ul><p data-block-key=\"cx2oe\">Fingernails that fall off after an injury should grow back within 6 months. Toenails can take up to 18 months.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Things you can do to look after your nails",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do to look after your nails"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can do to look after your nails\nThere are some things you can do to help with common nail problems.\nDo\nwear rubber gloves if your hands are often in water or you regularly use cleaning products\nclean your nails with a soft nailbrush\napply hand cream to your nails and fingertips regularly\ntrim your nails regularly (it may help to cut them after a shower or bath)\ncut injured, loose nails back to where they are still attached, so they do not bend or catch on objects\nDon’t\ndo not cut your nails down the edges, and only trim straight across the top to help avoid an\ningrown toenail\ndo not clean under your nails with sharp objects\ndo not wear shoes that pinch your toes, especially when exercising\ndo not bite or pick your nails or the skin around them\ndo not ignore fungal infections on your skin, such as\nathlete's foot",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "wear rubber gloves if your hands are often in water or you regularly use cleaning products",
+            "clean your nails with a soft nailbrush",
+            "apply hand cream to your nails and fingertips regularly",
+            "trim your nails regularly (it may help to cut them after a shower or bath)",
+            "cut injured, loose nails back to where they are still attached, so they do not bend or catch on objects"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not cut your nails down the edges, and only trim straight across the top to help avoid an\ningrown toenail",
+            "do not clean under your nails with sharp objects",
+            "do not wear shoes that pinch your toes, especially when exercising",
+            "do not bite or pick your nails or the skin around them",
+            "do not ignore fungal infections on your skin, such as\nathlete's foot"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ingrown toenail",
+          "url": "https://www.nhs.uk/conditions/ingrown-toenail/"
+        },
+        {
+          "text": "athlete's foot",
+          "url": "https://www.nhs.uk/conditions/athletes-foot/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do to look after your nails</h2>\n<p data-block-key=\"oxvyb\">There are some things you can do to help with common nail problems.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mte6x\">wear rubber gloves if your hands are often in water or you regularly use cleaning products</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"q1s9c\">clean your nails with a soft nailbrush</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vctf9\">apply hand cream to your nails and fingertips regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1xa2p\">trim your nails regularly (it may help to cut them after a shower or bath)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8rd0h\">cut injured, loose nails back to where they are still attached, so they do not bend or catch on objects</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"dgle4\">do not cut your nails down the edges, and only trim straight across the top to help avoid an <a href=\"/conditions/ingrown-toenail/\">ingrown toenail</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"shmbu\">do not clean under your nails with sharp objects</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fmrd5\">do not wear shoes that pinch your toes, especially when exercising</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"2u7k9\">do not bite or pick your nails or the skin around them</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pslw7\">do not ignore fungal infections on your skin, such as <a href=\"/conditions/athletes-foot/\">athlete's foot</a></p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "See a podiatrist if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\na nail has changed shape, changed colour or fallen off and you do not know why\nthe skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail\nSee a podiatrist if:\nyour nails are too tough to cut or you cannot reach them\nSome GPs may be able to refer you to a footcare specialist (podiatrist). You can also pay to see a podiatrist privately.\nFind a podiatrist",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a nail has changed shape, changed colour or fallen off and you do not know why",
+            "the skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "your nails are too tough to cut or you cannot reach them"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a podiatrist",
+          "url": "https://www.nhs.uk/service-search/other-health-services/podiatrists-and-chiropodists/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"dm4pv\">a nail has changed shape, changed colour or fallen off and you do not know why</li><li data-block-key=\"b4g0n\">the skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail</li></ul><h3 data-block-key=\"d2988\">See a podiatrist if:</h3><ul><li data-block-key=\"zovh8\">your nails are too tough to cut or you cannot reach them</li></ul><p data-block-key=\"phoww\">Some GPs may be able to refer you to a footcare specialist (podiatrist). You can also pay to see a podiatrist privately.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/other-health-services/podiatrists-and-chiropodists/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a podiatrist</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of nail problems",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of nail problems"
+        }
+      ],
+      "text": "Causes of nail problems\nMost nail problems are caused by:\ninjuries or biting your nails\nstaining your nails, for example, by smoking or applying a lot of nail varnish\nnot regularly trimming your nails, or cutting them at an angle\nyour hands often being in water or cleaning products\na\nfungal nail infection\nNail problems can sometimes be a symptom of a more serious or long-term condition, such as:\npsoriasis\niron deficiency anaemia\nan\nunderactive thyroid\nor\noveractive thyroid\ndiabetes\nheart, lung or liver disease\nSome medicines can also cause nail problems. Check the side effects of any medicine you're taking.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "injuries or biting your nails",
+            "staining your nails, for example, by smoking or applying a lot of nail varnish",
+            "not regularly trimming your nails, or cutting them at an angle",
+            "your hands often being in water or cleaning products",
+            "a\nfungal nail infection"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "psoriasis",
+            "iron deficiency anaemia",
+            "an\nunderactive thyroid\nor\noveractive thyroid",
+            "diabetes",
+            "heart, lung or liver disease"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "fungal nail infection",
+          "url": "https://www.nhs.uk/conditions/fungal-nail-infection/"
+        },
+        {
+          "text": "psoriasis",
+          "url": "https://www.nhs.uk/conditions/psoriasis/"
+        },
+        {
+          "text": "iron deficiency anaemia",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+        },
+        {
+          "text": "underactive thyroid",
+          "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+        },
+        {
+          "text": "overactive thyroid",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "diabetes",
+          "url": "https://www.nhs.uk/conditions/diabetes/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of nail problems</h2>\n<p data-block-key=\"cj3hm\">Most nail problems are caused by:</p><ul><li data-block-key=\"bur95\">injuries or biting your nails</li><li data-block-key=\"edgce\">staining your nails, for example, by smoking or applying a lot of nail varnish</li><li data-block-key=\"4vais\">not regularly trimming your nails, or cutting them at an angle</li><li data-block-key=\"9bafa\">your hands often being in water or cleaning products</li><li data-block-key=\"1lc0d\">a <a href=\"/conditions/fungal-nail-infection/\">fungal nail infection</a></li></ul><p data-block-key=\"938k7\">Nail problems can sometimes be a symptom of a more serious or long-term condition, such as:</p><ul><li data-block-key=\"6ksgj\"><a href=\"/conditions/psoriasis/\">psoriasis</a></li><li data-block-key=\"frtvk\"><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li data-block-key=\"1c9ul\">an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a> or <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li data-block-key=\"a445i\"><a href=\"/conditions/diabetes/\">diabetes</a></li><li data-block-key=\"br50s\">heart, lung or liver disease</li></ul><p data-block-key=\"3dllu\">Some medicines can also cause nail problems. Check the side effects of any medicine you're taking.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "See pictures of nails that have changed shape\nSpoon-shaped nails that curve inwards (koilonychia) can be a sign of iron-deficiency anaemia.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/258967/view\nSmall dents or pits in your nails can be a sign of nail psoriasis, eczema or alopecia.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/135723/view\nDeep lines or grooves across your fingernails (Beau's lines) may happen when you're ill but should grow out.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/251691/view\nFingernails curving over rounded fingertips (clubbing) can be a sign of many serious, long-term conditions.\nCredit:\nDR M.A. ANSARY/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252796/view",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See pictures of nails that have changed shape\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a person’s thumbnail. There is a wide, curved groove along the middle of the nail, making it look spoon-shaped.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Spoon-shaped nails that curve inwards (koilonychia) can be a sign of iron-deficiency anaemia.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"u914c\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/258967/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a fingernail in a person with psoriasis. The nail has several small pits and dents in it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Small dents or pits in your nails can be a sign of nail psoriasis, eczema or alopecia.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"houcl\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/135723/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of 3 fingernails. The nails have deep lines or grooves across them.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Deep lines or grooves across your fingernails (Beau's lines) may happen when you're ill but should grow out.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"xwxjf\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/251691/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of 4 clubbed fingernails. The nails have grown very large and curve over the end of the fingers, covering the fingertips.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Fingernails curving over rounded fingertips (clubbing) can be a sign of many serious, long-term conditions.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"fmdg6\">DR M.A. ANSARY/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252796/view</p>\n</div>\n</figure>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Self-refer to a podiatrist",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Self-refer to a podiatrist"
+        }
+      ],
+      "text": "Information:\nSelf-refer to a podiatrist\nIf you have nail problems, you might be able to refer yourself directly to a podiatrist without seeing a GP.\nTo find out if there are any services in your area:\nask the reception staff at your GP surgery\ncheck your GP surgery's website\ncontact your integrated care board (ICB) –\nfind your local ICB\nsearch online for NHS podiatrists near you",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "ask the reception staff at your GP surgery",
+            "check your GP surgery's website",
+            "contact your integrated care board (ICB) –\nfind your local ICB",
+            "search online for NHS podiatrists near you"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "find your local ICB",
+          "url": "https://www.nhs.uk/nhs-services/find-your-local-integrated-care-board/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"xeu7u\">Self-refer to a podiatrist</h2><p data-block-key=\"2qo74\">If you have nail problems, you might be able to refer yourself directly to a podiatrist without seeing a GP.</p><p data-block-key=\"9280l\">To find out if there are any services in your area:</p><ul><li data-block-key=\"71v0e\">ask the reception staff at your GP surgery</li><li data-block-key=\"f218j\">check your GP surgery's website</li><li data-block-key=\"3ckk0\">contact your integrated care board (ICB) – <a href=\"/nhs-services/find-your-local-integrated-care-board/\">find your local ICB</a></li><li data-block-key=\"ppob\">search online for NHS podiatrists near you</li></ul>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Nail problems are not usually caused by anything serious. Common nail problems include brittle, loose nails that may change colour or shape.\nYour nails may change over time\nIt's normal for nails to:\nbecome thicker or break more easily (brittle) as you get older\nbecome harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)\nchange colour, become loose and eventually fall off after an injury\nFingernails that fall off after an injury should grow back within 6 months. Toenails can take up to 18 months.\nThings you can do to look after your nails\nThere are some things you can do to help with common nail problems.\nDo\nwear rubber gloves if your hands are often in water or you regularly use cleaning products\nclean your nails with a soft nailbrush\napply hand cream to your nails and fingertips regularly\ntrim your nails regularly (it may help to cut them after a shower or bath)\ncut injured, loose nails back to where they are still attached, so they do not bend or catch on objects\nDon’t\ndo not cut your nails down the edges, and only trim straight across the top to help avoid an\ningrown toenail\ndo not clean under your nails with sharp objects\ndo not wear shoes that pinch your toes, especially when exercising\ndo not bite or pick your nails or the skin around them\ndo not ignore fungal infections on your skin, such as\nathlete's foot\nNon-urgent advice:\nSee a GP if:\na nail has changed shape, changed colour or fallen off and you do not know why\nthe skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail\nSee a podiatrist if:\nyour nails are too tough to cut or you cannot reach them\nSome GPs may be able to refer you to a footcare specialist (podiatrist). You can also pay to see a podiatrist privately.\nFind a podiatrist\nCauses of nail problems\nMost nail problems are caused by:\ninjuries or biting your nails\nstaining your nails, for example, by smoking or applying a lot of nail varnish\nnot regularly trimming your nails, or cutting them at an angle\nyour hands often being in water or cleaning products\na\nfungal nail infection\nNail problems can sometimes be a symptom of a more serious or long-term condition, such as:\npsoriasis\niron deficiency anaemia\nan\nunderactive thyroid\nor\noveractive thyroid\ndiabetes\nheart, lung or liver disease\nSome medicines can also cause nail problems. Check the side effects of any medicine you're taking.\nSee pictures of nails that have changed shape\nSpoon-shaped nails that curve inwards (koilonychia) can be a sign of iron-deficiency anaemia.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/258967/view\nSmall dents or pits in your nails can be a sign of nail psoriasis, eczema or alopecia.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/135723/view\nDeep lines or grooves across your fingernails (Beau's lines) may happen when you're ill but should grow out.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/251691/view\nFingernails curving over rounded fingertips (clubbing) can be a sign of many serious, long-term conditions.\nCredit:\nDR M.A. ANSARY/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252796/view\nInformation:\nSelf-refer to a podiatrist\nIf you have nail problems, you might be able to refer yourself directly to a podiatrist without seeing a GP.\nTo find out if there are any services in your area:\nask the reception staff at your GP surgery\ncheck your GP surgery's website\ncontact your integrated care board (ICB) –\nfind your local ICB\nsearch online for NHS podiatrists near you\nPage last reviewed: 12 March 2024\nNext review due: 12 March 2027",
+  "links": [
+    {
+      "text": "ingrown toenail",
+      "url": "https://www.nhs.uk/conditions/ingrown-toenail/"
+    },
+    {
+      "text": "athlete's foot",
+      "url": "https://www.nhs.uk/conditions/athletes-foot/"
+    },
+    {
+      "text": "Find a podiatrist",
+      "url": "https://www.nhs.uk/service-search/other-health-services/podiatrists-and-chiropodists/"
+    },
+    {
+      "text": "fungal nail infection",
+      "url": "https://www.nhs.uk/conditions/fungal-nail-infection/"
+    },
+    {
+      "text": "psoriasis",
+      "url": "https://www.nhs.uk/conditions/psoriasis/"
+    },
+    {
+      "text": "iron deficiency anaemia",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+    },
+    {
+      "text": "underactive thyroid",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    },
+    {
+      "text": "overactive thyroid",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/"
+    },
+    {
+      "text": "find your local ICB",
+      "url": "https://www.nhs.uk/nhs-services/find-your-local-integrated-care-board/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-320.jpg",
+      "alt": "A close-up of a person’s thumbnail. There is a wide, curved groove along the middle of the nail, making it look spoon-shaped.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-320.jpg",
+      "alt": "A close-up of a fingernail in a person with psoriasis. The nail has several small pits and dents in it.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-320.jpg",
+      "alt": "A close-up of 3 fingernails. The nails have deep lines or grooves across them.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-320.jpg",
+      "alt": "A close-up of 4 clubbed fingernails. The nails have grown very large and curve over the end of the fingers, covering the fingertips.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"hgoqh\"><b>Nail problems are not usually caused by anything serious. Common nail problems include brittle, loose nails that may change colour or shape.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Your nails may change over time</h2>\n<p data-block-key=\"8ptvs\">It's normal for nails to:</p><ul><li data-block-key=\"nrvwe\">become thicker or break more easily (brittle) as you get older</li><li data-block-key=\"5yp5h\">become harder, softer or more brittle during pregnancy (they should be healthier within 6 months of having a baby)</li><li data-block-key=\"wsq7w\">change colour, become loose and eventually fall off after an injury</li></ul><p data-block-key=\"cx2oe\">Fingernails that fall off after an injury should grow back within 6 months. Toenails can take up to 18 months.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do to look after your nails</h2>\n<p data-block-key=\"oxvyb\">There are some things you can do to help with common nail problems.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mte6x\">wear rubber gloves if your hands are often in water or you regularly use cleaning products</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"q1s9c\">clean your nails with a soft nailbrush</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vctf9\">apply hand cream to your nails and fingertips regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1xa2p\">trim your nails regularly (it may help to cut them after a shower or bath)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8rd0h\">cut injured, loose nails back to where they are still attached, so they do not bend or catch on objects</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"dgle4\">do not cut your nails down the edges, and only trim straight across the top to help avoid an <a href=\"/conditions/ingrown-toenail/\">ingrown toenail</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"shmbu\">do not clean under your nails with sharp objects</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fmrd5\">do not wear shoes that pinch your toes, especially when exercising</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"2u7k9\">do not bite or pick your nails or the skin around them</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pslw7\">do not ignore fungal infections on your skin, such as <a href=\"/conditions/athletes-foot/\">athlete's foot</a></p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"dm4pv\">a nail has changed shape, changed colour or fallen off and you do not know why</li><li data-block-key=\"b4g0n\">the skin around your nails has become sore, red, swollen and warm (paronychia), which can be a sign of an infection or ingrown toenail</li></ul><h3 data-block-key=\"d2988\">See a podiatrist if:</h3><ul><li data-block-key=\"zovh8\">your nails are too tough to cut or you cannot reach them</li></ul><p data-block-key=\"phoww\">Some GPs may be able to refer you to a footcare specialist (podiatrist). You can also pay to see a podiatrist privately.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/other-health-services/podiatrists-and-chiropodists/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a podiatrist</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of nail problems</h2>\n<p data-block-key=\"cj3hm\">Most nail problems are caused by:</p><ul><li data-block-key=\"bur95\">injuries or biting your nails</li><li data-block-key=\"edgce\">staining your nails, for example, by smoking or applying a lot of nail varnish</li><li data-block-key=\"4vais\">not regularly trimming your nails, or cutting them at an angle</li><li data-block-key=\"9bafa\">your hands often being in water or cleaning products</li><li data-block-key=\"1lc0d\">a <a href=\"/conditions/fungal-nail-infection/\">fungal nail infection</a></li></ul><p data-block-key=\"938k7\">Nail problems can sometimes be a symptom of a more serious or long-term condition, such as:</p><ul><li data-block-key=\"6ksgj\"><a href=\"/conditions/psoriasis/\">psoriasis</a></li><li data-block-key=\"frtvk\"><a href=\"/conditions/iron-deficiency-anaemia/\">iron deficiency anaemia</a></li><li data-block-key=\"1c9ul\">an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a> or <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li data-block-key=\"a445i\"><a href=\"/conditions/diabetes/\">diabetes</a></li><li data-block-key=\"br50s\">heart, lung or liver disease</li></ul><p data-block-key=\"3dllu\">Some medicines can also cause nail problems. Check the side effects of any medicine you're taking.</p>\n</section>\n<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See pictures of nails that have changed shape\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a person’s thumbnail. There is a wide, curved groove along the middle of the nail, making it look spoon-shaped.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1900072-Nail_disorder-SPL.original_P7jxDPX.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Spoon-shaped nails that curve inwards (koilonychia) can be a sign of iron-deficiency anaemia.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"u914c\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/258967/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of a fingernail in a person with psoriasis. The nail has several small pits and dents in it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0072739-Psoriasis_of_the_fingernail-SPL.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Small dents or pits in your nails can be a sign of nail psoriasis, eczema or alopecia.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"houcl\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/135723/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of 3 fingernails. The nails have deep lines or grooves across them.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_finge.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1200046-Beau_s_lines_occurring_on_three_fing.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Deep lines or grooves across your fingernails (Beau's lines) may happen when you're ill but should grow out.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"xwxjf\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/251691/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A close-up of 4 clubbed fingernails. The nails have grown very large and curve over the end of the fingers, covering the fingertips.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M1300696-Clubbed_fingers-SPL.original_41O43yf.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Fingernails curving over rounded fingertips (clubbing) can be a sign of many serious, long-term conditions.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"fmdg6\">DR M.A. ANSARY/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252796/view</p>\n</div>\n</figure>\n</div>\n</details>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"xeu7u\">Self-refer to a podiatrist</h2><p data-block-key=\"2qo74\">If you have nail problems, you might be able to refer yourself directly to a podiatrist without seeing a GP.</p><p data-block-key=\"9280l\">To find out if there are any services in your area:</p><ul><li data-block-key=\"71v0e\">ask the reception staff at your GP surgery</li><li data-block-key=\"f218j\">check your GP surgery's website</li><li data-block-key=\"3ckk0\">contact your integrated care board (ICB) – <a href=\"/nhs-services/find-your-local-integrated-care-board/\">find your local ICB</a></li><li data-block-key=\"ppob\">search online for NHS podiatrists near you</li></ul>\n</div>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 March 2024<br/>\n    Next review due: 12 March 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

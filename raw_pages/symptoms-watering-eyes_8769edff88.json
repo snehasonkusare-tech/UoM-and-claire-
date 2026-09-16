@@ -1,0 +1,527 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/watering-eyes/",
+  "final_url": "https://www.nhs.uk/symptoms/watering-eyes/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:04:01.980034+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "W",
+      "label": "Watering eyes",
+      "url": "https://www.nhs.uk/symptoms/watering-eyes/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Watering eyes",
+  "meta_description": "Find out about watering eyes, including causes, when to get help and treatments.",
+  "review_dates": {
+    "page_last_reviewed": "12 November 2024",
+    "next_review_due": "12 November 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about watering eyes, including causes, when to get help and treatments."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/watering-eyes/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nWatering eyes\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about watering eyes, including causes, when to get help and treatments."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:45 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "10 Apr 2018, 12:09 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Watering eyes"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/watering-eyes/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Watering eyes"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:45:12+00:00",
+      "description": "Find out about watering eyes, including causes, when to get help and treatments.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of watering eyes include smoke, an eye injury, something in your eyes, a blocked tear duct, an allergy or an infection.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's normal for your eyes to water in smoky environments or if you're outside in the cold or wind.</p><p>An eye injury or something in your eye, such as an eyelash or a piece of grit, can also make your eyes water.</p><p>Other causes of watering eyes include:</p><ul><li>blocked tear ducts (the small tubes that tears drain into)</li><li>an <a href=\"/conditions/allergies/\">allergy</a> or infection (such as <a href=\"/conditions/conjunctivitis/\">conjunctivitis</a>)</li><li>your eyelid drooping away from the eye (<a href=\"/conditions/ectropion/\">ectropion</a>) or other <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a></li><li><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – this can cause your eyes to produce too many tears</li><li><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> – weakness to one side of the face that is usually temporary</li><li>some medicines and cancer treatments</li></ul><p>Babies sometimes have watering eyes because their tear ducts have not fully developed. It usually gets better by the time they're a few weeks old.</p>"
+            }
+          ],
+          "headline": "Causes of watering eyes",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A pharmacist can advise you about things you can do to help watering eyes, such as how you can clean and protect your eyes.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have watering eyes, you can ask a pharmacist about:</p><ul><li>what you can do to treat it yourself – such as cleaning and protecting your eyes</li><li>what you can buy to help – such as cleaning solutions, eyedrops or allergy medicines</li><li>if you need to see an optician or GP</li></ul>"
+            }
+          ],
+          "headline": "A pharmacist can help with watering eyes",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your eyes keep watering and it's stopping you doing everyday activities\n </li>\n<li>\n  your eyelid is turning inwards or drooping away from your eye\n </li>\n<li>\n  you have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have any changes to your vision, such as loss of vision\n </li>\n<li>\n  you have severe eye pain\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for watering eyes depend on what is causing it. For example, eyedrops can help if you have dry eyes or an eye infection.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment may not be needed if your watering eyes are not causing problems.</p><p>If treatment is needed, it will depend on what the cause is.</p><p>For example:</p><ul><li>eye drops, gels, ointments or sprays can help if your eyes are dry</li><li>antibiotic eye drops can help if you have an eye infection</li><li>medicines can help if you have an allergy</li><li>anything in your eye, like a piece of grit, can be removed</li><li>a small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts</li></ul><p>If the GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.</p>"
+            }
+          ],
+          "headline": "Treatment for watering eyes",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Watering eyes",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Watering eyes",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Watering eyes",
+              "text": "Medical treatments"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-11-12T03:00:00+00:00",
+        "2027-11-12T05:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Watering eyes",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Watering eyes",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/watering-eyes/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/watering-eyes/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"hqrbl\"><b>Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of watering eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of watering eyes"
+        }
+      ],
+      "text": "Causes of watering eyes\nIt's normal for your eyes to water in smoky environments or if you're outside in the cold or wind.\nAn eye injury or something in your eye, such as an eyelash or a piece of grit, can also make your eyes water.\nOther causes of watering eyes include:\nblocked tear ducts (the small tubes that tears drain into)\nan\nallergy\nor infection (such as\nconjunctivitis\n)\nyour eyelid drooping away from the eye (\nectropion\n) or other\neyelid problems\ndry eyes\n– this can cause your eyes to produce too many tears\nBell's palsy\n– weakness to one side of the face that is usually temporary\nsome medicines and cancer treatments\nBabies sometimes have watering eyes because their tear ducts have not fully developed. It usually gets better by the time they're a few weeks old.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "blocked tear ducts (the small tubes that tears drain into)",
+            "an\nallergy\nor infection (such as\nconjunctivitis\n)",
+            "your eyelid drooping away from the eye (\nectropion\n) or other\neyelid problems",
+            "dry eyes\n– this can cause your eyes to produce too many tears",
+            "Bell's palsy\n– weakness to one side of the face that is usually temporary",
+            "some medicines and cancer treatments"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "allergy",
+          "url": "https://www.nhs.uk/conditions/allergies/"
+        },
+        {
+          "text": "conjunctivitis",
+          "url": "https://www.nhs.uk/conditions/conjunctivitis/"
+        },
+        {
+          "text": "ectropion",
+          "url": "https://www.nhs.uk/conditions/ectropion/"
+        },
+        {
+          "text": "eyelid problems",
+          "url": "https://www.nhs.uk/symptoms/eyelid-problems/"
+        },
+        {
+          "text": "dry eyes",
+          "url": "https://www.nhs.uk/symptoms/dry-eyes/"
+        },
+        {
+          "text": "Bell's palsy",
+          "url": "https://www.nhs.uk/conditions/bells-palsy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of watering eyes</h2>\n<p data-block-key=\"h5rn1\">It's normal for your eyes to water in smoky environments or if you're outside in the cold or wind.</p><p data-block-key=\"2lq81\">An eye injury or something in your eye, such as an eyelash or a piece of grit, can also make your eyes water.</p><p data-block-key=\"19fdo\">Other causes of watering eyes include:</p><ul><li data-block-key=\"nftkh\">blocked tear ducts (the small tubes that tears drain into)</li><li data-block-key=\"1akal\">an <a href=\"/conditions/allergies/\">allergy</a> or infection (such as <a href=\"/conditions/conjunctivitis/\">conjunctivitis</a>)</li><li data-block-key=\"e5z1z\">your eyelid drooping away from the eye (<a href=\"/conditions/ectropion/\">ectropion</a>) or other <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a></li><li data-block-key=\"yg2us\"><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – this can cause your eyes to produce too many tears</li><li data-block-key=\"a7lvu\"><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> – weakness to one side of the face that is usually temporary</li><li data-block-key=\"99doo\">some medicines and cancer treatments</li></ul><p data-block-key=\"tt2k2\">Babies sometimes have watering eyes because their tear ducts have not fully developed. It usually gets better by the time they're a few weeks old.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "A pharmacist can help with watering eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with watering eyes"
+        }
+      ],
+      "text": "A pharmacist can help with watering eyes\nIf you have watering eyes, you can ask a pharmacist about:\nwhat you can do to treat it yourself – such as cleaning and protecting your eyes\nwhat you can buy to help – such as cleaning solutions, eyedrops or allergy medicines\nif you need to see an optician or GP",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "what you can do to treat it yourself – such as cleaning and protecting your eyes",
+            "what you can buy to help – such as cleaning solutions, eyedrops or allergy medicines",
+            "if you need to see an optician or GP"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">A pharmacist can help with watering eyes</h2>\n<p data-block-key=\"ye7ic\">If you have watering eyes, you can ask a pharmacist about:</p><ul><li data-block-key=\"goyt3\">what you can do to treat it yourself – such as cleaning and protecting your eyes</li><li data-block-key=\"ic0c6\">what you can buy to help – such as cleaning solutions, eyedrops or allergy medicines</li><li data-block-key=\"ijass\">if you need to see an optician or GP</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Find a pharmacy",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour eyes keep watering and it's stopping you doing everyday activities\nyour eyelid is turning inwards or drooping away from your eye\nyou have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your eyes keep watering and it's stopping you doing everyday activities",
+            "your eyelid is turning inwards or drooping away from your eye",
+            "you have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"984xg\">your eyes keep watering and it's stopping you doing everyday activities</li><li data-block-key=\"3dp17\">your eyelid is turning inwards or drooping away from your eye</li><li data-block-key=\"cgf0j\">you have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have any changes to your vision, such as loss of vision\nyou have severe eye pain\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have any changes to your vision, such as loss of vision",
+            "you have severe eye pain"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"iqslp\">you have any changes to your vision, such as loss of vision</li><li data-block-key=\"120gl\">you have severe eye pain</li></ul><p data-block-key=\"em9vl\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Treatment for watering eyes",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for watering eyes"
+        }
+      ],
+      "text": "Treatment for watering eyes\nTreatment may not be needed if your watering eyes are not causing problems.\nIf treatment is needed, it will depend on what the cause is.\nFor example:\neye drops, gels, ointments or sprays can help if your eyes are dry\nantibiotic eye drops can help if you have an eye infection\nmedicines can help if you have an allergy\nanything in your eye, like a piece of grit, can be removed\na small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts\nIf the GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "eye drops, gels, ointments or sprays can help if your eyes are dry",
+            "antibiotic eye drops can help if you have an eye infection",
+            "medicines can help if you have an allergy",
+            "anything in your eye, like a piece of grit, can be removed",
+            "a small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for watering eyes</h2>\n<p data-block-key=\"6wjq2\">Treatment may not be needed if your watering eyes are not causing problems.</p><p data-block-key=\"j8igj\">If treatment is needed, it will depend on what the cause is.</p><p data-block-key=\"ctk2h\">For example:</p><ul><li data-block-key=\"6sbxx\">eye drops, gels, ointments or sprays can help if your eyes are dry</li><li data-block-key=\"1gurt\">antibiotic eye drops can help if you have an eye infection</li><li data-block-key=\"ymh20\">medicines can help if you have an allergy</li><li data-block-key=\"bujho\">anything in your eye, like a piece of grit, can be removed</li><li data-block-key=\"zxf9u\">a small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts</li></ul><p data-block-key=\"416a2\">If the GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.</p>\n</section>"
+    }
+  ],
+  "page_text": "Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.\nCauses of watering eyes\nIt's normal for your eyes to water in smoky environments or if you're outside in the cold or wind.\nAn eye injury or something in your eye, such as an eyelash or a piece of grit, can also make your eyes water.\nOther causes of watering eyes include:\nblocked tear ducts (the small tubes that tears drain into)\nan\nallergy\nor infection (such as\nconjunctivitis\n)\nyour eyelid drooping away from the eye (\nectropion\n) or other\neyelid problems\ndry eyes\n– this can cause your eyes to produce too many tears\nBell's palsy\n– weakness to one side of the face that is usually temporary\nsome medicines and cancer treatments\nBabies sometimes have watering eyes because their tear ducts have not fully developed. It usually gets better by the time they're a few weeks old.\nA pharmacist can help with watering eyes\nIf you have watering eyes, you can ask a pharmacist about:\nwhat you can do to treat it yourself – such as cleaning and protecting your eyes\nwhat you can buy to help – such as cleaning solutions, eyedrops or allergy medicines\nif you need to see an optician or GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nyour eyes keep watering and it's stopping you doing everyday activities\nyour eyelid is turning inwards or drooping away from your eye\nyou have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have any changes to your vision, such as loss of vision\nyou have severe eye pain\nYou can call 111 or\nget help from 111 online\n.\nTreatment for watering eyes\nTreatment may not be needed if your watering eyes are not causing problems.\nIf treatment is needed, it will depend on what the cause is.\nFor example:\neye drops, gels, ointments or sprays can help if your eyes are dry\nantibiotic eye drops can help if you have an eye infection\nmedicines can help if you have an allergy\nanything in your eye, like a piece of grit, can be removed\na small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts\nIf the GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.\nPage last reviewed: 12 November 2024\nNext review due: 12 November 2027",
+  "links": [
+    {
+      "text": "allergy",
+      "url": "https://www.nhs.uk/conditions/allergies/"
+    },
+    {
+      "text": "conjunctivitis",
+      "url": "https://www.nhs.uk/conditions/conjunctivitis/"
+    },
+    {
+      "text": "ectropion",
+      "url": "https://www.nhs.uk/conditions/ectropion/"
+    },
+    {
+      "text": "eyelid problems",
+      "url": "https://www.nhs.uk/symptoms/eyelid-problems/"
+    },
+    {
+      "text": "dry eyes",
+      "url": "https://www.nhs.uk/symptoms/dry-eyes/"
+    },
+    {
+      "text": "Bell's palsy",
+      "url": "https://www.nhs.uk/conditions/bells-palsy/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"hqrbl\"><b>Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of watering eyes</h2>\n<p data-block-key=\"h5rn1\">It's normal for your eyes to water in smoky environments or if you're outside in the cold or wind.</p><p data-block-key=\"2lq81\">An eye injury or something in your eye, such as an eyelash or a piece of grit, can also make your eyes water.</p><p data-block-key=\"19fdo\">Other causes of watering eyes include:</p><ul><li data-block-key=\"nftkh\">blocked tear ducts (the small tubes that tears drain into)</li><li data-block-key=\"1akal\">an <a href=\"/conditions/allergies/\">allergy</a> or infection (such as <a href=\"/conditions/conjunctivitis/\">conjunctivitis</a>)</li><li data-block-key=\"e5z1z\">your eyelid drooping away from the eye (<a href=\"/conditions/ectropion/\">ectropion</a>) or other <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a></li><li data-block-key=\"yg2us\"><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – this can cause your eyes to produce too many tears</li><li data-block-key=\"a7lvu\"><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> – weakness to one side of the face that is usually temporary</li><li data-block-key=\"99doo\">some medicines and cancer treatments</li></ul><p data-block-key=\"tt2k2\">Babies sometimes have watering eyes because their tear ducts have not fully developed. It usually gets better by the time they're a few weeks old.</p>\n</section>\n<section>\n<h2 id=\"self-care\">A pharmacist can help with watering eyes</h2>\n<p data-block-key=\"ye7ic\">If you have watering eyes, you can ask a pharmacist about:</p><ul><li data-block-key=\"goyt3\">what you can do to treat it yourself – such as cleaning and protecting your eyes</li><li data-block-key=\"ic0c6\">what you can buy to help – such as cleaning solutions, eyedrops or allergy medicines</li><li data-block-key=\"ijass\">if you need to see an optician or GP</li></ul>\n</section>\n<section>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"984xg\">your eyes keep watering and it's stopping you doing everyday activities</li><li data-block-key=\"3dp17\">your eyelid is turning inwards or drooping away from your eye</li><li data-block-key=\"cgf0j\">you have any lumps or swellings around your eyes that have not got better with treatment from a pharmacist</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"iqslp\">you have any changes to your vision, such as loss of vision</li><li data-block-key=\"120gl\">you have severe eye pain</li></ul><p data-block-key=\"em9vl\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for watering eyes</h2>\n<p data-block-key=\"6wjq2\">Treatment may not be needed if your watering eyes are not causing problems.</p><p data-block-key=\"j8igj\">If treatment is needed, it will depend on what the cause is.</p><p data-block-key=\"ctk2h\">For example:</p><ul><li data-block-key=\"6sbxx\">eye drops, gels, ointments or sprays can help if your eyes are dry</li><li data-block-key=\"1gurt\">antibiotic eye drops can help if you have an eye infection</li><li data-block-key=\"ymh20\">medicines can help if you have an allergy</li><li data-block-key=\"bujho\">anything in your eye, like a piece of grit, can be removed</li><li data-block-key=\"zxf9u\">a small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts</li></ul><p data-block-key=\"416a2\">If the GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 November 2024<br/>\n    Next review due: 12 November 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

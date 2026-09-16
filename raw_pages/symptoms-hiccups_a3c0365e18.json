@@ -1,0 +1,429 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hiccups/",
+  "final_url": "https://www.nhs.uk/symptoms/hiccups/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:53.746177+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hiccups",
+      "url": "https://www.nhs.uk/symptoms/hiccups/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Hiccups",
+  "meta_description": "Find out about things you can do yourself to stop or prevent hiccups.",
+  "review_dates": {
+    "page_last_reviewed": "23 June 2023",
+    "next_review_due": "23 June 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about things you can do yourself to stop or prevent hiccups."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hiccups/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHiccups\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about things you can do yourself to stop or prevent hiccups."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:10 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "13 Nov 2017, 2:39 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Hiccups"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hiccups/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Hiccups"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:10:51+00:00",
+      "description": "Find out about things you can do yourself to stop or prevent hiccups.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "To stop hiccups, it may help to sip ice-cold water, bite on a lemon, taste vinegar or hold your breath for a short time.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Although many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>breathe into a paper bag (do not put it over your head)</p></li><li><p>pull your knees up to your chest and lean forward</p></li><li><p>sip ice-cold water</p></li><li><p>swallow some granulated sugar</p></li><li><p>bite on a lemon or taste vinegar</p></li><li><p>hold your breath for a short time</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not drink alcoholic, fizzy or hot drinks</p></li><li><p>do not chew gum or smoke – these can cause you to swallow air</p></li><li><p>do not eat spicy food</p></li><li><p>do not eat food very quickly</p></li><li><p>do not eat or drink something very cold immediately after something hot</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can do yourself to stop or prevent hiccups",
+          "url": "https://www.nhs.uk/symptoms/hiccups/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "It's not always obvious what causes hiccups. Sometimes they're triggered by stress, excitement, eating or drinking.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There's often no obvious reason why you get hiccups, but some people find certain things trigger their hiccups, such as:</p><ul><li>stress</li><li>strong emotions, like excitement</li><li>eating and drinking</li></ul><p>In rare cases, hiccups that last longer than 48 hours can be due to a medical condition or a medicine you're taking.</p>"
+            }
+          ],
+          "headline": "Why we get hiccups",
+          "url": "https://www.nhs.uk/symptoms/hiccups/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  hiccups last longer than 48 hours\n </li>\n<li>\n  hiccups come back very often and are affecting your life\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hiccups/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most of the time hiccups go away without treatment. Sometimes changing a medicine you’re taking or treating the cause will stop the hiccups.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP will want to find out if your hiccups are caused by a health condition or medicine you're taking.</p><p>Treating the condition or changing your medicine should stop your hiccups.</p><p>If there's no obvious cause, they might be able to prescribe a medicine called chlorpromazine to treat your hiccups. This does not work for everyone.</p>"
+            }
+          ],
+          "headline": "Treatment for hiccups from a GP",
+          "url": "https://www.nhs.uk/symptoms/hiccups/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hiccups are common and often go away on their own, there are things you can do yourself to help them go away. See a GP if they do not go away.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Hiccups",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hiccups",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hiccups",
+              "text": "Medical treatments"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hiccups/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-06-23T00:00:00+00:00",
+        "2026-06-23T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Hiccups",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hiccups",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hiccups/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/hiccups/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Most people get hiccups sometimes. They should only last a few minutes. You can usually wait for them to go away or treat them yourself without seeing a GP.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"xa8l0\"><b>Most people get hiccups sometimes. They should only last a few minutes. You can usually wait for them to go away or treat them yourself without seeing a GP.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can do yourself to stop or prevent hiccups",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do yourself to stop or prevent hiccups"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can do yourself to stop or prevent hiccups\nAlthough many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone.\nDo\nbreathe into a paper bag (do not put it over your head)\npull your knees up to your chest and lean forward\nsip ice-cold water\nswallow some granulated sugar\nbite on a lemon or taste vinegar\nhold your breath for a short time\nDon’t\ndo not drink alcoholic, fizzy or hot drinks\ndo not chew gum or smoke – these can cause you to swallow air\ndo not eat spicy food\ndo not eat food very quickly\ndo not eat or drink something very cold immediately after something hot",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "breathe into a paper bag (do not put it over your head)",
+            "pull your knees up to your chest and lean forward",
+            "sip ice-cold water",
+            "swallow some granulated sugar",
+            "bite on a lemon or taste vinegar",
+            "hold your breath for a short time"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not drink alcoholic, fizzy or hot drinks",
+            "do not chew gum or smoke – these can cause you to swallow air",
+            "do not eat spicy food",
+            "do not eat food very quickly",
+            "do not eat or drink something very cold immediately after something hot"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do yourself to stop or prevent hiccups</h2>\n<p data-block-key=\"7y24o\">Although many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"y8zew\">breathe into a paper bag (do not put it over your head)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qe9n6\">pull your knees up to your chest and lean forward</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3tdf5\">sip ice-cold water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lz7im\">swallow some granulated sugar</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rk4zp\">bite on a lemon or taste vinegar</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cy0m8\">hold your breath for a short time</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5po5j\">do not drink alcoholic, fizzy or hot drinks</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"i9bg8\">do not chew gum or smoke – these can cause you to swallow air</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"obwcd\">do not eat spicy food</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"79gj7\">do not eat food very quickly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vznb0\">do not eat or drink something very cold immediately after something hot</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Why we get hiccups",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Why we get hiccups"
+        }
+      ],
+      "text": "Why we get hiccups\nThere's often no obvious reason why you get hiccups, but some people find certain things trigger their hiccups, such as:\nstress\nstrong emotions, like excitement\neating and drinking\nIn rare cases, hiccups that last longer than 48 hours can be due to a medical condition or a medicine you're taking.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stress",
+            "strong emotions, like excitement",
+            "eating and drinking"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Why we get hiccups</h2>\n<p data-block-key=\"ye9ye\">There's often no obvious reason why you get hiccups, but some people find certain things trigger their hiccups, such as:</p><ul><li data-block-key=\"xamtm\">stress</li><li data-block-key=\"jn6dp\">strong emotions, like excitement</li><li data-block-key=\"q5jez\">eating and drinking</li></ul><p data-block-key=\"c9zkd\">In rare cases, hiccups that last longer than 48 hours can be due to a medical condition or a medicine you're taking.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nhiccups last longer than 48 hours\nhiccups come back very often and are affecting your life",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "hiccups last longer than 48 hours",
+            "hiccups come back very often and are affecting your life"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"lc5gl\">hiccups last longer than 48 hours</li><li data-block-key=\"81m08\">hiccups come back very often and are affecting your life</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for hiccups from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for hiccups from a GP"
+        }
+      ],
+      "text": "Treatment for hiccups from a GP\nA GP will want to find out if your hiccups are caused by a health condition or medicine you're taking.\nTreating the condition or changing your medicine should stop your hiccups.\nIf there's no obvious cause, they might be able to prescribe a medicine called chlorpromazine to treat your hiccups. This does not work for everyone.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for hiccups from a GP</h2>\n<p data-block-key=\"rp0hd\">A GP will want to find out if your hiccups are caused by a health condition or medicine you're taking.</p><p data-block-key=\"31lmd\">Treating the condition or changing your medicine should stop your hiccups.</p><p data-block-key=\"za6k5\">If there's no obvious cause, they might be able to prescribe a medicine called chlorpromazine to treat your hiccups. This does not work for everyone.</p>\n</section>"
+    }
+  ],
+  "page_text": "Most people get hiccups sometimes. They should only last a few minutes. You can usually wait for them to go away or treat them yourself without seeing a GP.\nThings you can do yourself to stop or prevent hiccups\nAlthough many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone.\nDo\nbreathe into a paper bag (do not put it over your head)\npull your knees up to your chest and lean forward\nsip ice-cold water\nswallow some granulated sugar\nbite on a lemon or taste vinegar\nhold your breath for a short time\nDon’t\ndo not drink alcoholic, fizzy or hot drinks\ndo not chew gum or smoke – these can cause you to swallow air\ndo not eat spicy food\ndo not eat food very quickly\ndo not eat or drink something very cold immediately after something hot\nWhy we get hiccups\nThere's often no obvious reason why you get hiccups, but some people find certain things trigger their hiccups, such as:\nstress\nstrong emotions, like excitement\neating and drinking\nIn rare cases, hiccups that last longer than 48 hours can be due to a medical condition or a medicine you're taking.\nNon-urgent advice:\nSee a GP if:\nhiccups last longer than 48 hours\nhiccups come back very often and are affecting your life\nTreatment for hiccups from a GP\nA GP will want to find out if your hiccups are caused by a health condition or medicine you're taking.\nTreating the condition or changing your medicine should stop your hiccups.\nIf there's no obvious cause, they might be able to prescribe a medicine called chlorpromazine to treat your hiccups. This does not work for everyone.\nPage last reviewed: 23 June 2023\nNext review due: 23 June 2026",
+  "links": [],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"xa8l0\"><b>Most people get hiccups sometimes. They should only last a few minutes. You can usually wait for them to go away or treat them yourself without seeing a GP.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do yourself to stop or prevent hiccups</h2>\n<p data-block-key=\"7y24o\">Although many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"y8zew\">breathe into a paper bag (do not put it over your head)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qe9n6\">pull your knees up to your chest and lean forward</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3tdf5\">sip ice-cold water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lz7im\">swallow some granulated sugar</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rk4zp\">bite on a lemon or taste vinegar</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cy0m8\">hold your breath for a short time</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5po5j\">do not drink alcoholic, fizzy or hot drinks</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"i9bg8\">do not chew gum or smoke – these can cause you to swallow air</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"obwcd\">do not eat spicy food</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"79gj7\">do not eat food very quickly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vznb0\">do not eat or drink something very cold immediately after something hot</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Why we get hiccups</h2>\n<p data-block-key=\"ye9ye\">There's often no obvious reason why you get hiccups, but some people find certain things trigger their hiccups, such as:</p><ul><li data-block-key=\"xamtm\">stress</li><li data-block-key=\"jn6dp\">strong emotions, like excitement</li><li data-block-key=\"q5jez\">eating and drinking</li></ul><p data-block-key=\"c9zkd\">In rare cases, hiccups that last longer than 48 hours can be due to a medical condition or a medicine you're taking.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"lc5gl\">hiccups last longer than 48 hours</li><li data-block-key=\"81m08\">hiccups come back very often and are affecting your life</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for hiccups from a GP</h2>\n<p data-block-key=\"rp0hd\">A GP will want to find out if your hiccups are caused by a health condition or medicine you're taking.</p><p data-block-key=\"31lmd\">Treating the condition or changing your medicine should stop your hiccups.</p><p data-block-key=\"za6k5\">If there's no obvious cause, they might be able to prescribe a medicine called chlorpromazine to treat your hiccups. This does not work for everyone.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 23 June 2023<br/>\n    Next review due: 23 June 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

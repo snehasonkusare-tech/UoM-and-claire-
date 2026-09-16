@@ -1,0 +1,569 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/confusion/",
+  "final_url": "https://www.nhs.uk/symptoms/confusion/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:09.702478+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "C",
+      "label": "Confusion (sudden), see Sudden confusion (delirium)",
+      "url": "https://www.nhs.uk/symptoms/confusion/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "D",
+      "label": "Delirium, see Sudden confusion (delirium)",
+      "url": "https://www.nhs.uk/symptoms/confusion/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "S",
+      "label": "Sudden confusion (delirium)",
+      "url": "https://www.nhs.uk/symptoms/confusion/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Sudden confusion (delirium)",
+  "meta_description": "NHS information about sudden confusion (delirium), including how to tell if someone is confused and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "28 May 2024",
+    "next_review_due": "28 May 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about sudden confusion (delirium), including how to tell if someone is confused and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/confusion/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nSudden confusion (delirium)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about sudden confusion (delirium), including how to tell if someone is confused and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:31 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 9:54 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Confusion (sudden)",
+          "Delirium"
+        ],
+        "name": "Sudden confusion (delirium)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/confusion/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Sudden confusion (delirium)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:31:23+00:00",
+      "description": "NHS information about sudden confusion (delirium), including how to tell if someone is confused and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "If a person is confused, they may not be able to think or speak clearly, they may not know where they are, and they may struggle to remember things.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If a person is confused, they may:</p><ul><li>not be able to think or speak clearly or quickly</li><li>not know where they are (feel disorientated)</li><li>struggle to pay attention or remember things</li><li>see or hear things that are not there (<a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/\">hallucinations</a>)</li></ul><p>Try asking the person their name, their age and today's date. If they seem unsure or cannot answer you, they probably need medical help.</p>"
+            }
+          ],
+          "headline": "How to tell if someone is confused",
+          "url": "https://www.nhs.uk/symptoms/confusion/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're worried that you or a relative have gradually become more forgetful or confused\n </li>\n</ul>\n<p>\n It may not be anything serious, but it's best to get checked.\n</p>\n<p>\n In older people, forgetfulness and confusion are sometimes signs of dementia.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/confusion/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E or call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  someone suddenly becomes confused\n </li>\n</ul>\n<p>\n Many causes of sudden confusion need to be assessed and treated as soon as possible. Sometimes it may be life threatening.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/confusion/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "While waiting for medical help for someone who is confused, stay with them, tell them who you are and where they are, and keep reassuring them.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you're with someone who has suddenly become confused, there are things you can do while waiting for medical help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>stay with the person – tell them who you are and where they are, and keep reassuring them</p></li><li><p>use simple words and short sentences</p></li><li><p>make a note of any medicines they're taking, if possible</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not ask lots of questions while they're feeling confused</p></li><li><p>do not stop the person moving around, unless they're in danger</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can do while waiting for an ambulance",
+          "url": "https://www.nhs.uk/symptoms/confusion/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Sudden confusion can be caused by many different things including a urinary tract infection (UTI), a stroke, low blood sugar and a head injury.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Sudden confusion can be caused by many different things. Do not try to self-diagnose. Get medical help if someone suddenly becomes confused or delirious.</p><p>Some of the most common causes of sudden confusion include:</p><ul><li>an infection – <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a> are a common cause in older people or people with dementia</li><li>a <a href=\"/conditions/stroke/\">stroke</a> or <a href=\"/conditions/transient-ischaemic-attack-tia/\">TIA (\"mini-stroke\")</a></li><li>a <a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar level</a> in people with diabetes</li><li>a <a href=\"/conditions/severe-head-injury/\">head injury</a></li><li>some types of prescription medicine</li><li><a href=\"/conditions/alcohol-poisoning/\">alcohol poisoning</a> or alcohol withdrawal</li><li>taking drugs</li><li><a href=\"/conditions/carbon-monoxide-poisoning/\">carbon monoxide poisoning</a> – especially if other people you live with also become unwell</li><li>a severe <a href=\"/conditions/asthma/asthma-attack/\">asthma attack</a> or other problems with the lungs or heart</li><li>certain types of seizures caused by <a href=\"/conditions/epilepsy/\">epilepsy</a></li></ul>"
+            }
+          ],
+          "headline": "Causes of sudden confusion",
+          "url": "https://www.nhs.uk/symptoms/confusion/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Sudden confusion (delirium) can have many different causes. Get medical help immediately if someone suddenly becomes confused (delirious).",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Sudden confusion (delirium)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Sudden confusion (delirium)",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Sudden confusion (delirium)",
+              "text": "Causes"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/confusion/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-05-28T00:00:00+00:00",
+        "2027-05-28T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Sudden confusion (delirium)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Sudden confusion (delirium)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/confusion/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/confusion/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How to tell if someone is confused",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to tell if someone is confused"
+        }
+      ],
+      "text": "How to tell if someone is confused\nIf a person is confused, they may:\nnot be able to think or speak clearly or quickly\nnot know where they are (feel disorientated)\nstruggle to pay attention or remember things\nsee or hear things that are not there (\nhallucinations\n)\nTry asking the person their name, their age and today's date. If they seem unsure or cannot answer you, they probably need medical help.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "not be able to think or speak clearly or quickly",
+            "not know where they are (feel disorientated)",
+            "struggle to pay attention or remember things",
+            "see or hear things that are not there (\nhallucinations\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "hallucinations",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">How to tell if someone is confused</h2>\n<p data-block-key=\"bj02a\">If a person is confused, they may:</p><ul><li data-block-key=\"sv7jg\">not be able to think or speak clearly or quickly</li><li data-block-key=\"55c1a\">not know where they are (feel disorientated)</li><li data-block-key=\"46las\">struggle to pay attention or remember things</li><li data-block-key=\"if8yc\">see or hear things that are not there (<a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/\">hallucinations</a>)</li></ul><p data-block-key=\"o4b7f\">Try asking the person their name, their age and today's date. If they seem unsure or cannot answer you, they probably need medical help.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou're worried that you or a relative have gradually become more forgetful or confused\nIt may not be anything serious, but it's best to get checked.\nIn older people, forgetfulness and confusion are sometimes signs of dementia.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're worried that you or a relative have gradually become more forgetful or confused"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s9giu\">you're worried that you or a relative have gradually become more forgetful or confused</li></ul><p data-block-key=\"btflb\">It may not be anything serious, but it's best to get checked.</p><p data-block-key=\"7bb09\">In older people, forgetfulness and confusion are sometimes signs of dementia.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Go to A&E or call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E or call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E or call 999 if:\nsomeone suddenly becomes confused\nMany causes of sudden confusion need to be assessed and treated as soon as possible. Sometimes it may be life threatening.\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "someone suddenly becomes confused"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"01x2v\">someone suddenly becomes confused</li></ul><p data-block-key=\"7n5hs\">Many causes of sudden confusion need to be assessed and treated as soon as possible. Sometimes it may be life threatening.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Things you can do while waiting for an ambulance",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do while waiting for an ambulance"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can do while waiting for an ambulance\nIf you're with someone who has suddenly become confused, there are things you can do while waiting for medical help.\nDo\nstay with the person – tell them who you are and where they are, and keep reassuring them\nuse simple words and short sentences\nmake a note of any medicines they're taking, if possible\nDon’t\ndo not ask lots of questions while they're feeling confused\ndo not stop the person moving around, unless they're in danger",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stay with the person – tell them who you are and where they are, and keep reassuring them",
+            "use simple words and short sentences",
+            "make a note of any medicines they're taking, if possible"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not ask lots of questions while they're feeling confused",
+            "do not stop the person moving around, unless they're in danger"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do while waiting for an ambulance</h2>\n<p data-block-key=\"ibbmr\">If you're with someone who has suddenly become confused, there are things you can do while waiting for medical help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b7ckk\">stay with the person – tell them who you are and where they are, and keep reassuring them</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"beuf4\">use simple words and short sentences</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rqsrc\">make a note of any medicines they're taking, if possible</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"nbzbi\">do not ask lots of questions while they're feeling confused</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x6191\">do not stop the person moving around, unless they're in danger</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of sudden confusion",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of sudden confusion"
+        }
+      ],
+      "text": "Causes of sudden confusion\nSudden confusion can be caused by many different things. Do not try to self-diagnose. Get medical help if someone suddenly becomes confused or delirious.\nSome of the most common causes of sudden confusion include:\nan infection –\nurinary tract infections (UTIs)\nare a common cause in older people or people with dementia\na\nstroke\nor\nTIA (\"mini-stroke\")\na\nlow blood sugar level\nin people with diabetes\na\nhead injury\nsome types of prescription medicine\nalcohol poisoning\nor alcohol withdrawal\ntaking drugs\ncarbon monoxide poisoning\n– especially if other people you live with also become unwell\na severe\nasthma attack\nor other problems with the lungs or heart\ncertain types of seizures caused by\nepilepsy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an infection –\nurinary tract infections (UTIs)\nare a common cause in older people or people with dementia",
+            "a\nstroke\nor\nTIA (\"mini-stroke\")",
+            "a\nlow blood sugar level\nin people with diabetes",
+            "a\nhead injury",
+            "some types of prescription medicine",
+            "alcohol poisoning\nor alcohol withdrawal",
+            "taking drugs",
+            "carbon monoxide poisoning\n– especially if other people you live with also become unwell",
+            "a severe\nasthma attack\nor other problems with the lungs or heart",
+            "certain types of seizures caused by\nepilepsy"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "urinary tract infections (UTIs)",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        },
+        {
+          "text": "stroke",
+          "url": "https://www.nhs.uk/conditions/stroke/"
+        },
+        {
+          "text": "TIA (\"mini-stroke\")",
+          "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+        },
+        {
+          "text": "low blood sugar level",
+          "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+        },
+        {
+          "text": "head injury",
+          "url": "https://www.nhs.uk/conditions/severe-head-injury/"
+        },
+        {
+          "text": "alcohol poisoning",
+          "url": "https://www.nhs.uk/conditions/alcohol-poisoning/"
+        },
+        {
+          "text": "carbon monoxide poisoning",
+          "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/"
+        },
+        {
+          "text": "asthma attack",
+          "url": "https://www.nhs.uk/conditions/asthma/asthma-attack/"
+        },
+        {
+          "text": "epilepsy",
+          "url": "https://www.nhs.uk/conditions/epilepsy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of sudden confusion</h2>\n<p data-block-key=\"eun8f\">Sudden confusion can be caused by many different things. Do not try to self-diagnose. Get medical help if someone suddenly becomes confused or delirious.</p><p data-block-key=\"9bb38\">Some of the most common causes of sudden confusion include:</p><ul><li data-block-key=\"n6pwz\">an infection – <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a> are a common cause in older people or people with dementia</li><li data-block-key=\"3qov3\">a <a href=\"/conditions/stroke/\">stroke</a> or <a href=\"/conditions/transient-ischaemic-attack-tia/\">TIA (\"mini-stroke\")</a></li><li data-block-key=\"er32j\">a <a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar level</a> in people with diabetes</li><li data-block-key=\"p2k35\">a <a href=\"/conditions/severe-head-injury/\">head injury</a></li><li data-block-key=\"n8kdg\">some types of prescription medicine</li><li data-block-key=\"q63pz\"><a href=\"/conditions/alcohol-poisoning/\">alcohol poisoning</a> or alcohol withdrawal</li><li data-block-key=\"lye58\">taking drugs</li><li data-block-key=\"zua34\"><a href=\"/conditions/carbon-monoxide-poisoning/\">carbon monoxide poisoning</a> – especially if other people you live with also become unwell</li><li data-block-key=\"5lr2a\">a severe <a href=\"/conditions/asthma/asthma-attack/\">asthma attack</a> or other problems with the lungs or heart</li><li data-block-key=\"fgo6d\">certain types of seizures caused by <a href=\"/conditions/epilepsy/\">epilepsy</a></li></ul>\n</section>"
+    }
+  ],
+  "page_text": "How to tell if someone is confused\nIf a person is confused, they may:\nnot be able to think or speak clearly or quickly\nnot know where they are (feel disorientated)\nstruggle to pay attention or remember things\nsee or hear things that are not there (\nhallucinations\n)\nTry asking the person their name, their age and today's date. If they seem unsure or cannot answer you, they probably need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're worried that you or a relative have gradually become more forgetful or confused\nIt may not be anything serious, but it's best to get checked.\nIn older people, forgetfulness and confusion are sometimes signs of dementia.\nImmediate action required:\nGo to A&E or call 999 if:\nsomeone suddenly becomes confused\nMany causes of sudden confusion need to be assessed and treated as soon as possible. Sometimes it may be life threatening.\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nThings you can do while waiting for an ambulance\nIf you're with someone who has suddenly become confused, there are things you can do while waiting for medical help.\nDo\nstay with the person – tell them who you are and where they are, and keep reassuring them\nuse simple words and short sentences\nmake a note of any medicines they're taking, if possible\nDon’t\ndo not ask lots of questions while they're feeling confused\ndo not stop the person moving around, unless they're in danger\nCauses of sudden confusion\nSudden confusion can be caused by many different things. Do not try to self-diagnose. Get medical help if someone suddenly becomes confused or delirious.\nSome of the most common causes of sudden confusion include:\nan infection –\nurinary tract infections (UTIs)\nare a common cause in older people or people with dementia\na\nstroke\nor\nTIA (\"mini-stroke\")\na\nlow blood sugar level\nin people with diabetes\na\nhead injury\nsome types of prescription medicine\nalcohol poisoning\nor alcohol withdrawal\ntaking drugs\ncarbon monoxide poisoning\n– especially if other people you live with also become unwell\na severe\nasthma attack\nor other problems with the lungs or heart\ncertain types of seizures caused by\nepilepsy\nPage last reviewed: 28 May 2024\nNext review due: 28 May 2027",
+  "links": [
+    {
+      "text": "hallucinations",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/"
+    },
+    {
+      "text": "urinary tract infections (UTIs)",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.nhs.uk/conditions/stroke/"
+    },
+    {
+      "text": "TIA (\"mini-stroke\")",
+      "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+    },
+    {
+      "text": "low blood sugar level",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+    },
+    {
+      "text": "head injury",
+      "url": "https://www.nhs.uk/conditions/severe-head-injury/"
+    },
+    {
+      "text": "alcohol poisoning",
+      "url": "https://www.nhs.uk/conditions/alcohol-poisoning/"
+    },
+    {
+      "text": "carbon monoxide poisoning",
+      "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/"
+    },
+    {
+      "text": "asthma attack",
+      "url": "https://www.nhs.uk/conditions/asthma/asthma-attack/"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.nhs.uk/conditions/epilepsy/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">How to tell if someone is confused</h2>\n<p data-block-key=\"bj02a\">If a person is confused, they may:</p><ul><li data-block-key=\"sv7jg\">not be able to think or speak clearly or quickly</li><li data-block-key=\"55c1a\">not know where they are (feel disorientated)</li><li data-block-key=\"46las\">struggle to pay attention or remember things</li><li data-block-key=\"if8yc\">see or hear things that are not there (<a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/\">hallucinations</a>)</li></ul><p data-block-key=\"o4b7f\">Try asking the person their name, their age and today's date. If they seem unsure or cannot answer you, they probably need medical help.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s9giu\">you're worried that you or a relative have gradually become more forgetful or confused</li></ul><p data-block-key=\"btflb\">It may not be anything serious, but it's best to get checked.</p><p data-block-key=\"7bb09\">In older people, forgetfulness and confusion are sometimes signs of dementia.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"01x2v\">someone suddenly becomes confused</li></ul><p data-block-key=\"7n5hs\">Many causes of sudden confusion need to be assessed and treated as soon as possible. Sometimes it may be life threatening.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do while waiting for an ambulance</h2>\n<p data-block-key=\"ibbmr\">If you're with someone who has suddenly become confused, there are things you can do while waiting for medical help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b7ckk\">stay with the person – tell them who you are and where they are, and keep reassuring them</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"beuf4\">use simple words and short sentences</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rqsrc\">make a note of any medicines they're taking, if possible</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"nbzbi\">do not ask lots of questions while they're feeling confused</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x6191\">do not stop the person moving around, unless they're in danger</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of sudden confusion</h2>\n<p data-block-key=\"eun8f\">Sudden confusion can be caused by many different things. Do not try to self-diagnose. Get medical help if someone suddenly becomes confused or delirious.</p><p data-block-key=\"9bb38\">Some of the most common causes of sudden confusion include:</p><ul><li data-block-key=\"n6pwz\">an infection – <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infections (UTIs)</a> are a common cause in older people or people with dementia</li><li data-block-key=\"3qov3\">a <a href=\"/conditions/stroke/\">stroke</a> or <a href=\"/conditions/transient-ischaemic-attack-tia/\">TIA (\"mini-stroke\")</a></li><li data-block-key=\"er32j\">a <a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar level</a> in people with diabetes</li><li data-block-key=\"p2k35\">a <a href=\"/conditions/severe-head-injury/\">head injury</a></li><li data-block-key=\"n8kdg\">some types of prescription medicine</li><li data-block-key=\"q63pz\"><a href=\"/conditions/alcohol-poisoning/\">alcohol poisoning</a> or alcohol withdrawal</li><li data-block-key=\"lye58\">taking drugs</li><li data-block-key=\"zua34\"><a href=\"/conditions/carbon-monoxide-poisoning/\">carbon monoxide poisoning</a> – especially if other people you live with also become unwell</li><li data-block-key=\"5lr2a\">a severe <a href=\"/conditions/asthma/asthma-attack/\">asthma attack</a> or other problems with the lungs or heart</li><li data-block-key=\"fgo6d\">certain types of seizures caused by <a href=\"/conditions/epilepsy/\">epilepsy</a></li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 28 May 2024<br/>\n    Next review due: 28 May 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

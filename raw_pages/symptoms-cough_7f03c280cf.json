@@ -1,0 +1,600 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/cough/",
+  "final_url": "https://www.nhs.uk/symptoms/cough/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:11.872166+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "C",
+      "label": "Cough",
+      "url": "https://www.nhs.uk/symptoms/cough/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Cough",
+  "meta_description": "Read about coughs, including what you can do to ease a cough, help from a pharmacist and when to see a GP.",
+  "review_dates": {
+    "page_last_reviewed": "08 December 2023",
+    "next_review_due": "08 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about coughs, including what you can do to ease a cough, help from a pharmacist and when to see a GP."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/cough/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nCough\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about coughs, including what you can do to ease a cough, help from a pharmacist and when to see a GP."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "23 Jul 2026, 1:52 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 10:02 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Cough"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/cough/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Cough"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-23T12:52:31+00:00",
+      "description": "Read about coughs, including what you can do to ease a cough, help from a pharmacist and when to see a GP.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can treat a cough yourself. Rest and drink plenty of fluids. You could also try hot lemon and honey (not suitable for babies under 1 year old).",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There's usually no need to see a GP if you have a cough.</p><p>You should:</p><ul><li>rest</li><li>drink plenty of fluids</li><li>try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities</li></ul><p>You could also try:</p><ul><li><a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> to treat any pain</li><li>hot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)</li><li>a herbal medicine called pelargonium (suitable for people aged 12 or over)</li></ul><p>But there's limited evidence to show that hot lemon and honey and herbal medicines help ease a cough.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "How to make a hot lemon and honey drink",
+              "text": "<div class=\"block-richtext\">\n<ol><li>Squeeze half a lemon into a mug of boiled water.</li><li>Add 1 to 2 teaspoons of honey.</li><li>Drink while still warm (do not give hot drinks to small children).</li></ol>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>Some medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.</p>"
+            }
+          ],
+          "headline": "How you can treat a cough yourself",
+          "url": "https://www.nhs.uk/symptoms/cough/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can ask a pharmacist about cough syrup, cough medicine and cough sweets. These will not stop your cough, but may help you cough less.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have a cough, you can ask a pharmacist about:</p><ul><li>cough syrup</li><li>cough medicine (some cough medicines should not be given to children under 12 years old)</li><li>cough sweets</li></ul><p>These will not stop your cough, but may help you cough less.</p><p>Decongestants and cough medicines containing codeine will not stop your cough.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "A pharmacist can help if you have a cough",
+          "url": "https://www.nhs.uk/symptoms/cough/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you've had a cough for more than 3 weeks (persistent cough)\n </li>\n<li>\n  you're losing weight for no reason\n </li>\n<li>\n  you have a weakened immune system – for example, because of chemotherapy or diabetes\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/cough/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing\n </li>\n<li>\n  you feel very unwell\n </li>\n<li>\n  you have chest pain\n </li>\n<li>\n  the side of your neck feels swollen and painful (swollen glands)\n </li>\n<li>\n  you find it hard to breathe\n </li>\n<li>\n  you're coughing up blood\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/cough/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To find out what's causing your cough, the GP might take a mucus sample or refer you for tests like an X-ray or tests to see how well your lungs work.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To find out what's causing your cough, the GP might:</p><ul><li>listen to your chest with a stethoscope</li><li>take a sample of any mucus you might be coughing up</li><li>order an X-ray, allergy test, or a test to see how well your lungs work</li><li>refer you to hospital to see a specialist, but this is rare</li></ul>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/cough/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most coughs are caused by a cold or flu. Other causes include smoking, heartburn (acid reflux), allergies and infections like bronchitis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Most coughs are caused by a cold or flu.</p><p>Other causes include:</p><ul><li>smoking</li><li>heartburn (acid reflux)</li><li>allergies – for example, hay fever</li><li>infections like bronchitis or COVID-19</li><li>mucus dripping down the throat from the back of the nose</li></ul><p>A cough is rarely a sign of something serious like lung cancer.</p>"
+            }
+          ],
+          "headline": "What causes coughs",
+          "url": "https://www.nhs.uk/symptoms/cough/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A cough will usually clear up on its own. But see a GP if you've had a cough for more than 3 weeks.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Cough",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Cough",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Cough",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Most coughs are caused by a cold or flu. Other causes include smoking, heartburn (acid reflux), allergies and infections like bronchitis.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can treat a cough yourself. Rest and drink plenty of fluids. You could also try hot lemon and honey (not suitable for babies under 1 year old).</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can ask a pharmacist about cough syrup, cough medicine and cough sweets. These will not stop your cough, but may help you cough less.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/cough/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-08T00:00:00+00:00",
+        "2026-12-08T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Cough",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Cough",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/cough/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/cough/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "6371598695112",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/97e5d7ee-d53c-4686-86ad-a6ab65df7aec/10s/master.m3u8?fastly_token=NjkxMzY5YjZfZTEzMDI1ZjRjZjM3Nzk2ZTNlM2NmYzExZjAzYjZjOTI4ZjI1NGNkZTIxNWU1MjE1ZjViMjljNjViN2QwZDg2Zg%3D%3D",
+      "description": "In this video, a respiratory consultant explains how to treat a new cough yourself.",
+      "duration": "PT1M35.083S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=6371598695112",
+      "name": "How to treat a cough yourself",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/97e5d7ee-d53c-4686-86ad-a6ab65df7aec/2b063700-fd84-4f1c-9e09-4d78a7428bfc/160x90/match/image.jpg",
+      "uploadDate": "2025-06-17T12:50:46.789000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How you can treat a cough yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can treat a cough yourself"
+        },
+        {
+          "level": "h2",
+          "text": "Video: How to treat a cough yourself"
+        }
+      ],
+      "text": "How you can treat a cough yourself\nThere's usually no need to see a GP if you have a cough.\nYou should:\nrest\ndrink plenty of fluids\ntry to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities\nYou could also try:\nparacetamol\nor\nibuprofen\nto treat any pain\nhot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)\na herbal medicine called pelargonium (suitable for people aged 12 or over)\nBut there's limited evidence to show that hot lemon and honey and herbal medicines help ease a cough.\nHow to make a hot lemon and honey drink\nSqueeze half a lemon into a mug of boiled water.\nAdd 1 to 2 teaspoons of honey.\nDrink while still warm (do not give hot drinks to small children).\nInformation:\nSome medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.\nVideo: How to treat a cough yourself\nIn this video, a respiratory consultant explains how to treat a new cough yourself.\nMedia last reviewed: 30 April 2025\nMedia review due: 30 April 2028",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest",
+            "drink plenty of fluids",
+            "try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "paracetamol\nor\nibuprofen\nto treat any pain",
+            "hot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)",
+            "a herbal medicine called pelargonium (suitable for people aged 12 or over)"
+          ]
+        },
+        {
+          "type": "ordered",
+          "items": [
+            "Squeeze half a lemon into a mug of boiled water.",
+            "Add 1 to 2 teaspoons of honey.",
+            "Drink while still warm (do not give hot drinks to small children)."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can treat a cough yourself</h2>\n<p data-block-key=\"88mbx\">There's usually no need to see a GP if you have a cough.</p><p data-block-key=\"q4h6x\">You should:</p><ul><li data-block-key=\"9ngwv\">rest</li><li data-block-key=\"yrjay\">drink plenty of fluids</li><li data-block-key=\"fq3sv\">try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities</li></ul><p data-block-key=\"9mazq\">You could also try:</p><ul><li data-block-key=\"5d3v3\"><a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> to treat any pain</li><li data-block-key=\"t01ty\">hot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)</li><li data-block-key=\"4k5va\">a herbal medicine called pelargonium (suitable for people aged 12 or over)</li></ul><p data-block-key=\"rqfp7\">But there's limited evidence to show that hot lemon and honey and herbal medicines help ease a cough.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to make a hot lemon and honey drink\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"ikspu\">Squeeze half a lemon into a mug of boiled water.</li><li data-block-key=\"a0qci\">Add 1 to 2 teaspoons of honey.</li><li data-block-key=\"6j5wj\">Drink while still warm (do not give hot drinks to small children).</li></ol>\n</div>\n</details>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"1303d\">Some medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.</p>\n</div>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: How to treat a cough yourself</h2>\n<p>In this video, a respiratory consultant explains how to treat a new cough yourself.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6371598695112\" id=\"6371598695112\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 30 April 2025<br/>\n    Media review due: 30 April 2028\n  </div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "A pharmacist can help if you have a cough",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help if you have a cough"
+        }
+      ],
+      "text": "A pharmacist can help if you have a cough\nIf you have a cough, you can ask a pharmacist about:\ncough syrup\ncough medicine (some cough medicines should not be given to children under 12 years old)\ncough sweets\nThese will not stop your cough, but may help you cough less.\nDecongestants and cough medicines containing codeine will not stop your cough.\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "cough syrup",
+            "cough medicine (some cough medicines should not be given to children under 12 years old)",
+            "cough sweets"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">A pharmacist can help if you have a cough</h2>\n<p data-block-key=\"ycjlp\">If you have a cough, you can ask a pharmacist about:</p><ul><li data-block-key=\"23hir\">cough syrup</li><li data-block-key=\"2ul4z\">cough medicine (some cough medicines should not be given to children under 12 years old)</li><li data-block-key=\"ao6wi\">cough sweets</li></ul><p data-block-key=\"uo4mc\">These will not stop your cough, but may help you cough less.</p><p data-block-key=\"97ojk\">Decongestants and cough medicines containing codeine will not stop your cough.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou've had a cough for more than 3 weeks (persistent cough)\nyou're losing weight for no reason\nyou have a weakened immune system – for example, because of chemotherapy or diabetes",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you've had a cough for more than 3 weeks (persistent cough)",
+            "you're losing weight for no reason",
+            "you have a weakened immune system – for example, because of chemotherapy or diabetes"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"4vi4p\">you've had a cough for more than 3 weeks (persistent cough)</li><li data-block-key=\"6egju\">you're losing weight for no reason</li><li data-block-key=\"1ai8g\">you have a weakened immune system – for example, because of chemotherapy or diabetes</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing\nyou feel very unwell\nyou have chest pain\nthe side of your neck feels swollen and painful (swollen glands)\nyou find it hard to breathe\nyou're coughing up blood\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing",
+            "you feel very unwell",
+            "you have chest pain",
+            "the side of your neck feels swollen and painful (swollen glands)",
+            "you find it hard to breathe",
+            "you're coughing up blood"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"eksow\">your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing</li><li data-block-key=\"4drhc\">you feel very unwell</li><li data-block-key=\"6ckn2\">you have chest pain</li><li data-block-key=\"6clmu\">the side of your neck feels swollen and painful (swollen glands)</li><li data-block-key=\"37lcm\">you find it hard to breathe</li><li data-block-key=\"857vj\">you're coughing up blood</li></ul><p data-block-key=\"65erb\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nTo find out what's causing your cough, the GP might:\nlisten to your chest with a stethoscope\ntake a sample of any mucus you might be coughing up\norder an X-ray, allergy test, or a test to see how well your lungs work\nrefer you to hospital to see a specialist, but this is rare",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "listen to your chest with a stethoscope",
+            "take a sample of any mucus you might be coughing up",
+            "order an X-ray, allergy test, or a test to see how well your lungs work",
+            "refer you to hospital to see a specialist, but this is rare"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"0kupz\">To find out what's causing your cough, the GP might:</p><ul><li data-block-key=\"arutf\">listen to your chest with a stethoscope</li><li data-block-key=\"8vq1\">take a sample of any mucus you might be coughing up</li><li data-block-key=\"321rp\">order an X-ray, allergy test, or a test to see how well your lungs work</li><li data-block-key=\"8nvvy\">refer you to hospital to see a specialist, but this is rare</li></ul>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Important",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Important\nAntibiotics\nare not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Antibiotics",
+          "url": "https://www.nhs.uk/medicines/antibiotics/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"cpq1e\"><a href=\"/medicines/antibiotics/\">Antibiotics</a> are not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "What causes coughs",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What causes coughs"
+        }
+      ],
+      "text": "What causes coughs\nMost coughs are caused by a cold or flu.\nOther causes include:\nsmoking\nheartburn (acid reflux)\nallergies – for example, hay fever\ninfections like bronchitis or COVID-19\nmucus dripping down the throat from the back of the nose\nA cough is rarely a sign of something serious like lung cancer.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "smoking",
+            "heartburn (acid reflux)",
+            "allergies – for example, hay fever",
+            "infections like bronchitis or COVID-19",
+            "mucus dripping down the throat from the back of the nose"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">What causes coughs</h2>\n<p data-block-key=\"6cipa\">Most coughs are caused by a cold or flu.</p><p data-block-key=\"74vd1\">Other causes include:</p><ul><li data-block-key=\"x1gj8\">smoking</li><li data-block-key=\"vzfl6\">heartburn (acid reflux)</li><li data-block-key=\"p8mqa\">allergies – for example, hay fever</li><li data-block-key=\"pw4f2\">infections like bronchitis or COVID-19</li><li data-block-key=\"18gmu\">mucus dripping down the throat from the back of the nose</li></ul><p data-block-key=\"4zi47\">A cough is rarely a sign of something serious like lung cancer.</p>\n</section>"
+    }
+  ],
+  "page_text": "How you can treat a cough yourself\nThere's usually no need to see a GP if you have a cough.\nYou should:\nrest\ndrink plenty of fluids\ntry to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities\nYou could also try:\nparacetamol\nor\nibuprofen\nto treat any pain\nhot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)\na herbal medicine called pelargonium (suitable for people aged 12 or over)\nBut there's limited evidence to show that hot lemon and honey and herbal medicines help ease a cough.\nHow to make a hot lemon and honey drink\nSqueeze half a lemon into a mug of boiled water.\nAdd 1 to 2 teaspoons of honey.\nDrink while still warm (do not give hot drinks to small children).\nInformation:\nSome medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.\nVideo: How to treat a cough yourself\nIn this video, a respiratory consultant explains how to treat a new cough yourself.\nMedia last reviewed: 30 April 2025\nMedia review due: 30 April 2028\nA pharmacist can help if you have a cough\nIf you have a cough, you can ask a pharmacist about:\ncough syrup\ncough medicine (some cough medicines should not be given to children under 12 years old)\ncough sweets\nThese will not stop your cough, but may help you cough less.\nDecongestants and cough medicines containing codeine will not stop your cough.\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nyou've had a cough for more than 3 weeks (persistent cough)\nyou're losing weight for no reason\nyou have a weakened immune system – for example, because of chemotherapy or diabetes\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing\nyou feel very unwell\nyou have chest pain\nthe side of your neck feels swollen and painful (swollen glands)\nyou find it hard to breathe\nyou're coughing up blood\nYou can call 111 or\nget help from 111 online\n.\nWhat happens at your appointment\nTo find out what's causing your cough, the GP might:\nlisten to your chest with a stethoscope\ntake a sample of any mucus you might be coughing up\norder an X-ray, allergy test, or a test to see how well your lungs work\nrefer you to hospital to see a specialist, but this is rare\nImportant\nAntibiotics\nare not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.\nWhat causes coughs\nMost coughs are caused by a cold or flu.\nOther causes include:\nsmoking\nheartburn (acid reflux)\nallergies – for example, hay fever\ninfections like bronchitis or COVID-19\nmucus dripping down the throat from the back of the nose\nA cough is rarely a sign of something serious like lung cancer.\nPage last reviewed: 08 December 2023\nNext review due: 08 December 2026",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Antibiotics",
+      "url": "https://www.nhs.uk/medicines/antibiotics/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"self-care\">How you can treat a cough yourself</h2>\n<p data-block-key=\"88mbx\">There's usually no need to see a GP if you have a cough.</p><p data-block-key=\"q4h6x\">You should:</p><ul><li data-block-key=\"9ngwv\">rest</li><li data-block-key=\"yrjay\">drink plenty of fluids</li><li data-block-key=\"fq3sv\">try to stay at home and avoid contact with other people if you have a high temperature or you do not feel well enough to do your normal activities</li></ul><p data-block-key=\"9mazq\">You could also try:</p><ul><li data-block-key=\"5d3v3\"><a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> to treat any pain</li><li data-block-key=\"t01ty\">hot lemon and honey, which can have a similar effect to cough syrup (not suitable for babies under 1 year old)</li><li data-block-key=\"4k5va\">a herbal medicine called pelargonium (suitable for people aged 12 or over)</li></ul><p data-block-key=\"rqfp7\">But there's limited evidence to show that hot lemon and honey and herbal medicines help ease a cough.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to make a hot lemon and honey drink\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"ikspu\">Squeeze half a lemon into a mug of boiled water.</li><li data-block-key=\"a0qci\">Add 1 to 2 teaspoons of honey.</li><li data-block-key=\"6j5wj\">Drink while still warm (do not give hot drinks to small children).</li></ol>\n</div>\n</details>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"1303d\">Some medicines and herbal treatments are not safe for everyone (for example, if you're pregnant). Always check the leaflet or speak to a pharmacist before taking them.</p>\n</div>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: How to treat a cough yourself</h2>\n<p>In this video, a respiratory consultant explains how to treat a new cough yourself.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6371598695112\" id=\"6371598695112\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 30 April 2025<br/>\n    Media review due: 30 April 2028\n  </div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">A pharmacist can help if you have a cough</h2>\n<p data-block-key=\"ycjlp\">If you have a cough, you can ask a pharmacist about:</p><ul><li data-block-key=\"23hir\">cough syrup</li><li data-block-key=\"2ul4z\">cough medicine (some cough medicines should not be given to children under 12 years old)</li><li data-block-key=\"ao6wi\">cough sweets</li></ul><p data-block-key=\"uo4mc\">These will not stop your cough, but may help you cough less.</p><p data-block-key=\"97ojk\">Decongestants and cough medicines containing codeine will not stop your cough.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"4vi4p\">you've had a cough for more than 3 weeks (persistent cough)</li><li data-block-key=\"6egju\">you're losing weight for no reason</li><li data-block-key=\"1ai8g\">you have a weakened immune system – for example, because of chemotherapy or diabetes</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"eksow\">your cough is very bad or quickly gets worse – for example, you have a hacking cough or cannot stop coughing</li><li data-block-key=\"4drhc\">you feel very unwell</li><li data-block-key=\"6ckn2\">you have chest pain</li><li data-block-key=\"6clmu\">the side of your neck feels swollen and painful (swollen glands)</li><li data-block-key=\"37lcm\">you find it hard to breathe</li><li data-block-key=\"857vj\">you're coughing up blood</li></ul><p data-block-key=\"65erb\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"0kupz\">To find out what's causing your cough, the GP might:</p><ul><li data-block-key=\"arutf\">listen to your chest with a stethoscope</li><li data-block-key=\"8vq1\">take a sample of any mucus you might be coughing up</li><li data-block-key=\"321rp\">order an X-ray, allergy test, or a test to see how well your lungs work</li><li data-block-key=\"8nvvy\">refer you to hospital to see a specialist, but this is rare</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"cpq1e\"><a href=\"/medicines/antibiotics/\">Antibiotics</a> are not normally prescribed for coughs. A GP will only prescribe them if you need them – for example, if you have a bacterial infection or you're at risk of complications.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">What causes coughs</h2>\n<p data-block-key=\"6cipa\">Most coughs are caused by a cold or flu.</p><p data-block-key=\"74vd1\">Other causes include:</p><ul><li data-block-key=\"x1gj8\">smoking</li><li data-block-key=\"vzfl6\">heartburn (acid reflux)</li><li data-block-key=\"p8mqa\">allergies – for example, hay fever</li><li data-block-key=\"pw4f2\">infections like bronchitis or COVID-19</li><li data-block-key=\"18gmu\">mucus dripping down the throat from the back of the nose</li></ul><p data-block-key=\"4zi47\">A cough is rarely a sign of something serious like lung cancer.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 08 December 2023<br/>\n    Next review due: 08 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

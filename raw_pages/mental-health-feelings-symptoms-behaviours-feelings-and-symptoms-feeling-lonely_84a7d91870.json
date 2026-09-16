@@ -1,0 +1,768 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:38.431388+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Feeling lonely",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Feeling lonely",
+  "meta_description": "NHS information and advice about what to do if you're lonely and feeling anxious or depressed.",
+  "review_dates": {
+    "page_last_reviewed": "22 July 2026",
+    "next_review_due": "22 July 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information and advice about what to do if you're lonely and feeling anxious or depressed."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Get help with loneliness"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information and advice about what to do if you're lonely and feeling anxious or depressed."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "29 Jul 2026, 12:58 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "2 Feb 2021, 5:37 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Feeling lonely"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/",
+              "genre": [
+                "Symptom",
+                "Advice or information"
+              ],
+              "name": "Feeling lonely"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-29T11:58:32+00:00",
+      "description": "NHS information and advice about what to do if you're lonely and feeling anxious or depressed.",
+      "genre": [
+        "Symptom",
+        "Advice or information"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Anyone can feel lonely and it can happen for many reasons. If you're feeling lonely there are things you can try to help. Support is also available.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Feeling lonely",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Feeling lonely",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Feeling lonely",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you're feeling lonely, talking to other people can help. There are also support services, such as Samaritans, that you can contact.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Medical help is available if you're lonely and it's making you feel stressed, anxious or depressed.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things that can cause loneliness include living or working alone, being retired, illness or disability and social anxiety (social phobia).</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you're feeling lonely, talking to other people can help. There are also support services, such as Samaritans, that you can contact.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try talking about your feelings to a friend, family member, healthcare professional or counsellor</p></li><li><p>join a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous</p></li><li><p>visit places where you can just be around other people – for example, a park, the cinema or a café</p></li><li><p>speak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you</p></li><li><p>consider peer support, where people use their experiences to help each other</p></li><li><p>volunteer with a charity or organisation in your local area</p></li><li><p>do things you enjoy such as walking, exercising or listening to a podcast</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets that you can easily achieve</p></li><li><p>do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p></li><li><p>try not to compare yourself to others – on social media you usually only see things people want to share</p></li><li><p>try not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Further information and support</h3><ul><li><a href=\"https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/\">Loneliness</a> (Mind)</li><li><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/about-self-esteem/\">Self-esteem</a> (Mind)</li><li><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group</a> (Mind)</li><li><a href=\"https://www.nhs.uk/every-mind-matters/lifes-challenges/loneliness/\">Dealing with loneliness</a> (Every Mind Matters)</li><li><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/\">Improve your mental health with our Mind Plan</a> (Every Mind Matters)</li></ul><p>You may also find the <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">mental wellbeing audio guides useful</a>.</p>"
+            }
+          ],
+          "headline": "Things you can try to help with loneliness",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Medical help is available if you're lonely and it's making you feel stressed, anxious or depressed.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are a number of ways you can get help if you're lonely and it's making you feel stressed, anxious or depressed.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Referring yourself for therapy",
+              "text": "<p>If you need more support, you can get free talking therapies like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> on the NHS.</p><p>You can refer yourself directly to a talking therapies service without a referral from a GP.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find NHS talking therapies for anxiety and depression",
+                "target": "/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+              }
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're struggling to cope with stress, anxiety or a low mood\n </li>\n<li>\n  you've had a low mood for more than 2 weeks\n </li>\n<li>\n  things you're trying yourself are not helping\n </li>\n<li>\n  you would prefer to get a referral from a GP\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Call NHS 111 or ask for an urgent GP appointment if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you need help urgently, but it's not an emergency\n </li>\n</ul>\n<p>\n NHS 111 can tell you the right place to get help if you need to see someone. You can call 111 or\n <a href=\"https://111.nhs.uk/\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E now if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you or someone you know needs immediate help\n </li>\n<li>\n  you have seriously harmed yourself – for example, by taking a drug overdose\n </li>\n</ul>\n<p>\n A mental health emergency should be taken as seriously as a medical emergency.\n</p>\n<p>\n<a href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n  Find your nearest A&amp;E\n </a>\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that can cause loneliness include living or working alone, being retired, illness or disability and social anxiety (social phobia).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Loneliness has many different causes and it can affect people of all ages.</p><p>It's often linked with things that could prevent you spending time with other people, such as:</p><ul><li>living or working alone</li><li>retirement</li><li>illness or disability</li><li><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">bereavement</a> (losing someone or something)</li><li>moving to a new area, job, school or university</li><li><a href=\"/mental-health/conditions/social-anxiety/\">social anxiety (social phobia)</a></li></ul><p>However, you do not have to be on your own all the time to feel lonely. Many people feel lonely in a relationship or while spending time with friends or family.</p><p>Other significant life events such as buying a house, having a baby or planning a wedding could also lead to feelings of loneliness.</p><p>You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p><p><a href=\"/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/\">Find out more about the 5 steps to mental wellbeing</a></p>"
+            }
+          ],
+          "headline": "Causes of loneliness",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/#causes"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-07-22T13:13:00+00:00",
+        "2029-07-22T13:13:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Feeling lonely",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Stress",
+          "position": 1,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Low mood, sadness and depression",
+          "position": 2,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feeling lonely",
+          "position": 3,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Grief after bereavement or loss",
+          "position": 4,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Anger",
+          "position": 5,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Things you can try to help with loneliness",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help with loneliness"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "Further information and support"
+        }
+      ],
+      "text": "Things you can try to help with loneliness\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\njoin a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous\nvisit places where you can just be around other people – for example, a park, the cinema or a café\nspeak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you\nconsider peer support, where people use their experiences to help each other\nvolunteer with a charity or organisation in your local area\ndo things you enjoy such as walking, exercising or listening to a podcast\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ntry not to compare yourself to others – on social media you usually only see things people want to share\ntry not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health\nInformation:\nFurther information and support\nLoneliness\n(Mind)\nSelf-esteem\n(Mind)\nHow to find a support group\n(Mind)\nDealing with loneliness\n(Every Mind Matters)\nImprove your mental health with our Mind Plan\n(Every Mind Matters)\nYou may also find the\nmental wellbeing audio guides useful\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try talking about your feelings to a friend, family member, healthcare professional or counsellor",
+            "join a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous",
+            "visit places where you can just be around other people – for example, a park, the cinema or a café",
+            "speak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you",
+            "consider peer support, where people use their experiences to help each other",
+            "volunteer with a charity or organisation in your local area",
+            "do things you enjoy such as walking, exercising or listening to a podcast"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not try to do everything at once – set small targets that you can easily achieve",
+            "do not focus on the things you cannot change – focus your time and energy into helping yourself feel better",
+            "try not to compare yourself to others – on social media you usually only see things people want to share",
+            "try not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available",
+            "try not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Loneliness\n(Mind)",
+            "Self-esteem\n(Mind)",
+            "How to find a support group\n(Mind)",
+            "Dealing with loneliness\n(Every Mind Matters)",
+            "Improve your mental health with our Mind Plan\n(Every Mind Matters)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Loneliness",
+          "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/"
+        },
+        {
+          "text": "Self-esteem",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/about-self-esteem/"
+        },
+        {
+          "text": "How to find a support group",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+        },
+        {
+          "text": "Dealing with loneliness",
+          "url": "https://www.nhs.uk/every-mind-matters/lifes-challenges/loneliness/"
+        },
+        {
+          "text": "Improve your mental health with our Mind Plan",
+          "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/"
+        },
+        {
+          "text": "mental wellbeing audio guides useful",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help with loneliness</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"sxky4\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"p60dh\">join a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m0s9x\">visit places where you can just be around other people – for example, a park, the cinema or a café</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0haco\">speak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"y4ztq\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"guvjt\">volunteer with a charity or organisation in your local area</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t3m2c\">do things you enjoy such as walking, exercising or listening to a podcast</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"z2e23\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vr1n5\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k7zs4\">try not to compare yourself to others – on social media you usually only see things people want to share</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yhm9m\">try not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gh8sz\">try not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"nctqz\">Further information and support</h3><ul><li data-block-key=\"ib63y\"><a href=\"https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/\">Loneliness</a> (Mind)</li><li data-block-key=\"b3a1c\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/about-self-esteem/\">Self-esteem</a> (Mind)</li><li data-block-key=\"2l0hn\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group</a> (Mind)</li><li data-block-key=\"cl5cm\"><a href=\"https://www.nhs.uk/every-mind-matters/lifes-challenges/loneliness/\">Dealing with loneliness</a> (Every Mind Matters)</li><li data-block-key=\"57tvg\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/\">Improve your mental health with our Mind Plan</a> (Every Mind Matters)</li></ul><p data-block-key=\"8jgeb\">You may also find the <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">mental wellbeing audio guides useful</a>.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Referring yourself for therapy"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Urgent advice: Call NHS 111 or ask for an urgent GP appointment if:"
+        },
+        {
+          "level": "h3",
+          "text": "Immediate action required: Call 999 or go to A&E now if:"
+        }
+      ],
+      "text": "When and where to get medical help\nThere are a number of ways you can get help if you're lonely and it's making you feel stressed, anxious or depressed.\nReferring yourself for therapy\nIf you need more support, you can get free talking therapies like\ncognitive behavioural therapy (CBT)\non the NHS.\nYou can refer yourself directly to a talking therapies service without a referral from a GP.\nFind NHS talking therapies for anxiety and depression\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with stress, anxiety or a low mood\nyou've had a low mood for more than 2 weeks\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP\nUrgent advice:\nCall NHS 111 or ask for an urgent GP appointment if:\nyou need help urgently, but it's not an emergency\nNHS 111 can tell you the right place to get help if you need to see someone. You can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E now if:\nyou or someone you know needs immediate help\nyou have seriously harmed yourself – for example, by taking a drug overdose\nA mental health emergency should be taken as seriously as a medical emergency.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're struggling to cope with stress, anxiety or a low mood",
+            "you've had a low mood for more than 2 weeks",
+            "things you're trying yourself are not helping",
+            "you would prefer to get a referral from a GP"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you need help urgently, but it's not an emergency"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you or someone you know needs immediate help",
+            "you have seriously harmed yourself – for example, by taking a drug overdose"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        },
+        {
+          "text": "Find NHS talking therapies for anxiety and depression",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/"
+        },
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"dhej3\">There are a number of ways you can get help if you're lonely and it's making you feel stressed, anxious or depressed.</p>\n<h3 data-block-key=\"21q0z\">Referring yourself for therapy</h3><p data-block-key=\"7yr7n\">If you need more support, you can get free talking therapies like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> on the NHS.</p><p data-block-key=\"ch1xq\">You can refer yourself directly to a talking therapies service without a referral from a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you're struggling to cope with stress, anxiety or a low mood</li><li data-block-key=\"fhdpk\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"73fls\">things you're trying yourself are not helping</li><li data-block-key=\"8ab30\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call NHS 111 or ask for an urgent GP appointment if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you need help urgently, but it's not an emergency</li></ul><p data-block-key=\"5gea0\">NHS 111 can tell you the right place to get help if you need to see someone. You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E now if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you or someone you know needs immediate help</li><li data-block-key=\"3v5dl\">you have seriously harmed yourself – for example, by taking a drug overdose</li></ul><p data-block-key=\"aktev\">A mental health emergency should be taken as seriously as a medical emergency.</p><p data-block-key=\"ctvlc\"><a href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">Find your nearest A&amp;E</a></p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"qpg6e\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"6ddkp\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of loneliness",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of loneliness"
+        }
+      ],
+      "text": "Causes of loneliness\nLoneliness has many different causes and it can affect people of all ages.\nIt's often linked with things that could prevent you spending time with other people, such as:\nliving or working alone\nretirement\nillness or disability\nbereavement\n(losing someone or something)\nmoving to a new area, job, school or university\nsocial anxiety (social phobia)\nHowever, you do not have to be on your own all the time to feel lonely. Many people feel lonely in a relationship or while spending time with friends or family.\nOther significant life events such as buying a house, having a baby or planning a wedding could also lead to feelings of loneliness.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.\nFind out more about the 5 steps to mental wellbeing",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "living or working alone",
+            "retirement",
+            "illness or disability",
+            "bereavement\n(losing someone or something)",
+            "moving to a new area, job, school or university",
+            "social anxiety (social phobia)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "bereavement",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        },
+        {
+          "text": "social anxiety (social phobia)",
+          "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/"
+        },
+        {
+          "text": "Find out more about the 5 steps to mental wellbeing",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of loneliness</h2>\n<p data-block-key=\"4o0cy\">Loneliness has many different causes and it can affect people of all ages.</p><p data-block-key=\"86o7i\">It's often linked with things that could prevent you spending time with other people, such as:</p><ul><li data-block-key=\"vndzw\">living or working alone</li><li data-block-key=\"ijz5j\">retirement</li><li data-block-key=\"6xyjq\">illness or disability</li><li data-block-key=\"t4z13\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">bereavement</a> (losing someone or something)</li><li data-block-key=\"v8fg6\">moving to a new area, job, school or university</li><li data-block-key=\"xoh49\"><a href=\"/mental-health/conditions/social-anxiety/\">social anxiety (social phobia)</a></li></ul><p data-block-key=\"3mko5\">However, you do not have to be on your own all the time to feel lonely. Many people feel lonely in a relationship or while spending time with friends or family.</p><p data-block-key=\"8spos\">Other significant life events such as buying a house, having a baby or planning a wedding could also lead to feelings of loneliness.</p><p data-block-key=\"e43tv\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p><p data-block-key=\"fll18\"><a href=\"/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/\">Find out more about the 5 steps to mental wellbeing</a></p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Loneliness in older people",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Loneliness in older people"
+        },
+        {
+          "level": "h3",
+          "text": "Things that may help if you're older"
+        }
+      ],
+      "text": "Loneliness in older people\nLoneliness can affect people of any age, but older people are particularly at risk if they live alone or do not have regular contact with others.\nThings that may help if you're older\nIf you're an older person and feeling lonely you could try:\nkeeping in touch with friends or family by phone or video chat using services such as\nTeams\n,\nZoom\n,\nFaceTime\nor\nViber\njoining local groups, classes or community activities\nstarting small conversations when you're out – for example in shops or in the GP waiting room\ninviting someone over, even for a short visit\nusing social media, such as\nFacebook\n,\nInstagram\nor\nX\n, to stay connected\nplanning ahead and putting things in your diary to look forward to, such as going for a walk, visiting family or friends, or going to the cinema\nvolunteering\nYou can also find support and befriending services from organisations like\nAge UK\n,\nThe Silver Line\nor\nRe-engage\n.\nFind out\nhow to help lonely older people in your community",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "keeping in touch with friends or family by phone or video chat using services such as\nTeams\n,\nZoom\n,\nFaceTime\nor\nViber",
+            "joining local groups, classes or community activities",
+            "starting small conversations when you're out – for example in shops or in the GP waiting room",
+            "inviting someone over, even for a short visit",
+            "using social media, such as\nFacebook\n,\nInstagram\nor\nX\n, to stay connected",
+            "planning ahead and putting things in your diary to look forward to, such as going for a walk, visiting family or friends, or going to the cinema",
+            "volunteering"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Teams",
+          "url": "https://teams.live.com/free"
+        },
+        {
+          "text": "Zoom",
+          "url": "https://zoom.us/download"
+        },
+        {
+          "text": "FaceTime",
+          "url": "https://support.apple.com/en-gb/105088?cid=wwa-uk-kwg-features-com&siclientid=6297&sessguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&userguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&permguid=98594c35-06b8-48ef-ad5a-716806e1b5ba"
+        },
+        {
+          "text": "Viber",
+          "url": "https://www.viber.com/en/"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://en-gb.facebook.com/"
+        },
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/?hl=en"
+        },
+        {
+          "text": "X",
+          "url": "https://x.com/"
+        },
+        {
+          "text": "Age UK",
+          "url": "https://www.ageuk.org.uk/"
+        },
+        {
+          "text": "The Silver Line",
+          "url": "https://www.thesilverline.org.uk/"
+        },
+        {
+          "text": "Re-engage",
+          "url": "https://reengage.org.uk/"
+        },
+        {
+          "text": "how to help lonely older people in your community",
+          "url": "https://www.nhs.uk/mental-health/advice-for-life-situations-and-events/loneliness-in-older-people-how-to-help/"
+        }
+      ],
+      "html": "<section>\n<h2>Loneliness in older people</h2>\n<p data-block-key=\"rmo1a\">Loneliness can affect people of any age, but older people are particularly at risk if they live alone or do not have regular contact with others.</p><h3 data-block-key=\"7j8va\">Things that may help if you're older</h3><p data-block-key=\"aqp5\">If you're an older person and feeling lonely you could try:</p><ul><li data-block-key=\"a33gs\">keeping in touch with friends or family by phone or video chat using services such as <a href=\"https://teams.live.com/free\">Teams</a>, <a href=\"https://zoom.us/download\">Zoom</a>, <a href=\"https://support.apple.com/en-gb/105088?cid=wwa-uk-kwg-features-com&amp;siclientid=6297&amp;sessguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&amp;userguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&amp;permguid=98594c35-06b8-48ef-ad5a-716806e1b5ba\">FaceTime</a> or <a href=\"https://www.viber.com/en/\">Viber</a></li><li data-block-key=\"3hpa\">joining local groups, classes or community activities</li><li data-block-key=\"fbpot\">starting small conversations when you're out – for example in shops or in the GP waiting room</li><li data-block-key=\"4q6iv\">inviting someone over, even for a short visit</li><li data-block-key=\"4ijlq\">using social media, such as <a href=\"https://en-gb.facebook.com/\">Facebook</a>, <a href=\"https://www.instagram.com/?hl=en\">Instagram</a> or <a href=\"https://x.com/\">X</a>, to stay connected</li><li data-block-key=\"ca72p\">planning ahead and putting things in your diary to look forward to, such as going for a walk, visiting family or friends, or going to the cinema</li><li data-block-key=\"b28rn\">volunteering</li></ul><p data-block-key=\"5d8n\">You can also find support and befriending services from organisations like <a href=\"https://www.ageuk.org.uk/\">Age UK</a>, <a href=\"https://www.thesilverline.org.uk/\">The Silver Line</a> or <a href=\"https://reengage.org.uk/\">Re-engage</a>.</p><p data-block-key=\"5mp7i\">Find out <a href=\"/mental-health/advice-for-life-situations-and-events/loneliness-in-older-people-how-to-help/\">how to help lonely older people in your community</a></p>\n</section>"
+    }
+  ],
+  "page_text": "Things you can try to help with loneliness\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\njoin a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous\nvisit places where you can just be around other people – for example, a park, the cinema or a café\nspeak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you\nconsider peer support, where people use their experiences to help each other\nvolunteer with a charity or organisation in your local area\ndo things you enjoy such as walking, exercising or listening to a podcast\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ntry not to compare yourself to others – on social media you usually only see things people want to share\ntry not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health\nInformation:\nFurther information and support\nLoneliness\n(Mind)\nSelf-esteem\n(Mind)\nHow to find a support group\n(Mind)\nDealing with loneliness\n(Every Mind Matters)\nImprove your mental health with our Mind Plan\n(Every Mind Matters)\nYou may also find the\nmental wellbeing audio guides useful\n.\nWhen and where to get medical help\nThere are a number of ways you can get help if you're lonely and it's making you feel stressed, anxious or depressed.\nReferring yourself for therapy\nIf you need more support, you can get free talking therapies like\ncognitive behavioural therapy (CBT)\non the NHS.\nYou can refer yourself directly to a talking therapies service without a referral from a GP.\nFind NHS talking therapies for anxiety and depression\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with stress, anxiety or a low mood\nyou've had a low mood for more than 2 weeks\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP\nUrgent advice:\nCall NHS 111 or ask for an urgent GP appointment if:\nyou need help urgently, but it's not an emergency\nNHS 111 can tell you the right place to get help if you need to see someone. You can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E now if:\nyou or someone you know needs immediate help\nyou have seriously harmed yourself – for example, by taking a drug overdose\nA mental health emergency should be taken as seriously as a medical emergency.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nCauses of loneliness\nLoneliness has many different causes and it can affect people of all ages.\nIt's often linked with things that could prevent you spending time with other people, such as:\nliving or working alone\nretirement\nillness or disability\nbereavement\n(losing someone or something)\nmoving to a new area, job, school or university\nsocial anxiety (social phobia)\nHowever, you do not have to be on your own all the time to feel lonely. Many people feel lonely in a relationship or while spending time with friends or family.\nOther significant life events such as buying a house, having a baby or planning a wedding could also lead to feelings of loneliness.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.\nFind out more about the 5 steps to mental wellbeing\nLoneliness in older people\nLoneliness can affect people of any age, but older people are particularly at risk if they live alone or do not have regular contact with others.\nThings that may help if you're older\nIf you're an older person and feeling lonely you could try:\nkeeping in touch with friends or family by phone or video chat using services such as\nTeams\n,\nZoom\n,\nFaceTime\nor\nViber\njoining local groups, classes or community activities\nstarting small conversations when you're out – for example in shops or in the GP waiting room\ninviting someone over, even for a short visit\nusing social media, such as\nFacebook\n,\nInstagram\nor\nX\n, to stay connected\nplanning ahead and putting things in your diary to look forward to, such as going for a walk, visiting family or friends, or going to the cinema\nvolunteering\nYou can also find support and befriending services from organisations like\nAge UK\n,\nThe Silver Line\nor\nRe-engage\n.\nFind out\nhow to help lonely older people in your community",
+  "links": [
+    {
+      "text": "Loneliness",
+      "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/"
+    },
+    {
+      "text": "Self-esteem",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/about-self-esteem/"
+    },
+    {
+      "text": "How to find a support group",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+    },
+    {
+      "text": "Dealing with loneliness",
+      "url": "https://www.nhs.uk/every-mind-matters/lifes-challenges/loneliness/"
+    },
+    {
+      "text": "Improve your mental health with our Mind Plan",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/"
+    },
+    {
+      "text": "mental wellbeing audio guides useful",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    },
+    {
+      "text": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+    },
+    {
+      "text": "bereavement",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    },
+    {
+      "text": "social anxiety (social phobia)",
+      "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/"
+    },
+    {
+      "text": "Find out more about the 5 steps to mental wellbeing",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+    },
+    {
+      "text": "Teams",
+      "url": "https://teams.live.com/free"
+    },
+    {
+      "text": "Zoom",
+      "url": "https://zoom.us/download"
+    },
+    {
+      "text": "FaceTime",
+      "url": "https://support.apple.com/en-gb/105088?cid=wwa-uk-kwg-features-com&siclientid=6297&sessguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&userguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&permguid=98594c35-06b8-48ef-ad5a-716806e1b5ba"
+    },
+    {
+      "text": "Viber",
+      "url": "https://www.viber.com/en/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://en-gb.facebook.com/"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/?hl=en"
+    },
+    {
+      "text": "X",
+      "url": "https://x.com/"
+    },
+    {
+      "text": "Age UK",
+      "url": "https://www.ageuk.org.uk/"
+    },
+    {
+      "text": "The Silver Line",
+      "url": "https://www.thesilverline.org.uk/"
+    },
+    {
+      "text": "Re-engage",
+      "url": "https://reengage.org.uk/"
+    },
+    {
+      "text": "how to help lonely older people in your community",
+      "url": "https://www.nhs.uk/mental-health/advice-for-life-situations-and-events/loneliness-in-older-people-how-to-help/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"self-care\">Things you can try to help with loneliness</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"sxky4\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"p60dh\">join a group or class that focuses on something you enjoy – you could ask to go along and just watch first if you're feeling nervous</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m0s9x\">visit places where you can just be around other people – for example, a park, the cinema or a café</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0haco\">speak to your GP about social prescribing – they may be able to refer you to a link worker who can help find local support and activities near to you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"y4ztq\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"guvjt\">volunteer with a charity or organisation in your local area</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t3m2c\">do things you enjoy such as walking, exercising or listening to a podcast</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"z2e23\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vr1n5\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k7zs4\">try not to compare yourself to others – on social media you usually only see things people want to share</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yhm9m\">try not to tell yourself that you're alone – many people feel lonely at some point in their life and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gh8sz\">try not to use alcohol, cigarettes, gambling or drugs to relieve loneliness because they can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"nctqz\">Further information and support</h3><ul><li data-block-key=\"ib63y\"><a href=\"https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/\">Loneliness</a> (Mind)</li><li data-block-key=\"b3a1c\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/about-self-esteem/\">Self-esteem</a> (Mind)</li><li data-block-key=\"2l0hn\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group</a> (Mind)</li><li data-block-key=\"cl5cm\"><a href=\"https://www.nhs.uk/every-mind-matters/lifes-challenges/loneliness/\">Dealing with loneliness</a> (Every Mind Matters)</li><li data-block-key=\"57tvg\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/\">Improve your mental health with our Mind Plan</a> (Every Mind Matters)</li></ul><p data-block-key=\"8jgeb\">You may also find the <a href=\"/mental-health/self-help/guides-tools-and-activities/mental-wellbeing-audio-guides/\">mental wellbeing audio guides useful</a>.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"dhej3\">There are a number of ways you can get help if you're lonely and it's making you feel stressed, anxious or depressed.</p>\n<h3 data-block-key=\"21q0z\">Referring yourself for therapy</h3><p data-block-key=\"7yr7n\">If you need more support, you can get free talking therapies like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> on the NHS.</p><p data-block-key=\"ch1xq\">You can refer yourself directly to a talking therapies service without a referral from a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you're struggling to cope with stress, anxiety or a low mood</li><li data-block-key=\"fhdpk\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"73fls\">things you're trying yourself are not helping</li><li data-block-key=\"8ab30\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call NHS 111 or ask for an urgent GP appointment if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you need help urgently, but it's not an emergency</li></ul><p data-block-key=\"5gea0\">NHS 111 can tell you the right place to get help if you need to see someone. You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E now if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"b9zjt\">you or someone you know needs immediate help</li><li data-block-key=\"3v5dl\">you have seriously harmed yourself – for example, by taking a drug overdose</li></ul><p data-block-key=\"aktev\">A mental health emergency should be taken as seriously as a medical emergency.</p><p data-block-key=\"ctvlc\"><a href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">Find your nearest A&amp;E</a></p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"qpg6e\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"6ddkp\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of loneliness</h2>\n<p data-block-key=\"4o0cy\">Loneliness has many different causes and it can affect people of all ages.</p><p data-block-key=\"86o7i\">It's often linked with things that could prevent you spending time with other people, such as:</p><ul><li data-block-key=\"vndzw\">living or working alone</li><li data-block-key=\"ijz5j\">retirement</li><li data-block-key=\"6xyjq\">illness or disability</li><li data-block-key=\"t4z13\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/\">bereavement</a> (losing someone or something)</li><li data-block-key=\"v8fg6\">moving to a new area, job, school or university</li><li data-block-key=\"xoh49\"><a href=\"/mental-health/conditions/social-anxiety/\">social anxiety (social phobia)</a></li></ul><p data-block-key=\"3mko5\">However, you do not have to be on your own all the time to feel lonely. Many people feel lonely in a relationship or while spending time with friends or family.</p><p data-block-key=\"8spos\">Other significant life events such as buying a house, having a baby or planning a wedding could also lead to feelings of loneliness.</p><p data-block-key=\"e43tv\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p><p data-block-key=\"fll18\"><a href=\"/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/\">Find out more about the 5 steps to mental wellbeing</a></p>\n</section>\n<section>\n<h2>Loneliness in older people</h2>\n<p data-block-key=\"rmo1a\">Loneliness can affect people of any age, but older people are particularly at risk if they live alone or do not have regular contact with others.</p><h3 data-block-key=\"7j8va\">Things that may help if you're older</h3><p data-block-key=\"aqp5\">If you're an older person and feeling lonely you could try:</p><ul><li data-block-key=\"a33gs\">keeping in touch with friends or family by phone or video chat using services such as <a href=\"https://teams.live.com/free\">Teams</a>, <a href=\"https://zoom.us/download\">Zoom</a>, <a href=\"https://support.apple.com/en-gb/105088?cid=wwa-uk-kwg-features-com&amp;siclientid=6297&amp;sessguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&amp;userguid=98594c35-06b8-48ef-ad5a-716806e1b5ba&amp;permguid=98594c35-06b8-48ef-ad5a-716806e1b5ba\">FaceTime</a> or <a href=\"https://www.viber.com/en/\">Viber</a></li><li data-block-key=\"3hpa\">joining local groups, classes or community activities</li><li data-block-key=\"fbpot\">starting small conversations when you're out – for example in shops or in the GP waiting room</li><li data-block-key=\"4q6iv\">inviting someone over, even for a short visit</li><li data-block-key=\"4ijlq\">using social media, such as <a href=\"https://en-gb.facebook.com/\">Facebook</a>, <a href=\"https://www.instagram.com/?hl=en\">Instagram</a> or <a href=\"https://x.com/\">X</a>, to stay connected</li><li data-block-key=\"ca72p\">planning ahead and putting things in your diary to look forward to, such as going for a walk, visiting family or friends, or going to the cinema</li><li data-block-key=\"b28rn\">volunteering</li></ul><p data-block-key=\"5d8n\">You can also find support and befriending services from organisations like <a href=\"https://www.ageuk.org.uk/\">Age UK</a>, <a href=\"https://www.thesilverline.org.uk/\">The Silver Line</a> or <a href=\"https://reengage.org.uk/\">Re-engage</a>.</p><p data-block-key=\"5mp7i\">Find out <a href=\"/mental-health/advice-for-life-situations-and-events/loneliness-in-older-people-how-to-help/\">how to help lonely older people in your community</a></p>\n</section>\n</div>\n</div>\n</article>"
+}

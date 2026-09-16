@@ -1,0 +1,472 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+  "final_url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:56.442013+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "U",
+      "label": "Unintentional weight loss",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "W",
+      "label": "Weight loss (unintentional), see Unintentional weight loss",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Unintentional weight loss",
+  "meta_description": "Find out what can cause unintentional weight loss and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "28 July 2025",
+    "next_review_due": "28 July 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what can cause unintentional weight loss and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nUnintentional weight loss\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what can cause unintentional weight loss and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "8 Jul 2026, 3:35 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 3:52 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Weight loss (unintentional)"
+        ],
+        "name": "Unintentional weight loss"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Unintentional weight loss"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-08T14:35:45+00:00",
+      "description": "Find out what can cause unintentional weight loss and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Many things can cause unintentional weight loss. Common causes are stress and digestion problems. Sometimes it can be something serious like cancer.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Unintentional weight loss can have many different causes.</p><p>It might be caused by a stressful event like a divorce, losing a job, or the death of a loved one. It can also be caused by a health condition or a combination of things.</p><p>Some causes of unintentional weight loss include:</p><ul><li>mental health conditions, such as <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a>, <a href=\"/mental-health/conditions/generalised-anxiety-disorder/\">anxiety</a>, <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/\">eating disorders</a> and <a href=\"/mental-health/conditions/obsessive-compulsive-disorder-ocd/\">obsessive compulsive disorder (OCD)</a></li><li>problems with digestion, such as <a href=\"/conditions/coeliac-disease/\">coeliac disease</a> or <a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease (IBD)</a></li><li>hormone conditions, such as an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/type-1-diabetes/\">type 1 diabetes</a></li><li>heart conditions, such as <a href=\"/conditions/heart-failure/\">heart failure</a></li><li>poor nutrition (<a href=\"/conditions/malnutrition/\">malnutrition</a>) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite</li><li>side effects of some medicines, such as <a href=\"/medicines/levothyroxine/\">levothyroxine</a>, which is often used to treat an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid (hypothyroidism)</a></li></ul><p>Sometimes weight loss and loss of appetite can be caused by cancer. It's important to get it checked if you're losing weight without trying.</p>"
+            }
+          ],
+          "headline": "Causes of unintentional weight loss",
+          "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you keep losing weight without changing your diet or exercise routine\n </li>\n</ul>\n<p>\n It's important to see a GP as soon as possible if you have weight loss and other symptoms. The earlier the cause is found, the sooner it can be treated.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for unintentional weight loss depends on the cause. A GP might be able to treat you or refer you to a specialist if needed.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for unintentional weight loss depends on what's causing it.</p><p>A GP will ask about your health and may arrange some tests or scans.</p><p>Depending on the possible cause, they may:</p><ul><li>advise you about things you can do to help, such as ways to reduce stress</li><li>recommend treatment for any condition that's causing you to lose weight</li><li>refer you to a specialist</li></ul>"
+            }
+          ],
+          "headline": "Treatment for unintentional weight loss",
+          "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Unintentional weight loss is when you lose weight without changing your diet or exercise routine. It can be a sign of stress or a serious illness.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Unintentional weight loss",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Unintentional weight loss",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Many things can cause unintentional weight loss. Common causes are stress and digestion problems. Sometimes it can be something serious like cancer.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for unintentional weight loss depends on the cause. A GP might be able to treat you or refer you to a specialist if needed.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-07-27T23:00:00+00:00",
+        "2028-07-27T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Unintentional weight loss",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Unintentional weight loss",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of unintentional weight loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of unintentional weight loss"
+        }
+      ],
+      "text": "Causes of unintentional weight loss\nUnintentional weight loss can have many different causes.\nIt might be caused by a stressful event like a divorce, losing a job, or the death of a loved one. It can also be caused by a health condition or a combination of things.\nSome causes of unintentional weight loss include:\nmental health conditions, such as\ndepression\n,\nanxiety\n,\neating disorders\nand\nobsessive compulsive disorder (OCD)\nproblems with digestion, such as\ncoeliac disease\nor\ninflammatory bowel disease (IBD)\nhormone conditions, such as an\noveractive thyroid\nor\ntype 1 diabetes\nheart conditions, such as\nheart failure\npoor nutrition (\nmalnutrition\n) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite\nside effects of some medicines, such as\nlevothyroxine\n, which is often used to treat an\nunderactive thyroid (hypothyroidism)\nSometimes weight loss and loss of appetite can be caused by cancer. It's important to get it checked if you're losing weight without trying.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "mental health conditions, such as\ndepression\n,\nanxiety\n,\neating disorders\nand\nobsessive compulsive disorder (OCD)",
+            "problems with digestion, such as\ncoeliac disease\nor\ninflammatory bowel disease (IBD)",
+            "hormone conditions, such as an\noveractive thyroid\nor\ntype 1 diabetes",
+            "heart conditions, such as\nheart failure",
+            "poor nutrition (\nmalnutrition\n) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite",
+            "side effects of some medicines, such as\nlevothyroxine\n, which is often used to treat an\nunderactive thyroid (hypothyroidism)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"
+        },
+        {
+          "text": "anxiety",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/"
+        },
+        {
+          "text": "eating disorders",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/"
+        },
+        {
+          "text": "obsessive compulsive disorder (OCD)",
+          "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/"
+        },
+        {
+          "text": "coeliac disease",
+          "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+        },
+        {
+          "text": "inflammatory bowel disease (IBD)",
+          "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+        },
+        {
+          "text": "overactive thyroid",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "type 1 diabetes",
+          "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+        },
+        {
+          "text": "heart failure",
+          "url": "https://www.nhs.uk/conditions/heart-failure/"
+        },
+        {
+          "text": "malnutrition",
+          "url": "https://www.nhs.uk/conditions/malnutrition/"
+        },
+        {
+          "text": "levothyroxine",
+          "url": "https://www.nhs.uk/medicines/levothyroxine/"
+        },
+        {
+          "text": "underactive thyroid (hypothyroidism)",
+          "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of unintentional weight loss</h2>\n<p data-block-key=\"75mam\">Unintentional weight loss can have many different causes.</p><p data-block-key=\"rr86\">It might be caused by a stressful event like a divorce, losing a job, or the death of a loved one. It can also be caused by a health condition or a combination of things.</p><p data-block-key=\"1l55g\">Some causes of unintentional weight loss include:</p><ul><li data-block-key=\"30lqs\">mental health conditions, such as <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a>, <a href=\"/mental-health/conditions/generalised-anxiety-disorder/\">anxiety</a>, <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/\">eating disorders</a> and <a href=\"/mental-health/conditions/obsessive-compulsive-disorder-ocd/\">obsessive compulsive disorder (OCD)</a></li><li data-block-key=\"11pno\">problems with digestion, such as <a href=\"/conditions/coeliac-disease/\">coeliac disease</a> or <a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease (IBD)</a></li><li data-block-key=\"3hkb4\">hormone conditions, such as an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/type-1-diabetes/\">type 1 diabetes</a></li><li data-block-key=\"cdrl7\">heart conditions, such as <a href=\"/conditions/heart-failure/\">heart failure</a></li><li data-block-key=\"fq12r\">poor nutrition (<a href=\"/conditions/malnutrition/\">malnutrition</a>) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite</li><li data-block-key=\"b2rea\">side effects of some medicines, such as <a href=\"/medicines/levothyroxine/\">levothyroxine</a>, which is often used to treat an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid (hypothyroidism)</a></li></ul><p data-block-key=\"eq8ma\">Sometimes weight loss and loss of appetite can be caused by cancer. It's important to get it checked if you're losing weight without trying.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou keep losing weight without changing your diet or exercise routine\nIt's important to see a GP as soon as possible if you have weight loss and other symptoms. The earlier the cause is found, the sooner it can be treated.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you keep losing weight without changing your diet or exercise routine"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yyije\">you keep losing weight without changing your diet or exercise routine</li></ul><p data-block-key=\"eu9em\">It's important to see a GP as soon as possible if you have weight loss and other symptoms. The earlier the cause is found, the sooner it can be treated.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Treatment for unintentional weight loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for unintentional weight loss"
+        }
+      ],
+      "text": "Treatment for unintentional weight loss\nTreatment for unintentional weight loss depends on what's causing it.\nA GP will ask about your health and may arrange some tests or scans.\nDepending on the possible cause, they may:\nadvise you about things you can do to help, such as ways to reduce stress\nrecommend treatment for any condition that's causing you to lose weight\nrefer you to a specialist",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "advise you about things you can do to help, such as ways to reduce stress",
+            "recommend treatment for any condition that's causing you to lose weight",
+            "refer you to a specialist"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for unintentional weight loss</h2>\n<p data-block-key=\"75mam\">Treatment for unintentional weight loss depends on what's causing it.</p><p data-block-key=\"abtur\">A GP will ask about your health and may arrange some tests or scans.</p><p data-block-key=\"7r45l\">Depending on the possible cause, they may:</p><ul><li data-block-key=\"59obk\">advise you about things you can do to help, such as ways to reduce stress</li><li data-block-key=\"eot0q\">recommend treatment for any condition that's causing you to lose weight</li><li data-block-key=\"fmg01\">refer you to a specialist</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Causes of unintentional weight loss\nUnintentional weight loss can have many different causes.\nIt might be caused by a stressful event like a divorce, losing a job, or the death of a loved one. It can also be caused by a health condition or a combination of things.\nSome causes of unintentional weight loss include:\nmental health conditions, such as\ndepression\n,\nanxiety\n,\neating disorders\nand\nobsessive compulsive disorder (OCD)\nproblems with digestion, such as\ncoeliac disease\nor\ninflammatory bowel disease (IBD)\nhormone conditions, such as an\noveractive thyroid\nor\ntype 1 diabetes\nheart conditions, such as\nheart failure\npoor nutrition (\nmalnutrition\n) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite\nside effects of some medicines, such as\nlevothyroxine\n, which is often used to treat an\nunderactive thyroid (hypothyroidism)\nSometimes weight loss and loss of appetite can be caused by cancer. It's important to get it checked if you're losing weight without trying.\nNon-urgent advice:\nSee a GP if:\nyou keep losing weight without changing your diet or exercise routine\nIt's important to see a GP as soon as possible if you have weight loss and other symptoms. The earlier the cause is found, the sooner it can be treated.\nTreatment for unintentional weight loss\nTreatment for unintentional weight loss depends on what's causing it.\nA GP will ask about your health and may arrange some tests or scans.\nDepending on the possible cause, they may:\nadvise you about things you can do to help, such as ways to reduce stress\nrecommend treatment for any condition that's causing you to lose weight\nrefer you to a specialist\nPage last reviewed: 28 July 2025\nNext review due: 28 July 2028",
+  "links": [
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/"
+    },
+    {
+      "text": "eating disorders",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/"
+    },
+    {
+      "text": "obsessive compulsive disorder (OCD)",
+      "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/"
+    },
+    {
+      "text": "coeliac disease",
+      "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+    },
+    {
+      "text": "inflammatory bowel disease (IBD)",
+      "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+    },
+    {
+      "text": "overactive thyroid",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "type 1 diabetes",
+      "url": "https://www.nhs.uk/conditions/type-1-diabetes/"
+    },
+    {
+      "text": "heart failure",
+      "url": "https://www.nhs.uk/conditions/heart-failure/"
+    },
+    {
+      "text": "malnutrition",
+      "url": "https://www.nhs.uk/conditions/malnutrition/"
+    },
+    {
+      "text": "levothyroxine",
+      "url": "https://www.nhs.uk/medicines/levothyroxine/"
+    },
+    {
+      "text": "underactive thyroid (hypothyroidism)",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of unintentional weight loss</h2>\n<p data-block-key=\"75mam\">Unintentional weight loss can have many different causes.</p><p data-block-key=\"rr86\">It might be caused by a stressful event like a divorce, losing a job, or the death of a loved one. It can also be caused by a health condition or a combination of things.</p><p data-block-key=\"1l55g\">Some causes of unintentional weight loss include:</p><ul><li data-block-key=\"30lqs\">mental health conditions, such as <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a>, <a href=\"/mental-health/conditions/generalised-anxiety-disorder/\">anxiety</a>, <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/\">eating disorders</a> and <a href=\"/mental-health/conditions/obsessive-compulsive-disorder-ocd/\">obsessive compulsive disorder (OCD)</a></li><li data-block-key=\"11pno\">problems with digestion, such as <a href=\"/conditions/coeliac-disease/\">coeliac disease</a> or <a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease (IBD)</a></li><li data-block-key=\"3hkb4\">hormone conditions, such as an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/type-1-diabetes/\">type 1 diabetes</a></li><li data-block-key=\"cdrl7\">heart conditions, such as <a href=\"/conditions/heart-failure/\">heart failure</a></li><li data-block-key=\"fq12r\">poor nutrition (<a href=\"/conditions/malnutrition/\">malnutrition</a>) or lack of appetite, although sometimes weight loss can happen when there's no change to a person's diet or appetite</li><li data-block-key=\"b2rea\">side effects of some medicines, such as <a href=\"/medicines/levothyroxine/\">levothyroxine</a>, which is often used to treat an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid (hypothyroidism)</a></li></ul><p data-block-key=\"eq8ma\">Sometimes weight loss and loss of appetite can be caused by cancer. It's important to get it checked if you're losing weight without trying.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yyije\">you keep losing weight without changing your diet or exercise routine</li></ul><p data-block-key=\"eu9em\">It's important to see a GP as soon as possible if you have weight loss and other symptoms. The earlier the cause is found, the sooner it can be treated.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for unintentional weight loss</h2>\n<p data-block-key=\"75mam\">Treatment for unintentional weight loss depends on what's causing it.</p><p data-block-key=\"abtur\">A GP will ask about your health and may arrange some tests or scans.</p><p data-block-key=\"7r45l\">Depending on the possible cause, they may:</p><ul><li data-block-key=\"59obk\">advise you about things you can do to help, such as ways to reduce stress</li><li data-block-key=\"eot0q\">recommend treatment for any condition that's causing you to lose weight</li><li data-block-key=\"fmg01\">refer you to a specialist</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 28 July 2025<br/>\n    Next review due: 28 July 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,426 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/pins-and-needles/",
+  "final_url": "https://www.nhs.uk/symptoms/pins-and-needles/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:32.268444+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Pins and needles",
+      "url": "https://www.nhs.uk/symptoms/pins-and-needles/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Pins and needles",
+  "meta_description": "Read about pins and needles (paraesthesia), a pricking, burning, tingling or numbing sensation that's usually felt in the arms, legs, hands or feet.",
+  "review_dates": {
+    "page_last_reviewed": "04 January 2024",
+    "next_review_due": "04 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about pins and needles (paraesthesia), a pricking, burning, tingling or numbing sensation that's usually felt in the arms, legs, hands or feet."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/pins-and-needles/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nPins and needles\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about pins and needles (paraesthesia), a pricking, burning, tingling or numbing sensation that's usually felt in the arms, legs, hands or feet."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "23 Dec 2025, 3:05 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "27 Oct 2017, 3:14 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Pins and needles"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/pins-and-needles/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Pins and needles"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-12-23T15:05:34+00:00",
+      "description": "Read about pins and needles (paraesthesia), a pricking, burning, tingling or numbing sensation that's usually felt in the arms, legs, hands or feet.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pins and needles feels like a pricking, tingling or numbness sensation. It often affects your arms or legs.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Pins and needles feels like a pricking, tingling or numbness sensation.</p><p>It happens when the blood supply to the nerves is cut off. This is usually when you sit or sleep on part of your body. It only lasts a few minutes.</p><p>You often get pins and needles in your:</p><ul><li>arms</li><li>hands</li><li>legs</li><li>feet</li></ul><p>It usually stops when the weight is taken off the body part and your blood supply returns to the nerves.</p>"
+            }
+          ],
+          "headline": "What is pins and needles?",
+          "url": "https://www.nhs.uk/symptoms/pins-and-needles/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you constantly have pins and needles\n </li>\n<li>\n  it keeps coming back\n </li>\n</ul>\n<p>\n Any treatment you might need for pins and needles will depend on the cause.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/pins-and-needles/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pins and needles is usually caused by sitting or sleeping on part of your body. Sometimes it can be caused by conditions such as diabetes or sciatica.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are some possible medical causes of pins and needles. If you have other symptoms this might help to find the cause.</p><p>But do not self-diagnose – see a GP if you're worried.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Long-lasting pins and needles may also be caused by:</p><ul><li>treatments – such as chemotherapy</li><li>some medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics</li><li>toxic substances – such as lead or radiation</li><li>poor diet</li><li>a trapped nerve in your back or neck</li><li>nerve damage – after an injury or illness</li><li>drinking too much alcohol</li></ul>"
+            }
+          ],
+          "headline": "Possible causes of pins and needles",
+          "url": "https://www.nhs.uk/symptoms/pins-and-needles/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pins and needles is pricking, tingling or numbness on the skin. Everyone can get it but see a GP if you keep getting it or it lasts a long time.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Pins and needles",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Pins and needles",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Pins and needles feels like a pricking, tingling or numbness sensation. It often affects your arms or legs.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Pins and needles is usually caused by sitting or sleeping on part of your body. Sometimes it can be caused by conditions such as diabetes or sciatica.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/pins-and-needles/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-04T00:00:00+00:00",
+        "2027-01-04T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Pins and needles",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Pins and needles",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/pins-and-needles/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/pins-and-needles/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Everyone can get pins and needles but see a GP if you keep getting it or it lasts a long time.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"gp9fj\"><b>Everyone can get pins and needles but see a GP if you keep getting it or it lasts a long time.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "What is pins and needles?",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What is pins and needles?"
+        }
+      ],
+      "text": "What is pins and needles?\nPins and needles feels like a pricking, tingling or numbness sensation.\nIt happens when the blood supply to the nerves is cut off. This is usually when you sit or sleep on part of your body. It only lasts a few minutes.\nYou often get pins and needles in your:\narms\nhands\nlegs\nfeet\nIt usually stops when the weight is taken off the body part and your blood supply returns to the nerves.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "arms",
+            "hands",
+            "legs",
+            "feet"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">What is pins and needles?</h2>\n<p data-block-key=\"9gqf8\">Pins and needles feels like a pricking, tingling or numbness sensation.</p><p data-block-key=\"l29jr\">It happens when the blood supply to the nerves is cut off. This is usually when you sit or sleep on part of your body. It only lasts a few minutes.</p><p data-block-key=\"1fscm\">You often get pins and needles in your:</p><ul><li data-block-key=\"qplvb\">arms</li><li data-block-key=\"dpuny\">hands</li><li data-block-key=\"hbnog\">legs</li><li data-block-key=\"0fjys\">feet</li></ul><p data-block-key=\"sezpa\">It usually stops when the weight is taken off the body part and your blood supply returns to the nerves.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou constantly have pins and needles\nit keeps coming back\nAny treatment you might need for pins and needles will depend on the cause.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you constantly have pins and needles",
+            "it keeps coming back"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"soczi\">you constantly have pins and needles</li><li data-block-key=\"fvsqi\">it keeps coming back</li></ul><p data-block-key=\"kxv86\">Any treatment you might need for pins and needles will depend on the cause.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Possible causes of pins and needles",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Possible causes of pins and needles"
+        }
+      ],
+      "text": "Possible causes of pins and needles\nThere are some possible medical causes of pins and needles. If you have other symptoms this might help to find the cause.\nBut do not self-diagnose – see a GP if you're worried.\nPossible causes of symptoms\nSymptoms\nPossible conditions\nPins and needles, pain or numbness in hands and feet\nDiabetes\nPins and needles in fingers or toes that change colour\nRaynaud's\nBreathing too quickly, trembling hands, pins and needles\nHyperventilation\nPain and pins and needles that travels from your back, down your leg to your foot\nSciatica\nPins and needles in different parts of your body\nMultiple sclerosis\nLong-lasting pins and needles may also be caused by:\ntreatments – such as chemotherapy\nsome medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics\ntoxic substances – such as lead or radiation\npoor diet\na trapped nerve in your back or neck\nnerve damage – after an injury or illness\ndrinking too much alcohol",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "treatments – such as chemotherapy",
+            "some medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics",
+            "toxic substances – such as lead or radiation",
+            "poor diet",
+            "a trapped nerve in your back or neck",
+            "nerve damage – after an injury or illness",
+            "drinking too much alcohol"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Diabetes",
+          "url": "https://www.nhs.uk/conditions/diabetes/"
+        },
+        {
+          "text": "Raynaud's",
+          "url": "https://www.nhs.uk/conditions/raynauds/"
+        },
+        {
+          "text": "Sciatica",
+          "url": "https://www.nhs.uk/conditions/sciatica/"
+        },
+        {
+          "text": "Multiple sclerosis",
+          "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Possible causes of pins and needles</h2>\n<p data-block-key=\"lz3ss\">There are some possible medical causes of pins and needles. If you have other symptoms this might help to find the cause.</p><p data-block-key=\"atsgn\">But do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of symptoms</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms \n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible conditions\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i32z1\">Pins and needles, pain or numbness in hands and feet</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i32z1\"><a href=\"/conditions/diabetes/\">Diabetes</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"yj55d\">Pins and needles in fingers or toes that change colour</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"yj55d\"><a href=\"/conditions/raynauds/\">Raynaud's</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2gc4j\">Breathing too quickly, trembling hands, pins and needles</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2gc4j\">Hyperventilation</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1nng\">Pain and pins and needles that travels from your back, down your leg to your foot</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1nng\"><a href=\"/conditions/sciatica/\">Sciatica</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i72c9\">Pins and needles in different parts of your body</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i72c9\"><a href=\"/conditions/multiple-sclerosis/\">Multiple sclerosis</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"hilgy\">Long-lasting pins and needles may also be caused by:</p><ul><li data-block-key=\"l7x47\">treatments – such as chemotherapy</li><li data-block-key=\"h4daq\">some medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics</li><li data-block-key=\"ejcup\">toxic substances – such as lead or radiation</li><li data-block-key=\"763qs\">poor diet</li><li data-block-key=\"attil\">a trapped nerve in your back or neck</li><li data-block-key=\"epw6u\">nerve damage – after an injury or illness</li><li data-block-key=\"w3ip7\">drinking too much alcohol</li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Everyone can get pins and needles but see a GP if you keep getting it or it lasts a long time.\nWhat is pins and needles?\nPins and needles feels like a pricking, tingling or numbness sensation.\nIt happens when the blood supply to the nerves is cut off. This is usually when you sit or sleep on part of your body. It only lasts a few minutes.\nYou often get pins and needles in your:\narms\nhands\nlegs\nfeet\nIt usually stops when the weight is taken off the body part and your blood supply returns to the nerves.\nNon-urgent advice:\nSee a GP if:\nyou constantly have pins and needles\nit keeps coming back\nAny treatment you might need for pins and needles will depend on the cause.\nPossible causes of pins and needles\nThere are some possible medical causes of pins and needles. If you have other symptoms this might help to find the cause.\nBut do not self-diagnose – see a GP if you're worried.\nPossible causes of symptoms\nSymptoms\nPossible conditions\nPins and needles, pain or numbness in hands and feet\nDiabetes\nPins and needles in fingers or toes that change colour\nRaynaud's\nBreathing too quickly, trembling hands, pins and needles\nHyperventilation\nPain and pins and needles that travels from your back, down your leg to your foot\nSciatica\nPins and needles in different parts of your body\nMultiple sclerosis\nLong-lasting pins and needles may also be caused by:\ntreatments – such as chemotherapy\nsome medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics\ntoxic substances – such as lead or radiation\npoor diet\na trapped nerve in your back or neck\nnerve damage – after an injury or illness\ndrinking too much alcohol\nPage last reviewed: 04 January 2024\nNext review due: 04 January 2027",
+  "links": [
+    {
+      "text": "Diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/"
+    },
+    {
+      "text": "Raynaud's",
+      "url": "https://www.nhs.uk/conditions/raynauds/"
+    },
+    {
+      "text": "Sciatica",
+      "url": "https://www.nhs.uk/conditions/sciatica/"
+    },
+    {
+      "text": "Multiple sclerosis",
+      "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"gp9fj\"><b>Everyone can get pins and needles but see a GP if you keep getting it or it lasts a long time.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">What is pins and needles?</h2>\n<p data-block-key=\"9gqf8\">Pins and needles feels like a pricking, tingling or numbness sensation.</p><p data-block-key=\"l29jr\">It happens when the blood supply to the nerves is cut off. This is usually when you sit or sleep on part of your body. It only lasts a few minutes.</p><p data-block-key=\"1fscm\">You often get pins and needles in your:</p><ul><li data-block-key=\"qplvb\">arms</li><li data-block-key=\"dpuny\">hands</li><li data-block-key=\"hbnog\">legs</li><li data-block-key=\"0fjys\">feet</li></ul><p data-block-key=\"sezpa\">It usually stops when the weight is taken off the body part and your blood supply returns to the nerves.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"soczi\">you constantly have pins and needles</li><li data-block-key=\"fvsqi\">it keeps coming back</li></ul><p data-block-key=\"kxv86\">Any treatment you might need for pins and needles will depend on the cause.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Possible causes of pins and needles</h2>\n<p data-block-key=\"lz3ss\">There are some possible medical causes of pins and needles. If you have other symptoms this might help to find the cause.</p><p data-block-key=\"atsgn\">But do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of symptoms</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms \n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible conditions\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i32z1\">Pins and needles, pain or numbness in hands and feet</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i32z1\"><a href=\"/conditions/diabetes/\">Diabetes</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"yj55d\">Pins and needles in fingers or toes that change colour</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"yj55d\"><a href=\"/conditions/raynauds/\">Raynaud's</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2gc4j\">Breathing too quickly, trembling hands, pins and needles</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2gc4j\">Hyperventilation</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1nng\">Pain and pins and needles that travels from your back, down your leg to your foot</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1nng\"><a href=\"/conditions/sciatica/\">Sciatica</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i72c9\">Pins and needles in different parts of your body</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"i72c9\"><a href=\"/conditions/multiple-sclerosis/\">Multiple sclerosis</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"hilgy\">Long-lasting pins and needles may also be caused by:</p><ul><li data-block-key=\"l7x47\">treatments – such as chemotherapy</li><li data-block-key=\"h4daq\">some medicines – such as HIV medicine, medicine to prevent seizures, or some antibiotics</li><li data-block-key=\"ejcup\">toxic substances – such as lead or radiation</li><li data-block-key=\"763qs\">poor diet</li><li data-block-key=\"attil\">a trapped nerve in your back or neck</li><li data-block-key=\"epw6u\">nerve damage – after an injury or illness</li><li data-block-key=\"w3ip7\">drinking too much alcohol</li></ul>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 04 January 2024<br/>\n    Next review due: 04 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

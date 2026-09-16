@@ -1,0 +1,528 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/",
+  "final_url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:57.503780+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Blue or grey skin or lips (cyanosis)",
+      "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "C",
+      "label": "Cyanosis, see Blue or grey skin or lips (cyanosis)",
+      "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Blue or grey skin or lips (cyanosis)",
+  "meta_description": "Find out about blue or grey skin or lips (cyanosis), including what it looks like, what causes it and when to get it checked.",
+  "review_dates": {
+    "page_last_reviewed": "04 October 2023",
+    "next_review_due": "04 October 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about blue or grey skin or lips (cyanosis), including what it looks like, what causes it and when to get it checked."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBlue or grey skin or lips (cyanosis)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about blue or grey skin or lips (cyanosis), including what it looks like, what causes it and when to get it checked."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "8 Sep 2026, 3:04 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 10:21 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Cyanosis"
+        ],
+        "name": "Blue or grey skin or lips (cyanosis)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Blue or grey skin or lips (cyanosis)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-09-08T14:04:38+00:00",
+      "description": "Find out about blue or grey skin or lips (cyanosis), including what it looks like, what causes it and when to get it checked.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "With cyanosis, your lips, tongue, gums, ears, skin under your nails or skin around your eyes turn blue or grey.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have cyanosis, you may notice a blue or grey colour on your:</p><ul><li>lips</li><li>tongue</li><li>gums</li><li>skin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)</li><li>ears</li><li>under your nails</li></ul><p>Blue or grey skin that includes your lips and mouth is usually a sign that someone is not getting enough oxygen and is a serious problem.</p><p>Blue and grey fingers, toes, hands and feet are usually because of a problem with blood circulation.</p>"
+            }
+          ],
+          "headline": "How to tell if you have blue or grey skin or lips (cyanosis)",
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Cyanosis can be a sign of a serious health problem and needs immediate medical help.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You need to get medical help immediately if you or your child have symptoms of cyanosis.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<p>\n You or your child has blue or grey skin and:\n</p>\n<ul>\n<li>\n  it's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids\n </li>\n<li>\n  difficulty breathing or chest pain\n </li>\n<li>\n  are confused or dizzy\n </li>\n</ul>\n<p>\n These are signs of a serious medical problem.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging (for 999 only)",
+              "text": "<p>Do not drive yourself to A&amp;E. </p><p>The person you speak to at 999 will give you advice about what to do.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet\n </li>\n</ul>\n<p>\n This may be a sign of a problem with blood circulation.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Cyanosis can happen if there is not enough oxygen in your blood or you have poor blood circulation. Causes include asthma, heart failure and choking.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Blue or grey skin or lips (cyanosis) can happen when there's not enough oxygen in your blood.</p><p>This is usually caused by a serious problem with the:</p><ul><li>lungs, like <a href=\"/conditions/asthma/\">asthma</a> or <a href=\"/conditions/pneumonia/\">pneumonia</a></li><li>airways, like choking or <a href=\"/conditions/croup/\">croup</a></li><li>heart, like <a href=\"/conditions/heart-failure/\">heart failure</a> or <a href=\"/conditions/congenital-heart-disease/\">congenital heart disease</a></li></ul><p>Blue or grey skin can also happen if you have poor circulation. This usually affects hands and feet and can be caused by:</p><ul><li><a href=\"/conditions/raynauds/\">Raynaud's</a>, which affects your fingers and toes</li><li><a href=\"/medicines/beta-blockers/\">beta blockers</a>, medicines used to treat high blood pressure</li><li>a <a href=\"/conditions/blood-clots/\">blood clot</a> that stops the blood supply to a limb</li><li>being in cold air or water</li><li>wearing clothing or jewellery that's too tight</li></ul>"
+            }
+          ],
+          "headline": "Causes of blue or grey skin or lips (cyanosis)",
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for cyanosis depends on what's causing it.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Cyanosis is a symptom of many different conditions.</p><p>Treatment depends on the cause.</p>"
+            }
+          ],
+          "headline": "Treatment for blue or grey skin or lips (cyanosis)",
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Blue or grey skin or lips (cyanosis) can be a sign of something serious. If you or your child have it, get medical help immediately.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Blue or grey skin or lips (cyanosis)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blue or grey skin or lips (cyanosis)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blue or grey skin or lips (cyanosis)",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>With cyanosis, your lips, tongue, gums, ears, skin under your nails or skin around your eyes turn blue or grey.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Cyanosis can happen if there is not enough oxygen in your blood or you have poor blood circulation. Causes include asthma, heart failure and choking.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for cyanosis depends on what's causing it.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-10-04T00:00:00+00:00",
+        "2026-10-04T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Blue or grey skin or lips (cyanosis)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Blue or grey skin or lips (cyanosis)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/blue-skin-or-lips-cyanosis/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How to tell if you have blue or grey skin or lips (cyanosis)",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to tell if you have blue or grey skin or lips (cyanosis)"
+        }
+      ],
+      "text": "How to tell if you have blue or grey skin or lips (cyanosis)\nIf you have cyanosis, you may notice a blue or grey colour on your:\nlips\ntongue\ngums\nskin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)\nears\nunder your nails\nBlue or grey skin that includes your lips and mouth is usually a sign that someone is not getting enough oxygen and is a serious problem.\nBlue and grey fingers, toes, hands and feet are usually because of a problem with blood circulation.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "lips",
+            "tongue",
+            "gums",
+            "skin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)",
+            "ears",
+            "under your nails"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">How to tell if you have blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"tls6p\">If you have cyanosis, you may notice a blue or grey colour on your:</p><ul><li data-block-key=\"gan7z\">lips</li><li data-block-key=\"40h0w\">tongue</li><li data-block-key=\"o8agh\">gums</li><li data-block-key=\"e6eu8\">skin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)</li><li data-block-key=\"ruglh\">ears</li><li data-block-key=\"5nzwi\">under your nails</li></ul><p data-block-key=\"cuccm\">Blue or grey skin that includes your lips and mouth is usually a sign that someone is not getting enough oxygen and is a serious problem.</p><p data-block-key=\"bile6\">Blue and grey fingers, toes, hands and feet are usually because of a problem with blood circulation.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Immediate action required: Call 999 if:"
+        },
+        {
+          "level": "h3",
+          "text": "Urgent advice: Get help from NHS 111 if:"
+        }
+      ],
+      "text": "When and where to get medical help\nYou need to get medical help immediately if you or your child have symptoms of cyanosis.\nImmediate action required:\nCall 999 if:\nYou or your child has blue or grey skin and:\nit's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids\ndifficulty breathing or chest pain\nare confused or dizzy\nThese are signs of a serious medical problem.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.\nUrgent advice:\nGet help from NHS 111 if:\nyou or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet\nThis may be a sign of a problem with blood circulation.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids",
+            "difficulty breathing or chest pain",
+            "are confused or dizzy"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"zh2jn\">You need to get medical help immediately if you or your child have symptoms of cyanosis.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"ut3dd\">You or your child has blue or grey skin and:</p><ul><li data-block-key=\"66ecq\">it's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids</li><li data-block-key=\"1db4e\">difficulty breathing or chest pain</li><li data-block-key=\"367dv\">are confused or dizzy</li></ul><p data-block-key=\"t9rpm\">These are signs of a serious medical problem.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k8d6j\">you or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet</li></ul><p data-block-key=\"573qc\">This may be a sign of a problem with blood circulation.</p><p data-block-key=\"bth35\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of blue or grey skin or lips (cyanosis)",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of blue or grey skin or lips (cyanosis)"
+        }
+      ],
+      "text": "Causes of blue or grey skin or lips (cyanosis)\nBlue or grey skin or lips (cyanosis) can happen when there's not enough oxygen in your blood.\nThis is usually caused by a serious problem with the:\nlungs, like\nasthma\nor\npneumonia\nairways, like choking or\ncroup\nheart, like\nheart failure\nor\ncongenital heart disease\nBlue or grey skin can also happen if you have poor circulation. This usually affects hands and feet and can be caused by:\nRaynaud's\n, which affects your fingers and toes\nbeta blockers\n, medicines used to treat high blood pressure\na\nblood clot\nthat stops the blood supply to a limb\nbeing in cold air or water\nwearing clothing or jewellery that's too tight",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "lungs, like\nasthma\nor\npneumonia",
+            "airways, like choking or\ncroup",
+            "heart, like\nheart failure\nor\ncongenital heart disease"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Raynaud's\n, which affects your fingers and toes",
+            "beta blockers\n, medicines used to treat high blood pressure",
+            "a\nblood clot\nthat stops the blood supply to a limb",
+            "being in cold air or water",
+            "wearing clothing or jewellery that's too tight"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "asthma",
+          "url": "https://www.nhs.uk/conditions/asthma/"
+        },
+        {
+          "text": "pneumonia",
+          "url": "https://www.nhs.uk/conditions/pneumonia/"
+        },
+        {
+          "text": "croup",
+          "url": "https://www.nhs.uk/conditions/croup/"
+        },
+        {
+          "text": "heart failure",
+          "url": "https://www.nhs.uk/conditions/heart-failure/"
+        },
+        {
+          "text": "congenital heart disease",
+          "url": "https://www.nhs.uk/conditions/congenital-heart-disease/"
+        },
+        {
+          "text": "Raynaud's",
+          "url": "https://www.nhs.uk/conditions/raynauds/"
+        },
+        {
+          "text": "beta blockers",
+          "url": "https://www.nhs.uk/medicines/beta-blockers/"
+        },
+        {
+          "text": "blood clot",
+          "url": "https://www.nhs.uk/conditions/blood-clots/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"wsfiz\">Blue or grey skin or lips (cyanosis) can happen when there's not enough oxygen in your blood.</p><p data-block-key=\"131rn\">This is usually caused by a serious problem with the:</p><ul><li data-block-key=\"p1jsi\">lungs, like <a href=\"/conditions/asthma/\">asthma</a> or <a href=\"/conditions/pneumonia/\">pneumonia</a></li><li data-block-key=\"kc1vl\">airways, like choking or <a href=\"/conditions/croup/\">croup</a></li><li data-block-key=\"lp5v2\">heart, like <a href=\"/conditions/heart-failure/\">heart failure</a> or <a href=\"/conditions/congenital-heart-disease/\">congenital heart disease</a></li></ul><p data-block-key=\"uqdaj\">Blue or grey skin can also happen if you have poor circulation. This usually affects hands and feet and can be caused by:</p><ul><li data-block-key=\"snk5h\"><a href=\"/conditions/raynauds/\">Raynaud's</a>, which affects your fingers and toes</li><li data-block-key=\"wv8cd\"><a href=\"/medicines/beta-blockers/\">beta blockers</a>, medicines used to treat high blood pressure</li><li data-block-key=\"1fr8h\">a <a href=\"/conditions/blood-clots/\">blood clot</a> that stops the blood supply to a limb</li><li data-block-key=\"afzsy\">being in cold air or water</li><li data-block-key=\"cn3hg\">wearing clothing or jewellery that's too tight</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment for blue or grey skin or lips (cyanosis)",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for blue or grey skin or lips (cyanosis)"
+        }
+      ],
+      "text": "Treatment for blue or grey skin or lips (cyanosis)\nCyanosis is a symptom of many different conditions.\nTreatment depends on the cause.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"7zrp3\">Cyanosis is a symptom of many different conditions.</p><p data-block-key=\"6hh8q\">Treatment depends on the cause.</p>\n</section>"
+    }
+  ],
+  "page_text": "How to tell if you have blue or grey skin or lips (cyanosis)\nIf you have cyanosis, you may notice a blue or grey colour on your:\nlips\ntongue\ngums\nskin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)\nears\nunder your nails\nBlue or grey skin that includes your lips and mouth is usually a sign that someone is not getting enough oxygen and is a serious problem.\nBlue and grey fingers, toes, hands and feet are usually because of a problem with blood circulation.\nWhen and where to get medical help\nYou need to get medical help immediately if you or your child have symptoms of cyanosis.\nImmediate action required:\nCall 999 if:\nYou or your child has blue or grey skin and:\nit's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids\ndifficulty breathing or chest pain\nare confused or dizzy\nThese are signs of a serious medical problem.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.\nUrgent advice:\nGet help from NHS 111 if:\nyou or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet\nThis may be a sign of a problem with blood circulation.\nYou can call 111 or\nget help from 111 online\n.\nCauses of blue or grey skin or lips (cyanosis)\nBlue or grey skin or lips (cyanosis) can happen when there's not enough oxygen in your blood.\nThis is usually caused by a serious problem with the:\nlungs, like\nasthma\nor\npneumonia\nairways, like choking or\ncroup\nheart, like\nheart failure\nor\ncongenital heart disease\nBlue or grey skin can also happen if you have poor circulation. This usually affects hands and feet and can be caused by:\nRaynaud's\n, which affects your fingers and toes\nbeta blockers\n, medicines used to treat high blood pressure\na\nblood clot\nthat stops the blood supply to a limb\nbeing in cold air or water\nwearing clothing or jewellery that's too tight\nTreatment for blue or grey skin or lips (cyanosis)\nCyanosis is a symptom of many different conditions.\nTreatment depends on the cause.\nPage last reviewed: 04 October 2023\nNext review due: 04 October 2026",
+  "links": [
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "asthma",
+      "url": "https://www.nhs.uk/conditions/asthma/"
+    },
+    {
+      "text": "pneumonia",
+      "url": "https://www.nhs.uk/conditions/pneumonia/"
+    },
+    {
+      "text": "croup",
+      "url": "https://www.nhs.uk/conditions/croup/"
+    },
+    {
+      "text": "heart failure",
+      "url": "https://www.nhs.uk/conditions/heart-failure/"
+    },
+    {
+      "text": "congenital heart disease",
+      "url": "https://www.nhs.uk/conditions/congenital-heart-disease/"
+    },
+    {
+      "text": "Raynaud's",
+      "url": "https://www.nhs.uk/conditions/raynauds/"
+    },
+    {
+      "text": "beta blockers",
+      "url": "https://www.nhs.uk/medicines/beta-blockers/"
+    },
+    {
+      "text": "blood clot",
+      "url": "https://www.nhs.uk/conditions/blood-clots/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">How to tell if you have blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"tls6p\">If you have cyanosis, you may notice a blue or grey colour on your:</p><ul><li data-block-key=\"gan7z\">lips</li><li data-block-key=\"40h0w\">tongue</li><li data-block-key=\"o8agh\">gums</li><li data-block-key=\"e6eu8\">skin (black or brown skin may turn grey - this may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids)</li><li data-block-key=\"ruglh\">ears</li><li data-block-key=\"5nzwi\">under your nails</li></ul><p data-block-key=\"cuccm\">Blue or grey skin that includes your lips and mouth is usually a sign that someone is not getting enough oxygen and is a serious problem.</p><p data-block-key=\"bile6\">Blue and grey fingers, toes, hands and feet are usually because of a problem with blood circulation.</p>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"zh2jn\">You need to get medical help immediately if you or your child have symptoms of cyanosis.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"ut3dd\">You or your child has blue or grey skin and:</p><ul><li data-block-key=\"66ecq\">it's on the lips, tongue or face and happens suddenly - on brown or black skin this may be easier to see on the lips, gums or inside the eyelids</li><li data-block-key=\"1db4e\">difficulty breathing or chest pain</li><li data-block-key=\"367dv\">are confused or dizzy</li></ul><p data-block-key=\"t9rpm\">These are signs of a serious medical problem.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"k8d6j\">you or your child's fingers, toes, hands and feet are blue or grey - on brown or black skin, this may be easier to see on the palms of the hands or soles of the feet</li></ul><p data-block-key=\"573qc\">This may be a sign of a problem with blood circulation.</p><p data-block-key=\"bth35\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"wsfiz\">Blue or grey skin or lips (cyanosis) can happen when there's not enough oxygen in your blood.</p><p data-block-key=\"131rn\">This is usually caused by a serious problem with the:</p><ul><li data-block-key=\"p1jsi\">lungs, like <a href=\"/conditions/asthma/\">asthma</a> or <a href=\"/conditions/pneumonia/\">pneumonia</a></li><li data-block-key=\"kc1vl\">airways, like choking or <a href=\"/conditions/croup/\">croup</a></li><li data-block-key=\"lp5v2\">heart, like <a href=\"/conditions/heart-failure/\">heart failure</a> or <a href=\"/conditions/congenital-heart-disease/\">congenital heart disease</a></li></ul><p data-block-key=\"uqdaj\">Blue or grey skin can also happen if you have poor circulation. This usually affects hands and feet and can be caused by:</p><ul><li data-block-key=\"snk5h\"><a href=\"/conditions/raynauds/\">Raynaud's</a>, which affects your fingers and toes</li><li data-block-key=\"wv8cd\"><a href=\"/medicines/beta-blockers/\">beta blockers</a>, medicines used to treat high blood pressure</li><li data-block-key=\"1fr8h\">a <a href=\"/conditions/blood-clots/\">blood clot</a> that stops the blood supply to a limb</li><li data-block-key=\"afzsy\">being in cold air or water</li><li data-block-key=\"cn3hg\">wearing clothing or jewellery that's too tight</li></ul>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for blue or grey skin or lips (cyanosis)</h2>\n<p data-block-key=\"7zrp3\">Cyanosis is a symptom of many different conditions.</p><p data-block-key=\"6hh8q\">Treatment depends on the cause.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 04 October 2023<br/>\n    Next review due: 04 October 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

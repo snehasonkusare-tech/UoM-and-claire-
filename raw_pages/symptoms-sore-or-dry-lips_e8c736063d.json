@@ -1,0 +1,438 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+  "final_url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:19.562492+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "D",
+      "label": "Dry lips, see Sore or dry lips",
+      "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "L",
+      "label": "Lips (sore or dry), see Sore or dry lips",
+      "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "S",
+      "label": "Sore or dry lips",
+      "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Sore or dry lips",
+  "meta_description": "Find out how to look after your lips when they're exposed to the sun, wind and cold.",
+  "review_dates": {
+    "page_last_reviewed": "13 February 2025",
+    "next_review_due": "13 February 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to look after your lips when they're exposed to the sun, wind and cold."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/sore-or-dry-lips/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nSore or dry lips\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to look after your lips when they're exposed to the sun, wind and cold."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:28 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 3:13 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Dry lips",
+          "Lips (sore or dry)"
+        ],
+        "name": "Sore or dry lips"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/sore-or-dry-lips/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Sore or dry lips"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:28:49+00:00",
+      "description": "Find out how to look after your lips when they're exposed to the sun, wind and cold.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that can help if you have sore or dry lips include drinking plenty of water and covering your lips with a scarf when it’s cold.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>use a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket</p></li><li><p>try a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients</p></li><li><p>wash your hands before applying lip balm</p></li><li><p>use a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors</p></li><li><p>cover your lips with a scarf when you're outside in cold weather</p></li><li><p>drink plenty of water to avoid becoming dehydrated</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not pick or bite any flaky skin on your lips – this can slow down healing</p></li><li><p>do not keep licking dry or cracked lips – this can make them sore</p></li><li><p>do not share lip balms with other people – this can spread germs</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with sore or dry lips",
+              "text": "<p>A pharmacist can advise you about:</p><ul><li>the best treatments for dry or sore lips</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "Things you can try if you have sore or dry lips",
+          "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your lips are hot, painful and swollen – this could be a sign of infection\n </li>\n</ul>\n<p>\n If your GP thinks you have an infected lip, they may prescribe an antibiotic or antifungal cream to treat the problem.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of sore and dry lips include cold weather, dry air, sun damage and dehydration.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Sore or dry lips can be caused by many things.</p><p>Common causes include:</p><ul><li>cold weather, dry air or wind</li><li>damage from the sun</li><li>dehydration</li><li>a lip injury</li><li>allergies</li></ul><p>Sometimes they can be caused by a lack of vitamins and minerals.</p><p>If you have a small, fluid-filled blister on your lip, you may have a cold sore.</p><p>Most people with cold sores get a tingling, burning or itching feeling on their lip before the blister appears.</p>"
+            }
+          ],
+          "headline": "Common causes of sore or dry lips",
+          "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Dry or sore lips are a common problem, especially during hot or cold weather. There are things you can try yourself that may help.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Sore or dry lips",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Sore or dry lips",
+              "text": "Self-care"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-02-13T00:00:00+00:00",
+        "2028-02-13T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Sore or dry lips",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Sore or dry lips",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/sore-or-dry-lips/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Dry or sore lips are a common problem, especially during hot or cold weather. There are things you can try yourself that may help.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"zqkmz\"><b>Dry or sore lips are a common problem, especially during hot or cold weather. There are things you can try yourself that may help.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can try if you have sore or dry lips",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try if you have sore or dry lips"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with sore or dry lips"
+        }
+      ],
+      "text": "Things you can try if you have sore or dry lips\nDo\nuse a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket\ntry a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients\nwash your hands before applying lip balm\nuse a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors\ncover your lips with a scarf when you're outside in cold weather\ndrink plenty of water to avoid becoming dehydrated\nDon’t\ndo not pick or bite any flaky skin on your lips – this can slow down healing\ndo not keep licking dry or cracked lips – this can make them sore\ndo not share lip balms with other people – this can spread germs\nA pharmacist can help with sore or dry lips\nA pharmacist can advise you about:\nthe best treatments for dry or sore lips\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "use a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket",
+            "try a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients",
+            "wash your hands before applying lip balm",
+            "use a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors",
+            "cover your lips with a scarf when you're outside in cold weather",
+            "drink plenty of water to avoid becoming dehydrated"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not pick or bite any flaky skin on your lips – this can slow down healing",
+            "do not keep licking dry or cracked lips – this can make them sore",
+            "do not share lip balms with other people – this can spread germs"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best treatments for dry or sore lips",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try if you have sore or dry lips</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"5yieh\">use a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8op27\">try a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b9e1o\">wash your hands before applying lip balm</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nmra5\">use a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8ts24\">cover your lips with a scarf when you're outside in cold weather</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9v60c\">drink plenty of water to avoid becoming dehydrated</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yu487\">do not pick or bite any flaky skin on your lips – this can slow down healing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ar3x1\">do not keep licking dry or cracked lips – this can make them sore</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"f063z\">do not share lip balms with other people – this can spread germs</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"8fafh\">A pharmacist can help with sore or dry lips</h2><p data-block-key=\"3hvf1\">A pharmacist can advise you about:</p><ul><li data-block-key=\"fjv95\">the best treatments for dry or sore lips</li><li data-block-key=\"dfgps\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour lips are hot, painful and swollen – this could be a sign of infection\nIf your GP thinks you have an infected lip, they may prescribe an antibiotic or antifungal cream to treat the problem.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your lips are hot, painful and swollen – this could be a sign of infection"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"z7s4t\">your lips are hot, painful and swollen – this could be a sign of infection</li></ul><p data-block-key=\"gbcrw\">If your GP thinks you have an infected lip, they may prescribe an antibiotic or antifungal cream to treat the problem.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Common causes of sore or dry lips",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of sore or dry lips"
+        }
+      ],
+      "text": "Common causes of sore or dry lips\nSore or dry lips can be caused by many things.\nCommon causes include:\ncold weather, dry air or wind\ndamage from the sun\ndehydration\na lip injury\nallergies\nSometimes they can be caused by a lack of vitamins and minerals.\nIf you have a small, fluid-filled blister on your lip, you may have a cold sore.\nMost people with cold sores get a tingling, burning or itching feeling on their lip before the blister appears.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "cold weather, dry air or wind",
+            "damage from the sun",
+            "dehydration",
+            "a lip injury",
+            "allergies"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of sore or dry lips</h2>\n<p data-block-key=\"k4rxt\">Sore or dry lips can be caused by many things.</p><p data-block-key=\"ah065\">Common causes include:</p><ul><li data-block-key=\"ftbsp\">cold weather, dry air or wind</li><li data-block-key=\"182k6\">damage from the sun</li><li data-block-key=\"eg6fu\">dehydration</li><li data-block-key=\"8jdvg\">a lip injury</li><li data-block-key=\"2udl4\">allergies</li></ul><p data-block-key=\"bhkhg\">Sometimes they can be caused by a lack of vitamins and minerals.</p><p data-block-key=\"51d3b\">If you have a small, fluid-filled blister on your lip, you may have a cold sore.</p><p data-block-key=\"c9lm4\">Most people with cold sores get a tingling, burning or itching feeling on their lip before the blister appears.</p>\n</section>"
+    }
+  ],
+  "page_text": "Dry or sore lips are a common problem, especially during hot or cold weather. There are things you can try yourself that may help.\nThings you can try if you have sore or dry lips\nDo\nuse a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket\ntry a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients\nwash your hands before applying lip balm\nuse a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors\ncover your lips with a scarf when you're outside in cold weather\ndrink plenty of water to avoid becoming dehydrated\nDon’t\ndo not pick or bite any flaky skin on your lips – this can slow down healing\ndo not keep licking dry or cracked lips – this can make them sore\ndo not share lip balms with other people – this can spread germs\nA pharmacist can help with sore or dry lips\nA pharmacist can advise you about:\nthe best treatments for dry or sore lips\nif you need to see a GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nyour lips are hot, painful and swollen – this could be a sign of infection\nIf your GP thinks you have an infected lip, they may prescribe an antibiotic or antifungal cream to treat the problem.\nCommon causes of sore or dry lips\nSore or dry lips can be caused by many things.\nCommon causes include:\ncold weather, dry air or wind\ndamage from the sun\ndehydration\na lip injury\nallergies\nSometimes they can be caused by a lack of vitamins and minerals.\nIf you have a small, fluid-filled blister on your lip, you may have a cold sore.\nMost people with cold sores get a tingling, burning or itching feeling on their lip before the blister appears.\nPage last reviewed: 13 February 2025\nNext review due: 13 February 2028",
+  "links": [
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"zqkmz\"><b>Dry or sore lips are a common problem, especially during hot or cold weather. There are things you can try yourself that may help.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try if you have sore or dry lips</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"5yieh\">use a lip balm containing petroleum jelly or beeswax – you can buy these at a pharmacy or supermarket</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8op27\">try a few different lip balms if one is not working for you – some people may be sensitive to some fragrances, dyes or cosmetic ingredients</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b9e1o\">wash your hands before applying lip balm</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nmra5\">use a lip balm with a sun protection factor (SPF) of 15 or more every 2 hours when outdoors</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8ts24\">cover your lips with a scarf when you're outside in cold weather</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9v60c\">drink plenty of water to avoid becoming dehydrated</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yu487\">do not pick or bite any flaky skin on your lips – this can slow down healing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ar3x1\">do not keep licking dry or cracked lips – this can make them sore</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"f063z\">do not share lip balms with other people – this can spread germs</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"8fafh\">A pharmacist can help with sore or dry lips</h2><p data-block-key=\"3hvf1\">A pharmacist can advise you about:</p><ul><li data-block-key=\"fjv95\">the best treatments for dry or sore lips</li><li data-block-key=\"dfgps\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"z7s4t\">your lips are hot, painful and swollen – this could be a sign of infection</li></ul><p data-block-key=\"gbcrw\">If your GP thinks you have an infected lip, they may prescribe an antibiotic or antifungal cream to treat the problem.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of sore or dry lips</h2>\n<p data-block-key=\"k4rxt\">Sore or dry lips can be caused by many things.</p><p data-block-key=\"ah065\">Common causes include:</p><ul><li data-block-key=\"ftbsp\">cold weather, dry air or wind</li><li data-block-key=\"182k6\">damage from the sun</li><li data-block-key=\"eg6fu\">dehydration</li><li data-block-key=\"8jdvg\">a lip injury</li><li data-block-key=\"2udl4\">allergies</li></ul><p data-block-key=\"bhkhg\">Sometimes they can be caused by a lack of vitamins and minerals.</p><p data-block-key=\"51d3b\">If you have a small, fluid-filled blister on your lip, you may have a cold sore.</p><p data-block-key=\"c9lm4\">Most people with cold sores get a tingling, burning or itching feeling on their lip before the blister appears.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 13 February 2025<br/>\n    Next review due: 13 February 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

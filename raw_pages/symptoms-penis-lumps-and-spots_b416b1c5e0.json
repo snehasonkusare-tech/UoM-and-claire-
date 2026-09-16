@@ -1,0 +1,409 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/",
+  "final_url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:31.167912+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Penis lumps and spots",
+      "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Penis lumps and spots",
+  "meta_description": "Find out about lumps and spots on the penis, including what can cause them and when to get medical advice.",
+  "review_dates": {
+    "page_last_reviewed": "25 June 2024",
+    "next_review_due": "25 June 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about lumps and spots on the penis, including what can cause them and when to get medical advice."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nPenis lumps and spots\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about lumps and spots on the penis, including what can cause them and when to get medical advice."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:22 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "27 Jun 2024, 2:41 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Penis lumps and spots"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Penis lumps and spots"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:22:05+00:00",
+      "description": "Find out about lumps and spots on the penis, including what can cause them and when to get medical advice.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP or go to a sexual health clinic if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have a lump, sore or ulcer on your penis\n </li>\n<li>\n  you have a rash or spots on your penis\n </li>\n<li>\n  the tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin\n </li>\n<li>\n  you notice any changes to how your penis looks\n </li>\n<li>\n  you have symptoms that are not going away\n </li>\n</ul>\n<p>\n Try not to be embarrassed. The doctor or nurse will be used to talking about these symptoms.\n</p>\n<p>\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find a sexual health clinic near you\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have penis lumps or spots, a doctor or nurse will check your penis and may take a blood or pee sample to find out what's causing your symptoms.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have penis lumps or spots, a doctor or nurse at the GP surgery or sexual health clinic will look at your penis. They may also take a blood or pee sample, or wipe a cotton bud over the tip of your penis to test for infections.</p><p>They'll usually ask you:</p><ul><li>about your general health</li><li>what your symptoms are and when they started</li><li>when you last had sex and if you've had unprotected sex (sex without a condom)</li></ul><p>Treatment for a lump, spot or rash depends on what's causing it.</p><p>If the doctor or nurse is not sure what's causing your symptoms, they might refer you to a specialist or for further tests.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Penis lumps and spots can be caused by different things including sexually transmitted infections, skin conditions and, less often, penile cancer.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Lumps and spots on your penis can have lots of different causes.</p><p>Some lumps and spots are normal and do not need treatment. Others might be a sign of:</p><ul><li>a sexually transmitted infection like <a href=\"/conditions/genital-warts/\">genital warts</a> or <a href=\"/conditions/genital-herpes/\">herpes</a></li><li>a skin condition like <a href=\"/conditions/molluscum-contagiosum/\">molluscum contagiosum</a> or <a href=\"/conditions/lichen-planus/\">lichen planus</a></li></ul><p>Sometimes penis lumps or spots can be a sign of <a href=\"/conditions/penile-cancer/what-is-penile-cancer/\">penile cancer</a>, although this is rare.</p><p>Do not try to diagnose the cause of penis lumps or spots yourself. Always get medical help.</p>"
+            }
+          ],
+          "headline": "Causes of penis lumps and spots",
+          "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lumps or spots on the penis are not usually caused by anything serious, but you should always get them checked by a doctor or nurse.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Penis lumps and spots",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Penis lumps and spots",
+              "text": "Causes"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-06-24T23:00:00+00:00",
+        "2027-06-24T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Penis lumps and spots",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Penis lumps and spots",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/penis-lumps-and-spots/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Non-urgent advice: See a GP or go to a sexual health clinic if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP or go to a sexual health clinic if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP or go to a sexual health clinic if:\nyou have a lump, sore or ulcer on your penis\nyou have a rash or spots on your penis\nthe tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin\nyou notice any changes to how your penis looks\nyou have symptoms that are not going away\nTry not to be embarrassed. The doctor or nurse will be used to talking about these symptoms.\nFind a sexual health clinic near you",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have a lump, sore or ulcer on your penis",
+            "you have a rash or spots on your penis",
+            "the tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin",
+            "you notice any changes to how your penis looks",
+            "you have symptoms that are not going away"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a sexual health clinic near you",
+          "url": "https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or go to a sexual health clinic if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"hlncw\">you have a lump, sore or ulcer on your penis</li><li data-block-key=\"8iod6\">you have a rash or spots on your penis</li><li data-block-key=\"289c7\">the tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin</li><li data-block-key=\"1mqh7\">you notice any changes to how your penis looks</li><li data-block-key=\"fn2fr\">you have symptoms that are not going away</li></ul><p data-block-key=\"41q4n\">Try not to be embarrassed. The doctor or nurse will be used to talking about these symptoms.</p><p data-block-key=\"n5de\"></p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic near you</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nIf you have penis lumps or spots, a doctor or nurse at the GP surgery or sexual health clinic will look at your penis. They may also take a blood or pee sample, or wipe a cotton bud over the tip of your penis to test for infections.\nThey'll usually ask you:\nabout your general health\nwhat your symptoms are and when they started\nwhen you last had sex and if you've had unprotected sex (sex without a condom)\nTreatment for a lump, spot or rash depends on what's causing it.\nIf the doctor or nurse is not sure what's causing your symptoms, they might refer you to a specialist or for further tests.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "about your general health",
+            "what your symptoms are and when they started",
+            "when you last had sex and if you've had unprotected sex (sex without a condom)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"tmcpm\">If you have penis lumps or spots, a doctor or nurse at the GP surgery or sexual health clinic will look at your penis. They may also take a blood or pee sample, or wipe a cotton bud over the tip of your penis to test for infections.</p><p data-block-key=\"drv01\">They'll usually ask you:</p><ul><li data-block-key=\"8jdrf\">about your general health</li><li data-block-key=\"8suub\">what your symptoms are and when they started</li><li data-block-key=\"7huvb\">when you last had sex and if you've had unprotected sex (sex without a condom)</li></ul><p data-block-key=\"5ndge\">Treatment for a lump, spot or rash depends on what's causing it.</p><p data-block-key=\"aq1f9\">If the doctor or nurse is not sure what's causing your symptoms, they might refer you to a specialist or for further tests.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of penis lumps and spots",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of penis lumps and spots"
+        }
+      ],
+      "text": "Causes of penis lumps and spots\nLumps and spots on your penis can have lots of different causes.\nSome lumps and spots are normal and do not need treatment. Others might be a sign of:\na sexually transmitted infection like\ngenital warts\nor\nherpes\na skin condition like\nmolluscum contagiosum\nor\nlichen planus\nSometimes penis lumps or spots can be a sign of\npenile cancer\n, although this is rare.\nDo not try to diagnose the cause of penis lumps or spots yourself. Always get medical help.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a sexually transmitted infection like\ngenital warts\nor\nherpes",
+            "a skin condition like\nmolluscum contagiosum\nor\nlichen planus"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "genital warts",
+          "url": "https://www.nhs.uk/conditions/genital-warts/"
+        },
+        {
+          "text": "herpes",
+          "url": "https://www.nhs.uk/conditions/genital-herpes/"
+        },
+        {
+          "text": "molluscum contagiosum",
+          "url": "https://www.nhs.uk/conditions/molluscum-contagiosum/"
+        },
+        {
+          "text": "lichen planus",
+          "url": "https://www.nhs.uk/conditions/lichen-planus/"
+        },
+        {
+          "text": "penile cancer",
+          "url": "https://www.nhs.uk/conditions/penile-cancer/what-is-penile-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of penis lumps and spots</h2>\n<p data-block-key=\"tmcpm\">Lumps and spots on your penis can have lots of different causes.</p><p data-block-key=\"1mn84\">Some lumps and spots are normal and do not need treatment. Others might be a sign of:</p><ul><li data-block-key=\"c9i3k\">a sexually transmitted infection like <a href=\"/conditions/genital-warts/\">genital warts</a> or <a href=\"/conditions/genital-herpes/\">herpes</a></li><li data-block-key=\"fmv8m\">a skin condition like <a href=\"/conditions/molluscum-contagiosum/\">molluscum contagiosum</a> or <a href=\"/conditions/lichen-planus/\">lichen planus</a></li></ul><p data-block-key=\"8bs39\">Sometimes penis lumps or spots can be a sign of <a href=\"/conditions/penile-cancer/what-is-penile-cancer/\">penile cancer</a>, although this is rare.</p><p data-block-key=\"9fndm\">Do not try to diagnose the cause of penis lumps or spots yourself. Always get medical help.</p>\n</section>"
+    }
+  ],
+  "page_text": "Non-urgent advice:\nSee a GP or go to a sexual health clinic if:\nyou have a lump, sore or ulcer on your penis\nyou have a rash or spots on your penis\nthe tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin\nyou notice any changes to how your penis looks\nyou have symptoms that are not going away\nTry not to be embarrassed. The doctor or nurse will be used to talking about these symptoms.\nFind a sexual health clinic near you\nWhat happens at your appointment\nIf you have penis lumps or spots, a doctor or nurse at the GP surgery or sexual health clinic will look at your penis. They may also take a blood or pee sample, or wipe a cotton bud over the tip of your penis to test for infections.\nThey'll usually ask you:\nabout your general health\nwhat your symptoms are and when they started\nwhen you last had sex and if you've had unprotected sex (sex without a condom)\nTreatment for a lump, spot or rash depends on what's causing it.\nIf the doctor or nurse is not sure what's causing your symptoms, they might refer you to a specialist or for further tests.\nCauses of penis lumps and spots\nLumps and spots on your penis can have lots of different causes.\nSome lumps and spots are normal and do not need treatment. Others might be a sign of:\na sexually transmitted infection like\ngenital warts\nor\nherpes\na skin condition like\nmolluscum contagiosum\nor\nlichen planus\nSometimes penis lumps or spots can be a sign of\npenile cancer\n, although this is rare.\nDo not try to diagnose the cause of penis lumps or spots yourself. Always get medical help.\nPage last reviewed: 25 June 2024\nNext review due: 25 June 2027",
+  "links": [
+    {
+      "text": "Find a sexual health clinic near you",
+      "url": "https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic/"
+    },
+    {
+      "text": "genital warts",
+      "url": "https://www.nhs.uk/conditions/genital-warts/"
+    },
+    {
+      "text": "herpes",
+      "url": "https://www.nhs.uk/conditions/genital-herpes/"
+    },
+    {
+      "text": "molluscum contagiosum",
+      "url": "https://www.nhs.uk/conditions/molluscum-contagiosum/"
+    },
+    {
+      "text": "lichen planus",
+      "url": "https://www.nhs.uk/conditions/lichen-planus/"
+    },
+    {
+      "text": "penile cancer",
+      "url": "https://www.nhs.uk/conditions/penile-cancer/what-is-penile-cancer/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or go to a sexual health clinic if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"hlncw\">you have a lump, sore or ulcer on your penis</li><li data-block-key=\"8iod6\">you have a rash or spots on your penis</li><li data-block-key=\"289c7\">the tip of your penis is swollen, itchy, sore and red – redness may be less obvious on brown or black skin</li><li data-block-key=\"1mqh7\">you notice any changes to how your penis looks</li><li data-block-key=\"fn2fr\">you have symptoms that are not going away</li></ul><p data-block-key=\"41q4n\">Try not to be embarrassed. The doctor or nurse will be used to talking about these symptoms.</p><p data-block-key=\"n5de\"></p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic near you</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"tmcpm\">If you have penis lumps or spots, a doctor or nurse at the GP surgery or sexual health clinic will look at your penis. They may also take a blood or pee sample, or wipe a cotton bud over the tip of your penis to test for infections.</p><p data-block-key=\"drv01\">They'll usually ask you:</p><ul><li data-block-key=\"8jdrf\">about your general health</li><li data-block-key=\"8suub\">what your symptoms are and when they started</li><li data-block-key=\"7huvb\">when you last had sex and if you've had unprotected sex (sex without a condom)</li></ul><p data-block-key=\"5ndge\">Treatment for a lump, spot or rash depends on what's causing it.</p><p data-block-key=\"aq1f9\">If the doctor or nurse is not sure what's causing your symptoms, they might refer you to a specialist or for further tests.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of penis lumps and spots</h2>\n<p data-block-key=\"tmcpm\">Lumps and spots on your penis can have lots of different causes.</p><p data-block-key=\"1mn84\">Some lumps and spots are normal and do not need treatment. Others might be a sign of:</p><ul><li data-block-key=\"c9i3k\">a sexually transmitted infection like <a href=\"/conditions/genital-warts/\">genital warts</a> or <a href=\"/conditions/genital-herpes/\">herpes</a></li><li data-block-key=\"fmv8m\">a skin condition like <a href=\"/conditions/molluscum-contagiosum/\">molluscum contagiosum</a> or <a href=\"/conditions/lichen-planus/\">lichen planus</a></li></ul><p data-block-key=\"8bs39\">Sometimes penis lumps or spots can be a sign of <a href=\"/conditions/penile-cancer/what-is-penile-cancer/\">penile cancer</a>, although this is rare.</p><p data-block-key=\"9fndm\">Do not try to diagnose the cause of penis lumps or spots yourself. Always get medical help.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 25 June 2024<br/>\n    Next review due: 25 June 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

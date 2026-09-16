@@ -1,0 +1,448 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/night-sweats/",
+  "final_url": "https://www.nhs.uk/symptoms/night-sweats/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:20.196966+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "N",
+      "label": "Night sweats",
+      "url": "https://www.nhs.uk/symptoms/night-sweats/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "S",
+      "label": "Sweating at night, see Night sweats",
+      "url": "https://www.nhs.uk/symptoms/night-sweats/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Night sweats",
+  "meta_description": "Find out about night sweats, including what they are and what might be causing them, and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "09 November 2023",
+    "next_review_due": "09 November 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about night sweats, including what they are and what might be causing them, and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/night-sweats/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nNight sweats\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about night sweats, including what they are and what might be causing them, and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Dec 2025, 4:13 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 1:09 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Sweating at night"
+        ],
+        "name": "Night sweats"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/night-sweats/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Night sweats"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-12-09T16:13:48+00:00",
+      "description": "Find out about night sweats, including what they are and what might be causing them, and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Night sweats are when you sweat so much that your night clothes and bedding get soaking wet.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's normal to sweat during the night if the room or your bedding is making you too hot.</p><p>Night sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool.</p><p>Adults and children can get night sweats.</p>"
+            }
+          ],
+          "headline": "What night sweats are",
+          "url": "https://www.nhs.uk/symptoms/night-sweats/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have night sweats regularly that wake you up or worry you\n </li>\n<li>\n  you also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea\n </li>\n<li>\n  you have night sweats and you're losing weight for no reason\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/night-sweats/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment is not usually needed for night sweats. But if medicine you’re taking may be causing night sweats, your GP may prescribe a different one.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have night sweats, you will not usually need treatment, but the GP will want to check if you have any other symptoms.</p><p>If you're taking medicine and the GP thinks it might be causing night sweats, they may prescribe a different one.</p>"
+            }
+          ],
+          "headline": "Treatment for night sweats from a GP",
+          "url": "https://www.nhs.uk/symptoms/night-sweats/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of night sweats include the menopause, anxiety, medicines, low blood sugar, alcohol or drug use, and excessive sweating (hyperhidrosis).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The most common reasons for night sweats are:</p><ul><li><a href=\"/conditions/menopause/\">menopause</a> symptoms (\"hot flushes\")</li><li>anxiety</li><li>medicines, such as some antidepressants, steroids and painkillers</li><li><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a></li><li>alcohol or drug use</li><li>a harmless condition called <a href=\"/conditions/excessive-sweating-hyperhidrosis/\">hyperhidrosis</a> that makes you sweat too much all the time</li></ul><p>Sometimes the cause of night sweats is unknown.</p>"
+            }
+          ],
+          "headline": "Causes of night sweats",
+          "url": "https://www.nhs.uk/symptoms/night-sweats/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "It’s normal to sweat at night if you get too hot. But sweating a lot could be a sign of a problem your GP should check.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Night sweats",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Night sweats",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Night sweats",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Night sweats are when you sweat so much that your night clothes and bedding get soaking wet.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of night sweats include the menopause, anxiety, medicines, low blood sugar, alcohol or drug use, and excessive sweating (hyperhidrosis).</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment is not usually needed for night sweats. But if medicine you’re taking may be causing night sweats, your GP may prescribe a different one.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/night-sweats/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-11-09T00:00:00+00:00",
+        "2026-11-09T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Night sweats",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Night sweats",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/night-sweats/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/night-sweats/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Most people sweat during the night. If you regularly wake up with soaking wet sheets you should get it checked by a GP.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"7d2je\"><b>Most people sweat during the night. If you regularly wake up with soaking wet sheets you should get it checked by a GP.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "What night sweats are",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What night sweats are"
+        }
+      ],
+      "text": "What night sweats are\nIt's normal to sweat during the night if the room or your bedding is making you too hot.\nNight sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool.\nAdults and children can get night sweats.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">What night sweats are</h2>\n<p data-block-key=\"ukwtx\">It's normal to sweat during the night if the room or your bedding is making you too hot.</p><p data-block-key=\"fodue\">Night sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool.</p><p data-block-key=\"2n6hi\">Adults and children can get night sweats.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have night sweats regularly that wake you up or worry you\nyou also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea\nyou have night sweats and you're losing weight for no reason",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have night sweats regularly that wake you up or worry you",
+            "you also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea",
+            "you have night sweats and you're losing weight for no reason"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"h1awt\">you have night sweats regularly that wake you up or worry you</li><li data-block-key=\"r4e58\">you also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea</li><li data-block-key=\"qzbdc\">you have night sweats and you're losing weight for no reason</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment for night sweats from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for night sweats from a GP"
+        }
+      ],
+      "text": "Treatment for night sweats from a GP\nIf you have night sweats, you will not usually need treatment, but the GP will want to check if you have any other symptoms.\nIf you're taking medicine and the GP thinks it might be causing night sweats, they may prescribe a different one.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for night sweats from a GP</h2>\n<p data-block-key=\"8jokj\">If you have night sweats, you will not usually need treatment, but the GP will want to check if you have any other symptoms.</p><p data-block-key=\"vdqd9\">If you're taking medicine and the GP thinks it might be causing night sweats, they may prescribe a different one.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of night sweats",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of night sweats"
+        }
+      ],
+      "text": "Causes of night sweats\nThe most common reasons for night sweats are:\nmenopause\nsymptoms (\"hot flushes\")\nanxiety\nmedicines, such as some antidepressants, steroids and painkillers\nlow blood sugar (hypoglycaemia)\nalcohol or drug use\na harmless condition called\nhyperhidrosis\nthat makes you sweat too much all the time\nSometimes the cause of night sweats is unknown.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "menopause\nsymptoms (\"hot flushes\")",
+            "anxiety",
+            "medicines, such as some antidepressants, steroids and painkillers",
+            "low blood sugar (hypoglycaemia)",
+            "alcohol or drug use",
+            "a harmless condition called\nhyperhidrosis\nthat makes you sweat too much all the time"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        },
+        {
+          "text": "low blood sugar (hypoglycaemia)",
+          "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+        },
+        {
+          "text": "hyperhidrosis",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of night sweats</h2>\n<p data-block-key=\"liypv\">The most common reasons for night sweats are:</p><ul><li data-block-key=\"6lrxj\"><a href=\"/conditions/menopause/\">menopause</a> symptoms (\"hot flushes\")</li><li data-block-key=\"f8ip1\">anxiety</li><li data-block-key=\"6hqsq\">medicines, such as some antidepressants, steroids and painkillers</li><li data-block-key=\"kuz0r\"><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a></li><li data-block-key=\"3jl0o\">alcohol or drug use</li><li data-block-key=\"tg0vl\">a harmless condition called <a href=\"/conditions/excessive-sweating-hyperhidrosis/\">hyperhidrosis</a> that makes you sweat too much all the time</li></ul><p data-block-key=\"6uhu2\">Sometimes the cause of night sweats is unknown.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Most people sweat during the night. If you regularly wake up with soaking wet sheets you should get it checked by a GP.\nWhat night sweats are\nIt's normal to sweat during the night if the room or your bedding is making you too hot.\nNight sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool.\nAdults and children can get night sweats.\nNon-urgent advice:\nSee a GP if:\nyou have night sweats regularly that wake you up or worry you\nyou also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea\nyou have night sweats and you're losing weight for no reason\nTreatment for night sweats from a GP\nIf you have night sweats, you will not usually need treatment, but the GP will want to check if you have any other symptoms.\nIf you're taking medicine and the GP thinks it might be causing night sweats, they may prescribe a different one.\nCauses of night sweats\nThe most common reasons for night sweats are:\nmenopause\nsymptoms (\"hot flushes\")\nanxiety\nmedicines, such as some antidepressants, steroids and painkillers\nlow blood sugar (hypoglycaemia)\nalcohol or drug use\na harmless condition called\nhyperhidrosis\nthat makes you sweat too much all the time\nSometimes the cause of night sweats is unknown.\nPage last reviewed: 09 November 2023\nNext review due: 09 November 2026",
+  "links": [
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "low blood sugar (hypoglycaemia)",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+    },
+    {
+      "text": "hyperhidrosis",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"7d2je\"><b>Most people sweat during the night. If you regularly wake up with soaking wet sheets you should get it checked by a GP.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">What night sweats are</h2>\n<p data-block-key=\"ukwtx\">It's normal to sweat during the night if the room or your bedding is making you too hot.</p><p data-block-key=\"fodue\">Night sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool.</p><p data-block-key=\"2n6hi\">Adults and children can get night sweats.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"h1awt\">you have night sweats regularly that wake you up or worry you</li><li data-block-key=\"r4e58\">you also have a very high temperature (or feel hot, cold or shivery), a cough or diarrhoea</li><li data-block-key=\"qzbdc\">you have night sweats and you're losing weight for no reason</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for night sweats from a GP</h2>\n<p data-block-key=\"8jokj\">If you have night sweats, you will not usually need treatment, but the GP will want to check if you have any other symptoms.</p><p data-block-key=\"vdqd9\">If you're taking medicine and the GP thinks it might be causing night sweats, they may prescribe a different one.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of night sweats</h2>\n<p data-block-key=\"liypv\">The most common reasons for night sweats are:</p><ul><li data-block-key=\"6lrxj\"><a href=\"/conditions/menopause/\">menopause</a> symptoms (\"hot flushes\")</li><li data-block-key=\"f8ip1\">anxiety</li><li data-block-key=\"6hqsq\">medicines, such as some antidepressants, steroids and painkillers</li><li data-block-key=\"kuz0r\"><a href=\"/conditions/low-blood-sugar-hypoglycaemia/\">low blood sugar (hypoglycaemia)</a></li><li data-block-key=\"3jl0o\">alcohol or drug use</li><li data-block-key=\"tg0vl\">a harmless condition called <a href=\"/conditions/excessive-sweating-hyperhidrosis/\">hyperhidrosis</a> that makes you sweat too much all the time</li></ul><p data-block-key=\"6uhu2\">Sometimes the cause of night sweats is unknown.</p>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 09 November 2023<br/>\n    Next review due: 09 November 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,436 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/testicle-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/testicle-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:23.466443+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Pain in testicles, see Testicle pain",
+      "url": "https://www.nhs.uk/symptoms/testicle-pain/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "T",
+      "label": "Testicle pain",
+      "url": "https://www.nhs.uk/symptoms/testicle-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Testicle pain",
+  "meta_description": "Find out about causes of pain in testicles (balls) and when and where to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "26 June 2025",
+    "next_review_due": "26 June 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about causes of pain in testicles (balls) and when and where to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/testicle-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nTesticle pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about causes of pain in testicles (balls) and when and where to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "4 Jul 2025, 2:01 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "21 Dec 2021, 12:49 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Pain in testicles"
+        ],
+        "name": "Testicle pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/testicle-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Testicle pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-04T13:01:25+00:00",
+      "description": "Find out about causes of pain in testicles (balls) and when and where to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E immediately or call 999 if you have:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  sudden, severe pain in a testicle\n </li>\n<li>\n  testicle pain along with feeling sick, being sick or pain in your tummy\n </li>\n<li>\n  testicle pain that has lasted more than an hour or continues when you're resting\n </li>\n</ul>\n<p>\n These can be signs of a serious problem that needs to be treated in hospital as soon as possible.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  aching or discomfort in your testicles that you're worried about\n </li>\n<li>\n  a lump in your testicles\n </li>\n<li>\n  swollen testicles\n </li>\n<li>\n  a change in the shape of your testicles\n </li>\n<li>\n  a change in the way your testicles feel\n </li>\n<li>\n  a testicle that has become bigger than the other\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of testicle pain include twisting of the testicle (testicular torsion), infection and injury. Pain by itself is not usually a sign of cancer.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Sudden, severe testicle pain can be caused by twisting of the testicle (testicular torsion).</p><p>This is a serious problem that can lead to the loss of the testicle if it's not treated quickly.</p><p>Other causes of testicle pain include:</p><ul><li>an infection (<a href=\"/conditions/epididymitis/\">epididymitis</a>)</li><li>an injury</li><li>an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a></li><li>a build-up of fluid (cyst)</li><li>swollen veins in the testicles (varicocele)</li></ul><p>Pain by itself is not usually a sign of <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>. Cancer usually causes other symptoms like a <a href=\"/symptoms/testicle-lumps-and-swellings/\">lump or swelling in your testicle</a>.</p><p>Do not try to self-diagnose the cause of your pain. Get medical help if you're worried.</p>"
+            }
+          ],
+          "headline": "Causes of testicle pain",
+          "url": "https://www.nhs.uk/symptoms/testicle-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pain in the testicles (balls) is usually caused by an infection or injury.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Testicle pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of testicle pain include twisting of the testicle (testicular torsion), infection and injury. Pain by itself is not usually a sign of cancer.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-06-26T13:59:00+00:00",
+        "2028-06-26T13:59:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Testicle pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Testicle pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/testicle-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/testicle-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "There are lots of possible causes of pain in the testicles (balls). It can sometimes be serious, so get medical help straight away if the pain is sudden, severe or does not go away.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"kh2yu\"><b>There are lots of possible causes of pain in the testicles (balls). It can sometimes be serious, so get medical help straight away if the pain is sudden, severe or does not go away.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Immediate action required: Go to A&E immediately or call 999 if you have:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E immediately or call 999 if you have:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E immediately or call 999 if you have:\nsudden, severe pain in a testicle\ntesticle pain along with feeling sick, being sick or pain in your tummy\ntesticle pain that has lasted more than an hour or continues when you're resting\nThese can be signs of a serious problem that needs to be treated in hospital as soon as possible.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "sudden, severe pain in a testicle",
+            "testicle pain along with feeling sick, being sick or pain in your tummy",
+            "testicle pain that has lasted more than an hour or continues when you're resting"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E immediately or call 999 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yh9go\">sudden, severe pain in a testicle</li><li data-block-key=\"bcjcn\">testicle pain along with feeling sick, being sick or pain in your tummy</li><li data-block-key=\"ar0ch\">testicle pain that has lasted more than an hour or continues when you're resting</li></ul><p data-block-key=\"fe4b4\">These can be signs of a serious problem that needs to be treated in hospital as soon as possible.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if you have:\naching or discomfort in your testicles that you're worried about\na lump in your testicles\nswollen testicles\na change in the shape of your testicles\na change in the way your testicles feel\na testicle that has become bigger than the other\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "aching or discomfort in your testicles that you're worried about",
+            "a lump in your testicles",
+            "swollen testicles",
+            "a change in the shape of your testicles",
+            "a change in the way your testicles feel",
+            "a testicle that has become bigger than the other"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yh9go\">aching or discomfort in your testicles that you're worried about</li><li data-block-key=\"ft6aq\">a lump in your testicles</li><li data-block-key=\"8lctm\">swollen testicles</li><li data-block-key=\"2asa6\">a change in the shape of your testicles</li><li data-block-key=\"blua8\">a change in the way your testicles feel</li><li data-block-key=\"4o6ul\">a testicle that has become bigger than the other</li></ul><p data-block-key=\"5oiep\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Causes of testicle pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of testicle pain"
+        }
+      ],
+      "text": "Causes of testicle pain\nSudden, severe testicle pain can be caused by twisting of the testicle (testicular torsion).\nThis is a serious problem that can lead to the loss of the testicle if it's not treated quickly.\nOther causes of testicle pain include:\nan infection (\nepididymitis\n)\nan injury\nan\ninguinal hernia\na build-up of fluid (cyst)\nswollen veins in the testicles (varicocele)\nPain by itself is not usually a sign of\ntesticular cancer\n. Cancer usually causes other symptoms like a\nlump or swelling in your testicle\n.\nDo not try to self-diagnose the cause of your pain. Get medical help if you're worried.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an infection (\nepididymitis\n)",
+            "an injury",
+            "an\ninguinal hernia",
+            "a build-up of fluid (cyst)",
+            "swollen veins in the testicles (varicocele)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "epididymitis",
+          "url": "https://www.nhs.uk/conditions/epididymitis/"
+        },
+        {
+          "text": "inguinal hernia",
+          "url": "https://www.nhs.uk/tests-and-treatments/inguinal-hernia-repair/"
+        },
+        {
+          "text": "testicular cancer",
+          "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+        },
+        {
+          "text": "lump or swelling in your testicle",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of testicle pain</h2>\n<p data-block-key=\"kh2yu\">Sudden, severe testicle pain can be caused by twisting of the testicle (testicular torsion).</p><p data-block-key=\"7kb9b\">This is a serious problem that can lead to the loss of the testicle if it's not treated quickly.</p><p data-block-key=\"7jf3\">Other causes of testicle pain include:</p><ul><li data-block-key=\"cb55u\">an infection (<a href=\"/conditions/epididymitis/\">epididymitis</a>)</li><li data-block-key=\"6u7h3\">an injury</li><li data-block-key=\"e1m9k\">an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a></li><li data-block-key=\"861gg\">a build-up of fluid (cyst)</li><li data-block-key=\"es2lr\">swollen veins in the testicles (varicocele)</li></ul><p data-block-key=\"d22ab\">Pain by itself is not usually a sign of <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>. Cancer usually causes other symptoms like a <a href=\"/symptoms/testicle-lumps-and-swellings/\">lump or swelling in your testicle</a>.</p><p data-block-key=\"ast8j\">Do not try to self-diagnose the cause of your pain. Get medical help if you're worried.</p>\n</section>"
+    }
+  ],
+  "page_text": "There are lots of possible causes of pain in the testicles (balls). It can sometimes be serious, so get medical help straight away if the pain is sudden, severe or does not go away.\nImmediate action required:\nGo to A&E immediately or call 999 if you have:\nsudden, severe pain in a testicle\ntesticle pain along with feeling sick, being sick or pain in your tummy\ntesticle pain that has lasted more than an hour or continues when you're resting\nThese can be signs of a serious problem that needs to be treated in hospital as soon as possible.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if you have:\naching or discomfort in your testicles that you're worried about\na lump in your testicles\nswollen testicles\na change in the shape of your testicles\na change in the way your testicles feel\na testicle that has become bigger than the other\nYou can call 111 or\nget help from 111 online\n.\nCauses of testicle pain\nSudden, severe testicle pain can be caused by twisting of the testicle (testicular torsion).\nThis is a serious problem that can lead to the loss of the testicle if it's not treated quickly.\nOther causes of testicle pain include:\nan infection (\nepididymitis\n)\nan injury\nan\ninguinal hernia\na build-up of fluid (cyst)\nswollen veins in the testicles (varicocele)\nPain by itself is not usually a sign of\ntesticular cancer\n. Cancer usually causes other symptoms like a\nlump or swelling in your testicle\n.\nDo not try to self-diagnose the cause of your pain. Get medical help if you're worried.\nPage last reviewed: 26 June 2025\nNext review due: 26 June 2028",
+  "links": [
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "epididymitis",
+      "url": "https://www.nhs.uk/conditions/epididymitis/"
+    },
+    {
+      "text": "inguinal hernia",
+      "url": "https://www.nhs.uk/tests-and-treatments/inguinal-hernia-repair/"
+    },
+    {
+      "text": "testicular cancer",
+      "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+    },
+    {
+      "text": "lump or swelling in your testicle",
+      "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"kh2yu\"><b>There are lots of possible causes of pain in the testicles (balls). It can sometimes be serious, so get medical help straight away if the pain is sudden, severe or does not go away.</b></p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E immediately or call 999 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yh9go\">sudden, severe pain in a testicle</li><li data-block-key=\"bcjcn\">testicle pain along with feeling sick, being sick or pain in your tummy</li><li data-block-key=\"ar0ch\">testicle pain that has lasted more than an hour or continues when you're resting</li></ul><p data-block-key=\"fe4b4\">These can be signs of a serious problem that needs to be treated in hospital as soon as possible.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yh9go\">aching or discomfort in your testicles that you're worried about</li><li data-block-key=\"ft6aq\">a lump in your testicles</li><li data-block-key=\"8lctm\">swollen testicles</li><li data-block-key=\"2asa6\">a change in the shape of your testicles</li><li data-block-key=\"blua8\">a change in the way your testicles feel</li><li data-block-key=\"4o6ul\">a testicle that has become bigger than the other</li></ul><p data-block-key=\"5oiep\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of testicle pain</h2>\n<p data-block-key=\"kh2yu\">Sudden, severe testicle pain can be caused by twisting of the testicle (testicular torsion).</p><p data-block-key=\"7kb9b\">This is a serious problem that can lead to the loss of the testicle if it's not treated quickly.</p><p data-block-key=\"7jf3\">Other causes of testicle pain include:</p><ul><li data-block-key=\"cb55u\">an infection (<a href=\"/conditions/epididymitis/\">epididymitis</a>)</li><li data-block-key=\"6u7h3\">an injury</li><li data-block-key=\"e1m9k\">an <a href=\"/tests-and-treatments/inguinal-hernia-repair/\">inguinal hernia</a></li><li data-block-key=\"861gg\">a build-up of fluid (cyst)</li><li data-block-key=\"es2lr\">swollen veins in the testicles (varicocele)</li></ul><p data-block-key=\"d22ab\">Pain by itself is not usually a sign of <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>. Cancer usually causes other symptoms like a <a href=\"/symptoms/testicle-lumps-and-swellings/\">lump or swelling in your testicle</a>.</p><p data-block-key=\"ast8j\">Do not try to self-diagnose the cause of your pain. Get medical help if you're worried.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 26 June 2025<br/>\n    Next review due: 26 June 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

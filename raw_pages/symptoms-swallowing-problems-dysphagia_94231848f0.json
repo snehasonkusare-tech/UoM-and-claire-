@@ -1,0 +1,549 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/",
+  "final_url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:21.794854+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "D",
+      "label": "Dysphagia (swallowing problems)",
+      "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "S",
+      "label": "Swallowing problems, see Dysphagia (swallowing problems)",
+      "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Dysphagia (swallowing problems)",
+  "meta_description": "Find out more about dysphagia, where you have problems swallowing.",
+  "review_dates": {
+    "page_last_reviewed": "02 May 2023",
+    "next_review_due": "02 May 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out more about dysphagia, where you have problems swallowing."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nDysphagia (swallowing problems)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out more about dysphagia, where you have problems swallowing."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "27 Mar 2026, 4:45 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 5:01 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Swallowing problems"
+        ],
+        "name": "Dysphagia (swallowing problems)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Dysphagia (swallowing problems)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-03-27T16:45:59+00:00",
+      "description": "Find out more about dysphagia, where you have problems swallowing.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of dysphagia include coughing or choking when eating or drinking, feeling like food is stuck in your throat, and bringing food back up.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Some people with dysphagia have problems swallowing certain foods or drinks, while others cannot swallow at all.</p><p>Signs of dysphagia include:</p><ul><li>coughing or choking when eating or drinking</li><li>bringing food back up, sometimes through the nose</li><li>a feeling that food is stuck in your throat or chest</li><li>a gurgly, wet-sounding voice when eating or drinking</li></ul><p>You may also drool and have problems chewing your food.</p><p>Over time, dysphagia can also cause symptoms such as weight loss, <a href=\"/conditions/dehydration/\">dehydration</a> and repeated <a href=\"/conditions/chest-infection/\">chest infections</a>.</p>"
+            }
+          ],
+          "headline": "Symptoms of dysphagia",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of dysphagia include some medicines, conditions such as a stroke or dementia, and heartburn and acid reflux.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Dysphagia is usually caused by another health condition and can happen at any age.</p><p>You may be more likely to have dysphagia if you:</p><ul><li>take some medicines, such as antipsychotics</li><li>have a <a href=\"/conditions/learning-disabilities/\">learning disability</a></li><li>have <a href=\"/conditions/heartburn-and-acid-reflux/\">heartburn and acid reflux</a>, especially in children or people who have gastro-oesophageal reflux disease</li><li>have problems with your breathing caused by conditions like <a href=\"/conditions/chronic-obstructive-pulmonary-disease-copd/\">chronic obstructive pulmonary disease (COPD)</a></li><li>have a condition that affects the nervous system or brain, such as <a href=\"/conditions/cerebral-palsy/\">cerebral palsy</a>, a <a href=\"/conditions/stroke/\">stroke</a>, <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a> or <a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li><li>have cancer, such as <a href=\"/conditions/mouth-cancer/\">mouth cancer</a> or <a href=\"/conditions/oesophageal-cancer/\">oesophageal cancer</a></li></ul><p>Babies with a <a href=\"/conditions/cleft-lip-and-palate/\">cleft lip and palate</a> can also have dysphagia.</p>"
+            }
+          ],
+          "headline": "Causes of dysphagia",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You, your child or someone you care for:\n</p>\n<ul>\n<li>\n  has difficulty swallowing\n </li>\n<li>\n  coughs or chokes while eating or drinking\n </li>\n<li>\n  feels like something's stuck in the throat after eating\n </li>\n<li>\n  keeps bringing food or milk back up, sometimes through the nose\n </li>\n<li>\n  cries a lot or arches their back when feeding\n </li>\n<li>\n  has a wet, gurgly voice after eating or drinking\n </li>\n<li>\n  is short of breath after eating or drinking\n </li>\n<li>\n  gets lots of chest infections\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "How dysphagia is treated depends on the cause and how severe it is. Treatments can include medicines for acid reflux and swallowing therapy.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Your GP will examine you and may refer you to a specialist for further tests.</p><p>You may also be referred to a speech and language therapist or a dietitian for advice about swallowing and your diet.</p><p>Treatment for dysphagia depends on what's causing it and how severe it is.</p><p>If your swallowing problems are being caused by a condition like acid reflux, the problem may get better on its own.</p><p>But if the cause is longer term, you may need specialist treatment to make eating and drinking as safe as possible.</p><p>This may include:</p><ul><li>medicines to treat acid reflux</li><li>swallowing therapy with a speech and language therapist</li><li>making changes to what you eat and drink, such as softer foods and using thickener in drinks</li><li>using special spoons, plates and cups</li><li>feeding tubes through your nose or a hole into your stomach</li><li>surgery to widen your oesophagus</li><li>injections to relax the muscles in your oesophagus and allow food and drink to reach the stomach</li></ul>"
+            }
+          ],
+          "headline": "Treatments for dysphagia",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Dysphagia is where you have problems swallowing. It's usually caused by certain medicines or another condition, such as acid reflux or a stroke.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Dysphagia (swallowing problems)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dysphagia (swallowing problems)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Dysphagia (swallowing problems)",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of dysphagia include coughing or choking when eating or drinking, feeling like food is stuck in your throat, and bringing food back up.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of dysphagia include some medicines, conditions such as a stroke or dementia, and heartburn and acid reflux.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>How dysphagia is treated depends on the cause and how severe it is. Treatments can include medicines for acid reflux and swallowing therapy.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-05-01T23:00:00+00:00",
+        "2026-05-01T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Dysphagia (swallowing problems)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Dysphagia (swallowing problems)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Dysphagia is where you have problems swallowing. It's usually caused by certain medicines or another condition, such as acid reflux or a stroke.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"ryloh\"><b>Dysphagia is where you have problems swallowing. It's usually caused by certain medicines or another condition, such as acid reflux or a stroke.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of dysphagia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of dysphagia"
+        }
+      ],
+      "text": "Symptoms of dysphagia\nSome people with dysphagia have problems swallowing certain foods or drinks, while others cannot swallow at all.\nSigns of dysphagia include:\ncoughing or choking when eating or drinking\nbringing food back up, sometimes through the nose\na feeling that food is stuck in your throat or chest\na gurgly, wet-sounding voice when eating or drinking\nYou may also drool and have problems chewing your food.\nOver time, dysphagia can also cause symptoms such as weight loss,\ndehydration\nand repeated\nchest infections\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "coughing or choking when eating or drinking",
+            "bringing food back up, sometimes through the nose",
+            "a feeling that food is stuck in your throat or chest",
+            "a gurgly, wet-sounding voice when eating or drinking"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        },
+        {
+          "text": "chest infections",
+          "url": "https://www.nhs.uk/conditions/chest-infection/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of dysphagia</h2>\n<p data-block-key=\"4jicl\">Some people with dysphagia have problems swallowing certain foods or drinks, while others cannot swallow at all.</p><p data-block-key=\"c1h15\">Signs of dysphagia include:</p><ul><li data-block-key=\"a62pe\">coughing or choking when eating or drinking</li><li data-block-key=\"aq9hk\">bringing food back up, sometimes through the nose</li><li data-block-key=\"csagf\">a feeling that food is stuck in your throat or chest</li><li data-block-key=\"6a02p\">a gurgly, wet-sounding voice when eating or drinking</li></ul><p data-block-key=\"cfu25\">You may also drool and have problems chewing your food.</p><p data-block-key=\"cu1c8\">Over time, dysphagia can also cause symptoms such as weight loss, <a href=\"/conditions/dehydration/\">dehydration</a> and repeated <a href=\"/conditions/chest-infection/\">chest infections</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of dysphagia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of dysphagia"
+        }
+      ],
+      "text": "Causes of dysphagia\nDysphagia is usually caused by another health condition and can happen at any age.\nYou may be more likely to have dysphagia if you:\ntake some medicines, such as antipsychotics\nhave a\nlearning disability\nhave\nheartburn and acid reflux\n, especially in children or people who have gastro-oesophageal reflux disease\nhave problems with your breathing caused by conditions like\nchronic obstructive pulmonary disease (COPD)\nhave a condition that affects the nervous system or brain, such as\ncerebral palsy\n, a\nstroke\n,\ndementia\nor\nmultiple sclerosis\nhave cancer, such as\nmouth cancer\nor\noesophageal cancer\nBabies with a\ncleft lip and palate\ncan also have dysphagia.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "take some medicines, such as antipsychotics",
+            "have a\nlearning disability",
+            "have\nheartburn and acid reflux\n, especially in children or people who have gastro-oesophageal reflux disease",
+            "have problems with your breathing caused by conditions like\nchronic obstructive pulmonary disease (COPD)",
+            "have a condition that affects the nervous system or brain, such as\ncerebral palsy\n, a\nstroke\n,\ndementia\nor\nmultiple sclerosis",
+            "have cancer, such as\nmouth cancer\nor\noesophageal cancer"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "learning disability",
+          "url": "https://www.nhs.uk/conditions/learning-disabilities/"
+        },
+        {
+          "text": "heartburn and acid reflux",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+        },
+        {
+          "text": "chronic obstructive pulmonary disease (COPD)",
+          "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"
+        },
+        {
+          "text": "cerebral palsy",
+          "url": "https://www.nhs.uk/conditions/cerebral-palsy/"
+        },
+        {
+          "text": "stroke",
+          "url": "https://www.nhs.uk/conditions/stroke/"
+        },
+        {
+          "text": "dementia",
+          "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+        },
+        {
+          "text": "multiple sclerosis",
+          "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+        },
+        {
+          "text": "mouth cancer",
+          "url": "https://www.nhs.uk/conditions/mouth-cancer/"
+        },
+        {
+          "text": "oesophageal cancer",
+          "url": "https://www.nhs.uk/conditions/oesophageal-cancer/"
+        },
+        {
+          "text": "cleft lip and palate",
+          "url": "https://www.nhs.uk/conditions/cleft-lip-and-palate/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of dysphagia</h2>\n<p data-block-key=\"4jicl\">Dysphagia is usually caused by another health condition and can happen at any age.</p><p data-block-key=\"bau6d\">You may be more likely to have dysphagia if you:</p><ul><li data-block-key=\"4ocn0\">take some medicines, such as antipsychotics</li><li data-block-key=\"5r5hd\">have a <a href=\"/conditions/learning-disabilities/\">learning disability</a></li><li data-block-key=\"792de\">have <a href=\"/conditions/heartburn-and-acid-reflux/\">heartburn and acid reflux</a>, especially in children or people who have gastro-oesophageal reflux disease</li><li data-block-key=\"a6g1q\">have problems with your breathing caused by conditions like <a href=\"/conditions/chronic-obstructive-pulmonary-disease-copd/\">chronic obstructive pulmonary disease (COPD)</a></li><li data-block-key=\"75qp2\">have a condition that affects the nervous system or brain, such as <a href=\"/conditions/cerebral-palsy/\">cerebral palsy</a>, a <a href=\"/conditions/stroke/\">stroke</a>, <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a> or <a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li><li data-block-key=\"e1tat\">have cancer, such as <a href=\"/conditions/mouth-cancer/\">mouth cancer</a> or <a href=\"/conditions/oesophageal-cancer/\">oesophageal cancer</a></li></ul><p data-block-key=\"6tn10\">Babies with a <a href=\"/conditions/cleft-lip-and-palate/\">cleft lip and palate</a> can also have dysphagia.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nYou, your child or someone you care for:\nhas difficulty swallowing\ncoughs or chokes while eating or drinking\nfeels like something's stuck in the throat after eating\nkeeps bringing food or milk back up, sometimes through the nose\ncries a lot or arches their back when feeding\nhas a wet, gurgly voice after eating or drinking\nis short of breath after eating or drinking\ngets lots of chest infections\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "has difficulty swallowing",
+            "coughs or chokes while eating or drinking",
+            "feels like something's stuck in the throat after eating",
+            "keeps bringing food or milk back up, sometimes through the nose",
+            "cries a lot or arches their back when feeding",
+            "has a wet, gurgly voice after eating or drinking",
+            "is short of breath after eating or drinking",
+            "gets lots of chest infections"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"creav\">You, your child or someone you care for:</p><ul><li data-block-key=\"7s9jt\">has difficulty swallowing</li><li data-block-key=\"frfpv\">coughs or chokes while eating or drinking</li><li data-block-key=\"6u4pd\">feels like something's stuck in the throat after eating</li><li data-block-key=\"bqm01\">keeps bringing food or milk back up, sometimes through the nose</li><li data-block-key=\"1k0pl\">cries a lot or arches their back when feeding</li><li data-block-key=\"945tg\">has a wet, gurgly voice after eating or drinking</li><li data-block-key=\"5l295\">is short of breath after eating or drinking</li><li data-block-key=\"2ltg3\">gets lots of chest infections</li></ul><p data-block-key=\"epset\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments for dysphagia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for dysphagia"
+        }
+      ],
+      "text": "Treatments for dysphagia\nYour GP will examine you and may refer you to a specialist for further tests.\nYou may also be referred to a speech and language therapist or a dietitian for advice about swallowing and your diet.\nTreatment for dysphagia depends on what's causing it and how severe it is.\nIf your swallowing problems are being caused by a condition like acid reflux, the problem may get better on its own.\nBut if the cause is longer term, you may need specialist treatment to make eating and drinking as safe as possible.\nThis may include:\nmedicines to treat acid reflux\nswallowing therapy with a speech and language therapist\nmaking changes to what you eat and drink, such as softer foods and using thickener in drinks\nusing special spoons, plates and cups\nfeeding tubes through your nose or a hole into your stomach\nsurgery to widen your oesophagus\ninjections to relax the muscles in your oesophagus and allow food and drink to reach the stomach",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "medicines to treat acid reflux",
+            "swallowing therapy with a speech and language therapist",
+            "making changes to what you eat and drink, such as softer foods and using thickener in drinks",
+            "using special spoons, plates and cups",
+            "feeding tubes through your nose or a hole into your stomach",
+            "surgery to widen your oesophagus",
+            "injections to relax the muscles in your oesophagus and allow food and drink to reach the stomach"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for dysphagia</h2>\n<p data-block-key=\"4jicl\">Your GP will examine you and may refer you to a specialist for further tests.</p><p data-block-key=\"8put8\">You may also be referred to a speech and language therapist or a dietitian for advice about swallowing and your diet.</p><p data-block-key=\"3h4u8\">Treatment for dysphagia depends on what's causing it and how severe it is.</p><p data-block-key=\"1un6b\">If your swallowing problems are being caused by a condition like acid reflux, the problem may get better on its own.</p><p data-block-key=\"c0i5b\">But if the cause is longer term, you may need specialist treatment to make eating and drinking as safe as possible.</p><p data-block-key=\"eqd28\">This may include:</p><ul><li data-block-key=\"9c2c0\">medicines to treat acid reflux</li><li data-block-key=\"aatia\">swallowing therapy with a speech and language therapist</li><li data-block-key=\"3i0vq\">making changes to what you eat and drink, such as softer foods and using thickener in drinks</li><li data-block-key=\"d1842\">using special spoons, plates and cups</li><li data-block-key=\"davg0\">feeding tubes through your nose or a hole into your stomach</li><li data-block-key=\"bqj\">surgery to widen your oesophagus</li><li data-block-key=\"6irtj\">injections to relax the muscles in your oesophagus and allow food and drink to reach the stomach</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Dysphagia is where you have problems swallowing. It's usually caused by certain medicines or another condition, such as acid reflux or a stroke.\nSymptoms of dysphagia\nSome people with dysphagia have problems swallowing certain foods or drinks, while others cannot swallow at all.\nSigns of dysphagia include:\ncoughing or choking when eating or drinking\nbringing food back up, sometimes through the nose\na feeling that food is stuck in your throat or chest\na gurgly, wet-sounding voice when eating or drinking\nYou may also drool and have problems chewing your food.\nOver time, dysphagia can also cause symptoms such as weight loss,\ndehydration\nand repeated\nchest infections\n.\nCauses of dysphagia\nDysphagia is usually caused by another health condition and can happen at any age.\nYou may be more likely to have dysphagia if you:\ntake some medicines, such as antipsychotics\nhave a\nlearning disability\nhave\nheartburn and acid reflux\n, especially in children or people who have gastro-oesophageal reflux disease\nhave problems with your breathing caused by conditions like\nchronic obstructive pulmonary disease (COPD)\nhave a condition that affects the nervous system or brain, such as\ncerebral palsy\n, a\nstroke\n,\ndementia\nor\nmultiple sclerosis\nhave cancer, such as\nmouth cancer\nor\noesophageal cancer\nBabies with a\ncleft lip and palate\ncan also have dysphagia.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nYou, your child or someone you care for:\nhas difficulty swallowing\ncoughs or chokes while eating or drinking\nfeels like something's stuck in the throat after eating\nkeeps bringing food or milk back up, sometimes through the nose\ncries a lot or arches their back when feeding\nhas a wet, gurgly voice after eating or drinking\nis short of breath after eating or drinking\ngets lots of chest infections\nYou can call 111 or\nget help from 111 online\n.\nTreatments for dysphagia\nYour GP will examine you and may refer you to a specialist for further tests.\nYou may also be referred to a speech and language therapist or a dietitian for advice about swallowing and your diet.\nTreatment for dysphagia depends on what's causing it and how severe it is.\nIf your swallowing problems are being caused by a condition like acid reflux, the problem may get better on its own.\nBut if the cause is longer term, you may need specialist treatment to make eating and drinking as safe as possible.\nThis may include:\nmedicines to treat acid reflux\nswallowing therapy with a speech and language therapist\nmaking changes to what you eat and drink, such as softer foods and using thickener in drinks\nusing special spoons, plates and cups\nfeeding tubes through your nose or a hole into your stomach\nsurgery to widen your oesophagus\ninjections to relax the muscles in your oesophagus and allow food and drink to reach the stomach\nPage last reviewed: 02 May 2023\nNext review due: 02 May 2026",
+  "links": [
+    {
+      "text": "dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    },
+    {
+      "text": "chest infections",
+      "url": "https://www.nhs.uk/conditions/chest-infection/"
+    },
+    {
+      "text": "learning disability",
+      "url": "https://www.nhs.uk/conditions/learning-disabilities/"
+    },
+    {
+      "text": "heartburn and acid reflux",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    },
+    {
+      "text": "chronic obstructive pulmonary disease (COPD)",
+      "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/"
+    },
+    {
+      "text": "cerebral palsy",
+      "url": "https://www.nhs.uk/conditions/cerebral-palsy/"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.nhs.uk/conditions/stroke/"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+    },
+    {
+      "text": "multiple sclerosis",
+      "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    },
+    {
+      "text": "mouth cancer",
+      "url": "https://www.nhs.uk/conditions/mouth-cancer/"
+    },
+    {
+      "text": "oesophageal cancer",
+      "url": "https://www.nhs.uk/conditions/oesophageal-cancer/"
+    },
+    {
+      "text": "cleft lip and palate",
+      "url": "https://www.nhs.uk/conditions/cleft-lip-and-palate/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"ryloh\"><b>Dysphagia is where you have problems swallowing. It's usually caused by certain medicines or another condition, such as acid reflux or a stroke.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of dysphagia</h2>\n<p data-block-key=\"4jicl\">Some people with dysphagia have problems swallowing certain foods or drinks, while others cannot swallow at all.</p><p data-block-key=\"c1h15\">Signs of dysphagia include:</p><ul><li data-block-key=\"a62pe\">coughing or choking when eating or drinking</li><li data-block-key=\"aq9hk\">bringing food back up, sometimes through the nose</li><li data-block-key=\"csagf\">a feeling that food is stuck in your throat or chest</li><li data-block-key=\"6a02p\">a gurgly, wet-sounding voice when eating or drinking</li></ul><p data-block-key=\"cfu25\">You may also drool and have problems chewing your food.</p><p data-block-key=\"cu1c8\">Over time, dysphagia can also cause symptoms such as weight loss, <a href=\"/conditions/dehydration/\">dehydration</a> and repeated <a href=\"/conditions/chest-infection/\">chest infections</a>.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of dysphagia</h2>\n<p data-block-key=\"4jicl\">Dysphagia is usually caused by another health condition and can happen at any age.</p><p data-block-key=\"bau6d\">You may be more likely to have dysphagia if you:</p><ul><li data-block-key=\"4ocn0\">take some medicines, such as antipsychotics</li><li data-block-key=\"5r5hd\">have a <a href=\"/conditions/learning-disabilities/\">learning disability</a></li><li data-block-key=\"792de\">have <a href=\"/conditions/heartburn-and-acid-reflux/\">heartburn and acid reflux</a>, especially in children or people who have gastro-oesophageal reflux disease</li><li data-block-key=\"a6g1q\">have problems with your breathing caused by conditions like <a href=\"/conditions/chronic-obstructive-pulmonary-disease-copd/\">chronic obstructive pulmonary disease (COPD)</a></li><li data-block-key=\"75qp2\">have a condition that affects the nervous system or brain, such as <a href=\"/conditions/cerebral-palsy/\">cerebral palsy</a>, a <a href=\"/conditions/stroke/\">stroke</a>, <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a> or <a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li><li data-block-key=\"e1tat\">have cancer, such as <a href=\"/conditions/mouth-cancer/\">mouth cancer</a> or <a href=\"/conditions/oesophageal-cancer/\">oesophageal cancer</a></li></ul><p data-block-key=\"6tn10\">Babies with a <a href=\"/conditions/cleft-lip-and-palate/\">cleft lip and palate</a> can also have dysphagia.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"creav\">You, your child or someone you care for:</p><ul><li data-block-key=\"7s9jt\">has difficulty swallowing</li><li data-block-key=\"frfpv\">coughs or chokes while eating or drinking</li><li data-block-key=\"6u4pd\">feels like something's stuck in the throat after eating</li><li data-block-key=\"bqm01\">keeps bringing food or milk back up, sometimes through the nose</li><li data-block-key=\"1k0pl\">cries a lot or arches their back when feeding</li><li data-block-key=\"945tg\">has a wet, gurgly voice after eating or drinking</li><li data-block-key=\"5l295\">is short of breath after eating or drinking</li><li data-block-key=\"2ltg3\">gets lots of chest infections</li></ul><p data-block-key=\"epset\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for dysphagia</h2>\n<p data-block-key=\"4jicl\">Your GP will examine you and may refer you to a specialist for further tests.</p><p data-block-key=\"8put8\">You may also be referred to a speech and language therapist or a dietitian for advice about swallowing and your diet.</p><p data-block-key=\"3h4u8\">Treatment for dysphagia depends on what's causing it and how severe it is.</p><p data-block-key=\"1un6b\">If your swallowing problems are being caused by a condition like acid reflux, the problem may get better on its own.</p><p data-block-key=\"c0i5b\">But if the cause is longer term, you may need specialist treatment to make eating and drinking as safe as possible.</p><p data-block-key=\"eqd28\">This may include:</p><ul><li data-block-key=\"9c2c0\">medicines to treat acid reflux</li><li data-block-key=\"aatia\">swallowing therapy with a speech and language therapist</li><li data-block-key=\"3i0vq\">making changes to what you eat and drink, such as softer foods and using thickener in drinks</li><li data-block-key=\"d1842\">using special spoons, plates and cups</li><li data-block-key=\"davg0\">feeding tubes through your nose or a hole into your stomach</li><li data-block-key=\"bqj\">surgery to widen your oesophagus</li><li data-block-key=\"6irtj\">injections to relax the muscles in your oesophagus and allow food and drink to reach the stomach</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 02 May 2023<br/>\n    Next review due: 02 May 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

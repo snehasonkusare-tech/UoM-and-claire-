@@ -1,0 +1,551 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/",
+  "final_url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:43.305648+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "S",
+      "label": "Sore or white tongue",
+      "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "T",
+      "label": "Tongue (sore or white), see Sore or white tongue",
+      "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Sore or white tongue",
+  "meta_description": "Find out how to treat a sore or white tongue and read about the possible causes such as geographic tongue, oral thrush and mouth ulcers.",
+  "review_dates": {
+    "page_last_reviewed": "16 May 2023",
+    "next_review_due": "16 May 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to treat a sore or white tongue and read about the possible causes such as geographic tongue, oral thrush and mouth ulcers."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nSore or white tongue\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to treat a sore or white tongue and read about the possible causes such as geographic tongue, oral thrush and mouth ulcers."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "12 May 2026, 11:25 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 5:20 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Tongue (sore or white)"
+        ],
+        "name": "Sore or white tongue"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/sore-or-white-tongue/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Sore or white tongue"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-12T10:25:10+00:00",
+      "description": "Find out how to treat a sore or white tongue and read about the possible causes such as geographic tongue, oral thrush and mouth ulcers.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have a sore or white tongue, it can help to brush your tongue or use a tongue scraper and avoid spicy, acidic or hot food and drink.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>use a soft toothbrush to brush your teeth</p></li><li><p>brush your tongue or use a scraper to help improve a white tongue</p></li><li><p>use a straw to drink cool drinks</p></li><li><p>take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not use a toothpaste that contains sodium lauryl sulphate</p></li><li><p>do not eat spicy, acidic or hot food and drink that may irritate your tongue</p></li><li><p>do not smoke</p></li><li><p>do not drink alcohol</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with a sore or white tongue",
+              "text": "<p>You can ask a pharmacist:</p><ul><li>what's causing your sore or white tongue</li><li>if you can buy anything to help with any pain or irritation</li><li>if you should see a dentist or GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "Things you can do if you have a sore or white tongue",
+          "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP or dentist if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have tongue pain or itchiness that does not go away or gets worse\n </li>\n<li>\n  you have white patches on your tongue\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Tongue pain is often caused by burning or biting your tongue. Common causes of a white tongue include lichen planus, leukoplakia and oral thrush.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Biting or burning your tongue with hot food or drink can cause pain and swelling. This should only last a few days.</p><p>A white tongue can be a sign of a health condition, such as anaemia, scarlet fever, lichen planus, leukoplakia, geographic tongue, mouth ulcers or oral thrush.</p><p>But do not self-diagnose. See a GP if you're worried.</p><h3>Lichen planus</h3>"
+            }
+          ],
+          "headline": "Common causes of a sore or white tongue",
+          "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A sore or white tongue is not usually serious and can often be easily treated.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Sore or white tongue",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Sore or white tongue",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have a sore or white tongue, it can help to brush your tongue or use a tongue scraper and avoid spicy, acidic or hot food and drink.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Tongue pain is often caused by burning or biting your tongue. Common causes of a white tongue include lichen planus, leukoplakia and oral thrush.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-05-16T00:00:00+00:00",
+        "2026-05-16T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Sore or white tongue",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Sore or white tongue",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/sore-or-white-tongue/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "A sore or white tongue is not usually serious and is often easily treated.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"zfptg\"><b>A sore or white tongue is not usually serious and is often easily treated.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can do if you have a sore or white tongue",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do if you have a sore or white tongue"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with a sore or white tongue"
+        }
+      ],
+      "text": "Things you can do if you have a sore or white tongue\nDo\nuse a soft toothbrush to brush your teeth\nbrush your tongue or use a scraper to help improve a white tongue\nuse a straw to drink cool drinks\ntake\nparacetamol\nor\nibuprofen\nDon’t\ndo not use a toothpaste that contains sodium lauryl sulphate\ndo not eat spicy, acidic or hot food and drink that may irritate your tongue\ndo not smoke\ndo not drink alcohol\nA pharmacist can help with a sore or white tongue\nYou can ask a pharmacist:\nwhat's causing your sore or white tongue\nif you can buy anything to help with any pain or irritation\nif you should see a dentist or GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "use a soft toothbrush to brush your teeth",
+            "brush your tongue or use a scraper to help improve a white tongue",
+            "use a straw to drink cool drinks",
+            "take\nparacetamol\nor\nibuprofen"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not use a toothpaste that contains sodium lauryl sulphate",
+            "do not eat spicy, acidic or hot food and drink that may irritate your tongue",
+            "do not smoke",
+            "do not drink alcohol"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "what's causing your sore or white tongue",
+            "if you can buy anything to help with any pain or irritation",
+            "if you should see a dentist or GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do if you have a sore or white tongue</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0wpav\">use a soft toothbrush to brush your teeth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8p8k2\">brush your tongue or use a scraper to help improve a white tongue</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6bvi1\">use a straw to drink cool drinks</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4zaa6\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vjdj2\">do not use a toothpaste that contains sodium lauryl sulphate</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"07mrg\">do not eat spicy, acidic or hot food and drink that may irritate your tongue</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jjm7r\">do not smoke</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jwlm3\">do not drink alcohol</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"qzoup\">A pharmacist can help with a sore or white tongue</h3><p data-block-key=\"6pa76\">You can ask a pharmacist:</p><ul><li data-block-key=\"1smot\">what's causing your sore or white tongue</li><li data-block-key=\"12f5j\">if you can buy anything to help with any pain or irritation</li><li data-block-key=\"5tsp8\">if you should see a dentist or GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP or dentist if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP or dentist if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP or dentist if:\nyou have tongue pain or itchiness that does not go away or gets worse\nyou have white patches on your tongue",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have tongue pain or itchiness that does not go away or gets worse",
+            "you have white patches on your tongue"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or dentist if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6idqj\">you have tongue pain or itchiness that does not go away or gets worse</li><li data-block-key=\"1qnqi\">you have white patches on your tongue</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Common causes of a sore or white tongue",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of a sore or white tongue"
+        },
+        {
+          "level": "h3",
+          "text": "Lichen planus"
+        }
+      ],
+      "text": "Common causes of a sore or white tongue\nBiting or burning your tongue with hot food or drink can cause pain and swelling. This should only last a few days.\nA white tongue can be a sign of a health condition, such as anaemia, scarlet fever, lichen planus, leukoplakia, geographic tongue, mouth ulcers or oral thrush.\nBut do not self-diagnose. See a GP if you're worried.\nLichen planus",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of a sore or white tongue</h2>\n<p data-block-key=\"qzoup\">Biting or burning your tongue with hot food or drink can cause pain and swelling. This should only last a few days.</p><p data-block-key=\"btdna\">A white tongue can be a sign of a health condition, such as anaemia, scarlet fever, lichen planus, leukoplakia, geographic tongue, mouth ulcers or oral thrush.</p><p data-block-key=\"2q69s\">But do not self-diagnose. See a GP if you're worried.</p><h3 data-block-key=\"cdff0\">Lichen planus</h3>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Leukoplakia",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Leukoplakia"
+        },
+        {
+          "level": "h3",
+          "text": "Geographic tongue"
+        },
+        {
+          "level": "h3",
+          "text": "Mouth ulcer"
+        },
+        {
+          "level": "h3",
+          "text": "Oral thrush (mouth thrush)"
+        }
+      ],
+      "text": "Lichen planus can cause white patches on the tongue and inside the cheek.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/641882/view\nRead about\nlichen planus\n.\nLeukoplakia\nLeukoplakia can cause white, raised patches on the tongue, inside of the cheeks, or on the gums, that do not come off when you rub them.\nCredit:\nAlamy Stock Photo https://www.alamy.com/stock-photo-hairy-leukoplakia-31088074.html?pv=1&stamp=2&imageid=50B53D74-85FC-4C29-8279-1752D2D567FB&p=17774&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dBPG54A%26qt_raw%3dBPG54A%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d144292%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d\nRead about\nleukoplakia\n.\nGeographic tongue\nBlotchy, red patches on the tongue that have a white or light-coloured border may be geographic tongue.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/832122/view\nFind out more about geographic tongue on the Oral Health Foundation website\nMouth ulcer\nMouth ulcers are round, painful and swollen sores that look like blisters and can appear on the tongue, inside of the cheeks, or the lips.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/115960/view\nRead about\nmouth ulcers\n.\nOral thrush (mouth thrush)\nAn itchy, red mouth with white patches on the tongue could be oral thrush. It's more common in babies and older people with dentures.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/81735/view\nRead about\noral thrush (mouth thrush)\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "lichen planus",
+          "url": "https://www.nhs.uk/conditions/lichen-planus/"
+        },
+        {
+          "text": "leukoplakia",
+          "url": "https://www.nhs.uk/conditions/leukoplakia/"
+        },
+        {
+          "text": "Find out more about geographic tongue on the Oral Health Foundation website",
+          "url": "https://www.dentalhealth.org/geographic-tongue"
+        },
+        {
+          "text": "mouth ulcers",
+          "url": "https://www.nhs.uk/conditions/mouth-ulcers/"
+        },
+        {
+          "text": "oral thrush (mouth thrush)",
+          "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"
+        }
+      ],
+      "html": "<section>\n<figure class=\"nhsuk-image\">\n<img alt=\"Open mouth showing bottom row of teeth, with white patches on the tongue and inside the cheek.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Lichen planus can cause white patches on the tongue and inside the cheek.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"npo8r\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/641882/view</p>\n</div>\n</figure>\n<p data-block-key=\"85o1m\">Read about <a href=\"/conditions/lichen-planus/\">lichen planus</a>.</p><h3 data-block-key=\"s84yf\">Leukoplakia</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"Pink tongue with white patches on the left side, poking out of a person's mouth.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Leukoplakia can cause white, raised patches on the tongue, inside of the cheeks, or on the gums, that do not come off when you rub them.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"gvaly\">Alamy Stock Photo https://www.alamy.com/stock-photo-hairy-leukoplakia-31088074.html?pv=1&amp;stamp=2&amp;imageid=50B53D74-85FC-4C29-8279-1752D2D567FB&amp;p=17774&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dBPG54A%26qt_raw%3dBPG54A%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d144292%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n</figure>\n<p data-block-key=\"jy1kg\">Read about <a href=\"/conditions/leukoplakia/\">leukoplakia</a>.</p><h3 data-block-key=\"u6gba\">Geographic tongue</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"A tongue with blotchy patches, poking out of a person's mouth. Some of the patches are red and some are white.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Blotchy, red patches on the tongue that have a white or light-coloured border may be geographic tongue.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"954bz\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/832122/view</p>\n</div>\n</figure>\n<p data-block-key=\"y4wr6\"><a href=\"https://www.dentalhealth.org/geographic-tongue\">Find out more about geographic tongue on the Oral Health Foundation website</a></p><h3 data-block-key=\"qu4j6\">Mouth ulcer</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"A white, round ulcer on the underside of someone's tongue, which is poking out of their mouth.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Mouth ulcers are round, painful and swollen sores that look like blisters and can appear on the tongue, inside of the cheeks, or the lips.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"lxcso\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/115960/view</p>\n</div>\n</figure>\n<p data-block-key=\"j7bm8\">Read about <a href=\"/conditions/mouth-ulcers/\">mouth ulcers</a>.</p><h3 data-block-key=\"e8xfc\">Oral thrush (mouth thrush)</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"An open mouth with tongue poking out. There is a solid white patch from the middle to the back of the tongue.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    An itchy, red mouth with white patches on the tongue could be oral thrush. It's more common in babies and older people with dentures.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"p331h\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/81735/view</p>\n</div>\n</figure>\n<p data-block-key=\"ibpau\">Read about <a href=\"/conditions/oral-thrush-mouth-thrush/\">oral thrush (mouth thrush)</a>.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "A sore or white tongue is not usually serious and is often easily treated.\nThings you can do if you have a sore or white tongue\nDo\nuse a soft toothbrush to brush your teeth\nbrush your tongue or use a scraper to help improve a white tongue\nuse a straw to drink cool drinks\ntake\nparacetamol\nor\nibuprofen\nDon’t\ndo not use a toothpaste that contains sodium lauryl sulphate\ndo not eat spicy, acidic or hot food and drink that may irritate your tongue\ndo not smoke\ndo not drink alcohol\nA pharmacist can help with a sore or white tongue\nYou can ask a pharmacist:\nwhat's causing your sore or white tongue\nif you can buy anything to help with any pain or irritation\nif you should see a dentist or GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP or dentist if:\nyou have tongue pain or itchiness that does not go away or gets worse\nyou have white patches on your tongue\nCommon causes of a sore or white tongue\nBiting or burning your tongue with hot food or drink can cause pain and swelling. This should only last a few days.\nA white tongue can be a sign of a health condition, such as anaemia, scarlet fever, lichen planus, leukoplakia, geographic tongue, mouth ulcers or oral thrush.\nBut do not self-diagnose. See a GP if you're worried.\nLichen planus\nLichen planus can cause white patches on the tongue and inside the cheek.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/641882/view\nRead about\nlichen planus\n.\nLeukoplakia\nLeukoplakia can cause white, raised patches on the tongue, inside of the cheeks, or on the gums, that do not come off when you rub them.\nCredit:\nAlamy Stock Photo https://www.alamy.com/stock-photo-hairy-leukoplakia-31088074.html?pv=1&stamp=2&imageid=50B53D74-85FC-4C29-8279-1752D2D567FB&p=17774&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dBPG54A%26qt_raw%3dBPG54A%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d144292%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d\nRead about\nleukoplakia\n.\nGeographic tongue\nBlotchy, red patches on the tongue that have a white or light-coloured border may be geographic tongue.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/832122/view\nFind out more about geographic tongue on the Oral Health Foundation website\nMouth ulcer\nMouth ulcers are round, painful and swollen sores that look like blisters and can appear on the tongue, inside of the cheeks, or the lips.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/115960/view\nRead about\nmouth ulcers\n.\nOral thrush (mouth thrush)\nAn itchy, red mouth with white patches on the tongue could be oral thrush. It's more common in babies and older people with dentures.\nCredit:\nDR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/81735/view\nRead about\noral thrush (mouth thrush)\n.\nPage last reviewed: 16 May 2023\nNext review due: 16 May 2026",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "lichen planus",
+      "url": "https://www.nhs.uk/conditions/lichen-planus/"
+    },
+    {
+      "text": "leukoplakia",
+      "url": "https://www.nhs.uk/conditions/leukoplakia/"
+    },
+    {
+      "text": "Find out more about geographic tongue on the Oral Health Foundation website",
+      "url": "https://www.dentalhealth.org/geographic-tongue"
+    },
+    {
+      "text": "mouth ulcers",
+      "url": "https://www.nhs.uk/conditions/mouth-ulcers/"
+    },
+    {
+      "text": "oral thrush (mouth thrush)",
+      "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-320.jpg",
+      "alt": "Open mouth showing bottom row of teeth, with white patches on the tongue and inside the cheek.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-320.jpg",
+      "alt": "Pink tongue with white patches on the left side, poking out of a person's mouth.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-320.jpg",
+      "alt": "A tongue with blotchy patches, poking out of a person's mouth. Some of the patches are red and some are white.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-320.jpg",
+      "alt": "A white, round ulcer on the underside of someone's tongue, which is poking out of their mouth.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-320.jpg",
+      "alt": "An open mouth with tongue poking out. There is a solid white patch from the middle to the back of the tongue.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"zfptg\"><b>A sore or white tongue is not usually serious and is often easily treated.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do if you have a sore or white tongue</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0wpav\">use a soft toothbrush to brush your teeth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"8p8k2\">brush your tongue or use a scraper to help improve a white tongue</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6bvi1\">use a straw to drink cool drinks</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4zaa6\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vjdj2\">do not use a toothpaste that contains sodium lauryl sulphate</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"07mrg\">do not eat spicy, acidic or hot food and drink that may irritate your tongue</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jjm7r\">do not smoke</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jwlm3\">do not drink alcohol</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"qzoup\">A pharmacist can help with a sore or white tongue</h3><p data-block-key=\"6pa76\">You can ask a pharmacist:</p><ul><li data-block-key=\"1smot\">what's causing your sore or white tongue</li><li data-block-key=\"12f5j\">if you can buy anything to help with any pain or irritation</li><li data-block-key=\"5tsp8\">if you should see a dentist or GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP or dentist if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6idqj\">you have tongue pain or itchiness that does not go away or gets worse</li><li data-block-key=\"1qnqi\">you have white patches on your tongue</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of a sore or white tongue</h2>\n<p data-block-key=\"qzoup\">Biting or burning your tongue with hot food or drink can cause pain and swelling. This should only last a few days.</p><p data-block-key=\"btdna\">A white tongue can be a sign of a health condition, such as anaemia, scarlet fever, lichen planus, leukoplakia, geographic tongue, mouth ulcers or oral thrush.</p><p data-block-key=\"2q69s\">But do not self-diagnose. See a GP if you're worried.</p><h3 data-block-key=\"cdff0\">Lichen planus</h3>\n</section>\n<section>\n<figure class=\"nhsuk-image\">\n<img alt=\"Open mouth showing bottom row of teeth, with white patches on the tongue and inside the cheek.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqNm.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0234316-Lichen_planus_of_the_mouth-SPL_5TiqN.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Lichen planus can cause white patches on the tongue and inside the cheek.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"npo8r\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/641882/view</p>\n</div>\n</figure>\n<p data-block-key=\"85o1m\">Read about <a href=\"/conditions/lichen-planus/\">lichen planus</a>.</p><h3 data-block-key=\"s84yf\">Leukoplakia</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"Pink tongue with white patches on the left side, poking out of a person's mouth.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/BPG54A.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Leukoplakia can cause white, raised patches on the tongue, inside of the cheeks, or on the gums, that do not come off when you rub them.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"gvaly\">Alamy Stock Photo https://www.alamy.com/stock-photo-hairy-leukoplakia-31088074.html?pv=1&amp;stamp=2&amp;imageid=50B53D74-85FC-4C29-8279-1752D2D567FB&amp;p=17774&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dBPG54A%26qt_raw%3dBPG54A%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d144292%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n</figure>\n<p data-block-key=\"jy1kg\">Read about <a href=\"/conditions/leukoplakia/\">leukoplakia</a>.</p><h3 data-block-key=\"u6gba\">Geographic tongue</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"A tongue with blotchy patches, poking out of a person's mouth. Some of the patches are red and some are white.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0345382-Geographic_tongue-SPL.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Blotchy, red patches on the tongue that have a white or light-coloured border may be geographic tongue.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"954bz\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/832122/view</p>\n</div>\n</figure>\n<p data-block-key=\"y4wr6\"><a href=\"https://www.dentalhealth.org/geographic-tongue\">Find out more about geographic tongue on the Oral Health Foundation website</a></p><h3 data-block-key=\"qu4j6\">Mouth ulcer</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"A white, round ulcer on the underside of someone's tongue, which is poking out of their mouth.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.or.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0051857-Aphthous_ulcer_on_the_tongue-SPL_1.o.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Mouth ulcers are round, painful and swollen sores that look like blisters and can appear on the tongue, inside of the cheeks, or the lips.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"lxcso\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/115960/view</p>\n</div>\n</figure>\n<p data-block-key=\"j7bm8\">Read about <a href=\"/conditions/mouth-ulcers/\">mouth ulcers</a>.</p><h3 data-block-key=\"e8xfc\">Oral thrush (mouth thrush)</h3>\n<figure class=\"nhsuk-image\">\n<img alt=\"An open mouth with tongue poking out. There is a solid white patch from the middle to the back of the tongue.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/C0017334-Oral_thrush-SPL_1.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    An itchy, red mouth with white patches on the tongue could be oral thrush. It's more common in babies and older people with dentures.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"p331h\">DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/81735/view</p>\n</div>\n</figure>\n<p data-block-key=\"ibpau\">Read about <a href=\"/conditions/oral-thrush-mouth-thrush/\">oral thrush (mouth thrush)</a>.</p>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 16 May 2023<br/>\n    Next review due: 16 May 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

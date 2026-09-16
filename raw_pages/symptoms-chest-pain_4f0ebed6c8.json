@@ -1,0 +1,543 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/chest-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/chest-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:07.434709+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "C",
+      "label": "Chest pain",
+      "url": "https://www.nhs.uk/symptoms/chest-pain/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "H",
+      "label": "Heart pain, see Chest pain",
+      "url": "https://www.nhs.uk/symptoms/chest-pain/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Chest pain",
+  "meta_description": "Find out what could be causing your chest pain and if you need to go to hospital or see a GP.",
+  "review_dates": {
+    "page_last_reviewed": "08 August 2023",
+    "next_review_due": "08 August 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what could be causing your chest pain and if you need to go to hospital or see a GP."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/chest-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nChest pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what could be causing your chest pain and if you need to go to hospital or see a GP."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "25 Jun 2026, 4:06 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 9:06 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Heart pain"
+        ],
+        "name": "Chest pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/chest-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Chest pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-06-25T15:06:02+00:00",
+      "description": "Find out what could be causing your chest pain and if you need to go to hospital or see a GP.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion\n </li>\n<li>\n  you get pain that spreads to your left or right arm, or your neck, jaw, stomach or back\n </li>\n<li>\n  you have chest pain and you feel sweaty, sick, light headed or short of breath\n </li>\n</ul>\n<p>\n You could be having a heart attack. Call 999 straight away as you need immediate treatment in hospital.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/chest-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have chest pain that comes and goes\n </li>\n<li>\n  you have chest pain that goes away quickly but you're still worried\n </li>\n</ul>\n<p>\n It's important to get medical advice to make sure it's nothing serious.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/chest-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of chest pain include heartburn, sprains, anxiety and chest infections. Less often, it might be caused by a heart problem like angina.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Chest pain has many different causes. In most cases, chest pain is not caused by a heart problem.</p><p>Your symptoms might give you an idea of the cause. Do not self-diagnose – see a GP if you're worried.</p>"
+            }
+          ],
+          "headline": "Common causes of chest pain",
+          "url": "https://www.nhs.uk/symptoms/chest-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Chest pain is not usually a sign of anything serious, but get medical advice just in case so anything serious can be ruled out.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Chest pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of chest pain include heartburn, sprains, anxiety and chest infections. Less often, it might be caused by a heart problem like angina.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/chest-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-08-08T00:00:00+00:00",
+        "2026-08-08T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Chest pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Chest pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/chest-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/chest-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Most chest pain is not a sign of anything serious but get medical advice just in case. Get immediate medical help if you think you're having a heart attack.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"ut1di\"><b>Most chest pain is not a sign of anything serious but get medical advice just in case. Get immediate medical help if you think you're having a heart attack.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nyou get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion\nyou get pain that spreads to your left or right arm, or your neck, jaw, stomach or back\nyou have chest pain and you feel sweaty, sick, light headed or short of breath\nYou could be having a heart attack. Call 999 straight away as you need immediate treatment in hospital.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion",
+            "you get pain that spreads to your left or right arm, or your neck, jaw, stomach or back",
+            "you have chest pain and you feel sweaty, sick, light headed or short of breath"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"c2way\">you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion</li><li data-block-key=\"3h9qe\">you get pain that spreads to your left or right arm, or your neck, jaw, stomach or back</li><li data-block-key=\"9214d\">you have chest pain and you feel sweaty, sick, light headed or short of breath</li></ul><p data-block-key=\"4r4or\">You could be having a heart attack. Call 999 straight away as you need immediate treatment in hospital.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have chest pain that comes and goes\nyou have chest pain that goes away quickly but you're still worried\nIt's important to get medical advice to make sure it's nothing serious.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have chest pain that comes and goes",
+            "you have chest pain that goes away quickly but you're still worried"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2jpq8\">you have chest pain that comes and goes</li><li data-block-key=\"ebq5u\">you have chest pain that goes away quickly but you're still worried</li></ul><p data-block-key=\"6oo9t\">It's important to get medical advice to make sure it's nothing serious.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Common causes of chest pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of chest pain"
+        }
+      ],
+      "text": "Common causes of chest pain\nChest pain has many different causes. In most cases, chest pain is not caused by a heart problem.\nYour symptoms might give you an idea of the cause. Do not self-diagnose – see a GP if you're worried.\nChest pain symptoms and possible causes\nChest pain symptoms\nPossible cause\nStarts after eating, bringing up food or bitter tasting fluids, feeling full and bloated\nHeartburn\nor\nindigestion\nStarts after chest injury or chest exercise, may get worse when you breathe in, feels better when resting the muscle\nChest\nsprain or strain\nAn often sharp, continuous pain triggered by worries or a stressful situation, heartbeat gets faster, sweating, dizziness\nAnxiety\n,\ndepression\nor\npanic attack\nGets worse when you breathe in, coughing up yellow or green mucus, high temperature\nChest infection,\npneumonia\nor\npleurisy\nTingling feeling on skin, skin rash appears that turns into blisters\nShingles",
+      "lists": [],
+      "links": [
+        {
+          "text": "Heartburn",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+        },
+        {
+          "text": "indigestion",
+          "url": "https://www.nhs.uk/conditions/indigestion/"
+        },
+        {
+          "text": "sprain or strain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains"
+        },
+        {
+          "text": "Anxiety",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/"
+        },
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+        },
+        {
+          "text": "panic attack",
+          "url": "https://www.nhs.uk/mental-health/conditions/anxiety/"
+        },
+        {
+          "text": "pneumonia",
+          "url": "https://www.nhs.uk/conditions/pneumonia/"
+        },
+        {
+          "text": "pleurisy",
+          "url": "https://www.nhs.uk/conditions/pleurisy/"
+        },
+        {
+          "text": "Shingles",
+          "url": "https://www.nhs.uk/conditions/shingles/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of chest pain</h2>\n<p data-block-key=\"a7jkv\">Chest pain has many different causes. In most cases, chest pain is not caused by a heart problem.</p><p data-block-key=\"qg06d\">Your symptoms might give you an idea of the cause. Do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Chest pain symptoms and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Chest pain symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ke4ng\">Starts after eating, bringing up food or bitter tasting fluids, feeling full and bloated</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ogknt\"><a href=\"/conditions/heartburn-and-acid-reflux/\">Heartburn</a> or <a href=\"/conditions/indigestion/\">indigestion</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"c8wve\">Starts after chest injury or chest exercise, may get worse when you breathe in, feels better when resting the muscle</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"c8wve\">Chest <a href=\"https://www.nhs.uk/conditions/sprains-and-strains\">sprain or strain</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ubpx0\">An often sharp, continuous pain triggered by worries or a stressful situation, heartbeat gets faster, sweating, dizziness</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ubpx0\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder/overview/\">Anxiety</a>, <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a> or <a href=\"/mental-health/conditions/anxiety/\">panic attack</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Gets worse when you breathe in, coughing up yellow or green mucus, high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Chest infection, <a href=\"/conditions/pneumonia/\">pneumonia</a> or <a href=\"/conditions/pleurisy/\">pleurisy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Tingling feeling on skin, skin rash appears that turns into blisters</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\"><a href=\"/conditions/shingles/\">Shingles</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Chest pain and heart problems",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Chest pain and heart problems"
+        }
+      ],
+      "text": "Chest pain and heart problems\nThe most common heart problems that cause chest pain include:\npericarditis\n– which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down\nangina\nor a\nheart attack\n– which have similar symptoms but a heart attack is life-threatening\nYou're more likely to have heart problems if you're older or are at risk of\ncoronary heart disease\n.\nFor example, you may be at risk of coronary heart disease if you:\nsmoke\nare living with\nobesity\nhave\nhigh blood pressure\n,\ndiabetes\nor\nhigh cholesterol\nhave a history of heart attacks or angina in family members under 60 years old",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pericarditis\n– which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down",
+            "angina\nor a\nheart attack\n– which have similar symptoms but a heart attack is life-threatening"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "smoke",
+            "are living with\nobesity",
+            "have\nhigh blood pressure\n,\ndiabetes\nor\nhigh cholesterol",
+            "have a history of heart attacks or angina in family members under 60 years old"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "pericarditis",
+          "url": "https://www.nhs.uk/conditions/pericarditis/"
+        },
+        {
+          "text": "angina",
+          "url": "https://www.nhs.uk/conditions/angina/"
+        },
+        {
+          "text": "heart attack",
+          "url": "https://www.nhs.uk/conditions/heart-attack/"
+        },
+        {
+          "text": "coronary heart disease",
+          "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+        },
+        {
+          "text": "obesity",
+          "url": "https://www.nhs.uk/conditions/overweight-and-obesity/"
+        },
+        {
+          "text": "high blood pressure",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+        },
+        {
+          "text": "diabetes",
+          "url": "https://www.nhs.uk/conditions/diabetes/"
+        },
+        {
+          "text": "high cholesterol",
+          "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+        }
+      ],
+      "html": "<section>\n<h2>Chest pain and heart problems</h2>\n<p data-block-key=\"bvu1b\">The most common heart problems that cause chest pain include:</p><ul><li data-block-key=\"mti3q\"><a href=\"/conditions/pericarditis/\">pericarditis</a> – which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down</li><li data-block-key=\"y6b2w\"><a href=\"/conditions/angina/\">angina</a> or a <a href=\"/conditions/heart-attack/\">heart attack</a> – which have similar symptoms but a heart attack is life-threatening</li></ul><p data-block-key=\"6ich6\">You're more likely to have heart problems if you're older or are at risk of <a href=\"/conditions/coronary-heart-disease/\">coronary heart disease</a>.</p><p data-block-key=\"fi2gp\">For example, you may be at risk of coronary heart disease if you:</p><ul><li data-block-key=\"zhlco\">smoke</li><li data-block-key=\"83mvt\">are living with <a href=\"/conditions/overweight-and-obesity/\">obesity</a></li><li data-block-key=\"jb0b0\">have <a href=\"/conditions/high-blood-pressure-hypertension/\">high blood pressure</a>, <a href=\"/conditions/diabetes/\">diabetes</a> or <a href=\"/conditions/high-cholesterol/\">high cholesterol</a></li><li data-block-key=\"tehu6\">have a history of heart attacks or angina in family members under 60 years old</li></ul>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Most chest pain is not a sign of anything serious but get medical advice just in case. Get immediate medical help if you think you're having a heart attack.\nImmediate action required:\nCall 999 if:\nyou get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion\nyou get pain that spreads to your left or right arm, or your neck, jaw, stomach or back\nyou have chest pain and you feel sweaty, sick, light headed or short of breath\nYou could be having a heart attack. Call 999 straight away as you need immediate treatment in hospital.\nNon-urgent advice:\nSee a GP if:\nyou have chest pain that comes and goes\nyou have chest pain that goes away quickly but you're still worried\nIt's important to get medical advice to make sure it's nothing serious.\nCommon causes of chest pain\nChest pain has many different causes. In most cases, chest pain is not caused by a heart problem.\nYour symptoms might give you an idea of the cause. Do not self-diagnose – see a GP if you're worried.\nChest pain symptoms and possible causes\nChest pain symptoms\nPossible cause\nStarts after eating, bringing up food or bitter tasting fluids, feeling full and bloated\nHeartburn\nor\nindigestion\nStarts after chest injury or chest exercise, may get worse when you breathe in, feels better when resting the muscle\nChest\nsprain or strain\nAn often sharp, continuous pain triggered by worries or a stressful situation, heartbeat gets faster, sweating, dizziness\nAnxiety\n,\ndepression\nor\npanic attack\nGets worse when you breathe in, coughing up yellow or green mucus, high temperature\nChest infection,\npneumonia\nor\npleurisy\nTingling feeling on skin, skin rash appears that turns into blisters\nShingles\nChest pain and heart problems\nThe most common heart problems that cause chest pain include:\npericarditis\n– which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down\nangina\nor a\nheart attack\n– which have similar symptoms but a heart attack is life-threatening\nYou're more likely to have heart problems if you're older or are at risk of\ncoronary heart disease\n.\nFor example, you may be at risk of coronary heart disease if you:\nsmoke\nare living with\nobesity\nhave\nhigh blood pressure\n,\ndiabetes\nor\nhigh cholesterol\nhave a history of heart attacks or angina in family members under 60 years old\nPage last reviewed: 08 August 2023\nNext review due: 08 August 2026",
+  "links": [
+    {
+      "text": "Heartburn",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    },
+    {
+      "text": "indigestion",
+      "url": "https://www.nhs.uk/conditions/indigestion/"
+    },
+    {
+      "text": "sprain or strain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains"
+    },
+    {
+      "text": "Anxiety",
+      "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+    },
+    {
+      "text": "panic attack",
+      "url": "https://www.nhs.uk/mental-health/conditions/anxiety/"
+    },
+    {
+      "text": "pneumonia",
+      "url": "https://www.nhs.uk/conditions/pneumonia/"
+    },
+    {
+      "text": "pleurisy",
+      "url": "https://www.nhs.uk/conditions/pleurisy/"
+    },
+    {
+      "text": "Shingles",
+      "url": "https://www.nhs.uk/conditions/shingles/"
+    },
+    {
+      "text": "pericarditis",
+      "url": "https://www.nhs.uk/conditions/pericarditis/"
+    },
+    {
+      "text": "angina",
+      "url": "https://www.nhs.uk/conditions/angina/"
+    },
+    {
+      "text": "heart attack",
+      "url": "https://www.nhs.uk/conditions/heart-attack/"
+    },
+    {
+      "text": "coronary heart disease",
+      "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+    },
+    {
+      "text": "obesity",
+      "url": "https://www.nhs.uk/conditions/overweight-and-obesity/"
+    },
+    {
+      "text": "high blood pressure",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/"
+    },
+    {
+      "text": "high cholesterol",
+      "url": "https://www.nhs.uk/conditions/high-cholesterol/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"ut1di\"><b>Most chest pain is not a sign of anything serious but get medical advice just in case. Get immediate medical help if you think you're having a heart attack.</b></p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"c2way\">you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion</li><li data-block-key=\"3h9qe\">you get pain that spreads to your left or right arm, or your neck, jaw, stomach or back</li><li data-block-key=\"9214d\">you have chest pain and you feel sweaty, sick, light headed or short of breath</li></ul><p data-block-key=\"4r4or\">You could be having a heart attack. Call 999 straight away as you need immediate treatment in hospital.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2jpq8\">you have chest pain that comes and goes</li><li data-block-key=\"ebq5u\">you have chest pain that goes away quickly but you're still worried</li></ul><p data-block-key=\"6oo9t\">It's important to get medical advice to make sure it's nothing serious.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of chest pain</h2>\n<p data-block-key=\"a7jkv\">Chest pain has many different causes. In most cases, chest pain is not caused by a heart problem.</p><p data-block-key=\"qg06d\">Your symptoms might give you an idea of the cause. Do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Chest pain symptoms and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Chest pain symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ke4ng\">Starts after eating, bringing up food or bitter tasting fluids, feeling full and bloated</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ogknt\"><a href=\"/conditions/heartburn-and-acid-reflux/\">Heartburn</a> or <a href=\"/conditions/indigestion/\">indigestion</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"c8wve\">Starts after chest injury or chest exercise, may get worse when you breathe in, feels better when resting the muscle</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"c8wve\">Chest <a href=\"https://www.nhs.uk/conditions/sprains-and-strains\">sprain or strain</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ubpx0\">An often sharp, continuous pain triggered by worries or a stressful situation, heartbeat gets faster, sweating, dizziness</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"ubpx0\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder/overview/\">Anxiety</a>, <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a> or <a href=\"/mental-health/conditions/anxiety/\">panic attack</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Gets worse when you breathe in, coughing up yellow or green mucus, high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Chest infection, <a href=\"/conditions/pneumonia/\">pneumonia</a> or <a href=\"/conditions/pleurisy/\">pleurisy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\">Tingling feeling on skin, skin rash appears that turns into blisters</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zsaz2\"><a href=\"/conditions/shingles/\">Shingles</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<h2>Chest pain and heart problems</h2>\n<p data-block-key=\"bvu1b\">The most common heart problems that cause chest pain include:</p><ul><li data-block-key=\"mti3q\"><a href=\"/conditions/pericarditis/\">pericarditis</a> – which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down</li><li data-block-key=\"y6b2w\"><a href=\"/conditions/angina/\">angina</a> or a <a href=\"/conditions/heart-attack/\">heart attack</a> – which have similar symptoms but a heart attack is life-threatening</li></ul><p data-block-key=\"6ich6\">You're more likely to have heart problems if you're older or are at risk of <a href=\"/conditions/coronary-heart-disease/\">coronary heart disease</a>.</p><p data-block-key=\"fi2gp\">For example, you may be at risk of coronary heart disease if you:</p><ul><li data-block-key=\"zhlco\">smoke</li><li data-block-key=\"83mvt\">are living with <a href=\"/conditions/overweight-and-obesity/\">obesity</a></li><li data-block-key=\"jb0b0\">have <a href=\"/conditions/high-blood-pressure-hypertension/\">high blood pressure</a>, <a href=\"/conditions/diabetes/\">diabetes</a> or <a href=\"/conditions/high-cholesterol/\">high cholesterol</a></li><li data-block-key=\"tehu6\">have a history of heart attacks or angina in family members under 60 years old</li></ul>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 08 August 2023<br/>\n    Next review due: 08 August 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

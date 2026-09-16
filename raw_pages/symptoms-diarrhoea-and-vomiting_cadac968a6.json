@@ -1,0 +1,828 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+  "final_url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:47.567992+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Being sick, see Diarrhoea and vomiting",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "D",
+      "label": "Diarrhoea and vomiting",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "V",
+      "label": "Vomiting, see Diarrhoea and vomiting",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Diarrhoea and vomiting",
+  "meta_description": "Diarrhoea and vomiting are common in adults, children and babies. Find out how to treat and avoid spreading them, and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "21 December 2023",
+    "next_review_due": "21 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Diarrhoea and vomiting are common in adults, children and babies. Find out how to treat and avoid spreading them, and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nDiarrhoea and vomiting\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Diarrhoea and vomiting are common in adults, children and babies. Find out how to treat and avoid spreading them, and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 3:49 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "16 Apr 2018, 2:43 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Being sick",
+          "Vomiting"
+        ],
+        "name": "Diarrhoea and vomiting"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Diarrhoea and vomiting"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T14:49:00+00:00",
+      "description": "Diarrhoea and vomiting are common in adults, children and babies. Find out how to treat and avoid spreading them, and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Diarrhoea and vomiting can usually be treated at home by drinking lots of fluids and getting plenty of rest until you feel better.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Diarrhoea and vomiting can usually be treated at home. The most important thing is to have lots of fluids to avoid dehydration.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>stay at home and get plenty of rest</p></li><li><p>drink lots of fluids, such as water or squash – take small sips if you feel sick</p></li><li><p>carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual</p></li><li><p>give babies on formula or solid foods small sips of water between feeds</p></li><li><p>eat when you feel able to – it may help to avoid foods that are fatty or spicy</p></li><li><p>take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> if you're in discomfort – check the leaflet before giving it to your child</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not have fruit juice or fizzy drinks – they can make diarrhoea worse</p></li><li><p>do not make baby formula weaker – use it at its usual strength</p></li><li><p>do not give children under 12 medicine to stop diarrhoea</p></li><li><p>do not give aspirin to children under 16</p></li></ul>"
+            }
+          ],
+          "headline": "How to treat diarrhoea and vomiting yourself",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To avoid spreading an infection, stay off work or school until you’ve not had diarrhoea or vomiting for 2 days, and wash your hands regularly.",
+          "hasHealthAspect": "http://schema.org/ContagiousnessHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Stay off school or work until you've not been sick or had diarrhoea for at least 2 days.</p><p>If you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p><p>To help avoid spreading an infection:</p><ul><li><a href=\"/live-well/best-way-to-wash-your-hands/\">wash your hands</a> with soap and water frequently</li><li>wash any clothing or bedding that has poo or vomit on it separately on a hot wash</li><li>clean toilet seats, flush handles, taps, surfaces and door handles every day</li><li>do not prepare food for other people, if possible</li><li>do not share towels, flannels, cutlery or utensils</li><li>do not use a swimming pool until at least 48 hours after your symptoms stop</li></ul>"
+            }
+          ],
+          "headline": "Diarrhoea and vomiting can spread easily",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#transmission"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can get medicines from a pharmacy to help with diarrhoea and vomiting, such as rehydration powder, that stop you becoming dehydrated.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Speak to a pharmacist if:</p><ul><li>you or your child (over 5 years) have signs of <a href=\"/conditions/dehydration/\">dehydration</a>, such as dark, smelly pee or peeing less than usual</li><li>you're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration</li><li>you need to stop diarrhoea for a few hours</li></ul><p>They may recommend:</p><ul><li>oral rehydration powder that you mix with water to make a drink</li><li>medicine to stop diarrhoea for a few hours, like <a href=\"/medicines/loperamide/\">loperamide</a> (not suitable for children under 12)</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "A pharmacist can help with diarrhoea and vomiting",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 111 now if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you're worried about a baby under 12 months\n </li>\n<li>\n  your child stops breast or bottle feeding while they're ill\n </li>\n<li>\n  a child under 5 years has signs of\n  <a href=\"/conditions/dehydration/\">\n   dehydration\n  </a>\n  , such as fewer wet nappies\n </li>\n<li>\n  you or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets\n </li>\n<li>\n  you or your child keep being sick and cannot keep fluid down\n </li>\n<li>\n  you or your child have bloody diarrhoea or bleeding from the bottom\n </li>\n<li>\n  you or your child have diarrhoea for more than 7 days or vomiting for more than 2 days\n </li>\n</ul>\n<p>\n 111 will tell you what to do. They can arrange a phone call from a nurse or doctor if you need one.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if you or your child:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  vomit blood or have vomit that looks like ground coffee\n </li>\n<li>\n  have green vomit (adults)\n </li>\n<li>\n  have yellow-green or green vomit (children)\n </li>\n<li>\n  may have swallowed something poisonous\n </li>\n<li>\n  have a stiff neck and pain when looking at bright lights\n </li>\n<li>\n  have a sudden, severe headache\n </li>\n<li>\n  have a sudden, severe tummy ache\n </li>\n<li>\n  have blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet\n </li>\n<li>\n  are having severe difficulty breathing, or taking lots of quick, short breaths\n </li>\n<li>\n  are confused or not responding as usual\n </li>\n</ul>\n<div class=\"block-common_content\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n   </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Severe pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there and so bad it's hard to think or talk\n       </li>\n<li>\n        you cannot sleep\n       </li>\n<li>\n        it's very hard to move, get out of bed, go to the bathroom, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Moderate pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there\n       </li>\n<li>\n        makes it hard to concentrate or sleep\n       </li>\n<li>\n        you can manage to get up, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Mild pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        comes and goes\n       </li>\n<li>\n        is annoying but does not stop you doing daily activities\n       </li>\n</ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Diarrhoea and vomiting are most commonly caused by a stomach bug or food poisoning, but there are many other possible causes.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The most common causes of diarrhoea and vomiting are:</p><ul><li>a stomach bug</li><li><a href=\"/conditions/food-poisoning/\">food poisoning</a></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Other causes of diarrhoea or vomiting",
+              "text": "<div class=\"block-richtext\">\n<p><b>Diarrhoea can also be caused by:</b></p><ul><li>medicines – check the leaflet to see if it's a side effect</li><li>a <a href=\"/conditions/food-intolerance/\">food intolerance</a> or <a href=\"/conditions/food-allergy/\">food allergy</a></li><li><a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome (IBS)</a></li><li><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li><a href=\"/conditions/appendicitis/\">appendicitis</a></li><li><a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease</a></li><li><a href=\"/conditions/coeliac-disease/\">coeliac disease</a></li><li><a href=\"/conditions/diverticular-disease-and-diverticulitis/\">diverticular disease</a></li><li>radiation treatment in the pelvic area</li></ul><p><b>Vomiting can also be caused by:</b></p><ul><li>pregnancy</li><li><a href=\"/conditions/migraine/\">migraine</a></li><li><a href=\"/conditions/motion-sickness/\">motion sickness</a></li><li>inner ear infections, such as <a href=\"/conditions/labyrinthitis/\">labyrinthitis</a></li><li>medicines – check the leaflet to see if it's a side effect</li><li><a href=\"/conditions/reflux-in-babies/\">reflux</a> – where a baby brings feeds back up (\"spitting up\")</li><li>other infections, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a></li></ul>\n</div>"
+            }
+          ],
+          "headline": "Causes of diarrhoea and vomiting",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Diarrhoea and vomiting",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Diarrhoea and vomiting",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Diarrhoea and vomiting",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Diarrhoea and vomiting",
+              "text": "Prevention"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Diarrhoea and vomiting can usually be treated at home by drinking lots of fluids and getting plenty of rest until you feel better.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can get medicines from a pharmacy to help with diarrhoea and vomiting, such as rehydration powder, that stop you becoming dehydrated.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Diarrhoea and vomiting are most commonly caused by a stomach bug or food poisoning, but there are many other possible causes.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-21T11:26:00+00:00",
+        "2026-12-21T11:26:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Diarrhoea and vomiting",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Diarrhoea and vomiting",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.\nThe advice is the same if you have diarrhoea and vomiting together or separately.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"lho0v\"><b>Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.</b></p><p data-block-key=\"hs448\">The advice is the same if you have diarrhoea and vomiting together or separately.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How to treat diarrhoea and vomiting yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to treat diarrhoea and vomiting yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How to treat diarrhoea and vomiting yourself\nDiarrhoea and vomiting can usually be treated at home. The most important thing is to have lots of fluids to avoid dehydration.\nDo\nstay at home and get plenty of rest\ndrink lots of fluids, such as water or squash – take small sips if you feel sick\ncarry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual\ngive babies on formula or solid foods small sips of water between feeds\neat when you feel able to – it may help to avoid foods that are fatty or spicy\ntake\nparacetamol\nif you're in discomfort – check the leaflet before giving it to your child\nDon’t\ndo not have fruit juice or fizzy drinks – they can make diarrhoea worse\ndo not make baby formula weaker – use it at its usual strength\ndo not give children under 12 medicine to stop diarrhoea\ndo not give aspirin to children under 16",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stay at home and get plenty of rest",
+            "drink lots of fluids, such as water or squash – take small sips if you feel sick",
+            "carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual",
+            "give babies on formula or solid foods small sips of water between feeds",
+            "eat when you feel able to – it may help to avoid foods that are fatty or spicy",
+            "take\nparacetamol\nif you're in discomfort – check the leaflet before giving it to your child"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not have fruit juice or fizzy drinks – they can make diarrhoea worse",
+            "do not make baby formula weaker – use it at its usual strength",
+            "do not give children under 12 medicine to stop diarrhoea",
+            "do not give aspirin to children under 16"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to treat diarrhoea and vomiting yourself</h2>\n<p data-block-key=\"k71ng\">Diarrhoea and vomiting can usually be treated at home. The most important thing is to have lots of fluids to avoid dehydration.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cfnqv\">stay at home and get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fxjqr\">drink lots of fluids, such as water or squash – take small sips if you feel sick</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vu16v\">carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hdeeo\">give babies on formula or solid foods small sips of water between feeds</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hzbz5\">eat when you feel able to – it may help to avoid foods that are fatty or spicy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"afdop\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> if you're in discomfort – check the leaflet before giving it to your child</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lvkz6\">do not have fruit juice or fizzy drinks – they can make diarrhoea worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"2wd6a\">do not make baby formula weaker – use it at its usual strength</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ed1px\">do not give children under 12 medicine to stop diarrhoea</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vgror\">do not give aspirin to children under 16</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How long diarrhoea and vomiting last",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How long diarrhoea and vomiting last"
+        }
+      ],
+      "text": "How long diarrhoea and vomiting last\nIn adults and children:\ndiarrhoea usually stops within 5 to 7 days\nvomiting usually stops in 1 or 2 days",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "diarrhoea usually stops within 5 to 7 days",
+            "vomiting usually stops in 1 or 2 days"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2>How long diarrhoea and vomiting last</h2>\n<p data-block-key=\"6ydwo\">In adults and children:</p><ul><li data-block-key=\"nvmho\">diarrhoea usually stops within 5 to 7 days</li><li data-block-key=\"4q700\">vomiting usually stops in 1 or 2 days</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Diarrhoea and vomiting can spread easily",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Diarrhoea and vomiting can spread easily"
+        }
+      ],
+      "text": "Diarrhoea and vomiting can spread easily\nStay off school or work until you've not been sick or had diarrhoea for at least 2 days.\nIf you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.\nTo help avoid spreading an infection:\nwash your hands\nwith soap and water frequently\nwash any clothing or bedding that has poo or vomit on it separately on a hot wash\nclean toilet seats, flush handles, taps, surfaces and door handles every day\ndo not prepare food for other people, if possible\ndo not share towels, flannels, cutlery or utensils\ndo not use a swimming pool until at least 48 hours after your symptoms stop",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "wash your hands\nwith soap and water frequently",
+            "wash any clothing or bedding that has poo or vomit on it separately on a hot wash",
+            "clean toilet seats, flush handles, taps, surfaces and door handles every day",
+            "do not prepare food for other people, if possible",
+            "do not share towels, flannels, cutlery or utensils",
+            "do not use a swimming pool until at least 48 hours after your symptoms stop"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "wash your hands",
+          "url": "https://www.nhs.uk/live-well/best-way-to-wash-your-hands/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"transmission\">Diarrhoea and vomiting can spread easily</h2>\n<p data-block-key=\"uqlay\">Stay off school or work until you've not been sick or had diarrhoea for at least 2 days.</p><p data-block-key=\"8fhh4\">If you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p><p data-block-key=\"t7rc\">To help avoid spreading an infection:</p><ul><li data-block-key=\"6pqb9\"><a href=\"/live-well/best-way-to-wash-your-hands/\">wash your hands</a> with soap and water frequently</li><li data-block-key=\"7phlv\">wash any clothing or bedding that has poo or vomit on it separately on a hot wash</li><li data-block-key=\"enmi3\">clean toilet seats, flush handles, taps, surfaces and door handles every day</li><li data-block-key=\"gc38\">do not prepare food for other people, if possible</li><li data-block-key=\"1q5l3\">do not share towels, flannels, cutlery or utensils</li><li data-block-key=\"cs4s\">do not use a swimming pool until at least 48 hours after your symptoms stop</li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "A pharmacist can help with diarrhoea and vomiting",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with diarrhoea and vomiting"
+        }
+      ],
+      "text": "A pharmacist can help with diarrhoea and vomiting\nSpeak to a pharmacist if:\nyou or your child (over 5 years) have signs of\ndehydration\n, such as dark, smelly pee or peeing less than usual\nyou're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration\nyou need to stop diarrhoea for a few hours\nThey may recommend:\noral rehydration powder that you mix with water to make a drink\nmedicine to stop diarrhoea for a few hours, like\nloperamide\n(not suitable for children under 12)\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you or your child (over 5 years) have signs of\ndehydration\n, such as dark, smelly pee or peeing less than usual",
+            "you're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration",
+            "you need to stop diarrhoea for a few hours"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "oral rehydration powder that you mix with water to make a drink",
+            "medicine to stop diarrhoea for a few hours, like\nloperamide\n(not suitable for children under 12)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        },
+        {
+          "text": "loperamide",
+          "url": "https://www.nhs.uk/medicines/loperamide/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">A pharmacist can help with diarrhoea and vomiting</h2>\n<p data-block-key=\"patmg\">Speak to a pharmacist if:</p><ul><li data-block-key=\"9kdnc\">you or your child (over 5 years) have signs of <a href=\"/conditions/dehydration/\">dehydration</a>, such as dark, smelly pee or peeing less than usual</li><li data-block-key=\"cj99k\">you're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration</li><li data-block-key=\"l7cvh\">you need to stop diarrhoea for a few hours</li></ul><p data-block-key=\"d25hn\">They may recommend:</p><ul><li data-block-key=\"wwkeg\">oral rehydration powder that you mix with water to make a drink</li><li data-block-key=\"0elxf\">medicine to stop diarrhoea for a few hours, like <a href=\"/medicines/loperamide/\">loperamide</a> (not suitable for children under 12)</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Urgent advice: Call 111 now if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Call 111 now if:"
+        }
+      ],
+      "text": "Urgent advice:\nCall 111 now if:\nyou're worried about a baby under 12 months\nyour child stops breast or bottle feeding while they're ill\na child under 5 years has signs of\ndehydration\n, such as fewer wet nappies\nyou or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets\nyou or your child keep being sick and cannot keep fluid down\nyou or your child have bloody diarrhoea or bleeding from the bottom\nyou or your child have diarrhoea for more than 7 days or vomiting for more than 2 days\n111 will tell you what to do. They can arrange a phone call from a nurse or doctor if you need one.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're worried about a baby under 12 months",
+            "your child stops breast or bottle feeding while they're ill",
+            "a child under 5 years has signs of\ndehydration\n, such as fewer wet nappies",
+            "you or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets",
+            "you or your child keep being sick and cannot keep fluid down",
+            "you or your child have bloody diarrhoea or bleeding from the bottom",
+            "you or your child have diarrhoea for more than 7 days or vomiting for more than 2 days"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call 111 now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9f9ki\">you're worried about a baby under 12 months</li><li data-block-key=\"z6sid\">your child stops breast or bottle feeding while they're ill</li><li data-block-key=\"26piy\">a child under 5 years has signs of <a href=\"/conditions/dehydration/\">dehydration</a>, such as fewer wet nappies</li><li data-block-key=\"cnq0t\">you or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets</li><li data-block-key=\"1uwaa\">you or your child keep being sick and cannot keep fluid down</li><li data-block-key=\"8jkw9\">you or your child have bloody diarrhoea or bleeding from the bottom</li><li data-block-key=\"fb770\">you or your child have diarrhoea for more than 7 days or vomiting for more than 2 days</li></ul><p data-block-key=\"wzwqy\">111 will tell you what to do. They can arrange a phone call from a nurse or doctor if you need one.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Immediate action required: Call 999 or go to A&E if you or your child:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if you or your child:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E if you or your child:\nvomit blood or have vomit that looks like ground coffee\nhave green vomit (adults)\nhave yellow-green or green vomit (children)\nmay have swallowed something poisonous\nhave a stiff neck and pain when looking at bright lights\nhave a sudden, severe headache\nhave a sudden, severe tummy ache\nhave blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet\nare having severe difficulty breathing, or taking lots of quick, short breaths\nare confused or not responding as usual\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "vomit blood or have vomit that looks like ground coffee",
+            "have green vomit (adults)",
+            "have yellow-green or green vomit (children)",
+            "may have swallowed something poisonous",
+            "have a stiff neck and pain when looking at bright lights",
+            "have a sudden, severe headache",
+            "have a sudden, severe tummy ache",
+            "have blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet",
+            "are having severe difficulty breathing, or taking lots of quick, short breaths",
+            "are confused or not responding as usual"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there and so bad it's hard to think or talk",
+            "you cannot sleep",
+            "it's very hard to move, get out of bed, go to the bathroom, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there",
+            "makes it hard to concentrate or sleep",
+            "you can manage to get up, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "comes and goes",
+            "is annoying but does not stop you doing daily activities"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if you or your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"q86t2\">vomit blood or have vomit that looks like ground coffee</li><li data-block-key=\"ddczj\">have green vomit (adults)</li><li data-block-key=\"7dua2\">have yellow-green or green vomit (children)</li><li data-block-key=\"h22r6\">may have swallowed something poisonous</li><li data-block-key=\"34z3r\">have a stiff neck and pain when looking at bright lights</li><li data-block-key=\"kwya5\">have a sudden, severe headache</li><li data-block-key=\"1f3k6\">have a sudden, severe tummy ache</li><li data-block-key=\"e1lue\">have blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet</li><li data-block-key=\"82sja\">are having severe difficulty breathing, or taking lots of quick, short breaths</li><li data-block-key=\"40vav\">are confused or not responding as usual</li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Causes of diarrhoea and vomiting",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of diarrhoea and vomiting"
+        }
+      ],
+      "text": "Causes of diarrhoea and vomiting\nThe most common causes of diarrhoea and vomiting are:\na stomach bug\nfood poisoning\nOther causes of diarrhoea or vomiting\nDiarrhoea can also be caused by:\nmedicines – check the leaflet to see if it's a side effect\na\nfood intolerance\nor\nfood allergy\nirritable bowel syndrome (IBS)\nanxiety\nappendicitis\ninflammatory bowel disease\ncoeliac disease\ndiverticular disease\nradiation treatment in the pelvic area\nVomiting can also be caused by:\npregnancy\nmigraine\nmotion sickness\ninner ear infections, such as\nlabyrinthitis\nmedicines – check the leaflet to see if it's a side effect\nreflux\n– where a baby brings feeds back up (\"spitting up\")\nother infections, such as a\nurinary tract infection (UTI)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a stomach bug",
+            "food poisoning"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "medicines – check the leaflet to see if it's a side effect",
+            "a\nfood intolerance\nor\nfood allergy",
+            "irritable bowel syndrome (IBS)",
+            "anxiety",
+            "appendicitis",
+            "inflammatory bowel disease",
+            "coeliac disease",
+            "diverticular disease",
+            "radiation treatment in the pelvic area"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "pregnancy",
+            "migraine",
+            "motion sickness",
+            "inner ear infections, such as\nlabyrinthitis",
+            "medicines – check the leaflet to see if it's a side effect",
+            "reflux\n– where a baby brings feeds back up (\"spitting up\")",
+            "other infections, such as a\nurinary tract infection (UTI)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "food poisoning",
+          "url": "https://www.nhs.uk/conditions/food-poisoning/"
+        },
+        {
+          "text": "food intolerance",
+          "url": "https://www.nhs.uk/conditions/food-intolerance/"
+        },
+        {
+          "text": "food allergy",
+          "url": "https://www.nhs.uk/conditions/food-allergy/"
+        },
+        {
+          "text": "irritable bowel syndrome (IBS)",
+          "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+        },
+        {
+          "text": "anxiety",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+        },
+        {
+          "text": "appendicitis",
+          "url": "https://www.nhs.uk/conditions/appendicitis/"
+        },
+        {
+          "text": "inflammatory bowel disease",
+          "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+        },
+        {
+          "text": "coeliac disease",
+          "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+        },
+        {
+          "text": "diverticular disease",
+          "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/"
+        },
+        {
+          "text": "migraine",
+          "url": "https://www.nhs.uk/conditions/migraine/"
+        },
+        {
+          "text": "motion sickness",
+          "url": "https://www.nhs.uk/conditions/motion-sickness/"
+        },
+        {
+          "text": "labyrinthitis",
+          "url": "https://www.nhs.uk/conditions/labyrinthitis/"
+        },
+        {
+          "text": "reflux",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/"
+        },
+        {
+          "text": "urinary tract infection (UTI)",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of diarrhoea and vomiting</h2>\n<p data-block-key=\"q2h93\">The most common causes of diarrhoea and vomiting are:</p><ul><li data-block-key=\"lk3vs\">a stomach bug</li><li data-block-key=\"ghj0b\"><a href=\"/conditions/food-poisoning/\">food poisoning</a></li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Other causes of diarrhoea or vomiting\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"4ossy\"><b>Diarrhoea can also be caused by:</b></p><ul><li data-block-key=\"pph3y\">medicines – check the leaflet to see if it's a side effect</li><li data-block-key=\"0x1yj\">a <a href=\"/conditions/food-intolerance/\">food intolerance</a> or <a href=\"/conditions/food-allergy/\">food allergy</a></li><li data-block-key=\"lnys1\"><a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome (IBS)</a></li><li data-block-key=\"er8i8\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li data-block-key=\"8fgk0\"><a href=\"/conditions/appendicitis/\">appendicitis</a></li><li data-block-key=\"xjeph\"><a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease</a></li><li data-block-key=\"70asg\"><a href=\"/conditions/coeliac-disease/\">coeliac disease</a></li><li data-block-key=\"oc0au\"><a href=\"/conditions/diverticular-disease-and-diverticulitis/\">diverticular disease</a></li><li data-block-key=\"b15hi\">radiation treatment in the pelvic area</li></ul><p data-block-key=\"0ed6z\"><b>Vomiting can also be caused by:</b></p><ul><li data-block-key=\"9qu4m\">pregnancy</li><li data-block-key=\"me7o4\"><a href=\"/conditions/migraine/\">migraine</a></li><li data-block-key=\"2nuf0\"><a href=\"/conditions/motion-sickness/\">motion sickness</a></li><li data-block-key=\"cotei\">inner ear infections, such as <a href=\"/conditions/labyrinthitis/\">labyrinthitis</a></li><li data-block-key=\"qgcsp\">medicines – check the leaflet to see if it's a side effect</li><li data-block-key=\"u0znc\"><a href=\"/conditions/reflux-in-babies/\">reflux</a> – where a baby brings feeds back up (\"spitting up\")</li><li data-block-key=\"foivc\">other infections, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a></li></ul>\n</div>\n</details>\n</section>"
+    }
+  ],
+  "page_text": "Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.\nThe advice is the same if you have diarrhoea and vomiting together or separately.\nHow to treat diarrhoea and vomiting yourself\nDiarrhoea and vomiting can usually be treated at home. The most important thing is to have lots of fluids to avoid dehydration.\nDo\nstay at home and get plenty of rest\ndrink lots of fluids, such as water or squash – take small sips if you feel sick\ncarry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual\ngive babies on formula or solid foods small sips of water between feeds\neat when you feel able to – it may help to avoid foods that are fatty or spicy\ntake\nparacetamol\nif you're in discomfort – check the leaflet before giving it to your child\nDon’t\ndo not have fruit juice or fizzy drinks – they can make diarrhoea worse\ndo not make baby formula weaker – use it at its usual strength\ndo not give children under 12 medicine to stop diarrhoea\ndo not give aspirin to children under 16\nHow long diarrhoea and vomiting last\nIn adults and children:\ndiarrhoea usually stops within 5 to 7 days\nvomiting usually stops in 1 or 2 days\nDiarrhoea and vomiting can spread easily\nStay off school or work until you've not been sick or had diarrhoea for at least 2 days.\nIf you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.\nTo help avoid spreading an infection:\nwash your hands\nwith soap and water frequently\nwash any clothing or bedding that has poo or vomit on it separately on a hot wash\nclean toilet seats, flush handles, taps, surfaces and door handles every day\ndo not prepare food for other people, if possible\ndo not share towels, flannels, cutlery or utensils\ndo not use a swimming pool until at least 48 hours after your symptoms stop\nA pharmacist can help with diarrhoea and vomiting\nSpeak to a pharmacist if:\nyou or your child (over 5 years) have signs of\ndehydration\n, such as dark, smelly pee or peeing less than usual\nyou're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration\nyou need to stop diarrhoea for a few hours\nThey may recommend:\noral rehydration powder that you mix with water to make a drink\nmedicine to stop diarrhoea for a few hours, like\nloperamide\n(not suitable for children under 12)\nFind a pharmacy\nUrgent advice:\nCall 111 now if:\nyou're worried about a baby under 12 months\nyour child stops breast or bottle feeding while they're ill\na child under 5 years has signs of\ndehydration\n, such as fewer wet nappies\nyou or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets\nyou or your child keep being sick and cannot keep fluid down\nyou or your child have bloody diarrhoea or bleeding from the bottom\nyou or your child have diarrhoea for more than 7 days or vomiting for more than 2 days\n111 will tell you what to do. They can arrange a phone call from a nurse or doctor if you need one.\nImmediate action required:\nCall 999 or go to A&E if you or your child:\nvomit blood or have vomit that looks like ground coffee\nhave green vomit (adults)\nhave yellow-green or green vomit (children)\nmay have swallowed something poisonous\nhave a stiff neck and pain when looking at bright lights\nhave a sudden, severe headache\nhave a sudden, severe tummy ache\nhave blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet\nare having severe difficulty breathing, or taking lots of quick, short breaths\nare confused or not responding as usual\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nCauses of diarrhoea and vomiting\nThe most common causes of diarrhoea and vomiting are:\na stomach bug\nfood poisoning\nOther causes of diarrhoea or vomiting\nDiarrhoea can also be caused by:\nmedicines – check the leaflet to see if it's a side effect\na\nfood intolerance\nor\nfood allergy\nirritable bowel syndrome (IBS)\nanxiety\nappendicitis\ninflammatory bowel disease\ncoeliac disease\ndiverticular disease\nradiation treatment in the pelvic area\nVomiting can also be caused by:\npregnancy\nmigraine\nmotion sickness\ninner ear infections, such as\nlabyrinthitis\nmedicines – check the leaflet to see if it's a side effect\nreflux\n– where a baby brings feeds back up (\"spitting up\")\nother infections, such as a\nurinary tract infection (UTI)\nPage last reviewed: 21 December 2023\nNext review due: 21 December 2026",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "wash your hands",
+      "url": "https://www.nhs.uk/live-well/best-way-to-wash-your-hands/"
+    },
+    {
+      "text": "dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    },
+    {
+      "text": "loperamide",
+      "url": "https://www.nhs.uk/medicines/loperamide/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/find-a-pharmacy"
+    },
+    {
+      "text": "dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "food poisoning",
+      "url": "https://www.nhs.uk/conditions/food-poisoning/"
+    },
+    {
+      "text": "food intolerance",
+      "url": "https://www.nhs.uk/conditions/food-intolerance/"
+    },
+    {
+      "text": "food allergy",
+      "url": "https://www.nhs.uk/conditions/food-allergy/"
+    },
+    {
+      "text": "irritable bowel syndrome (IBS)",
+      "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/"
+    },
+    {
+      "text": "appendicitis",
+      "url": "https://www.nhs.uk/conditions/appendicitis/"
+    },
+    {
+      "text": "inflammatory bowel disease",
+      "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+    },
+    {
+      "text": "coeliac disease",
+      "url": "https://www.nhs.uk/conditions/coeliac-disease/"
+    },
+    {
+      "text": "diverticular disease",
+      "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/"
+    },
+    {
+      "text": "migraine",
+      "url": "https://www.nhs.uk/conditions/migraine/"
+    },
+    {
+      "text": "motion sickness",
+      "url": "https://www.nhs.uk/conditions/motion-sickness/"
+    },
+    {
+      "text": "labyrinthitis",
+      "url": "https://www.nhs.uk/conditions/labyrinthitis/"
+    },
+    {
+      "text": "reflux",
+      "url": "https://www.nhs.uk/conditions/reflux-in-babies/"
+    },
+    {
+      "text": "urinary tract infection (UTI)",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"lho0v\"><b>Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.</b></p><p data-block-key=\"hs448\">The advice is the same if you have diarrhoea and vomiting together or separately.</p>\n</section>\n<section>\n<h2 id=\"self-care\">How to treat diarrhoea and vomiting yourself</h2>\n<p data-block-key=\"k71ng\">Diarrhoea and vomiting can usually be treated at home. The most important thing is to have lots of fluids to avoid dehydration.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cfnqv\">stay at home and get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fxjqr\">drink lots of fluids, such as water or squash – take small sips if you feel sick</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vu16v\">carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hdeeo\">give babies on formula or solid foods small sips of water between feeds</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hzbz5\">eat when you feel able to – it may help to avoid foods that are fatty or spicy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"afdop\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> if you're in discomfort – check the leaflet before giving it to your child</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lvkz6\">do not have fruit juice or fizzy drinks – they can make diarrhoea worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"2wd6a\">do not make baby formula weaker – use it at its usual strength</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ed1px\">do not give children under 12 medicine to stop diarrhoea</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vgror\">do not give aspirin to children under 16</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2>How long diarrhoea and vomiting last</h2>\n<p data-block-key=\"6ydwo\">In adults and children:</p><ul><li data-block-key=\"nvmho\">diarrhoea usually stops within 5 to 7 days</li><li data-block-key=\"4q700\">vomiting usually stops in 1 or 2 days</li></ul>\n</section>\n<section>\n<h2 id=\"transmission\">Diarrhoea and vomiting can spread easily</h2>\n<p data-block-key=\"uqlay\">Stay off school or work until you've not been sick or had diarrhoea for at least 2 days.</p><p data-block-key=\"8fhh4\">If you have a high temperature or do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p><p data-block-key=\"t7rc\">To help avoid spreading an infection:</p><ul><li data-block-key=\"6pqb9\"><a href=\"/live-well/best-way-to-wash-your-hands/\">wash your hands</a> with soap and water frequently</li><li data-block-key=\"7phlv\">wash any clothing or bedding that has poo or vomit on it separately on a hot wash</li><li data-block-key=\"enmi3\">clean toilet seats, flush handles, taps, surfaces and door handles every day</li><li data-block-key=\"gc38\">do not prepare food for other people, if possible</li><li data-block-key=\"1q5l3\">do not share towels, flannels, cutlery or utensils</li><li data-block-key=\"cs4s\">do not use a swimming pool until at least 48 hours after your symptoms stop</li></ul>\n</section>\n<section>\n<h2 id=\"medical-treatments\">A pharmacist can help with diarrhoea and vomiting</h2>\n<p data-block-key=\"patmg\">Speak to a pharmacist if:</p><ul><li data-block-key=\"9kdnc\">you or your child (over 5 years) have signs of <a href=\"/conditions/dehydration/\">dehydration</a>, such as dark, smelly pee or peeing less than usual</li><li data-block-key=\"cj99k\">you're an older person, have a weakened immune system, or have other health conditions that increase your risk of dehydration</li><li data-block-key=\"l7cvh\">you need to stop diarrhoea for a few hours</li></ul><p data-block-key=\"d25hn\">They may recommend:</p><ul><li data-block-key=\"wwkeg\">oral rehydration powder that you mix with water to make a drink</li><li data-block-key=\"0elxf\">medicine to stop diarrhoea for a few hours, like <a href=\"/medicines/loperamide/\">loperamide</a> (not suitable for children under 12)</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call 111 now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9f9ki\">you're worried about a baby under 12 months</li><li data-block-key=\"z6sid\">your child stops breast or bottle feeding while they're ill</li><li data-block-key=\"26piy\">a child under 5 years has signs of <a href=\"/conditions/dehydration/\">dehydration</a>, such as fewer wet nappies</li><li data-block-key=\"cnq0t\">you or your child (aged 5 years or over) still have signs of dehydration after using oral rehydration sachets</li><li data-block-key=\"1uwaa\">you or your child keep being sick and cannot keep fluid down</li><li data-block-key=\"8jkw9\">you or your child have bloody diarrhoea or bleeding from the bottom</li><li data-block-key=\"fb770\">you or your child have diarrhoea for more than 7 days or vomiting for more than 2 days</li></ul><p data-block-key=\"wzwqy\">111 will tell you what to do. They can arrange a phone call from a nurse or doctor if you need one.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if you or your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"q86t2\">vomit blood or have vomit that looks like ground coffee</li><li data-block-key=\"ddczj\">have green vomit (adults)</li><li data-block-key=\"7dua2\">have yellow-green or green vomit (children)</li><li data-block-key=\"h22r6\">may have swallowed something poisonous</li><li data-block-key=\"34z3r\">have a stiff neck and pain when looking at bright lights</li><li data-block-key=\"kwya5\">have a sudden, severe headache</li><li data-block-key=\"1f3k6\">have a sudden, severe tummy ache</li><li data-block-key=\"e1lue\">have blue, grey, pale or blotchy skin, lips or tongue - on brown or black skin this may be easier to see on the palms of the hands or soles of the feet</li><li data-block-key=\"82sja\">are having severe difficulty breathing, or taking lots of quick, short breaths</li><li data-block-key=\"40vav\">are confused or not responding as usual</li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of diarrhoea and vomiting</h2>\n<p data-block-key=\"q2h93\">The most common causes of diarrhoea and vomiting are:</p><ul><li data-block-key=\"lk3vs\">a stomach bug</li><li data-block-key=\"ghj0b\"><a href=\"/conditions/food-poisoning/\">food poisoning</a></li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Other causes of diarrhoea or vomiting\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"4ossy\"><b>Diarrhoea can also be caused by:</b></p><ul><li data-block-key=\"pph3y\">medicines – check the leaflet to see if it's a side effect</li><li data-block-key=\"0x1yj\">a <a href=\"/conditions/food-intolerance/\">food intolerance</a> or <a href=\"/conditions/food-allergy/\">food allergy</a></li><li data-block-key=\"lnys1\"><a href=\"/conditions/irritable-bowel-syndrome-ibs/\">irritable bowel syndrome (IBS)</a></li><li data-block-key=\"er8i8\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/\">anxiety</a></li><li data-block-key=\"8fgk0\"><a href=\"/conditions/appendicitis/\">appendicitis</a></li><li data-block-key=\"xjeph\"><a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease</a></li><li data-block-key=\"70asg\"><a href=\"/conditions/coeliac-disease/\">coeliac disease</a></li><li data-block-key=\"oc0au\"><a href=\"/conditions/diverticular-disease-and-diverticulitis/\">diverticular disease</a></li><li data-block-key=\"b15hi\">radiation treatment in the pelvic area</li></ul><p data-block-key=\"0ed6z\"><b>Vomiting can also be caused by:</b></p><ul><li data-block-key=\"9qu4m\">pregnancy</li><li data-block-key=\"me7o4\"><a href=\"/conditions/migraine/\">migraine</a></li><li data-block-key=\"2nuf0\"><a href=\"/conditions/motion-sickness/\">motion sickness</a></li><li data-block-key=\"cotei\">inner ear infections, such as <a href=\"/conditions/labyrinthitis/\">labyrinthitis</a></li><li data-block-key=\"qgcsp\">medicines – check the leaflet to see if it's a side effect</li><li data-block-key=\"u0znc\"><a href=\"/conditions/reflux-in-babies/\">reflux</a> – where a baby brings feeds back up (\"spitting up\")</li><li data-block-key=\"foivc\">other infections, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a></li></ul>\n</div>\n</details>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 21 December 2023<br/>\n    Next review due: 21 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

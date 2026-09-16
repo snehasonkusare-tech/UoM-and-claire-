@@ -1,0 +1,515 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/breast-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/breast-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:03.003877+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Breast pain",
+      "url": "https://www.nhs.uk/symptoms/breast-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Breast pain",
+  "meta_description": "Find out about breast pain and what can cause it. It's usually linked to periods but can also be caused by injury, infection and taking certain medicines.",
+  "review_dates": {
+    "page_last_reviewed": "03 May 2023",
+    "next_review_due": "03 May 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about breast pain and what can cause it. It's usually linked to periods but can also be caused by injury, infection and taking certain medicines."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/breast-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBreast pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about breast pain and what can cause it. It's usually linked to periods but can also be caused by injury, infection and taking certain medicines."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "25 Aug 2026, 4:07 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "17 Oct 2017, 5:24 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Breast pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/breast-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Breast pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-25T15:07:12+00:00",
+      "description": "Find out about breast pain and what can cause it. It's usually linked to periods but can also be caused by injury, infection and taking certain medicines.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Breast pain is usually linked to periods. Sometimes it can be caused by a condition like mastitis or a medicine like the contraceptive pill.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Breast pain is usually linked to periods. Sometimes it can be caused by a health condition or medicine.</p><h3>Breast pain linked to periods</h3><p>Breast pain linked to periods usually:</p><ul><li>begins up to 2 weeks before a period, gets worse and then goes away when the period ends</li><li>feels dull, heavy or aching</li><li>affects both breasts and sometimes spreads to the armpit</li></ul><h3>Other causes of breast pain</h3><p>Other causes of breast pain include:</p><ul><li>injuries or <a href=\"/conditions/sprains-and-strains/\">sprains</a> to the neck, shoulder or back – these can be felt as breast pain</li><li>medicines like the contraceptive pill and some antidepressants</li><li>conditions like <a href=\"/conditions/mastitis/\">mastitis</a> or a <a href=\"/conditions/breast-abscess/\">breast abscess</a></li><li>pregnancy</li><li>hormone changes during the <a href=\"/conditions/menopause/\">menopause</a></li></ul><p>Breast pain by itself is unlikely to be a symptom of cancer.</p>"
+            }
+          ],
+          "headline": "Causes of breast pain",
+          "url": "https://www.nhs.uk/symptoms/breast-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have breast pain, taking painkillers and wearing a properly fitted bra can help ease the pain.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To help ease breast pain:</p><ul><li>take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, or rub painkilling gel on your breasts</li><li>wear a properly fitted bra during the day and a soft bra to sleep in</li></ul><p>There's little evidence that vitamin E tablets or evening primrose oil help with breast pain.</p>"
+            }
+          ],
+          "headline": "Things you can do to ease breast pain",
+          "url": "https://www.nhs.uk/symptoms/breast-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Breast pain is not usually serious, but sometimes you may need to get medical help.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Breast pain is common and is not usually a sign of anything serious, but sometimes you should get it checked.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP about breast pain if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  it's not improving or painkillers are not helping\n </li>\n<li>\n  there's a history of breast cancer in your family\n </li>\n<li>\n  you have any\n  <a href=\"/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/\">\n   signs of pregnancy\n  </a>\n  – you could do a\n  <a href=\"/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/\">\n   pregnancy test\n  </a>\n  first\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Check your symptoms with NHS 111 online</h3><p>If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have breast pain and have a very high temperature, or feel hot, cold or shivery\n </li>\n<li>\n  any part of your breast is red, hot or swollen\n </li>\n<li>\n  there's a hard lump in your breast that does not move around\n </li>\n<li>\n  you get nipple discharge, which may be streaked with blood\n </li>\n<li>\n  1 or both breasts change shape\n </li>\n<li>\n  the skin on your breast is dimpled (like orange peel)\n </li>\n<li>\n  you have a rash on or around your nipple, or the nipple has sunk into your breast\n </li>\n</ul>\n<p>\n These can be signs of something more serious.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/symptoms/breast-pain/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many reasons breasts can be painful. It's not usually anything serious, but see a GP if the pain does not improve.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Breast pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Breast pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Breast pain is usually linked to periods. Sometimes it can be caused by a condition like mastitis or a medicine like the contraceptive pill.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have breast pain, taking painkillers and wearing a properly fitted bra can help ease the pain.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/breast-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-05-03T00:00:00+00:00",
+        "2026-05-03T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Breast pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Breast pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/breast-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/breast-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of breast pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of breast pain"
+        },
+        {
+          "level": "h3",
+          "text": "Breast pain linked to periods"
+        },
+        {
+          "level": "h3",
+          "text": "Other causes of breast pain"
+        }
+      ],
+      "text": "Causes of breast pain\nBreast pain is usually linked to periods. Sometimes it can be caused by a health condition or medicine.\nBreast pain linked to periods\nBreast pain linked to periods usually:\nbegins up to 2 weeks before a period, gets worse and then goes away when the period ends\nfeels dull, heavy or aching\naffects both breasts and sometimes spreads to the armpit\nOther causes of breast pain\nOther causes of breast pain include:\ninjuries or\nsprains\nto the neck, shoulder or back – these can be felt as breast pain\nmedicines like the contraceptive pill and some antidepressants\nconditions like\nmastitis\nor a\nbreast abscess\npregnancy\nhormone changes during the\nmenopause\nBreast pain by itself is unlikely to be a symptom of cancer.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "begins up to 2 weeks before a period, gets worse and then goes away when the period ends",
+            "feels dull, heavy or aching",
+            "affects both breasts and sometimes spreads to the armpit"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "injuries or\nsprains\nto the neck, shoulder or back – these can be felt as breast pain",
+            "medicines like the contraceptive pill and some antidepressants",
+            "conditions like\nmastitis\nor a\nbreast abscess",
+            "pregnancy",
+            "hormone changes during the\nmenopause"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "sprains",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "mastitis",
+          "url": "https://www.nhs.uk/conditions/mastitis/"
+        },
+        {
+          "text": "breast abscess",
+          "url": "https://www.nhs.uk/conditions/breast-abscess/"
+        },
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of breast pain</h2>\n<p data-block-key=\"wozei\">Breast pain is usually linked to periods. Sometimes it can be caused by a health condition or medicine.</p><h3 data-block-key=\"ejusf\">Breast pain linked to periods</h3><p data-block-key=\"brukp\">Breast pain linked to periods usually:</p><ul><li data-block-key=\"1ct9d\">begins up to 2 weeks before a period, gets worse and then goes away when the period ends</li><li data-block-key=\"38n4\">feels dull, heavy or aching</li><li data-block-key=\"16g8i\">affects both breasts and sometimes spreads to the armpit</li></ul><h3 data-block-key=\"1ma55\">Other causes of breast pain</h3><p data-block-key=\"2md1j\">Other causes of breast pain include:</p><ul><li data-block-key=\"3op4d\">injuries or <a href=\"/conditions/sprains-and-strains/\">sprains</a> to the neck, shoulder or back – these can be felt as breast pain</li><li data-block-key=\"e1bdm\">medicines like the contraceptive pill and some antidepressants</li><li data-block-key=\"3l50v\">conditions like <a href=\"/conditions/mastitis/\">mastitis</a> or a <a href=\"/conditions/breast-abscess/\">breast abscess</a></li><li data-block-key=\"7mnfb\">pregnancy</li><li data-block-key=\"9gckh\">hormone changes during the <a href=\"/conditions/menopause/\">menopause</a></li></ul><p data-block-key=\"61ajb\">Breast pain by itself is unlikely to be a symptom of cancer.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can do to ease breast pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do to ease breast pain"
+        }
+      ],
+      "text": "Things you can do to ease breast pain\nTo help ease breast pain:\ntake\nparacetamol\nor\nibuprofen\n, or rub painkilling gel on your breasts\nwear a properly fitted bra during the day and a soft bra to sleep in\nThere's little evidence that vitamin E tablets or evening primrose oil help with breast pain.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "take\nparacetamol\nor\nibuprofen\n, or rub painkilling gel on your breasts",
+            "wear a properly fitted bra during the day and a soft bra to sleep in"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do to ease breast pain</h2>\n<p data-block-key=\"l5e5u\">To help ease breast pain:</p><ul><li data-block-key=\"fq74h\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, or rub painkilling gel on your breasts</li><li data-block-key=\"7bba7\">wear a properly fitted bra during the day and a soft bra to sleep in</li></ul><p data-block-key=\"5rpqj\">There's little evidence that vitamin E tablets or evening primrose oil help with breast pain.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP about breast pain if:"
+        },
+        {
+          "level": "h3",
+          "text": "Check your symptoms with NHS 111 online"
+        },
+        {
+          "level": "h3",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "When and where to get medical help\nBreast pain is common and is not usually a sign of anything serious, but sometimes you should get it checked.\nNon-urgent advice:\nSee a GP about breast pain if:\nit's not improving or painkillers are not helping\nthere's a history of breast cancer in your family\nyou have any\nsigns of pregnancy\n– you could do a\npregnancy test\nfirst\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have breast pain and have a very high temperature, or feel hot, cold or shivery\nany part of your breast is red, hot or swollen\nthere's a hard lump in your breast that does not move around\nyou get nipple discharge, which may be streaked with blood\n1 or both breasts change shape\nthe skin on your breast is dimpled (like orange peel)\nyou have a rash on or around your nipple, or the nipple has sunk into your breast\nThese can be signs of something more serious.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it's not improving or painkillers are not helping",
+            "there's a history of breast cancer in your family",
+            "you have any\nsigns of pregnancy\n– you could do a\npregnancy test\nfirst"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you have breast pain and have a very high temperature, or feel hot, cold or shivery",
+            "any part of your breast is red, hot or swollen",
+            "there's a hard lump in your breast that does not move around",
+            "you get nipple discharge, which may be streaked with blood",
+            "1 or both breasts change shape",
+            "the skin on your breast is dimpled (like orange peel)",
+            "you have a rash on or around your nipple, or the nipple has sunk into your breast"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "signs of pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/"
+        },
+        {
+          "text": "pregnancy test",
+          "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+        },
+        {
+          "text": "Get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        },
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"94sq2\">Breast pain is common and is not usually a sign of anything serious, but sometimes you should get it checked.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP about breast pain if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"l2rr9\">it's not improving or painkillers are not helping</li><li data-block-key=\"dgltr\">there's a history of breast cancer in your family</li><li data-block-key=\"fub01\">you have any <a href=\"/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/\">signs of pregnancy</a> – you could do a <a href=\"/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/\">pregnancy test</a> first</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"sexmv\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"htj9\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"5spm4\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"l2rr9\">you have breast pain and have a very high temperature, or feel hot, cold or shivery</li><li data-block-key=\"8dqvp\">any part of your breast is red, hot or swollen</li><li data-block-key=\"2l6po\">there's a hard lump in your breast that does not move around</li><li data-block-key=\"epsi7\">you get nipple discharge, which may be streaked with blood</li><li data-block-key=\"4o6q\">1 or both breasts change shape</li><li data-block-key=\"6qkik\">the skin on your breast is dimpled (like orange peel)</li><li data-block-key=\"4bl46\">you have a rash on or around your nipple, or the nipple has sunk into your breast</li></ul><p data-block-key=\"8n4g\">These can be signs of something more serious.</p><p data-block-key=\"4vi7j\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Causes of breast pain\nBreast pain is usually linked to periods. Sometimes it can be caused by a health condition or medicine.\nBreast pain linked to periods\nBreast pain linked to periods usually:\nbegins up to 2 weeks before a period, gets worse and then goes away when the period ends\nfeels dull, heavy or aching\naffects both breasts and sometimes spreads to the armpit\nOther causes of breast pain\nOther causes of breast pain include:\ninjuries or\nsprains\nto the neck, shoulder or back – these can be felt as breast pain\nmedicines like the contraceptive pill and some antidepressants\nconditions like\nmastitis\nor a\nbreast abscess\npregnancy\nhormone changes during the\nmenopause\nBreast pain by itself is unlikely to be a symptom of cancer.\nThings you can do to ease breast pain\nTo help ease breast pain:\ntake\nparacetamol\nor\nibuprofen\n, or rub painkilling gel on your breasts\nwear a properly fitted bra during the day and a soft bra to sleep in\nThere's little evidence that vitamin E tablets or evening primrose oil help with breast pain.\nWhen and where to get medical help\nBreast pain is common and is not usually a sign of anything serious, but sometimes you should get it checked.\nNon-urgent advice:\nSee a GP about breast pain if:\nit's not improving or painkillers are not helping\nthere's a history of breast cancer in your family\nyou have any\nsigns of pregnancy\n– you could do a\npregnancy test\nfirst\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have breast pain and have a very high temperature, or feel hot, cold or shivery\nany part of your breast is red, hot or swollen\nthere's a hard lump in your breast that does not move around\nyou get nipple discharge, which may be streaked with blood\n1 or both breasts change shape\nthe skin on your breast is dimpled (like orange peel)\nyou have a rash on or around your nipple, or the nipple has sunk into your breast\nThese can be signs of something more serious.\nYou can call 111 or\nget help from 111 online\n.\nPage last reviewed: 03 May 2023\nNext review due: 03 May 2026",
+  "links": [
+    {
+      "text": "sprains",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "mastitis",
+      "url": "https://www.nhs.uk/conditions/mastitis/"
+    },
+    {
+      "text": "breast abscess",
+      "url": "https://www.nhs.uk/conditions/breast-abscess/"
+    },
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "signs of pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/"
+    },
+    {
+      "text": "pregnancy test",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+    },
+    {
+      "text": "Get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of breast pain</h2>\n<p data-block-key=\"wozei\">Breast pain is usually linked to periods. Sometimes it can be caused by a health condition or medicine.</p><h3 data-block-key=\"ejusf\">Breast pain linked to periods</h3><p data-block-key=\"brukp\">Breast pain linked to periods usually:</p><ul><li data-block-key=\"1ct9d\">begins up to 2 weeks before a period, gets worse and then goes away when the period ends</li><li data-block-key=\"38n4\">feels dull, heavy or aching</li><li data-block-key=\"16g8i\">affects both breasts and sometimes spreads to the armpit</li></ul><h3 data-block-key=\"1ma55\">Other causes of breast pain</h3><p data-block-key=\"2md1j\">Other causes of breast pain include:</p><ul><li data-block-key=\"3op4d\">injuries or <a href=\"/conditions/sprains-and-strains/\">sprains</a> to the neck, shoulder or back – these can be felt as breast pain</li><li data-block-key=\"e1bdm\">medicines like the contraceptive pill and some antidepressants</li><li data-block-key=\"3l50v\">conditions like <a href=\"/conditions/mastitis/\">mastitis</a> or a <a href=\"/conditions/breast-abscess/\">breast abscess</a></li><li data-block-key=\"7mnfb\">pregnancy</li><li data-block-key=\"9gckh\">hormone changes during the <a href=\"/conditions/menopause/\">menopause</a></li></ul><p data-block-key=\"61ajb\">Breast pain by itself is unlikely to be a symptom of cancer.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do to ease breast pain</h2>\n<p data-block-key=\"l5e5u\">To help ease breast pain:</p><ul><li data-block-key=\"fq74h\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, or rub painkilling gel on your breasts</li><li data-block-key=\"7bba7\">wear a properly fitted bra during the day and a soft bra to sleep in</li></ul><p data-block-key=\"5rpqj\">There's little evidence that vitamin E tablets or evening primrose oil help with breast pain.</p>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"94sq2\">Breast pain is common and is not usually a sign of anything serious, but sometimes you should get it checked.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP about breast pain if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"l2rr9\">it's not improving or painkillers are not helping</li><li data-block-key=\"dgltr\">there's a history of breast cancer in your family</li><li data-block-key=\"fub01\">you have any <a href=\"/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/\">signs of pregnancy</a> – you could do a <a href=\"/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/\">pregnancy test</a> first</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"sexmv\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"htj9\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"5spm4\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"l2rr9\">you have breast pain and have a very high temperature, or feel hot, cold or shivery</li><li data-block-key=\"8dqvp\">any part of your breast is red, hot or swollen</li><li data-block-key=\"2l6po\">there's a hard lump in your breast that does not move around</li><li data-block-key=\"epsi7\">you get nipple discharge, which may be streaked with blood</li><li data-block-key=\"4o6q\">1 or both breasts change shape</li><li data-block-key=\"6qkik\">the skin on your breast is dimpled (like orange peel)</li><li data-block-key=\"4bl46\">you have a rash on or around your nipple, or the nipple has sunk into your breast</li></ul><p data-block-key=\"8n4g\">These can be signs of something more serious.</p><p data-block-key=\"4vi7j\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 03 May 2023<br/>\n    Next review due: 03 May 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

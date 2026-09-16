@@ -1,0 +1,582 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/heavy-periods/",
+  "final_url": "https://www.nhs.uk/conditions/heavy-periods/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:51.571168+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Heavy periods",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "P",
+      "label": "Periods (heavy), see Heavy periods",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Heavy periods",
+  "meta_description": "Find out about heavy periods (called menorrhagia) and how to treat them if they are affecting your daily life.",
+  "review_dates": {
+    "page_last_reviewed": "19 September 2024",
+    "next_review_due": "19 September 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about heavy periods (called menorrhagia) and how to treat them if they are affecting your daily life."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/heavy-periods/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHeavy periods\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about heavy periods (called menorrhagia) and how to treat them if they are affecting your daily life."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "2 Jul 2026, 1:57 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 10:51 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Periods (heavy)"
+        ],
+        "name": "Heavy periods"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/heavy-periods/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Heavy periods"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-02T12:57:36+00:00",
+      "description": "Find out about heavy periods (called menorrhagia) and how to treat them if they are affecting your daily life.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptoms of heavy periods are losing a lot of blood during your period or your periods lasting longer than 7 days.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may have heavy periods if you:</p><ul><li>need to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended</li><li>need to use 2 types of period product together, such as a pad and a tampon</li><li>have periods lasting more than 7 days</li><li>pass blood clots larger than about 2.5cm (the size of a 10p coin)</li><li>bleed through to your clothes or bedding</li><li>avoid daily activities, like exercise, or take time off work because of your periods</li><li>feel tired or short of breath a lot</li></ul>"
+            }
+          ],
+          "headline": "What are heavy periods?",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Having heavy periods can be normal. Sometimes they can be caused by a treatment or condition, such as a problem with your hormones.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It can be normal to have heavy periods.</p><p>They can sometimes be heavy at different times, like when you first start your periods, after pregnancy or approaching <a href=\"/conditions/menopause/\">menopause</a>.</p><p>Sometimes heavy periods can be caused by:</p><ul><li>conditions affecting your womb or ovaries, such as <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a>, <a href=\"/conditions/fibroids/\">fibroids</a>, <a href=\"/conditions/endometriosis/\">endometriosis</a>, <a href=\"/conditions/adenomyosis/\">adenomyosis</a> and <a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a></li><li>conditions that can make you bleed more easily, such as <a href=\"/conditions/von-willebrand-disease/\">Von Willebrand disease</a></li><li>some medicines and treatments, including some <a href=\"/medicines/anticoagulants/\">anticoagulant medicines</a> and chemotherapy medicines</li></ul><p>Rarely, heavy periods can be a sign of <a href=\"/conditions/womb-cancer/\">womb cancer</a>.</p>"
+            }
+          ],
+          "headline": "Causes of heavy periods",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  heavy periods are affecting your life\n </li>\n<li>\n  you've had heavy periods for some time\n </li>\n<li>\n  you have severe pain during your periods\n </li>\n<li>\n  you bleed between periods or after sex\n </li>\n<li>\n  you have heavy periods and other symptoms, such as pain when peeing, pooing or having sex\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for heavy periods include some types of contraception, medicines that help reduce bleeding and anti-inflammatory painkillers.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Heavy periods do not always need to be treated. But there are treatments that can help if they’re affecting your daily life.</p><p>Treatments from a GP include:</p><ul><li>some types of contraception, such as an <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a> or the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a></li><li>medicine to help reduce the bleeding, such as <a href=\"/medicines/tranexamic-acid/\">tranexamic acid</a></li><li>prescription-only anti-inflammatory painkillers, such as mefenamic acid or <a href=\"/medicines/naproxen/\">naproxen</a></li></ul><p>If these treatments do not work or a GP thinks a condition may be causing your heavy periods, they’ll usually refer you for tests or to see a specialist.</p><h3>Specialist treatments</h3><p>Specialist treatments for heavy periods include:</p><ul><li>removing the lining of the womb (endometrial ablation)</li><li>removing fibroids if it’s thought they’re causing your heavy periods</li><li>total or partial removal of the womb (<a href=\"/tests-and-treatments/hysterectomy/\">hysterectomy</a>)</li></ul><p>You may have a series of blood tests to check if you have any underlying conditions, such as iron deficiency anaemia.</p>"
+            }
+          ],
+          "headline": "Treatment for heavy periods",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Heavy periods are when you lose a lot of blood during your period or your periods last a long time.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Heavy periods",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heavy periods",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heavy periods",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptoms of heavy periods are losing a lot of blood during your period or your periods lasting longer than 7 days.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatments for heavy periods include some types of contraception, medicines that help reduce bleeding and anti-inflammatory painkillers.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Having heavy periods can be normal. Sometimes they can be caused by a treatment or condition, such as a problem with your hormones.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-09-19T03:00:00+00:00",
+        "2027-09-19T03:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Heavy periods",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Heavy periods",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/heavy-periods/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "What are heavy periods?",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What are heavy periods?"
+        }
+      ],
+      "text": "What are heavy periods?\nYou may have heavy periods if you:\nneed to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended\nneed to use 2 types of period product together, such as a pad and a tampon\nhave periods lasting more than 7 days\npass blood clots larger than about 2.5cm (the size of a 10p coin)\nbleed through to your clothes or bedding\navoid daily activities, like exercise, or take time off work because of your periods\nfeel tired or short of breath a lot",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "need to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended",
+            "need to use 2 types of period product together, such as a pad and a tampon",
+            "have periods lasting more than 7 days",
+            "pass blood clots larger than about 2.5cm (the size of a 10p coin)",
+            "bleed through to your clothes or bedding",
+            "avoid daily activities, like exercise, or take time off work because of your periods",
+            "feel tired or short of breath a lot"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">What are heavy periods?</h2>\n<p data-block-key=\"6053h\">You may have heavy periods if you:</p><ul><li data-block-key=\"afbv3\">need to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended</li><li data-block-key=\"eg14p\">need to use 2 types of period product together, such as a pad and a tampon</li><li data-block-key=\"1dkep\">have periods lasting more than 7 days</li><li data-block-key=\"em7k2\">pass blood clots larger than about 2.5cm (the size of a 10p coin)</li><li data-block-key=\"6qra5\">bleed through to your clothes or bedding</li><li data-block-key=\"691jr\">avoid daily activities, like exercise, or take time off work because of your periods</li><li data-block-key=\"3po58\">feel tired or short of breath a lot</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of heavy periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of heavy periods"
+        }
+      ],
+      "text": "Causes of heavy periods\nIt can be normal to have heavy periods.\nThey can sometimes be heavy at different times, like when you first start your periods, after pregnancy or approaching\nmenopause\n.\nSometimes heavy periods can be caused by:\nconditions affecting your womb or ovaries, such as\npolyendocrine metabolic ovarian syndrome (PMOS)\n,\nfibroids\n,\nendometriosis\n,\nadenomyosis\nand\npelvic inflammatory disease\nconditions that can make you bleed more easily, such as\nVon Willebrand disease\nsome medicines and treatments, including some\nanticoagulant medicines\nand chemotherapy medicines\nRarely, heavy periods can be a sign of\nwomb cancer\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "conditions affecting your womb or ovaries, such as\npolyendocrine metabolic ovarian syndrome (PMOS)\n,\nfibroids\n,\nendometriosis\n,\nadenomyosis\nand\npelvic inflammatory disease",
+            "conditions that can make you bleed more easily, such as\nVon Willebrand disease",
+            "some medicines and treatments, including some\nanticoagulant medicines\nand chemotherapy medicines"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        },
+        {
+          "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+          "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+        },
+        {
+          "text": "fibroids",
+          "url": "https://www.nhs.uk/conditions/fibroids/"
+        },
+        {
+          "text": "endometriosis",
+          "url": "https://www.nhs.uk/conditions/endometriosis/"
+        },
+        {
+          "text": "adenomyosis",
+          "url": "https://www.nhs.uk/conditions/adenomyosis/"
+        },
+        {
+          "text": "pelvic inflammatory disease",
+          "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+        },
+        {
+          "text": "Von Willebrand disease",
+          "url": "https://www.nhs.uk/conditions/von-willebrand-disease/"
+        },
+        {
+          "text": "anticoagulant medicines",
+          "url": "https://www.nhs.uk/medicines/anticoagulants/"
+        },
+        {
+          "text": "womb cancer",
+          "url": "https://www.nhs.uk/conditions/womb-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of heavy periods</h2>\n<p data-block-key=\"pu905\">It can be normal to have heavy periods.</p><p data-block-key=\"dvn27\">They can sometimes be heavy at different times, like when you first start your periods, after pregnancy or approaching <a href=\"/conditions/menopause/\">menopause</a>.</p><p data-block-key=\"eo3gf\">Sometimes heavy periods can be caused by:</p><ul><li data-block-key=\"fkfho\">conditions affecting your womb or ovaries, such as <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a>, <a href=\"/conditions/fibroids/\">fibroids</a>, <a href=\"/conditions/endometriosis/\">endometriosis</a>, <a href=\"/conditions/adenomyosis/\">adenomyosis</a> and <a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a></li><li data-block-key=\"ru4k\">conditions that can make you bleed more easily, such as <a href=\"/conditions/von-willebrand-disease/\">Von Willebrand disease</a></li><li data-block-key=\"44e3i\">some medicines and treatments, including some <a href=\"/medicines/anticoagulants/\">anticoagulant medicines</a> and chemotherapy medicines</li></ul><p data-block-key=\"333fe\">Rarely, heavy periods can be a sign of <a href=\"/conditions/womb-cancer/\">womb cancer</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nheavy periods are affecting your life\nyou've had heavy periods for some time\nyou have severe pain during your periods\nyou bleed between periods or after sex\nyou have heavy periods and other symptoms, such as pain when peeing, pooing or having sex",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "heavy periods are affecting your life",
+            "you've had heavy periods for some time",
+            "you have severe pain during your periods",
+            "you bleed between periods or after sex",
+            "you have heavy periods and other symptoms, such as pain when peeing, pooing or having sex"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"354p4\">heavy periods are affecting your life</li><li data-block-key=\"6guhk\">you've had heavy periods for some time</li><li data-block-key=\"ci5tp\">you have severe pain during your periods</li><li data-block-key=\"6vkkv\">you bleed between periods or after sex</li><li data-block-key=\"clenl\">you have heavy periods and other symptoms, such as pain when peeing, pooing or having sex</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment for heavy periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for heavy periods"
+        },
+        {
+          "level": "h3",
+          "text": "Specialist treatments"
+        }
+      ],
+      "text": "Treatment for heavy periods\nHeavy periods do not always need to be treated. But there are treatments that can help if they’re affecting your daily life.\nTreatments from a GP include:\nsome types of contraception, such as an\nintrauterine system (IUS)\nor the\ncombined contraceptive pill\nmedicine to help reduce the bleeding, such as\ntranexamic acid\nprescription-only anti-inflammatory painkillers, such as mefenamic acid or\nnaproxen\nIf these treatments do not work or a GP thinks a condition may be causing your heavy periods, they’ll usually refer you for tests or to see a specialist.\nSpecialist treatments\nSpecialist treatments for heavy periods include:\nremoving the lining of the womb (endometrial ablation)\nremoving fibroids if it’s thought they’re causing your heavy periods\ntotal or partial removal of the womb (\nhysterectomy\n)\nYou may have a series of blood tests to check if you have any underlying conditions, such as iron deficiency anaemia.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "some types of contraception, such as an\nintrauterine system (IUS)\nor the\ncombined contraceptive pill",
+            "medicine to help reduce the bleeding, such as\ntranexamic acid",
+            "prescription-only anti-inflammatory painkillers, such as mefenamic acid or\nnaproxen"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "removing the lining of the womb (endometrial ablation)",
+            "removing fibroids if it’s thought they’re causing your heavy periods",
+            "total or partial removal of the womb (\nhysterectomy\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "intrauterine system (IUS)",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+        },
+        {
+          "text": "combined contraceptive pill",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+        },
+        {
+          "text": "tranexamic acid",
+          "url": "https://www.nhs.uk/medicines/tranexamic-acid/"
+        },
+        {
+          "text": "naproxen",
+          "url": "https://www.nhs.uk/medicines/naproxen/"
+        },
+        {
+          "text": "hysterectomy",
+          "url": "https://www.nhs.uk/tests-and-treatments/hysterectomy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for heavy periods</h2>\n<p data-block-key=\"feb81\">Heavy periods do not always need to be treated. But there are treatments that can help if they’re affecting your daily life.</p><p data-block-key=\"bs9ho\">Treatments from a GP include:</p><ul><li data-block-key=\"1c82s\">some types of contraception, such as an <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a> or the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a></li><li data-block-key=\"cuspa\">medicine to help reduce the bleeding, such as <a href=\"/medicines/tranexamic-acid/\">tranexamic acid</a></li><li data-block-key=\"5gf2d\">prescription-only anti-inflammatory painkillers, such as mefenamic acid or <a href=\"/medicines/naproxen/\">naproxen</a></li></ul><p data-block-key=\"aflbp\">If these treatments do not work or a GP thinks a condition may be causing your heavy periods, they’ll usually refer you for tests or to see a specialist.</p><h3 data-block-key=\"8nirl\">Specialist treatments</h3><p data-block-key=\"cactb\">Specialist treatments for heavy periods include:</p><ul><li data-block-key=\"2iu26\">removing the lining of the womb (endometrial ablation)</li><li data-block-key=\"55tgb\">removing fibroids if it’s thought they’re causing your heavy periods</li><li data-block-key=\"5n5a8\">total or partial removal of the womb (<a href=\"/tests-and-treatments/hysterectomy/\">hysterectomy</a>)</li></ul><p data-block-key=\"a2vlf\">You may have a series of blood tests to check if you have any underlying conditions, such as iron deficiency anaemia.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Find out more",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Find out more"
+        }
+      ],
+      "text": "Information:\nFind out more\nWellbeing of Women: periods information hub",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Wellbeing of Women: periods information hub"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Wellbeing of Women: periods information hub",
+          "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"idazc\">Find out more</h2><ul><li data-block-key=\"6f9rs\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "What are heavy periods?\nYou may have heavy periods if you:\nneed to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended\nneed to use 2 types of period product together, such as a pad and a tampon\nhave periods lasting more than 7 days\npass blood clots larger than about 2.5cm (the size of a 10p coin)\nbleed through to your clothes or bedding\navoid daily activities, like exercise, or take time off work because of your periods\nfeel tired or short of breath a lot\nCauses of heavy periods\nIt can be normal to have heavy periods.\nThey can sometimes be heavy at different times, like when you first start your periods, after pregnancy or approaching\nmenopause\n.\nSometimes heavy periods can be caused by:\nconditions affecting your womb or ovaries, such as\npolyendocrine metabolic ovarian syndrome (PMOS)\n,\nfibroids\n,\nendometriosis\n,\nadenomyosis\nand\npelvic inflammatory disease\nconditions that can make you bleed more easily, such as\nVon Willebrand disease\nsome medicines and treatments, including some\nanticoagulant medicines\nand chemotherapy medicines\nRarely, heavy periods can be a sign of\nwomb cancer\n.\nNon-urgent advice:\nSee a GP if:\nheavy periods are affecting your life\nyou've had heavy periods for some time\nyou have severe pain during your periods\nyou bleed between periods or after sex\nyou have heavy periods and other symptoms, such as pain when peeing, pooing or having sex\nTreatment for heavy periods\nHeavy periods do not always need to be treated. But there are treatments that can help if they’re affecting your daily life.\nTreatments from a GP include:\nsome types of contraception, such as an\nintrauterine system (IUS)\nor the\ncombined contraceptive pill\nmedicine to help reduce the bleeding, such as\ntranexamic acid\nprescription-only anti-inflammatory painkillers, such as mefenamic acid or\nnaproxen\nIf these treatments do not work or a GP thinks a condition may be causing your heavy periods, they’ll usually refer you for tests or to see a specialist.\nSpecialist treatments\nSpecialist treatments for heavy periods include:\nremoving the lining of the womb (endometrial ablation)\nremoving fibroids if it’s thought they’re causing your heavy periods\ntotal or partial removal of the womb (\nhysterectomy\n)\nYou may have a series of blood tests to check if you have any underlying conditions, such as iron deficiency anaemia.\nInformation:\nFind out more\nWellbeing of Women: periods information hub\nPage last reviewed: 19 September 2024\nNext review due: 19 September 2027",
+  "links": [
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+      "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+    },
+    {
+      "text": "fibroids",
+      "url": "https://www.nhs.uk/conditions/fibroids/"
+    },
+    {
+      "text": "endometriosis",
+      "url": "https://www.nhs.uk/conditions/endometriosis/"
+    },
+    {
+      "text": "adenomyosis",
+      "url": "https://www.nhs.uk/conditions/adenomyosis/"
+    },
+    {
+      "text": "pelvic inflammatory disease",
+      "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/"
+    },
+    {
+      "text": "Von Willebrand disease",
+      "url": "https://www.nhs.uk/conditions/von-willebrand-disease/"
+    },
+    {
+      "text": "anticoagulant medicines",
+      "url": "https://www.nhs.uk/medicines/anticoagulants/"
+    },
+    {
+      "text": "womb cancer",
+      "url": "https://www.nhs.uk/conditions/womb-cancer/"
+    },
+    {
+      "text": "intrauterine system (IUS)",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+    },
+    {
+      "text": "combined contraceptive pill",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+    },
+    {
+      "text": "tranexamic acid",
+      "url": "https://www.nhs.uk/medicines/tranexamic-acid/"
+    },
+    {
+      "text": "naproxen",
+      "url": "https://www.nhs.uk/medicines/naproxen/"
+    },
+    {
+      "text": "hysterectomy",
+      "url": "https://www.nhs.uk/tests-and-treatments/hysterectomy/"
+    },
+    {
+      "text": "Wellbeing of Women: periods information hub",
+      "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">What are heavy periods?</h2>\n<p data-block-key=\"6053h\">You may have heavy periods if you:</p><ul><li data-block-key=\"afbv3\">need to change your pad or tampon every 1 to 2 hours, or empty your menstrual cup more often than is recommended</li><li data-block-key=\"eg14p\">need to use 2 types of period product together, such as a pad and a tampon</li><li data-block-key=\"1dkep\">have periods lasting more than 7 days</li><li data-block-key=\"em7k2\">pass blood clots larger than about 2.5cm (the size of a 10p coin)</li><li data-block-key=\"6qra5\">bleed through to your clothes or bedding</li><li data-block-key=\"691jr\">avoid daily activities, like exercise, or take time off work because of your periods</li><li data-block-key=\"3po58\">feel tired or short of breath a lot</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of heavy periods</h2>\n<p data-block-key=\"pu905\">It can be normal to have heavy periods.</p><p data-block-key=\"dvn27\">They can sometimes be heavy at different times, like when you first start your periods, after pregnancy or approaching <a href=\"/conditions/menopause/\">menopause</a>.</p><p data-block-key=\"eo3gf\">Sometimes heavy periods can be caused by:</p><ul><li data-block-key=\"fkfho\">conditions affecting your womb or ovaries, such as <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a>, <a href=\"/conditions/fibroids/\">fibroids</a>, <a href=\"/conditions/endometriosis/\">endometriosis</a>, <a href=\"/conditions/adenomyosis/\">adenomyosis</a> and <a href=\"/conditions/pelvic-inflammatory-disease-pid/\">pelvic inflammatory disease</a></li><li data-block-key=\"ru4k\">conditions that can make you bleed more easily, such as <a href=\"/conditions/von-willebrand-disease/\">Von Willebrand disease</a></li><li data-block-key=\"44e3i\">some medicines and treatments, including some <a href=\"/medicines/anticoagulants/\">anticoagulant medicines</a> and chemotherapy medicines</li></ul><p data-block-key=\"333fe\">Rarely, heavy periods can be a sign of <a href=\"/conditions/womb-cancer/\">womb cancer</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"354p4\">heavy periods are affecting your life</li><li data-block-key=\"6guhk\">you've had heavy periods for some time</li><li data-block-key=\"ci5tp\">you have severe pain during your periods</li><li data-block-key=\"6vkkv\">you bleed between periods or after sex</li><li data-block-key=\"clenl\">you have heavy periods and other symptoms, such as pain when peeing, pooing or having sex</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for heavy periods</h2>\n<p data-block-key=\"feb81\">Heavy periods do not always need to be treated. But there are treatments that can help if they’re affecting your daily life.</p><p data-block-key=\"bs9ho\">Treatments from a GP include:</p><ul><li data-block-key=\"1c82s\">some types of contraception, such as an <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a> or the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a></li><li data-block-key=\"cuspa\">medicine to help reduce the bleeding, such as <a href=\"/medicines/tranexamic-acid/\">tranexamic acid</a></li><li data-block-key=\"5gf2d\">prescription-only anti-inflammatory painkillers, such as mefenamic acid or <a href=\"/medicines/naproxen/\">naproxen</a></li></ul><p data-block-key=\"aflbp\">If these treatments do not work or a GP thinks a condition may be causing your heavy periods, they’ll usually refer you for tests or to see a specialist.</p><h3 data-block-key=\"8nirl\">Specialist treatments</h3><p data-block-key=\"cactb\">Specialist treatments for heavy periods include:</p><ul><li data-block-key=\"2iu26\">removing the lining of the womb (endometrial ablation)</li><li data-block-key=\"55tgb\">removing fibroids if it’s thought they’re causing your heavy periods</li><li data-block-key=\"5n5a8\">total or partial removal of the womb (<a href=\"/tests-and-treatments/hysterectomy/\">hysterectomy</a>)</li></ul><p data-block-key=\"a2vlf\">You may have a series of blood tests to check if you have any underlying conditions, such as iron deficiency anaemia.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"idazc\">Find out more</h2><ul><li data-block-key=\"6f9rs\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 19 September 2024<br/>\n    Next review due: 19 September 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

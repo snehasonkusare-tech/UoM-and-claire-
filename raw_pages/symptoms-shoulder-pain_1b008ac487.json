@@ -1,0 +1,727 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:37.767834+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "S",
+      "label": "Shoulder pain",
+      "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Shoulder pain",
+  "meta_description": "Find out how you can relieve shoulder pain, what can cause it and when to get medical advice.",
+  "review_dates": {
+    "page_last_reviewed": "22 May 2023",
+    "next_review_due": "22 May 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how you can relieve shoulder pain, what can cause it and when to get medical advice."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/shoulder-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nShoulder pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how you can relieve shoulder pain, what can cause it and when to get medical advice."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "15 Apr 2026, 8:11 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 11:25 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Shoulder pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/shoulder-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Shoulder pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-15T07:11:22+00:00",
+      "description": "Find out how you can relieve shoulder pain, what can cause it and when to get medical advice.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have shoulder pain, it can help to do gentle shoulder exercises and take painkillers if needed. Do not completely stop using your shoulder.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You usually need to do these things for 2 weeks before shoulder pain starts to ease.</p><p>It can take 6 months or longer to recover from shoulder pain.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>stay active and gently move your shoulder</p></li><li><p>try shoulder exercises for 6 to 8 weeks to stop pain returning</p></li><li><p>stand up straight with your shoulders down and gently back</p></li><li><p>sit with a cushion behind your lower back</p></li><li><p>rest your arm on a cushion in your lap</p></li><li><p>use pain relief so you can keep moving – try painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> and <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, and heat or cold packs</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Putting heat or cold packs on your shoulder",
+              "text": "<div class=\"block-richtext\">\n<p>Try either a:</p><ul><li>pack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day</li><li>hot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day</li></ul>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not completely stop using your shoulder – this can stop it getting better</p></li><li><p>do not do things that seem to make it worse</p></li><li><p>do not make up your own strenuous exercises or use heavy gym equipment</p></li><li><p>do not slouch when sitting – do not roll your shoulders or bring your neck forward</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with shoulder pain",
+              "text": "<p>A pharmacist may suggest:</p><ul><li>the best painkiller – this might be tablets, or a cream or gel you rub on your skin</li><li>other ideas for pain relief and things you can buy to help, like heat and cold packs</li><li>seeing a GP if you need to</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How to ease shoulder pain yourself",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  shoulder pain is getting worse or does not improve after 2 weeks\n </li>\n<li>\n  it's very difficult to move your arm or shoulder\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have sudden or very bad shoulder pain\n </li>\n<li>\n  you cannot move your arm\n </li>\n<li>\n  your arm or shoulder has changed shape or is badly swollen\n </li>\n<li>\n  you have pins and needles that do not go away\n </li>\n<li>\n  there's no feeling in your arm or shoulder\n </li>\n<li>\n  your arm or shoulder is hot or cold to touch\n </li>\n<li>\n  the pain started after an injury or accident, like a fall\n </li>\n<li>\n  you develop severe pain in both shoulders\n </li>\n<li>\n  you feel feverish or unwell\n </li>\n</ul>\n<p>\n These can be signs of something serious, like a broken or dislocated bone, or a torn (ruptured) ligament or tendon.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for shoulder pain include physiotherapy and medicines or injections to reduce pain and swelling.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A health professional will examine you to work out what's causing your shoulder pain.</p><p>They might send you for tests (such as an X-ray) to check the cause.</p><p>What treatment you need depends on the cause, for example:</p><ul><li>stronger medicine or injections to ease pain and swelling</li><li>physiotherapy or exercises to do at home</li><li>things to avoid to stop the pain getting worse or returning</li><li>seeing a specialist for tests or treatment</li></ul><h3>Physiotherapy for shoulder pain</h3><p>The number of physiotherapy sessions you may have depends on the cause of your shoulder pain.</p><p>If you're still in pain after your sessions end, go back to your GP or refer yourself back to a community musculoskeletal (MSK) service. They might prescribe more physiotherapy or suggest another treatment.</p><p>Physiotherapy is available through the NHS, but waiting times can be long. You can also pay to get physiotherapy privately.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Get NHS help for back or joint problems",
+                "target": "/nhs-services/get-nhs-help-for-back-joint-problems/"
+              }
+            }
+          ],
+          "headline": "Treatments for shoulder pain",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of shoulder pain include frozen shoulder, arthritis, an injury and swollen tendons in your shoulder (tendonitis).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Shoulder pain that does not improve after 2 weeks might be caused by something that needs treatment.</p><p>But do not self-diagnose. See a GP if you're worried.</p>"
+            }
+          ],
+          "headline": "Causes of shoulder pain",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can usually do things to ease shoulder pain yourself. But see a GP if it does not start feeling better after 2 weeks.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Shoulder pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Shoulder pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Shoulder pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have shoulder pain, it can help to do gentle shoulder exercises and take painkillers if needed. Do not completely stop using your shoulder.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatments for shoulder pain include physiotherapy and medicines or injections to reduce pain and swelling.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of shoulder pain include frozen shoulder, arthritis, an injury and swollen tendons in your shoulder (tendonitis).</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-05-22T16:00:00+00:00",
+        "2026-05-22T16:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Shoulder pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Shoulder pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/shoulder-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/shoulder-pain/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "681613268001",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/6e4ad151-0358-44d8-8761-48ff94519403/10s/master.m3u8?fastly_token=NjkxMzY5M2VfNzMyMTc2ZTUxYWY5NjdkYWNmZjdjYzBkOGZjZTM5ZGNmMzI3MzdkNWE5MjhkNDg2YWYyYjUyMzI2OTAxNDY0OA%3D%3D",
+      "description": "In this video, an expert explains how to prevent and ease shoulder pain and when to get help.",
+      "duration": "PT2M54.592S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=681613268001",
+      "name": "Shoulder pain",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/6e4ad151-0358-44d8-8761-48ff94519403/458cbcc3-62c0-4c5a-955a-d18275fbd83a/160x90/match/image.jpg",
+      "uploadDate": "2025-03-24T15:05:56.019000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How to ease shoulder pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease shoulder pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with shoulder pain"
+        }
+      ],
+      "text": "How to ease shoulder pain yourself\nYou usually need to do these things for 2 weeks before shoulder pain starts to ease.\nIt can take 6 months or longer to recover from shoulder pain.\nDo\nstay active and gently move your shoulder\ntry shoulder exercises for 6 to 8 weeks to stop pain returning\nstand up straight with your shoulders down and gently back\nsit with a cushion behind your lower back\nrest your arm on a cushion in your lap\nuse pain relief so you can keep moving – try painkillers like\nparacetamol\nand\nibuprofen\n, and heat or cold packs\nPutting heat or cold packs on your shoulder\nTry either a:\npack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day\nhot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day\nDon’t\ndo not completely stop using your shoulder – this can stop it getting better\ndo not do things that seem to make it worse\ndo not make up your own strenuous exercises or use heavy gym equipment\ndo not slouch when sitting – do not roll your shoulders or bring your neck forward\nA pharmacist can help with shoulder pain\nA pharmacist may suggest:\nthe best painkiller – this might be tablets, or a cream or gel you rub on your skin\nother ideas for pain relief and things you can buy to help, like heat and cold packs\nseeing a GP if you need to\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stay active and gently move your shoulder",
+            "try shoulder exercises for 6 to 8 weeks to stop pain returning",
+            "stand up straight with your shoulders down and gently back",
+            "sit with a cushion behind your lower back",
+            "rest your arm on a cushion in your lap",
+            "use pain relief so you can keep moving – try painkillers like\nparacetamol\nand\nibuprofen\n, and heat or cold packs"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "pack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day",
+            "hot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not completely stop using your shoulder – this can stop it getting better",
+            "do not do things that seem to make it worse",
+            "do not make up your own strenuous exercises or use heavy gym equipment",
+            "do not slouch when sitting – do not roll your shoulders or bring your neck forward"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller – this might be tablets, or a cream or gel you rub on your skin",
+            "other ideas for pain relief and things you can buy to help, like heat and cold packs",
+            "seeing a GP if you need to"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease shoulder pain yourself</h2>\n<p data-block-key=\"i5ags\">You usually need to do these things for 2 weeks before shoulder pain starts to ease.</p><p data-block-key=\"x5bp4\">It can take 6 months or longer to recover from shoulder pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"gj537\">stay active and gently move your shoulder</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ci6dg\">try shoulder exercises for 6 to 8 weeks to stop pain returning</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jpe1o\">stand up straight with your shoulders down and gently back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"w3ao3\">sit with a cushion behind your lower back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fyvh9\">rest your arm on a cushion in your lap</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bulnw\">use pain relief so you can keep moving – try painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> and <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, and heat or cold packs</p>\n</li>\n</ul>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Putting heat or cold packs on your shoulder\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"jspkb\">Try either a:</p><ul><li data-block-key=\"0ua08\">pack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day</li><li data-block-key=\"d6jip\">hot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day</li></ul>\n</div>\n</details>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"h0m25\">do not completely stop using your shoulder – this can stop it getting better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpl8m\">do not do things that seem to make it worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"grmwr\">do not make up your own strenuous exercises or use heavy gym equipment</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4z1m2\">do not slouch when sitting – do not roll your shoulders or bring your neck forward</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"1h10l\">A pharmacist can help with shoulder pain</h3><p data-block-key=\"d6ejf\">A pharmacist may suggest:</p><ul><li data-block-key=\"5n4ju\">the best painkiller – this might be tablets, or a cream or gel you rub on your skin</li><li data-block-key=\"9s8ma\">other ideas for pain relief and things you can buy to help, like heat and cold packs</li><li data-block-key=\"4le21\">seeing a GP if you need to</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Video exercises for shoulder pain",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Video exercises for shoulder pain"
+        }
+      ],
+      "text": "Information:\nVideo exercises for shoulder pain\nWatch video exercises for shoulder pain from the Chartered Society of Physiotherapy",
+      "lists": [],
+      "links": [
+        {
+          "text": "Watch video exercises for shoulder pain from the Chartered Society of Physiotherapy",
+          "url": "https://www.csp.org.uk/conditions/shoulder-pain/video-exercises-shoulder-pain"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"nqqpo\">Video exercises for shoulder pain</h3><p data-block-key=\"93pmo\"><a href=\"https://www.csp.org.uk/conditions/shoulder-pain/video-exercises-shoulder-pain\">Watch video exercises for shoulder pain from the Chartered Society of Physiotherapy</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nshoulder pain is getting worse or does not improve after 2 weeks\nit's very difficult to move your arm or shoulder\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "shoulder pain is getting worse or does not improve after 2 weeks",
+            "it's very difficult to move your arm or shoulder"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"7sq5z\">shoulder pain is getting worse or does not improve after 2 weeks</li><li data-block-key=\"d4qmm\">it's very difficult to move your arm or shoulder</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have sudden or very bad shoulder pain\nyou cannot move your arm\nyour arm or shoulder has changed shape or is badly swollen\nyou have pins and needles that do not go away\nthere's no feeling in your arm or shoulder\nyour arm or shoulder is hot or cold to touch\nthe pain started after an injury or accident, like a fall\nyou develop severe pain in both shoulders\nyou feel feverish or unwell\nThese can be signs of something serious, like a broken or dislocated bone, or a torn (ruptured) ligament or tendon.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have sudden or very bad shoulder pain",
+            "you cannot move your arm",
+            "your arm or shoulder has changed shape or is badly swollen",
+            "you have pins and needles that do not go away",
+            "there's no feeling in your arm or shoulder",
+            "your arm or shoulder is hot or cold to touch",
+            "the pain started after an injury or accident, like a fall",
+            "you develop severe pain in both shoulders",
+            "you feel feverish or unwell"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9jxz\">you have sudden or very bad shoulder pain</li><li data-block-key=\"882uq\">you cannot move your arm</li><li data-block-key=\"f1rar\">your arm or shoulder has changed shape or is badly swollen</li><li data-block-key=\"6o656\">you have pins and needles that do not go away</li><li data-block-key=\"cdjhq\">there's no feeling in your arm or shoulder</li><li data-block-key=\"7l4ld\">your arm or shoulder is hot or cold to touch</li><li data-block-key=\"e5pro\">the pain started after an injury or accident, like a fall</li><li data-block-key=\"9stn4\">you develop severe pain in both shoulders</li><li data-block-key=\"d3165\">you feel feverish or unwell</li></ul><p data-block-key=\"7bsr2\">These can be signs of something serious, like a broken or dislocated bone, or a torn (ruptured) ligament or tendon.</p><p data-block-key=\"aou3i\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments for shoulder pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for shoulder pain"
+        },
+        {
+          "level": "h3",
+          "text": "Physiotherapy for shoulder pain"
+        }
+      ],
+      "text": "Treatments for shoulder pain\nA health professional will examine you to work out what's causing your shoulder pain.\nThey might send you for tests (such as an X-ray) to check the cause.\nWhat treatment you need depends on the cause, for example:\nstronger medicine or injections to ease pain and swelling\nphysiotherapy or exercises to do at home\nthings to avoid to stop the pain getting worse or returning\nseeing a specialist for tests or treatment\nPhysiotherapy for shoulder pain\nThe number of physiotherapy sessions you may have depends on the cause of your shoulder pain.\nIf you're still in pain after your sessions end, go back to your GP or refer yourself back to a community musculoskeletal (MSK) service. They might prescribe more physiotherapy or suggest another treatment.\nPhysiotherapy is available through the NHS, but waiting times can be long. You can also pay to get physiotherapy privately.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stronger medicine or injections to ease pain and swelling",
+            "physiotherapy or exercises to do at home",
+            "things to avoid to stop the pain getting worse or returning",
+            "seeing a specialist for tests or treatment"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for shoulder pain</h2>\n<p data-block-key=\"o8azt\">A health professional will examine you to work out what's causing your shoulder pain.</p><p data-block-key=\"fc106\">They might send you for tests (such as an X-ray) to check the cause.</p><p data-block-key=\"eo54g\">What treatment you need depends on the cause, for example:</p><ul><li data-block-key=\"ux9z3\">stronger medicine or injections to ease pain and swelling</li><li data-block-key=\"s1c7g\">physiotherapy or exercises to do at home</li><li data-block-key=\"d2gdk\">things to avoid to stop the pain getting worse or returning</li><li data-block-key=\"50q2w\">seeing a specialist for tests or treatment</li></ul><h3 data-block-key=\"a03qh\">Physiotherapy for shoulder pain</h3><p data-block-key=\"e198r\">The number of physiotherapy sessions you may have depends on the cause of your shoulder pain.</p><p data-block-key=\"fg8l7\">If you're still in pain after your sessions end, go back to your GP or refer yourself back to a community musculoskeletal (MSK) service. They might prescribe more physiotherapy or suggest another treatment.</p><p data-block-key=\"67vb0\">Physiotherapy is available through the NHS, but waiting times can be long. You can also pay to get physiotherapy privately.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/get-nhs-help-for-back-joint-problems/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Get NHS help for back or joint problems</span>\n</a>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of shoulder pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of shoulder pain"
+        }
+      ],
+      "text": "Causes of shoulder pain\nShoulder pain that does not improve after 2 weeks might be caused by something that needs treatment.\nBut do not self-diagnose. See a GP if you're worried.\nSymptoms and possible causes of shoulder pain\nShoulder symptoms\nPossible causes\nPain and stiffness that does not go away over months or years\nFrozen shoulder\n, arthritis (\nosteoarthritis\nor\nrheumatoid arthritis\n)\nPain that's often worse while using your arm or shoulder\nTendonitis\n,\nbursitis\n,\nimpingement\nTingling, numb, weak arm, feels like the shoulder is clicking or locking\nShoulder instability, sometimes because of\nhypermobility\nSudden very bad pain, cannot move your arm (or it's difficult), sometimes changes shape\nDislocated shoulder\n, broken bone (such as a\nbroken arm\nor\nbroken collarbone\n), torn or\nruptured tendon\nPain on top of the shoulder (where the collarbone and shoulder joint meet)\nProblems in the acromioclavicular joint, like dislocation or stretched or torn ligaments",
+      "lists": [],
+      "links": [
+        {
+          "text": "Frozen shoulder",
+          "url": "https://www.nhs.uk/conditions/frozen-shoulder/"
+        },
+        {
+          "text": "osteoarthritis",
+          "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+        },
+        {
+          "text": "rheumatoid arthritis",
+          "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+        },
+        {
+          "text": "Tendonitis",
+          "url": "https://www.nhs.uk/conditions/tendonitis"
+        },
+        {
+          "text": "bursitis",
+          "url": "https://www.nhs.uk/conditions/bursitis/"
+        },
+        {
+          "text": "impingement",
+          "url": "https://www.nhs.uk/conditions/shoulder-impingement-syndrome/"
+        },
+        {
+          "text": "hypermobility",
+          "url": "https://www.nhs.uk/conditions/joint-hypermobility-syndrome/"
+        },
+        {
+          "text": "Dislocated shoulder",
+          "url": "https://www.nhs.uk/conditions/dislocated-shoulder/"
+        },
+        {
+          "text": "broken arm",
+          "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+        },
+        {
+          "text": "broken collarbone",
+          "url": "https://www.nhs.uk/conditions/broken-collarbone/"
+        },
+        {
+          "text": "ruptured tendon",
+          "url": "https://www.nhs.uk/conditions/tendonitis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of shoulder pain</h2>\n<p data-block-key=\"rvnbe\">Shoulder pain that does not improve after 2 weeks might be caused by something that needs treatment.</p><p data-block-key=\"6tgm7\">But do not self-diagnose. See a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes of shoulder pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Shoulder symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain and stiffness that does not go away over months or years</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/frozen-shoulder/\">Frozen shoulder</a>, arthritis (<a href=\"https://www.nhs.uk/conditions/osteoarthritis/\">osteoarthritis</a> or <a href=\"https://www.nhs.uk/conditions/rheumatoid-arthritis/\">rheumatoid arthritis</a>)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain that's often worse while using your arm or shoulder</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/tendonitis\">Tendonitis</a>, <a href=\"https://www.nhs.uk/conditions/bursitis/\">bursitis</a>, <a href=\"https://www.nhs.uk/conditions/shoulder-impingement-syndrome/\">impingement</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Tingling, numb, weak arm, feels like the shoulder is clicking or locking</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Shoulder instability, sometimes because of <a href=\"https://www.nhs.uk/conditions/joint-hypermobility-syndrome/\">hypermobility</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Sudden very bad pain, cannot move your arm (or it's difficult), sometimes changes shape</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/dislocated-shoulder/\">Dislocated shoulder</a>, broken bone (such as a <a href=\"https://www.nhs.uk/conditions/broken-arm-or-wrist/\">broken arm</a> or <a href=\"https://www.nhs.uk/conditions/broken-collarbone/\">broken collarbone</a>), torn or <a href=\"https://www.nhs.uk/conditions/tendonitis/\">ruptured tendon</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain on top of the shoulder (where the collarbone and shoulder joint meet)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Problems in the acromioclavicular joint, like dislocation or stretched or torn ligaments</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Video: shoulder pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Video: shoulder pain"
+        }
+      ],
+      "text": "Video: shoulder pain\nIn this video, an expert explains how to prevent and ease shoulder pain and when to get help.\nMedia last reviewed: 10 October 2024\nMedia review due: 10 October 2027",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: shoulder pain</h2>\n<p>In this video, an expert explains how to prevent and ease shoulder pain and when to get help.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681613268001\" id=\"681613268001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 10 October 2024<br/>\n    Media review due: 10 October 2027\n  </div>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "How to ease shoulder pain yourself\nYou usually need to do these things for 2 weeks before shoulder pain starts to ease.\nIt can take 6 months or longer to recover from shoulder pain.\nDo\nstay active and gently move your shoulder\ntry shoulder exercises for 6 to 8 weeks to stop pain returning\nstand up straight with your shoulders down and gently back\nsit with a cushion behind your lower back\nrest your arm on a cushion in your lap\nuse pain relief so you can keep moving – try painkillers like\nparacetamol\nand\nibuprofen\n, and heat or cold packs\nPutting heat or cold packs on your shoulder\nTry either a:\npack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day\nhot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day\nDon’t\ndo not completely stop using your shoulder – this can stop it getting better\ndo not do things that seem to make it worse\ndo not make up your own strenuous exercises or use heavy gym equipment\ndo not slouch when sitting – do not roll your shoulders or bring your neck forward\nA pharmacist can help with shoulder pain\nA pharmacist may suggest:\nthe best painkiller – this might be tablets, or a cream or gel you rub on your skin\nother ideas for pain relief and things you can buy to help, like heat and cold packs\nseeing a GP if you need to\nFind a pharmacy\nInformation:\nVideo exercises for shoulder pain\nWatch video exercises for shoulder pain from the Chartered Society of Physiotherapy\nNon-urgent advice:\nSee a GP if:\nshoulder pain is getting worse or does not improve after 2 weeks\nit's very difficult to move your arm or shoulder\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have sudden or very bad shoulder pain\nyou cannot move your arm\nyour arm or shoulder has changed shape or is badly swollen\nyou have pins and needles that do not go away\nthere's no feeling in your arm or shoulder\nyour arm or shoulder is hot or cold to touch\nthe pain started after an injury or accident, like a fall\nyou develop severe pain in both shoulders\nyou feel feverish or unwell\nThese can be signs of something serious, like a broken or dislocated bone, or a torn (ruptured) ligament or tendon.\nYou can call 111 or\nget help from 111 online\n.\nTreatments for shoulder pain\nA health professional will examine you to work out what's causing your shoulder pain.\nThey might send you for tests (such as an X-ray) to check the cause.\nWhat treatment you need depends on the cause, for example:\nstronger medicine or injections to ease pain and swelling\nphysiotherapy or exercises to do at home\nthings to avoid to stop the pain getting worse or returning\nseeing a specialist for tests or treatment\nPhysiotherapy for shoulder pain\nThe number of physiotherapy sessions you may have depends on the cause of your shoulder pain.\nIf you're still in pain after your sessions end, go back to your GP or refer yourself back to a community musculoskeletal (MSK) service. They might prescribe more physiotherapy or suggest another treatment.\nPhysiotherapy is available through the NHS, but waiting times can be long. You can also pay to get physiotherapy privately.\nGet NHS help for back or joint problems\nCauses of shoulder pain\nShoulder pain that does not improve after 2 weeks might be caused by something that needs treatment.\nBut do not self-diagnose. See a GP if you're worried.\nSymptoms and possible causes of shoulder pain\nShoulder symptoms\nPossible causes\nPain and stiffness that does not go away over months or years\nFrozen shoulder\n, arthritis (\nosteoarthritis\nor\nrheumatoid arthritis\n)\nPain that's often worse while using your arm or shoulder\nTendonitis\n,\nbursitis\n,\nimpingement\nTingling, numb, weak arm, feels like the shoulder is clicking or locking\nShoulder instability, sometimes because of\nhypermobility\nSudden very bad pain, cannot move your arm (or it's difficult), sometimes changes shape\nDislocated shoulder\n, broken bone (such as a\nbroken arm\nor\nbroken collarbone\n), torn or\nruptured tendon\nPain on top of the shoulder (where the collarbone and shoulder joint meet)\nProblems in the acromioclavicular joint, like dislocation or stretched or torn ligaments\nVideo: shoulder pain\nIn this video, an expert explains how to prevent and ease shoulder pain and when to get help.\nMedia last reviewed: 10 October 2024\nMedia review due: 10 October 2027\nPage last reviewed: 22 May 2023\nNext review due: 22 May 2026",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "Watch video exercises for shoulder pain from the Chartered Society of Physiotherapy",
+      "url": "https://www.csp.org.uk/conditions/shoulder-pain/video-exercises-shoulder-pain"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "Frozen shoulder",
+      "url": "https://www.nhs.uk/conditions/frozen-shoulder/"
+    },
+    {
+      "text": "osteoarthritis",
+      "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+    },
+    {
+      "text": "rheumatoid arthritis",
+      "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+    },
+    {
+      "text": "Tendonitis",
+      "url": "https://www.nhs.uk/conditions/tendonitis"
+    },
+    {
+      "text": "bursitis",
+      "url": "https://www.nhs.uk/conditions/bursitis/"
+    },
+    {
+      "text": "impingement",
+      "url": "https://www.nhs.uk/conditions/shoulder-impingement-syndrome/"
+    },
+    {
+      "text": "hypermobility",
+      "url": "https://www.nhs.uk/conditions/joint-hypermobility-syndrome/"
+    },
+    {
+      "text": "Dislocated shoulder",
+      "url": "https://www.nhs.uk/conditions/dislocated-shoulder/"
+    },
+    {
+      "text": "broken arm",
+      "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/"
+    },
+    {
+      "text": "broken collarbone",
+      "url": "https://www.nhs.uk/conditions/broken-collarbone/"
+    },
+    {
+      "text": "ruptured tendon",
+      "url": "https://www.nhs.uk/conditions/tendonitis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"self-care\">How to ease shoulder pain yourself</h2>\n<p data-block-key=\"i5ags\">You usually need to do these things for 2 weeks before shoulder pain starts to ease.</p><p data-block-key=\"x5bp4\">It can take 6 months or longer to recover from shoulder pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"gj537\">stay active and gently move your shoulder</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ci6dg\">try shoulder exercises for 6 to 8 weeks to stop pain returning</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jpe1o\">stand up straight with your shoulders down and gently back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"w3ao3\">sit with a cushion behind your lower back</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"fyvh9\">rest your arm on a cushion in your lap</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bulnw\">use pain relief so you can keep moving – try painkillers like <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> and <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>, and heat or cold packs</p>\n</li>\n</ul>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Putting heat or cold packs on your shoulder\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"jspkb\">Try either a:</p><ul><li data-block-key=\"0ua08\">pack of frozen peas wrapped in a tea towel for up to 20 minutes, 3 times a day</li><li data-block-key=\"d6jip\">hot water bottle wrapped in a tea towel for up to 20 minutes, 2 to 3 times a day</li></ul>\n</div>\n</details>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"h0m25\">do not completely stop using your shoulder – this can stop it getting better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpl8m\">do not do things that seem to make it worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"grmwr\">do not make up your own strenuous exercises or use heavy gym equipment</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4z1m2\">do not slouch when sitting – do not roll your shoulders or bring your neck forward</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"1h10l\">A pharmacist can help with shoulder pain</h3><p data-block-key=\"d6ejf\">A pharmacist may suggest:</p><ul><li data-block-key=\"5n4ju\">the best painkiller – this might be tablets, or a cream or gel you rub on your skin</li><li data-block-key=\"9s8ma\">other ideas for pain relief and things you can buy to help, like heat and cold packs</li><li data-block-key=\"4le21\">seeing a GP if you need to</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"nqqpo\">Video exercises for shoulder pain</h3><p data-block-key=\"93pmo\"><a href=\"https://www.csp.org.uk/conditions/shoulder-pain/video-exercises-shoulder-pain\">Watch video exercises for shoulder pain from the Chartered Society of Physiotherapy</a></p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"7sq5z\">shoulder pain is getting worse or does not improve after 2 weeks</li><li data-block-key=\"d4qmm\">it's very difficult to move your arm or shoulder</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9jxz\">you have sudden or very bad shoulder pain</li><li data-block-key=\"882uq\">you cannot move your arm</li><li data-block-key=\"f1rar\">your arm or shoulder has changed shape or is badly swollen</li><li data-block-key=\"6o656\">you have pins and needles that do not go away</li><li data-block-key=\"cdjhq\">there's no feeling in your arm or shoulder</li><li data-block-key=\"7l4ld\">your arm or shoulder is hot or cold to touch</li><li data-block-key=\"e5pro\">the pain started after an injury or accident, like a fall</li><li data-block-key=\"9stn4\">you develop severe pain in both shoulders</li><li data-block-key=\"d3165\">you feel feverish or unwell</li></ul><p data-block-key=\"7bsr2\">These can be signs of something serious, like a broken or dislocated bone, or a torn (ruptured) ligament or tendon.</p><p data-block-key=\"aou3i\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for shoulder pain</h2>\n<p data-block-key=\"o8azt\">A health professional will examine you to work out what's causing your shoulder pain.</p><p data-block-key=\"fc106\">They might send you for tests (such as an X-ray) to check the cause.</p><p data-block-key=\"eo54g\">What treatment you need depends on the cause, for example:</p><ul><li data-block-key=\"ux9z3\">stronger medicine or injections to ease pain and swelling</li><li data-block-key=\"s1c7g\">physiotherapy or exercises to do at home</li><li data-block-key=\"d2gdk\">things to avoid to stop the pain getting worse or returning</li><li data-block-key=\"50q2w\">seeing a specialist for tests or treatment</li></ul><h3 data-block-key=\"a03qh\">Physiotherapy for shoulder pain</h3><p data-block-key=\"e198r\">The number of physiotherapy sessions you may have depends on the cause of your shoulder pain.</p><p data-block-key=\"fg8l7\">If you're still in pain after your sessions end, go back to your GP or refer yourself back to a community musculoskeletal (MSK) service. They might prescribe more physiotherapy or suggest another treatment.</p><p data-block-key=\"67vb0\">Physiotherapy is available through the NHS, but waiting times can be long. You can also pay to get physiotherapy privately.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/get-nhs-help-for-back-joint-problems/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Get NHS help for back or joint problems</span>\n</a>\n</section>\n<section>\n<h2 id=\"causes\">Causes of shoulder pain</h2>\n<p data-block-key=\"rvnbe\">Shoulder pain that does not improve after 2 weeks might be caused by something that needs treatment.</p><p data-block-key=\"6tgm7\">But do not self-diagnose. See a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes of shoulder pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Shoulder symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain and stiffness that does not go away over months or years</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/frozen-shoulder/\">Frozen shoulder</a>, arthritis (<a href=\"https://www.nhs.uk/conditions/osteoarthritis/\">osteoarthritis</a> or <a href=\"https://www.nhs.uk/conditions/rheumatoid-arthritis/\">rheumatoid arthritis</a>)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain that's often worse while using your arm or shoulder</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/tendonitis\">Tendonitis</a>, <a href=\"https://www.nhs.uk/conditions/bursitis/\">bursitis</a>, <a href=\"https://www.nhs.uk/conditions/shoulder-impingement-syndrome/\">impingement</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Tingling, numb, weak arm, feels like the shoulder is clicking or locking</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Shoulder instability, sometimes because of <a href=\"https://www.nhs.uk/conditions/joint-hypermobility-syndrome/\">hypermobility</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Sudden very bad pain, cannot move your arm (or it's difficult), sometimes changes shape</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\"><a href=\"https://www.nhs.uk/conditions/dislocated-shoulder/\">Dislocated shoulder</a>, broken bone (such as a <a href=\"https://www.nhs.uk/conditions/broken-arm-or-wrist/\">broken arm</a> or <a href=\"https://www.nhs.uk/conditions/broken-collarbone/\">broken collarbone</a>), torn or <a href=\"https://www.nhs.uk/conditions/tendonitis/\">ruptured tendon</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Pain on top of the shoulder (where the collarbone and shoulder joint meet)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"r1hz2\">Problems in the acromioclavicular joint, like dislocation or stretched or torn ligaments</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: shoulder pain</h2>\n<p>In this video, an expert explains how to prevent and ease shoulder pain and when to get help.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681613268001\" id=\"681613268001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 10 October 2024<br/>\n    Media review due: 10 October 2027\n  </div>\n</div>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 22 May 2023<br/>\n    Next review due: 22 May 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

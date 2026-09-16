@@ -1,0 +1,460 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/coughing-up-blood/",
+  "final_url": "https://www.nhs.uk/symptoms/coughing-up-blood/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:54.252635+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Blood in phlegm, see Coughing up blood (blood in phlegm)",
+      "url": "https://www.nhs.uk/symptoms/coughing-up-blood/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "C",
+      "label": "Coughing up blood (blood in phlegm)",
+      "url": "https://www.nhs.uk/symptoms/coughing-up-blood/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Coughing up blood (blood in phlegm)",
+  "meta_description": "Read about coughing up blood, including what can cause it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "13 June 2024",
+    "next_review_due": "13 June 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about coughing up blood, including what can cause it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nCoughing up blood\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about coughing up blood, including what can cause it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "3 Sep 2026, 7:18 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 2:18 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Blood in phlegm"
+        ],
+        "name": "Coughing up blood (blood in phlegm)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/coughing-up-blood/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Coughing up blood (blood in phlegm)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-09-03T18:18:18+00:00",
+      "description": "Read about coughing up blood, including what can cause it and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "You might cough up blood if you have a persistent or severe cough, or a chest infection, pneumonia, tuberculosis or bronchitis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Common causes of coughing up blood include:</p><ul><li>a long-lasting or severe cough</li><li>a lung or airway infection like a <a href=\"/conditions/chest-infection/\">chest infection</a>, <a href=\"/conditions/pneumonia/\">pneumonia</a>, <a href=\"/conditions/tuberculosis-tb/\">tuberculosis</a> or <a href=\"/conditions/bronchitis/\">bronchitis</a></li><li>a problem with your airways that causes them to widen and produce more mucus (<a href=\"/conditions/bronchiectasis/\">bronchiectasis</a>)</li></ul><p>Sometimes coughing up blood can be a sign of something more serious like a <a href=\"/conditions/blood-clots/\">blood clot</a> or <a href=\"/conditions/lung-cancer/\">lung cancer</a>.</p><p>It's important to get it checked out as soon as possible.</p>"
+            }
+          ],
+          "headline": "Causes of coughing up blood",
+          "url": "https://www.nhs.uk/symptoms/coughing-up-blood/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/coughing-up-blood/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E immediately if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you're coughing up more than just a few spots or streaks of blood\n </li>\n<li>\n  you're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back\n </li>\n</ul>\n<p>\n These symptoms could be a sign of a more serious problem like a blood clot in the lungs (\n <a href=\"/conditions/pulmonary-embolism/\">\n  pulmonary embolism\n </a>\n ).\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/coughing-up-blood/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Coughing up blood can have lots of possible causes. It could be something serious so it's important to get it checked.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Coughing up blood (blood in phlegm)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You might cough up blood if you have a persistent or severe cough, or a chest infection, pneumonia, tuberculosis or bronchitis.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/coughing-up-blood/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-06-13T00:00:00+00:00",
+        "2027-06-13T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Coughing up blood (blood in phlegm)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Coughing up blood (blood in phlegm)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of coughing up blood",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of coughing up blood"
+        }
+      ],
+      "text": "Causes of coughing up blood\nCommon causes of coughing up blood include:\na long-lasting or severe cough\na lung or airway infection like a\nchest infection\n,\npneumonia\n,\ntuberculosis\nor\nbronchitis\na problem with your airways that causes them to widen and produce more mucus (\nbronchiectasis\n)\nSometimes coughing up blood can be a sign of something more serious like a\nblood clot\nor\nlung cancer\n.\nIt's important to get it checked out as soon as possible.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a long-lasting or severe cough",
+            "a lung or airway infection like a\nchest infection\n,\npneumonia\n,\ntuberculosis\nor\nbronchitis",
+            "a problem with your airways that causes them to widen and produce more mucus (\nbronchiectasis\n)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "chest infection",
+          "url": "https://www.nhs.uk/conditions/chest-infection/"
+        },
+        {
+          "text": "pneumonia",
+          "url": "https://www.nhs.uk/conditions/pneumonia/"
+        },
+        {
+          "text": "tuberculosis",
+          "url": "https://www.nhs.uk/conditions/tuberculosis-tb/"
+        },
+        {
+          "text": "bronchitis",
+          "url": "https://www.nhs.uk/conditions/bronchitis/"
+        },
+        {
+          "text": "bronchiectasis",
+          "url": "https://www.nhs.uk/conditions/bronchiectasis/"
+        },
+        {
+          "text": "blood clot",
+          "url": "https://www.nhs.uk/conditions/blood-clots/"
+        },
+        {
+          "text": "lung cancer",
+          "url": "https://www.nhs.uk/conditions/lung-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of coughing up blood</h2>\n<p data-block-key=\"3hmd2\">Common causes of coughing up blood include:</p><ul><li data-block-key=\"2r69k\">a long-lasting or severe cough</li><li data-block-key=\"efppo\">a lung or airway infection like a <a href=\"/conditions/chest-infection/\">chest infection</a>, <a href=\"/conditions/pneumonia/\">pneumonia</a>, <a href=\"/conditions/tuberculosis-tb/\">tuberculosis</a> or <a href=\"/conditions/bronchitis/\">bronchitis</a></li><li data-block-key=\"e5kh\">a problem with your airways that causes them to widen and produce more mucus (<a href=\"/conditions/bronchiectasis/\">bronchiectasis</a>)</li></ul><p data-block-key=\"bhq11\">Sometimes coughing up blood can be a sign of something more serious like a <a href=\"/conditions/blood-clots/\">blood clot</a> or <a href=\"/conditions/lung-cancer/\">lung cancer</a>.</p><p data-block-key=\"ff4oh\">It's important to get it checked out as soon as possible.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"mlx7j\">you've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief</li></ul><p data-block-key=\"7cvo2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Call 999 or go to A&E immediately if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E immediately if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E immediately if:\nyou're coughing up more than just a few spots or streaks of blood\nyou're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back\nThese symptoms could be a sign of a more serious problem like a blood clot in the lungs (\npulmonary embolism\n).\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're coughing up more than just a few spots or streaks of blood",
+            "you're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "pulmonary embolism",
+          "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"
+        },
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E immediately if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"mlx7j\">you're coughing up more than just a few spots or streaks of blood</li><li data-block-key=\"2srkv\">you're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back</li></ul><p data-block-key=\"aih3i\">These symptoms could be a sign of a more serious problem like a blood clot in the lungs (<a href=\"/conditions/pulmonary-embolism/\">pulmonary embolism</a>).</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Causes of coughing up blood\nCommon causes of coughing up blood include:\na long-lasting or severe cough\na lung or airway infection like a\nchest infection\n,\npneumonia\n,\ntuberculosis\nor\nbronchitis\na problem with your airways that causes them to widen and produce more mucus (\nbronchiectasis\n)\nSometimes coughing up blood can be a sign of something more serious like a\nblood clot\nor\nlung cancer\n.\nIt's important to get it checked out as soon as possible.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E immediately if:\nyou're coughing up more than just a few spots or streaks of blood\nyou're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back\nThese symptoms could be a sign of a more serious problem like a blood clot in the lungs (\npulmonary embolism\n).\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nPage last reviewed: 13 June 2024\nNext review due: 13 June 2027",
+  "links": [
+    {
+      "text": "chest infection",
+      "url": "https://www.nhs.uk/conditions/chest-infection/"
+    },
+    {
+      "text": "pneumonia",
+      "url": "https://www.nhs.uk/conditions/pneumonia/"
+    },
+    {
+      "text": "tuberculosis",
+      "url": "https://www.nhs.uk/conditions/tuberculosis-tb/"
+    },
+    {
+      "text": "bronchitis",
+      "url": "https://www.nhs.uk/conditions/bronchitis/"
+    },
+    {
+      "text": "bronchiectasis",
+      "url": "https://www.nhs.uk/conditions/bronchiectasis/"
+    },
+    {
+      "text": "blood clot",
+      "url": "https://www.nhs.uk/conditions/blood-clots/"
+    },
+    {
+      "text": "lung cancer",
+      "url": "https://www.nhs.uk/conditions/lung-cancer/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "pulmonary embolism",
+      "url": "https://www.nhs.uk/conditions/pulmonary-embolism/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of coughing up blood</h2>\n<p data-block-key=\"3hmd2\">Common causes of coughing up blood include:</p><ul><li data-block-key=\"2r69k\">a long-lasting or severe cough</li><li data-block-key=\"efppo\">a lung or airway infection like a <a href=\"/conditions/chest-infection/\">chest infection</a>, <a href=\"/conditions/pneumonia/\">pneumonia</a>, <a href=\"/conditions/tuberculosis-tb/\">tuberculosis</a> or <a href=\"/conditions/bronchitis/\">bronchitis</a></li><li data-block-key=\"e5kh\">a problem with your airways that causes them to widen and produce more mucus (<a href=\"/conditions/bronchiectasis/\">bronchiectasis</a>)</li></ul><p data-block-key=\"bhq11\">Sometimes coughing up blood can be a sign of something more serious like a <a href=\"/conditions/blood-clots/\">blood clot</a> or <a href=\"/conditions/lung-cancer/\">lung cancer</a>.</p><p data-block-key=\"ff4oh\">It's important to get it checked out as soon as possible.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"mlx7j\">you've coughed up a few small spots, flecks or streaks of blood, or noticed blood in your phlegm or handkerchief</li></ul><p data-block-key=\"7cvo2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E immediately if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"mlx7j\">you're coughing up more than just a few spots or streaks of blood</li><li data-block-key=\"2srkv\">you're coughing up blood and finding it hard to breathe, have a very fast heartbeat or have pain in your chest or upper back</li></ul><p data-block-key=\"aih3i\">These symptoms could be a sign of a more serious problem like a blood clot in the lungs (<a href=\"/conditions/pulmonary-embolism/\">pulmonary embolism</a>).</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 13 June 2024<br/>\n    Next review due: 13 June 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

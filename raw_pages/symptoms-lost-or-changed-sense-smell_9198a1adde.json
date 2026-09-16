@@ -1,0 +1,545 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+  "final_url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:39.871477+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Anosmia, see Lost or changed sense of smell",
+      "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "L",
+      "label": "Lost or changed sense of smell",
+      "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "S",
+      "label": "Sense of smell (lost/changed), see Lost or changed sense of smell",
+      "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Lost or changed sense of smell",
+  "meta_description": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.",
+  "review_dates": {
+    "page_last_reviewed": "01 December 2023",
+    "next_review_due": "01 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nLost or changed sense of smell\n"
+    },
+    {
+      "key": "og:description",
+      "content": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:16 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "21 Dec 2017, 12:08 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Anosmia",
+          "Sense of smell (lost/changed)"
+        ],
+        "name": "Lost or changed sense of smell"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Lost or changed sense of smell"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:16:11+00:00",
+      "description": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "A lost or changed sense of smell is most often caused by a cold or flu, sinusitis, an allergy like hay fever or growths in your nose (nasal polyps).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Changes in sense of smell are most often caused by:</p><ul><li>illnesses such as a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or COVID-19</li><li><a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis (sinus infection)</a></li><li>an allergy, like <a href=\"/conditions/hay-fever/\">hay fever</a></li><li>growths in your nose <a href=\"/conditions/nasal-polyps/\">(nasal polyps)</a></li></ul><p>It can also be caused by some medicines and, rarely, by more serious conditions like Parkinson’s disease or epilepsy.</p><p>These problems can cause:</p><ul><li>loss of smell (anosmia)</li><li>smelling things that are not there (phantosmia), like smoke or burnt toast</li><li>reduced sense of smell (hyposmia)</li><li>changes to how things smell (parosmia)</li></ul><p>It's also common to lose some of your sense of smell as you get older.</p>"
+            }
+          ],
+          "headline": "Causes of lost or changed sense of smell",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Rinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Rinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.</p><p>You can make a saltwater solution at home.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "How to clean your nose with a saltwater solution",
+              "text": "<div class=\"block-richtext\">\n<ol><li>Boil a pint of water, then leave it to cool.</li><li>Mix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.</li><li>Wash your hands.</li><li>Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li>Sniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.</li><li>Repeat these steps a few times to see if it helps.</li></ol><p>You do not need to use all of the solution, but make a fresh batch each day – do not reuse any left over from the day before.</p>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Some pharmacies sell sachets you can use to make a saltwater solution and devices to help you rinse your nose.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/find-a-pharmacy"
+              }
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>If you have a high temperature or you do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p>"
+            }
+          ],
+          "headline": "Cleaning inside your nose can help",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your sense of smell does not go back to normal in a few weeks\n </li>\n</ul>\n<p>\n The GP will check for any obvious causes, such as sinusitis or nasal polyps.\n</p>\n<p>\n They may refer you to a specialist for tests if they're not sure what the problem is.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A lost or changed sense of smell may slowly get better on its own. Sometimes the cause can be treated, such as steroid nasal sprays for nasal polyps.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Your sense of smell may go back to normal in a few weeks or months.</p><p>Treating the cause might help. For example, steroid nasal sprays or drops might help if you have sinusitis or nasal polyps.</p><p>Sometimes changes in sense of smell cannot be treated and may be permanent.</p><p>A treatment called smell training can help some people.</p>"
+            }
+          ],
+          "headline": "Treatment for lost or changed sense of smell",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A change in your sense of smell can be unpleasant and can also affect taste. But it’s not usually serious and may get better in a few weeks or months.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Lost or changed sense of smell",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lost or changed sense of smell",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lost or changed sense of smell",
+              "text": "Medical treatments"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-01T11:50:00+00:00",
+        "2026-12-01T11:50:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Lost or changed sense of smell",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Lost or changed sense of smell",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"yfdtu\"><b>A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of lost or changed sense of smell",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of lost or changed sense of smell"
+        }
+      ],
+      "text": "Causes of lost or changed sense of smell\nChanges in sense of smell are most often caused by:\nillnesses such as a\ncold\n,\nflu\nor COVID-19\nsinusitis (sinus infection)\nan allergy, like\nhay fever\ngrowths in your nose\n(nasal polyps)\nIt can also be caused by some medicines and, rarely, by more serious conditions like Parkinson’s disease or epilepsy.\nThese problems can cause:\nloss of smell (anosmia)\nsmelling things that are not there (phantosmia), like smoke or burnt toast\nreduced sense of smell (hyposmia)\nchanges to how things smell (parosmia)\nIt's also common to lose some of your sense of smell as you get older.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "illnesses such as a\ncold\n,\nflu\nor COVID-19",
+            "sinusitis (sinus infection)",
+            "an allergy, like\nhay fever",
+            "growths in your nose\n(nasal polyps)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "loss of smell (anosmia)",
+            "smelling things that are not there (phantosmia), like smoke or burnt toast",
+            "reduced sense of smell (hyposmia)",
+            "changes to how things smell (parosmia)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cold",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "flu",
+          "url": "https://www.nhs.uk/conditions/flu/"
+        },
+        {
+          "text": "sinusitis (sinus infection)",
+          "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+        },
+        {
+          "text": "hay fever",
+          "url": "https://www.nhs.uk/conditions/hay-fever/"
+        },
+        {
+          "text": "(nasal polyps)",
+          "url": "https://www.nhs.uk/conditions/nasal-polyps/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of lost or changed sense of smell</h2>\n<p data-block-key=\"8sx32\">Changes in sense of smell are most often caused by:</p><ul><li data-block-key=\"tynb5\">illnesses such as a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or COVID-19</li><li data-block-key=\"taf9o\"><a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis (sinus infection)</a></li><li data-block-key=\"6ix9y\">an allergy, like <a href=\"/conditions/hay-fever/\">hay fever</a></li><li data-block-key=\"g6w5q\">growths in your nose <a href=\"/conditions/nasal-polyps/\">(nasal polyps)</a></li></ul><p data-block-key=\"cs1v0\">It can also be caused by some medicines and, rarely, by more serious conditions like Parkinson’s disease or epilepsy.</p><p data-block-key=\"ue972\">These problems can cause:</p><ul><li data-block-key=\"55q0z\">loss of smell (anosmia)</li><li data-block-key=\"20c71\">smelling things that are not there (phantosmia), like smoke or burnt toast</li><li data-block-key=\"7w3nf\">reduced sense of smell (hyposmia)</li><li data-block-key=\"uaury\">changes to how things smell (parosmia)</li></ul><p data-block-key=\"dagqn\">It's also common to lose some of your sense of smell as you get older.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Cleaning inside your nose can help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Cleaning inside your nose can help"
+        }
+      ],
+      "text": "Cleaning inside your nose can help\nRinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.\nYou can make a saltwater solution at home.\nHow to clean your nose with a saltwater solution\nBoil a pint of water, then leave it to cool.\nMix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.\nWash your hands.\nStand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.\nSniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.\nRepeat these steps a few times to see if it helps.\nYou do not need to use all of the solution, but make a fresh batch each day – do not reuse any left over from the day before.\nSome pharmacies sell sachets you can use to make a saltwater solution and devices to help you rinse your nose.\nFind a pharmacy\nInformation:\nIf you have a high temperature or you do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.",
+      "lists": [
+        {
+          "type": "ordered",
+          "items": [
+            "Boil a pint of water, then leave it to cool.",
+            "Mix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.",
+            "Wash your hands.",
+            "Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.",
+            "Sniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.",
+            "Repeat these steps a few times to see if it helps."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Cleaning inside your nose can help</h2>\n<p data-block-key=\"avgx8\">Rinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.</p><p data-block-key=\"xf6cp\">You can make a saltwater solution at home.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to clean your nose with a saltwater solution\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"qirpn\">Boil a pint of water, then leave it to cool.</li><li data-block-key=\"zidlt\">Mix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.</li><li data-block-key=\"axbt9\">Wash your hands.</li><li data-block-key=\"0wzth\">Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li data-block-key=\"f4iy7\">Sniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.</li><li data-block-key=\"3dwly\">Repeat these steps a few times to see if it helps.</li></ol><p data-block-key=\"c7m7i\">You do not need to use all of the solution, but make a fresh batch each day – do not reuse any left over from the day before.</p>\n</div>\n</details>\n<p data-block-key=\"7uvf1\">Some pharmacies sell sachets you can use to make a saltwater solution and devices to help you rinse your nose.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"6xaui\">If you have a high temperature or you do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour sense of smell does not go back to normal in a few weeks\nThe GP will check for any obvious causes, such as sinusitis or nasal polyps.\nThey may refer you to a specialist for tests if they're not sure what the problem is.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your sense of smell does not go back to normal in a few weeks"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"74uv7\">your sense of smell does not go back to normal in a few weeks</li></ul><p data-block-key=\"anivt\">The GP will check for any obvious causes, such as sinusitis or nasal polyps.</p><p data-block-key=\"yzcmf\">They may refer you to a specialist for tests if they're not sure what the problem is.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for lost or changed sense of smell",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for lost or changed sense of smell"
+        }
+      ],
+      "text": "Treatment for lost or changed sense of smell\nYour sense of smell may go back to normal in a few weeks or months.\nTreating the cause might help. For example, steroid nasal sprays or drops might help if you have sinusitis or nasal polyps.\nSometimes changes in sense of smell cannot be treated and may be permanent.\nA treatment called smell training can help some people.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for lost or changed sense of smell</h2>\n<p data-block-key=\"8anhx\">Your sense of smell may go back to normal in a few weeks or months.</p><p data-block-key=\"64d0p\">Treating the cause might help. For example, steroid nasal sprays or drops might help if you have sinusitis or nasal polyps.</p><p data-block-key=\"d543k\">Sometimes changes in sense of smell cannot be treated and may be permanent.</p><p data-block-key=\"44lob\">A treatment called smell training can help some people.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Important",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "To find out more about smell training, see:\nAbScent: smell training\nFifth Sense: smell testing and training\nImportant\nIf you have lost your sense of smell, you may not be able to smell things like gas leaks, fires and food that's gone off.\nFifth Sense has safety advice if you have anosmia",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "AbScent: smell training",
+            "Fifth Sense: smell testing and training"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "AbScent: smell training",
+          "url": "https://abscent.org/learn-us/smell-training"
+        },
+        {
+          "text": "Fifth Sense: smell testing and training",
+          "url": "http://www.fifthsense.org.uk/smell-training/"
+        },
+        {
+          "text": "Fifth Sense has safety advice if you have anosmia",
+          "url": "http://www.fifthsense.org.uk/safety-advice/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"21z3w\">To find out more about smell training, see:</p><ul><li data-block-key=\"2k90i\"><a href=\"https://abscent.org/learn-us/smell-training\">AbScent: smell training</a></li><li data-block-key=\"74mol\"><a href=\"http://www.fifthsense.org.uk/smell-training/\">Fifth Sense: smell testing and training</a></li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"7fjbb\">If you have lost your sense of smell, you may not be able to smell things like gas leaks, fires and food that's gone off.</p><p data-block-key=\"a8sgl\"><a href=\"http://www.fifthsense.org.uk/safety-advice/\">Fifth Sense has safety advice if you have anosmia</a></p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.\nCauses of lost or changed sense of smell\nChanges in sense of smell are most often caused by:\nillnesses such as a\ncold\n,\nflu\nor COVID-19\nsinusitis (sinus infection)\nan allergy, like\nhay fever\ngrowths in your nose\n(nasal polyps)\nIt can also be caused by some medicines and, rarely, by more serious conditions like Parkinson’s disease or epilepsy.\nThese problems can cause:\nloss of smell (anosmia)\nsmelling things that are not there (phantosmia), like smoke or burnt toast\nreduced sense of smell (hyposmia)\nchanges to how things smell (parosmia)\nIt's also common to lose some of your sense of smell as you get older.\nCleaning inside your nose can help\nRinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.\nYou can make a saltwater solution at home.\nHow to clean your nose with a saltwater solution\nBoil a pint of water, then leave it to cool.\nMix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.\nWash your hands.\nStand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.\nSniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.\nRepeat these steps a few times to see if it helps.\nYou do not need to use all of the solution, but make a fresh batch each day – do not reuse any left over from the day before.\nSome pharmacies sell sachets you can use to make a saltwater solution and devices to help you rinse your nose.\nFind a pharmacy\nInformation:\nIf you have a high temperature or you do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.\nNon-urgent advice:\nSee a GP if:\nyour sense of smell does not go back to normal in a few weeks\nThe GP will check for any obvious causes, such as sinusitis or nasal polyps.\nThey may refer you to a specialist for tests if they're not sure what the problem is.\nTreatment for lost or changed sense of smell\nYour sense of smell may go back to normal in a few weeks or months.\nTreating the cause might help. For example, steroid nasal sprays or drops might help if you have sinusitis or nasal polyps.\nSometimes changes in sense of smell cannot be treated and may be permanent.\nA treatment called smell training can help some people.\nTo find out more about smell training, see:\nAbScent: smell training\nFifth Sense: smell testing and training\nImportant\nIf you have lost your sense of smell, you may not be able to smell things like gas leaks, fires and food that's gone off.\nFifth Sense has safety advice if you have anosmia\nPage last reviewed: 01 December 2023\nNext review due: 01 December 2026",
+  "links": [
+    {
+      "text": "cold",
+      "url": "https://www.nhs.uk/conditions/common-cold/"
+    },
+    {
+      "text": "flu",
+      "url": "https://www.nhs.uk/conditions/flu/"
+    },
+    {
+      "text": "sinusitis (sinus infection)",
+      "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+    },
+    {
+      "text": "hay fever",
+      "url": "https://www.nhs.uk/conditions/hay-fever/"
+    },
+    {
+      "text": "(nasal polyps)",
+      "url": "https://www.nhs.uk/conditions/nasal-polyps/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/find-a-pharmacy"
+    },
+    {
+      "text": "AbScent: smell training",
+      "url": "https://abscent.org/learn-us/smell-training"
+    },
+    {
+      "text": "Fifth Sense: smell testing and training",
+      "url": "http://www.fifthsense.org.uk/smell-training/"
+    },
+    {
+      "text": "Fifth Sense has safety advice if you have anosmia",
+      "url": "http://www.fifthsense.org.uk/safety-advice/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"yfdtu\"><b>A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of lost or changed sense of smell</h2>\n<p data-block-key=\"8sx32\">Changes in sense of smell are most often caused by:</p><ul><li data-block-key=\"tynb5\">illnesses such as a <a href=\"/conditions/common-cold/\">cold</a>, <a href=\"/conditions/flu/\">flu</a> or COVID-19</li><li data-block-key=\"taf9o\"><a href=\"/conditions/sinusitis-sinus-infection/\">sinusitis (sinus infection)</a></li><li data-block-key=\"6ix9y\">an allergy, like <a href=\"/conditions/hay-fever/\">hay fever</a></li><li data-block-key=\"g6w5q\">growths in your nose <a href=\"/conditions/nasal-polyps/\">(nasal polyps)</a></li></ul><p data-block-key=\"cs1v0\">It can also be caused by some medicines and, rarely, by more serious conditions like Parkinson’s disease or epilepsy.</p><p data-block-key=\"ue972\">These problems can cause:</p><ul><li data-block-key=\"55q0z\">loss of smell (anosmia)</li><li data-block-key=\"20c71\">smelling things that are not there (phantosmia), like smoke or burnt toast</li><li data-block-key=\"7w3nf\">reduced sense of smell (hyposmia)</li><li data-block-key=\"uaury\">changes to how things smell (parosmia)</li></ul><p data-block-key=\"dagqn\">It's also common to lose some of your sense of smell as you get older.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Cleaning inside your nose can help</h2>\n<p data-block-key=\"avgx8\">Rinsing the inside of your nose with a saltwater solution may help if your sense of smell is affected by an infection or allergy.</p><p data-block-key=\"xf6cp\">You can make a saltwater solution at home.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to clean your nose with a saltwater solution\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"qirpn\">Boil a pint of water, then leave it to cool.</li><li data-block-key=\"zidlt\">Mix a teaspoon of salt and a teaspoon of baking soda (bicarbonate of soda) into the water.</li><li data-block-key=\"axbt9\">Wash your hands.</li><li data-block-key=\"0wzth\">Stand over a sink, cup the palm of 1 hand and pour a small amount of the solution into it.</li><li data-block-key=\"f4iy7\">Sniff some of the solution up 1 nostril at a time and let it run out of your nose. It might help to hold your other nostril closed with your finger as you sniff.</li><li data-block-key=\"3dwly\">Repeat these steps a few times to see if it helps.</li></ol><p data-block-key=\"c7m7i\">You do not need to use all of the solution, but make a fresh batch each day – do not reuse any left over from the day before.</p>\n</div>\n</details>\n<p data-block-key=\"7uvf1\">Some pharmacies sell sachets you can use to make a saltwater solution and devices to help you rinse your nose.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"6xaui\">If you have a high temperature or you do not feel well enough to do your normal activities, try to stay at home and avoid contact with other people until you feel better.</p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"74uv7\">your sense of smell does not go back to normal in a few weeks</li></ul><p data-block-key=\"anivt\">The GP will check for any obvious causes, such as sinusitis or nasal polyps.</p><p data-block-key=\"yzcmf\">They may refer you to a specialist for tests if they're not sure what the problem is.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for lost or changed sense of smell</h2>\n<p data-block-key=\"8anhx\">Your sense of smell may go back to normal in a few weeks or months.</p><p data-block-key=\"64d0p\">Treating the cause might help. For example, steroid nasal sprays or drops might help if you have sinusitis or nasal polyps.</p><p data-block-key=\"d543k\">Sometimes changes in sense of smell cannot be treated and may be permanent.</p><p data-block-key=\"44lob\">A treatment called smell training can help some people.</p>\n</section>\n<section>\n<p data-block-key=\"21z3w\">To find out more about smell training, see:</p><ul><li data-block-key=\"2k90i\"><a href=\"https://abscent.org/learn-us/smell-training\">AbScent: smell training</a></li><li data-block-key=\"74mol\"><a href=\"http://www.fifthsense.org.uk/smell-training/\">Fifth Sense: smell testing and training</a></li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"7fjbb\">If you have lost your sense of smell, you may not be able to smell things like gas leaks, fires and food that's gone off.</p><p data-block-key=\"a8sgl\"><a href=\"http://www.fifthsense.org.uk/safety-advice/\">Fifth Sense has safety advice if you have anosmia</a></p>\n</div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 01 December 2023<br/>\n    Next review due: 01 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,551 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/paralysis/",
+  "final_url": "https://www.nhs.uk/symptoms/paralysis/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:29.096787+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Paralysis",
+      "url": "https://www.nhs.uk/symptoms/paralysis/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Paralysis",
+  "meta_description": "Find out about paralysis, including symptoms, causes and treatments.",
+  "review_dates": {
+    "page_last_reviewed": "17 July 2023",
+    "next_review_due": "17 July 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about paralysis, including symptoms, causes and treatments."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/paralysis/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nParalysis\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about paralysis, including symptoms, causes and treatments."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "13 Jun 2025, 5:28 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 4:37 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Paralysis"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/paralysis/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Paralysis"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-06-13T16:28:12+00:00",
+      "description": "Find out about paralysis, including symptoms, causes and treatments.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptom of paralysis is not being able to move parts or all of your body. This can include the face or body feeling weak, numb or painful.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may have paralysis if:</p><ul><li>you cannot move some or all of your face or body</li><li>your face or body is weak or floppy</li><li>your face or body is numb, painful or tingles all the time</li><li>your face or body is stiff with muscle spasms and twitches</li></ul><p>This can start suddenly or gradually, or come and go.</p>"
+            }
+          ],
+          "headline": "Symptoms of paralysis",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<p>\n You or someone else has paralysis or weakness:\n</p>\n<ul>\n<li>\n  that happened suddenly\n </li>\n<li>\n  after a injury to the head, neck or back\n </li>\n<li>\n  that causes problems with speech, breathing or swallowing\n </li>\n<li>\n  that affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)\n </li>\n<li>\n  and cannot feel part or all of your face and body, and you feel tingling\n </li>\n</ul>\n<p>\n These problems could be a sign of something serious that needs to be treated in hospital straight away.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging (for 999 only)",
+              "text": "<p>Do not drive yourself to A&amp;E. </p><p>The person you speak to at 999 will give you advice about what to do.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Paralysis can be caused by many conditions such as a stroke, back or head injury, bells palsy or multiple sclerosis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Paralysis can be a symptom of many different conditions that affect the muscles and nerves.</p><p>Common causes of paralysis include:</p><ul><li>a <a href=\"/conditions/transient-ischaemic-attack-tia/\">transient ischaemic attack</a> (TIA or \"mini-stroke\") or <a href=\"/conditions/stroke/\">stroke</a> (paralysis in 1 half of the face with arm weakness)</li><li>a head injury</li><li>a spinal cord (back) injury</li><li><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> (paralysis in 1 half of the face)</li><li><a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li></ul><p>Sometimes paralysis can be temporary, like having <a href=\"/conditions/sleep-paralysis/\">sleep paralysis</a>, or long-term, like <a href=\"/conditions/muscular-dystrophy/\">muscular dystrophy</a>.</p><p>It can also be caused by a <a href=\"/conditions/brain-tumours/\">brain tumour</a> or certain types of cancer like <a href=\"/conditions/head-and-neck-cancer/\">head or neck cancer</a>.</p>"
+            }
+          ],
+          "headline": "Causes of paralysis",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n You or someone else has paralysis or weakness that:\n</p>\n<ul>\n<li>\n  started gradually\n </li>\n<li>\n  is getting slowly worse\n </li>\n<li>\n  comes and goes\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for paralysis depends on what is causing it. Things that can help include physiotherapy, occupational therapy, and medicines.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for paralysis will depend on what's causing it.</p><p>Temporary paralysis may go away on its own without medical treatment.</p><p>Things that can help people with paralysis include:</p><ul><li><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> to maintain strength and muscle mass</li><li><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> to adapt to everyday tasks like getting dressed</li><li>medicines to relieve problems such as pain, stiffness and muscle spasms</li></ul>"
+            }
+          ],
+          "headline": "Treatment for paralysis",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Paralysis is when you are not able to move some or all your body. It can be temporary or permanent depending on what causes it.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Paralysis",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Paralysis",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Paralysis",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptom of paralysis is not being able to move parts or all of your body. This can include the face or body feeling weak, numb or painful.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Paralysis can be caused by many conditions such as a stroke, back or head injury, bells palsy or multiple sclerosis.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for paralysis depends on what is causing it. Things that can help include physiotherapy, occupational therapy, and medicines.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/paralysis/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-07-16T23:00:00+00:00",
+        "2026-07-16T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Paralysis",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Paralysis",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/paralysis/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/paralysis/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Paralysis is when you are not able to move some or all your body. It can be temporary or permanent depending on what causes it.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"8tvoz\"><b>Paralysis is when you are not able to move some or all your body. It can be temporary or permanent depending on what causes it.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of paralysis",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of paralysis"
+        }
+      ],
+      "text": "Symptoms of paralysis\nYou may have paralysis if:\nyou cannot move some or all of your face or body\nyour face or body is weak or floppy\nyour face or body is numb, painful or tingles all the time\nyour face or body is stiff with muscle spasms and twitches\nThis can start suddenly or gradually, or come and go.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you cannot move some or all of your face or body",
+            "your face or body is weak or floppy",
+            "your face or body is numb, painful or tingles all the time",
+            "your face or body is stiff with muscle spasms and twitches"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of paralysis</h2>\n<p data-block-key=\"2p2sh\">You may have paralysis if:</p><ul><li data-block-key=\"9s1co\">you cannot move some or all of your face or body</li><li data-block-key=\"7vglr\">your face or body is weak or floppy</li><li data-block-key=\"fvo8a\">your face or body is numb, painful or tingles all the time</li><li data-block-key=\"435or\">your face or body is stiff with muscle spasms and twitches</li></ul><p data-block-key=\"4anpi\">This can start suddenly or gradually, or come and go.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nYou or someone else has paralysis or weakness:\nthat happened suddenly\nafter a injury to the head, neck or back\nthat causes problems with speech, breathing or swallowing\nthat affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)\nand cannot feel part or all of your face and body, and you feel tingling\nThese problems could be a sign of something serious that needs to be treated in hospital straight away.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "that happened suddenly",
+            "after a injury to the head, neck or back",
+            "that causes problems with speech, breathing or swallowing",
+            "that affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)",
+            "and cannot feel part or all of your face and body, and you feel tingling"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"drehf\">You or someone else has paralysis or weakness:</p><ul><li data-block-key=\"3usk3\">that happened suddenly</li><li data-block-key=\"qjab\">after a injury to the head, neck or back</li><li data-block-key=\"alf4v\">that causes problems with speech, breathing or swallowing</li><li data-block-key=\"5rqoh\">that affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)</li><li data-block-key=\"2c4gh\">and cannot feel part or all of your face and body, and you feel tingling</li></ul><p data-block-key=\"aubj5\">These problems could be a sign of something serious that needs to be treated in hospital straight away.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Causes of paralysis",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of paralysis"
+        }
+      ],
+      "text": "Causes of paralysis\nParalysis can be a symptom of many different conditions that affect the muscles and nerves.\nCommon causes of paralysis include:\na\ntransient ischaemic attack\n(TIA or \"mini-stroke\") or\nstroke\n(paralysis in 1 half of the face with arm weakness)\na head injury\na spinal cord (back) injury\nBell's palsy\n(paralysis in 1 half of the face)\nmultiple sclerosis\nSometimes paralysis can be temporary, like having\nsleep paralysis\n, or long-term, like\nmuscular dystrophy\n.\nIt can also be caused by a\nbrain tumour\nor certain types of cancer like\nhead or neck cancer\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a\ntransient ischaemic attack\n(TIA or \"mini-stroke\") or\nstroke\n(paralysis in 1 half of the face with arm weakness)",
+            "a head injury",
+            "a spinal cord (back) injury",
+            "Bell's palsy\n(paralysis in 1 half of the face)",
+            "multiple sclerosis"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "transient ischaemic attack",
+          "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+        },
+        {
+          "text": "stroke",
+          "url": "https://www.nhs.uk/conditions/stroke/"
+        },
+        {
+          "text": "Bell's palsy",
+          "url": "https://www.nhs.uk/conditions/bells-palsy/"
+        },
+        {
+          "text": "multiple sclerosis",
+          "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+        },
+        {
+          "text": "sleep paralysis",
+          "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+        },
+        {
+          "text": "muscular dystrophy",
+          "url": "https://www.nhs.uk/conditions/muscular-dystrophy/"
+        },
+        {
+          "text": "brain tumour",
+          "url": "https://www.nhs.uk/conditions/brain-tumours/"
+        },
+        {
+          "text": "head or neck cancer",
+          "url": "https://www.nhs.uk/conditions/head-and-neck-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of paralysis</h2>\n<p data-block-key=\"be0a3\">Paralysis can be a symptom of many different conditions that affect the muscles and nerves.</p><p data-block-key=\"d5ij1\">Common causes of paralysis include:</p><ul><li data-block-key=\"d3m61\">a <a href=\"/conditions/transient-ischaemic-attack-tia/\">transient ischaemic attack</a> (TIA or \"mini-stroke\") or <a href=\"/conditions/stroke/\">stroke</a> (paralysis in 1 half of the face with arm weakness)</li><li data-block-key=\"a08bn\">a head injury</li><li data-block-key=\"505va\">a spinal cord (back) injury</li><li data-block-key=\"e3f38\"><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> (paralysis in 1 half of the face)</li><li data-block-key=\"6so4t\"><a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li></ul><p data-block-key=\"90for\">Sometimes paralysis can be temporary, like having <a href=\"/conditions/sleep-paralysis/\">sleep paralysis</a>, or long-term, like <a href=\"/conditions/muscular-dystrophy/\">muscular dystrophy</a>.</p><p data-block-key=\"bv30u\">It can also be caused by a <a href=\"/conditions/brain-tumours/\">brain tumour</a> or certain types of cancer like <a href=\"/conditions/head-and-neck-cancer/\">head or neck cancer</a>.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nYou or someone else has paralysis or weakness that:\nstarted gradually\nis getting slowly worse\ncomes and goes",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "started gradually",
+            "is getting slowly worse",
+            "comes and goes"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"drehf\">You or someone else has paralysis or weakness that:</p><ul><li data-block-key=\"3npkk\">started gradually</li><li data-block-key=\"b5785\">is getting slowly worse</li><li data-block-key=\"fs95a\">comes and goes</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatment for paralysis",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for paralysis"
+        }
+      ],
+      "text": "Treatment for paralysis\nTreatment for paralysis will depend on what's causing it.\nTemporary paralysis may go away on its own without medical treatment.\nThings that can help people with paralysis include:\nphysiotherapy\nto maintain strength and muscle mass\noccupational therapy\nto adapt to everyday tasks like getting dressed\nmedicines to relieve problems such as pain, stiffness and muscle spasms",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "physiotherapy\nto maintain strength and muscle mass",
+            "occupational therapy\nto adapt to everyday tasks like getting dressed",
+            "medicines to relieve problems such as pain, stiffness and muscle spasms"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "physiotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+        },
+        {
+          "text": "occupational therapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/occupational-therapy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for paralysis</h2>\n<p data-block-key=\"o8vhj\">Treatment for paralysis will depend on what's causing it.</p><p data-block-key=\"ap6b7\">Temporary paralysis may go away on its own without medical treatment.</p><p data-block-key=\"ceflt\">Things that can help people with paralysis include:</p><ul><li data-block-key=\"9edur\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> to maintain strength and muscle mass</li><li data-block-key=\"enmp9\"><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> to adapt to everyday tasks like getting dressed</li><li data-block-key=\"7ce2o\">medicines to relieve problems such as pain, stiffness and muscle spasms</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Paralysis is when you are not able to move some or all your body. It can be temporary or permanent depending on what causes it.\nSymptoms of paralysis\nYou may have paralysis if:\nyou cannot move some or all of your face or body\nyour face or body is weak or floppy\nyour face or body is numb, painful or tingles all the time\nyour face or body is stiff with muscle spasms and twitches\nThis can start suddenly or gradually, or come and go.\nImmediate action required:\nCall 999 if:\nYou or someone else has paralysis or weakness:\nthat happened suddenly\nafter a injury to the head, neck or back\nthat causes problems with speech, breathing or swallowing\nthat affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)\nand cannot feel part or all of your face and body, and you feel tingling\nThese problems could be a sign of something serious that needs to be treated in hospital straight away.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.\nCauses of paralysis\nParalysis can be a symptom of many different conditions that affect the muscles and nerves.\nCommon causes of paralysis include:\na\ntransient ischaemic attack\n(TIA or \"mini-stroke\") or\nstroke\n(paralysis in 1 half of the face with arm weakness)\na head injury\na spinal cord (back) injury\nBell's palsy\n(paralysis in 1 half of the face)\nmultiple sclerosis\nSometimes paralysis can be temporary, like having\nsleep paralysis\n, or long-term, like\nmuscular dystrophy\n.\nIt can also be caused by a\nbrain tumour\nor certain types of cancer like\nhead or neck cancer\n.\nNon-urgent advice:\nSee a GP if:\nYou or someone else has paralysis or weakness that:\nstarted gradually\nis getting slowly worse\ncomes and goes\nTreatment for paralysis\nTreatment for paralysis will depend on what's causing it.\nTemporary paralysis may go away on its own without medical treatment.\nThings that can help people with paralysis include:\nphysiotherapy\nto maintain strength and muscle mass\noccupational therapy\nto adapt to everyday tasks like getting dressed\nmedicines to relieve problems such as pain, stiffness and muscle spasms\nPage last reviewed: 17 July 2023\nNext review due: 17 July 2026",
+  "links": [
+    {
+      "text": "transient ischaemic attack",
+      "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.nhs.uk/conditions/stroke/"
+    },
+    {
+      "text": "Bell's palsy",
+      "url": "https://www.nhs.uk/conditions/bells-palsy/"
+    },
+    {
+      "text": "multiple sclerosis",
+      "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    },
+    {
+      "text": "sleep paralysis",
+      "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+    },
+    {
+      "text": "muscular dystrophy",
+      "url": "https://www.nhs.uk/conditions/muscular-dystrophy/"
+    },
+    {
+      "text": "brain tumour",
+      "url": "https://www.nhs.uk/conditions/brain-tumours/"
+    },
+    {
+      "text": "head or neck cancer",
+      "url": "https://www.nhs.uk/conditions/head-and-neck-cancer/"
+    },
+    {
+      "text": "physiotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+    },
+    {
+      "text": "occupational therapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/occupational-therapy/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"8tvoz\"><b>Paralysis is when you are not able to move some or all your body. It can be temporary or permanent depending on what causes it.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of paralysis</h2>\n<p data-block-key=\"2p2sh\">You may have paralysis if:</p><ul><li data-block-key=\"9s1co\">you cannot move some or all of your face or body</li><li data-block-key=\"7vglr\">your face or body is weak or floppy</li><li data-block-key=\"fvo8a\">your face or body is numb, painful or tingles all the time</li><li data-block-key=\"435or\">your face or body is stiff with muscle spasms and twitches</li></ul><p data-block-key=\"4anpi\">This can start suddenly or gradually, or come and go.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"drehf\">You or someone else has paralysis or weakness:</p><ul><li data-block-key=\"3usk3\">that happened suddenly</li><li data-block-key=\"qjab\">after a injury to the head, neck or back</li><li data-block-key=\"alf4v\">that causes problems with speech, breathing or swallowing</li><li data-block-key=\"5rqoh\">that affects 1 side of the face (your face may droop on 1 side) or 1 arm (you may not be able to lift both arms and keep them there)</li><li data-block-key=\"2c4gh\">and cannot feel part or all of your face and body, and you feel tingling</li></ul><p data-block-key=\"aubj5\">These problems could be a sign of something serious that needs to be treated in hospital straight away.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of paralysis</h2>\n<p data-block-key=\"be0a3\">Paralysis can be a symptom of many different conditions that affect the muscles and nerves.</p><p data-block-key=\"d5ij1\">Common causes of paralysis include:</p><ul><li data-block-key=\"d3m61\">a <a href=\"/conditions/transient-ischaemic-attack-tia/\">transient ischaemic attack</a> (TIA or \"mini-stroke\") or <a href=\"/conditions/stroke/\">stroke</a> (paralysis in 1 half of the face with arm weakness)</li><li data-block-key=\"a08bn\">a head injury</li><li data-block-key=\"505va\">a spinal cord (back) injury</li><li data-block-key=\"e3f38\"><a href=\"/conditions/bells-palsy/\">Bell's palsy</a> (paralysis in 1 half of the face)</li><li data-block-key=\"6so4t\"><a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a></li></ul><p data-block-key=\"90for\">Sometimes paralysis can be temporary, like having <a href=\"/conditions/sleep-paralysis/\">sleep paralysis</a>, or long-term, like <a href=\"/conditions/muscular-dystrophy/\">muscular dystrophy</a>.</p><p data-block-key=\"bv30u\">It can also be caused by a <a href=\"/conditions/brain-tumours/\">brain tumour</a> or certain types of cancer like <a href=\"/conditions/head-and-neck-cancer/\">head or neck cancer</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"drehf\">You or someone else has paralysis or weakness that:</p><ul><li data-block-key=\"3npkk\">started gradually</li><li data-block-key=\"b5785\">is getting slowly worse</li><li data-block-key=\"fs95a\">comes and goes</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for paralysis</h2>\n<p data-block-key=\"o8vhj\">Treatment for paralysis will depend on what's causing it.</p><p data-block-key=\"ap6b7\">Temporary paralysis may go away on its own without medical treatment.</p><p data-block-key=\"ceflt\">Things that can help people with paralysis include:</p><ul><li data-block-key=\"9edur\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> to maintain strength and muscle mass</li><li data-block-key=\"enmp9\"><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> to adapt to everyday tasks like getting dressed</li><li data-block-key=\"7ce2o\">medicines to relieve problems such as pain, stiffness and muscle spasms</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 17 July 2023<br/>\n    Next review due: 17 July 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

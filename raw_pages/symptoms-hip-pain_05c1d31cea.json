@@ -1,0 +1,639 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hip-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/hip-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:54.895082+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hip pain in adults",
+      "url": "https://www.nhs.uk/symptoms/hip-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Hip pain in adults",
+  "meta_description": "Find out about common causes of hip pain in adults, how you can help ease hip pain and when you should get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "20 November 2025",
+    "next_review_due": "20 November 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about common causes of hip pain in adults, how you can help ease hip pain and when you should get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hip-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHip pain in adults\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about common causes of hip pain in adults, how you can help ease hip pain and when you should get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "14 Apr 2026, 10:46 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 4:45 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Hip pain in adults"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hip-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Hip pain in adults"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-14T09:46:29+00:00",
+      "description": "Find out about common causes of hip pain in adults, how you can help ease hip pain and when you should get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lots of things can cause hip pain. Common causes include a sprain, strain or arthritis. Sometimes it can be something serious like a hip fracture.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are lots of possible causes of hip pain. It might be caused by a sudden injury or a longer-lasting problem such as arthritis.</p><p>Do not try to diagnose the cause of the pain yourself.</p>"
+            }
+          ],
+          "headline": "Causes of hip pain",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  hip pain is stopping you doing normal activities or affecting your sleep\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you have hip stiffness for more than 30 minutes after waking up\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have severe hip pain that started suddenly but you've not had a fall or injured your hip\n </li>\n<li>\n  your hip is swollen and feels hot\n </li>\n<li>\n  the skin around your hip has changed colour\n </li>\n<li>\n  you have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you have severe hip pain after a fall or injury\n </li>\n<li>\n  you're unable to walk or put weight on your leg\n </li>\n<li>\n  you have any tingling or loss of feeling in your hip or leg after an injury\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To ease hip pain, it can help to avoid putting too much strain on your hip, take painkillers, do gentle hip stretches and avoid carrying heavy things.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are things you can do to help ease hip pain.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things</p></li><li><p>put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p></li><li><p>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p></li><li><p>wear comfortable, shock-absorbing shoes with a soft sole</p></li><li><p>try to lose weight if you're overweight</p></li><li><p>try gentle hip stretching exercises</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not carry anything heavy</p></li><li><p>do not sit in low chairs – this can put extra pressure on your hips</p></li></ul>"
+            }
+          ],
+          "headline": "How you can ease hip pain",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for hip pain depends on the cause. You may recommended strong painkillers and exercises. Some people may need hip replacement surgery.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for hip pain depends on what's causing it.</p><p>Treatments can include:</p><ul><li>strong painkillers</li><li>simple exercises to try</li><li><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> for more help with exercises and stretches to ease the pain</li><li><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> – an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids</li><li><a href=\"/medicines/hydrocortisone-injections/\">steroid injections</a> to help ease pain in your hip</li><li>referral to a specialist who may do a scan and discuss treatments such as surgery</li></ul><p>Some people with pain caused by a damaged hip joint may eventually need a <a href=\"/tests-and-treatments/hip-replacement/\">hip replacement</a> if other treatments do not help.</p>"
+            }
+          ],
+          "headline": "Treatments for hip pain",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hip pain is common. There are things you can do to ease the pain, but get medical help if your hip is very painful or the pain does not get better.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Hip pain in adults",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hip pain in adults",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hip pain in adults",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Lots of things can cause hip pain. Common causes include a sprain, strain or arthritis. Sometimes it can be something serious like a hip fracture.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To ease hip pain, it can help to avoid putting too much strain on your hip, take painkillers, do gentle hip stretches and avoid carrying heavy things.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for hip pain depends on the cause. You may recommended strong painkillers and exercises. Some people may need hip replacement surgery.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hip-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-11-20T01:00:00+00:00",
+        "2028-11-20T01:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Hip pain in adults",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hip pain in adults",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hip-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/hip-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nThere is separate information about\nhip pain in children\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "hip pain in children",
+          "url": "https://www.nhs.uk/symptoms/hip-pain-children-irritable-hip/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"xivnz\">There is separate information about <a href=\"/symptoms/hip-pain-children-irritable-hip/\">hip pain in children</a>.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of hip pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of hip pain"
+        }
+      ],
+      "text": "Causes of hip pain\nThere are lots of possible causes of hip pain. It might be caused by a sudden injury or a longer-lasting problem such as arthritis.\nDo not try to diagnose the cause of the pain yourself.\nCommon causes of hip pain\nSymptoms\nPossible cause\nSevere pain and unable to walk after a fall or injury\nHip fracture\nPain, swelling or bruising after intense or repetitive exercise\nSprain or strain, or tendonitis\nOver 45 years of age, pain worse when walking and stiffness after moving\nOsteoarthritis\nPain and stiffness worse after not moving (for example, when you wake up)\nRheumatoid arthritis\nHot, swollen hip and a high temperature (or feeling hot, cold or shivery)\nJoint infection (septic arthritis)\nPain that may spread to your upper leg (thigh) and may feel worse when moving or lying or your side\nBursitis",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of hip pain</h2>\n<p data-block-key=\"h0oop\">There are lots of possible causes of hip pain. It might be caused by a sudden injury or a longer-lasting problem such as arthritis.</p><p data-block-key=\"e49aq\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of hip pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Severe pain and unable to walk after a fall or injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Hip fracture</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain, swelling or bruising after intense or repetitive exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Sprain or strain, or tendonitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Over 45 years of age, pain worse when walking and stiffness after moving</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Osteoarthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain and stiffness worse after not moving (for example, when you wake up)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Rheumatoid arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Hot, swollen hip and a high temperature (or feeling hot, cold or shivery)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Joint infection (septic arthritis)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain that may spread to your upper leg (thigh) and may feel worse when moving or lying or your side</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Bursitis</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nhip pain is stopping you doing normal activities or affecting your sleep\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have hip stiffness for more than 30 minutes after waking up\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "hip pain is stopping you doing normal activities or affecting your sleep",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you have hip stiffness for more than 30 minutes after waking up"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">hip pain is stopping you doing normal activities or affecting your sleep</li><li data-block-key=\"bcn43\">the pain is getting worse or keeps coming back</li><li data-block-key=\"5jcp6\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"dp31k\">you have hip stiffness for more than 30 minutes after waking up</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have severe hip pain that started suddenly but you've not had a fall or injured your hip\nyour hip is swollen and feels hot\nthe skin around your hip has changed colour\nyou have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe hip pain that started suddenly but you've not had a fall or injured your hip",
+            "your hip is swollen and feels hot",
+            "the skin around your hip has changed colour",
+            "you have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">you have severe hip pain that started suddenly but you've not had a fall or injured your hip</li><li data-block-key=\"8017k\">your hip is swollen and feels hot</li><li data-block-key=\"etvip\">the skin around your hip has changed colour</li><li data-block-key=\"acaep\">you have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)</li></ul><p data-block-key=\"boia2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Immediate action required: Call 999 or go to A&E if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E if:\nyou have severe hip pain after a fall or injury\nyou're unable to walk or put weight on your leg\nyou have any tingling or loss of feeling in your hip or leg after an injury\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe hip pain after a fall or injury",
+            "you're unable to walk or put weight on your leg",
+            "you have any tingling or loss of feeling in your hip or leg after an injury"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">you have severe hip pain after a fall or injury</li><li data-block-key=\"bm7bn\">you're unable to walk or put weight on your leg</li><li data-block-key=\"gmi9\">you have any tingling or loss of feeling in your hip or leg after an injury</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "How you can ease hip pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease hip pain"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How you can ease hip pain\nThere are things you can do to help ease hip pain.\nDo\ntry to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things\nput an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nwear comfortable, shock-absorbing shoes with a soft sole\ntry to lose weight if you're overweight\ntry gentle hip stretching exercises\nDon’t\ndo not carry anything heavy\ndo not sit in low chairs – this can put extra pressure on your hips",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things",
+            "put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours",
+            "use painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)",
+            "wear comfortable, shock-absorbing shoes with a soft sole",
+            "try to lose weight if you're overweight",
+            "try gentle hip stretching exercises"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not carry anything heavy",
+            "do not sit in low chairs – this can put extra pressure on your hips"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen gel",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease hip pain</h2>\n<p data-block-key=\"h0oop\">There are things you can do to help ease hip pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"oisoz\">try to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">wear comfortable, shock-absorbing shoes with a soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">try to lose weight if you're overweight</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">try gentle hip stretching exercises</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l861x\">do not carry anything heavy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l861x\">do not sit in low chairs – this can put extra pressure on your hips</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Exercises for hip pain",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Exercises for hip pain"
+        }
+      ],
+      "text": "Information:\nExercises for hip pain\nArthritis UK: exercises for the hips",
+      "lists": [],
+      "links": [
+        {
+          "text": "Arthritis UK: exercises for the hips",
+          "url": "https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-hips/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"crztw\">Exercises for hip pain</h3><p data-block-key=\"8j6n4\"><a href=\"https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-hips/\">Arthritis UK: exercises for the hips</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Treatments for hip pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for hip pain"
+        }
+      ],
+      "text": "Treatments for hip pain\nTreatment for hip pain depends on what's causing it.\nTreatments can include:\nstrong painkillers\nsimple exercises to try\nphysiotherapy\nfor more help with exercises and stretches to ease the pain\noccupational therapy\n– an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids\nsteroid injections\nto help ease pain in your hip\nreferral to a specialist who may do a scan and discuss treatments such as surgery\nSome people with pain caused by a damaged hip joint may eventually need a\nhip replacement\nif other treatments do not help.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "strong painkillers",
+            "simple exercises to try",
+            "physiotherapy\nfor more help with exercises and stretches to ease the pain",
+            "occupational therapy\n– an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids",
+            "steroid injections\nto help ease pain in your hip",
+            "referral to a specialist who may do a scan and discuss treatments such as surgery"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "physiotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+        },
+        {
+          "text": "occupational therapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/occupational-therapy/"
+        },
+        {
+          "text": "steroid injections",
+          "url": "https://www.nhs.uk/medicines/hydrocortisone-injections/"
+        },
+        {
+          "text": "hip replacement",
+          "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for hip pain</h2>\n<p data-block-key=\"h0oop\">Treatment for hip pain depends on what's causing it.</p><p data-block-key=\"8m054\">Treatments can include:</p><ul><li data-block-key=\"465nk\">strong painkillers</li><li data-block-key=\"826hf\">simple exercises to try</li><li data-block-key=\"62t0l\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> for more help with exercises and stretches to ease the pain</li><li data-block-key=\"1fbtf\"><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> – an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids</li><li data-block-key=\"5j5p9\"><a href=\"/medicines/hydrocortisone-injections/\">steroid injections</a> to help ease pain in your hip</li><li data-block-key=\"bj6sd\">referral to a specialist who may do a scan and discuss treatments such as surgery</li></ul><p data-block-key=\"922b7\">Some people with pain caused by a damaged hip joint may eventually need a <a href=\"/tests-and-treatments/hip-replacement/\">hip replacement</a> if other treatments do not help.</p>\n</section>"
+    }
+  ],
+  "page_text": "Information:\nThere is separate information about\nhip pain in children\n.\nCauses of hip pain\nThere are lots of possible causes of hip pain. It might be caused by a sudden injury or a longer-lasting problem such as arthritis.\nDo not try to diagnose the cause of the pain yourself.\nCommon causes of hip pain\nSymptoms\nPossible cause\nSevere pain and unable to walk after a fall or injury\nHip fracture\nPain, swelling or bruising after intense or repetitive exercise\nSprain or strain, or tendonitis\nOver 45 years of age, pain worse when walking and stiffness after moving\nOsteoarthritis\nPain and stiffness worse after not moving (for example, when you wake up)\nRheumatoid arthritis\nHot, swollen hip and a high temperature (or feeling hot, cold or shivery)\nJoint infection (septic arthritis)\nPain that may spread to your upper leg (thigh) and may feel worse when moving or lying or your side\nBursitis\nNon-urgent advice:\nSee a GP if:\nhip pain is stopping you doing normal activities or affecting your sleep\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have hip stiffness for more than 30 minutes after waking up\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have severe hip pain that started suddenly but you've not had a fall or injured your hip\nyour hip is swollen and feels hot\nthe skin around your hip has changed colour\nyou have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E if:\nyou have severe hip pain after a fall or injury\nyou're unable to walk or put weight on your leg\nyou have any tingling or loss of feeling in your hip or leg after an injury\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nHow you can ease hip pain\nThere are things you can do to help ease hip pain.\nDo\ntry to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things\nput an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nwear comfortable, shock-absorbing shoes with a soft sole\ntry to lose weight if you're overweight\ntry gentle hip stretching exercises\nDon’t\ndo not carry anything heavy\ndo not sit in low chairs – this can put extra pressure on your hips\nInformation:\nExercises for hip pain\nArthritis UK: exercises for the hips\nTreatments for hip pain\nTreatment for hip pain depends on what's causing it.\nTreatments can include:\nstrong painkillers\nsimple exercises to try\nphysiotherapy\nfor more help with exercises and stretches to ease the pain\noccupational therapy\n– an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids\nsteroid injections\nto help ease pain in your hip\nreferral to a specialist who may do a scan and discuss treatments such as surgery\nSome people with pain caused by a damaged hip joint may eventually need a\nhip replacement\nif other treatments do not help.\nPage last reviewed: 20 November 2025\nNext review due: 20 November 2028",
+  "links": [
+    {
+      "text": "hip pain in children",
+      "url": "https://www.nhs.uk/symptoms/hip-pain-children-irritable-hip/"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen gel",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Arthritis UK: exercises for the hips",
+      "url": "https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-hips/"
+    },
+    {
+      "text": "physiotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+    },
+    {
+      "text": "occupational therapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/occupational-therapy/"
+    },
+    {
+      "text": "steroid injections",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-injections/"
+    },
+    {
+      "text": "hip replacement",
+      "url": "https://www.nhs.uk/tests-and-treatments/hip-replacement/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"xivnz\">There is separate information about <a href=\"/symptoms/hip-pain-children-irritable-hip/\">hip pain in children</a>.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of hip pain</h2>\n<p data-block-key=\"h0oop\">There are lots of possible causes of hip pain. It might be caused by a sudden injury or a longer-lasting problem such as arthritis.</p><p data-block-key=\"e49aq\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of hip pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Severe pain and unable to walk after a fall or injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Hip fracture</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain, swelling or bruising after intense or repetitive exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Sprain or strain, or tendonitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Over 45 years of age, pain worse when walking and stiffness after moving</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Osteoarthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain and stiffness worse after not moving (for example, when you wake up)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Rheumatoid arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Hot, swollen hip and a high temperature (or feeling hot, cold or shivery)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Joint infection (septic arthritis)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Pain that may spread to your upper leg (thigh) and may feel worse when moving or lying or your side</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"6u3ca\">Bursitis</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">hip pain is stopping you doing normal activities or affecting your sleep</li><li data-block-key=\"bcn43\">the pain is getting worse or keeps coming back</li><li data-block-key=\"5jcp6\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"dp31k\">you have hip stiffness for more than 30 minutes after waking up</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">you have severe hip pain that started suddenly but you've not had a fall or injured your hip</li><li data-block-key=\"8017k\">your hip is swollen and feels hot</li><li data-block-key=\"etvip\">the skin around your hip has changed colour</li><li data-block-key=\"acaep\">you have hip pain, feel generally unwell and have a high temperature (or feel hot, cold or shivery)</li></ul><p data-block-key=\"boia2\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"a9ta5\">you have severe hip pain after a fall or injury</li><li data-block-key=\"bm7bn\">you're unable to walk or put weight on your leg</li><li data-block-key=\"gmi9\">you have any tingling or loss of feeling in your hip or leg after an injury</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease hip pain</h2>\n<p data-block-key=\"h0oop\">There are things you can do to help ease hip pain.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"oisoz\">try to avoid putting too much strain on your hip – it's best to keep moving if you can, but try not to overdo things</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">wear comfortable, shock-absorbing shoes with a soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">try to lose weight if you're overweight</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"7jzxb\">try gentle hip stretching exercises</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l861x\">do not carry anything heavy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l861x\">do not sit in low chairs – this can put extra pressure on your hips</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"crztw\">Exercises for hip pain</h3><p data-block-key=\"8j6n4\"><a href=\"https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-hips/\">Arthritis UK: exercises for the hips</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for hip pain</h2>\n<p data-block-key=\"h0oop\">Treatment for hip pain depends on what's causing it.</p><p data-block-key=\"8m054\">Treatments can include:</p><ul><li data-block-key=\"465nk\">strong painkillers</li><li data-block-key=\"826hf\">simple exercises to try</li><li data-block-key=\"62t0l\"><a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a> for more help with exercises and stretches to ease the pain</li><li data-block-key=\"1fbtf\"><a href=\"/tests-and-treatments/occupational-therapy/\">occupational therapy</a> – an occupational therapist can help with things to make your life easier, such as walking sticks or walking aids</li><li data-block-key=\"5j5p9\"><a href=\"/medicines/hydrocortisone-injections/\">steroid injections</a> to help ease pain in your hip</li><li data-block-key=\"bj6sd\">referral to a specialist who may do a scan and discuss treatments such as surgery</li></ul><p data-block-key=\"922b7\">Some people with pain caused by a damaged hip joint may eventually need a <a href=\"/tests-and-treatments/hip-replacement/\">hip replacement</a> if other treatments do not help.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 20 November 2025<br/>\n    Next review due: 20 November 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

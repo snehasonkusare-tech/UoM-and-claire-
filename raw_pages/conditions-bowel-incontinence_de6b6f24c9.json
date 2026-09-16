@@ -1,0 +1,813 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+  "final_url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:00.860018+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bowel incontinence",
+      "url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "I",
+      "label": "Incontinence (bowel), see Bowel incontinence",
+      "url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Bowel incontinence",
+  "meta_description": "Find out about bowel incontinence, including the symptoms, what causes it and the treatments available.",
+  "review_dates": {
+    "page_last_reviewed": "15 August 2024",
+    "next_review_due": "15 August 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about bowel incontinence, including the symptoms, what causes it and the treatments available."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/bowel-incontinence/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBowel incontinence\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about bowel incontinence, including the symptoms, what causes it and the treatments available."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "19 Aug 2025, 3:12 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 2:47 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Incontinence (bowel)"
+        ],
+        "name": "Bowel incontinence"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/bowel-incontinence/",
+              "genre": [
+                "Condition"
+              ],
+              "name": "Bowel incontinence"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-08-19T14:12:34+00:00",
+      "description": "Find out about bowel incontinence, including the symptoms, what causes it and the treatments available.",
+      "genre": [
+        "Condition"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of bowel incontinence include poo leaking out and feeling like you need to go to the toilet, but not being able to get there in time.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You might have bowel incontinence if you cannot control when you poo. Symptoms of bowel incontinence include:</p><ul><li>poo leaking out without you being able to stop it</li><li>feeling like you need to poo, but not being able to get to the toilet in time</li><li>not being able to get fully clean after going to the toilet</li><li>seeing streaks or stains of poo in your underwear</li></ul>"
+            }
+          ],
+          "headline": "Check if you have bowel incontinence",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you think you have bowel incontinence\n </li>\n<li>\n  you have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you\n </li>\n</ul>\n<p>\n Try not to be embarrassed. The doctor will be used to talking about these symptoms.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  your poo is black or dark red\n </li>\n<li>\n  you have bloody diarrhoea\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To diagnose bowel incontinence, a GP will talk to you about your symptoms and examine you. They may refer you to a specialist for more tests.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If a GP thinks you might have bowel incontinence they:</p><ul><li>will talk to you about your symptoms</li><li>might ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)</li><li>might ask you to give a poo sample</li></ul><p>They might refer you to a specialist for more tests such as:</p><ul><li>blood tests</li><li>a <a href=\"/tests-and-treatments/colonoscopy/\">colonoscopy</a> (a test to check inside your bowels using a thin, flexible tube with a small camera inside it)</li><li>an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul>"
+            }
+          ],
+          "headline": "How bowel incontinence is diagnosed",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for bowel incontinence include reviewing your diet and medicines, exercises to help your bowels work better and surgery if needed.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The treatment you have for bowel incontinence will depend on what's causing your symptoms and how severe they are.</p><h3>Treatment from a GP</h3><p>A GP might recommend:</p><ul><li>a review of your diet and any medicines you take</li><li>medicines to make you poo less often, such as <a href=\"/medicines/loperamide/\">loperamide</a>, or medicines to soften your poo (laxatives)</li><li>products to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed</li><li>plugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these</li><li>products to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean</li></ul><p>If these things do not help, they might refer you to a specialist service.</p><h3>Treatment from a specialist service</h3><p>A specialist incontinence service can:</p><ul><li>review your diet and any medicines you take</li><li>recommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)</li><li>recommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)</li></ul><p>If these things do not help, you might be referred for surgery.</p><h3>Surgery for bowel incontinence</h3><p>You may have surgery if other treatments have not helped or your symptoms are severe.</p><p>Surgery can include:</p><ul><li>repairing your muscles in your bottom that control when you poo (anal sphincter)</li><li>making a new anal sphincter using muscle taken from your thigh</li><li>putting an artificial sphincter in your bottom, so you can control when you poo</li><li>putting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo</li><li>having a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels</li><li>making a small opening in your tummy (stoma) to attach a pouch to collect your poo</li></ul><p>The surgeon will explain the risks and benefits of the operation, and what will happen.</p>"
+            }
+          ],
+          "headline": "Treatment for bowel incontinence",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lifestyle changes may help manage bowel incontinence, such dietary changes, changing how and when you poo, and wearing easy-to-remove clothes.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The GP or specialist may recommend lifestyle changes that can help manage bowel incontinence.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly</p></li><li><p>try to poo at regular times, such as after meals</p></li><li><p>keep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre</p></li><li><p>plan an easy route to the toilet at home and when you're out</p></li><li><p>wear clothing that's easy to get off if you need to use the toilet in a rush</p></li><li><p>practise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom</p></li><li><p>eat a balanced diet</p></li><li><p>quit smoking – nicotine can affect how quickly food moves through your digestive system</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms</p></li><li><p>try not to strain when you poo</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h4>Get a RADAR key</h4><p>RADAR keys unlock lots of accessible public toilets in places like cafés, restaurants and shopping centres.</p><p>It might help to get one so you can easily access a toilet when you're in public. You can usually get one from a charity.</p>"
+            }
+          ],
+          "headline": "Lifestyle changes a doctor may recommend",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Having bowel incontinence can affect your mental health. It can help to get support from an NHS talking therapies service or a charity.",
+          "hasHealthAspect": "http://schema.org/LivingWithHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get help from NHS talking therapies",
+              "text": "<p>Having bowel incontinence can affect your mental health. It can help to talk about how you're feeling.</p><p>You can get talking therapies for free on the NHS. These services can help you find ways to cope.</p><p>Help is available in person, by video, over the phone or as an online course.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find NHS talking therapies for anxiety and depression",
+                "target": "/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+              }
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Support from charities",
+              "text": "<p>There are also national charities that can offer support and information about bowel incontinence.</p><h4>Bladder &amp; Bowel Community</h4><p>Information and support for people with bladder and bowel conditions.</p><ul><li>Website: <a href=\"https://www.bladderandbowel.org/\">www.bladderandbowel.org</a></li><li>Email: <a href=\"mailto:help@bladderandbowel.org\">help@bladderandbowel.org</a></li><li><a href=\"https://www.bladderandbowel.org/contact-bladder-and-bowel/\">Bladder &amp; Bowel Community: online contact form</a></li><li><a href=\"https://www.bladderandbowel.org/help-information/support/\">Bladder &amp; Bowel Community: online support services</a></li><li><a href=\"https://www.facebook.com/groups/BandBCommunity/\">Bladder &amp; Bowel Community: Facebook support group</a></li></ul><h4>Bladder &amp; Bowel UK</h4><p>Information and support for people with bladder and bowel conditions.</p><ul><li>Website: <a href=\"https://www.bbuk.org.uk/\">www.bbuk.org.uk</a></li><li>Helpline: 0161 214 4591</li><li><a href=\"https://www.bbuk.org.uk/enquiries/\">Bladder &amp; Bowel UK: online contact form</a></li></ul>"
+            }
+          ],
+          "headline": "Support if you have bowel incontinence",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#support"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bowel incontinence happens for many reasons. You may be more likely to get it if you're older or have certain health conditions, such as IBS.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Bowel incontinence can happen for lots of reasons and is common. Try not to be embarrassed.</p><p>You may get it for reasons such as if you:</p><ul><li>eat certain foods or drinks, for example spicy foods or drinks with caffeine in them</li><li>have weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth</li><li>have a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease</li><li>have a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine</li></ul><p>It can be a result of more than one of these things.</p><p>Children can also get bowel incontinence. Sometimes they avoid going to the toilet, which means their poo hardens and runny poo leaks out, or they do not make it to the toilet in time.</p>"
+            }
+          ],
+          "headline": "Causes of bowel incontinence",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bowel incontinence is when you cannot control when you poo. See a GP if you think you have it as there are treatments that can help.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Bowel incontinence",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bowel incontinence",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bowel incontinence",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of bowel incontinence include poo leaking out and feeling like you need to go to the toilet, but not being able to get there in time.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatments for bowel incontinence include reviewing your diet and medicines, exercises to help your bowels work better and surgery if needed.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Bowel incontinence happens for many reasons. You may be more likely to get it if you're older or have certain health conditions, such as IBS.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-08-14T23:00:00+00:00",
+        "2027-08-14T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Bowel incontinence",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Bowel incontinence",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/bowel-incontinence/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/bowel-incontinence/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "681801031001",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/7d82bfe3-de19-46c7-a7ff-9d28eeec53e5/10s/master.m3u8?fastly_token=NjkxMzY5NWVfZTZjYTc4NzZmM2EyZWI2MGQ0OWRjODE0MjU2ZmRjMzg2NzRmZmI1NGRmOTIzMzNjMmM2MjlmNWZhOTFkMTUwMA%3D%3D",
+      "description": "In this video, an expert explains the condition. Bowel or faecal incontinence is more common than you might think.",
+      "duration": "PT3M2.464S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=681801031001",
+      "name": "Incontinence",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/7d82bfe3-de19-46c7-a7ff-9d28eeec53e5/ecaf64b0-f8c7-4999-be91-4dd4eaadf261/160x90/match/image.jpg",
+      "uploadDate": "2025-03-24T09:14:41.166000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Check if you have bowel incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Check if you have bowel incontinence"
+        }
+      ],
+      "text": "Check if you have bowel incontinence\nYou might have bowel incontinence if you cannot control when you poo. Symptoms of bowel incontinence include:\npoo leaking out without you being able to stop it\nfeeling like you need to poo, but not being able to get to the toilet in time\nnot being able to get fully clean after going to the toilet\nseeing streaks or stains of poo in your underwear",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "poo leaking out without you being able to stop it",
+            "feeling like you need to poo, but not being able to get to the toilet in time",
+            "not being able to get fully clean after going to the toilet",
+            "seeing streaks or stains of poo in your underwear"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Check if you have bowel incontinence</h2>\n<p data-block-key=\"v3qws\">You might have bowel incontinence if you cannot control when you poo. Symptoms of bowel incontinence include:</p><ul><li data-block-key=\"cll5i\">poo leaking out without you being able to stop it</li><li data-block-key=\"8ds81\">feeling like you need to poo, but not being able to get to the toilet in time</li><li data-block-key=\"5ltok\">not being able to get fully clean after going to the toilet</li><li data-block-key=\"6a2b7\">seeing streaks or stains of poo in your underwear</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou think you have bowel incontinence\nyou have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you\nTry not to be embarrassed. The doctor will be used to talking about these symptoms.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you think you have bowel incontinence",
+            "you have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kbei6\">you think you have bowel incontinence</li><li data-block-key=\"1a5hm\">you have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you</li></ul><p data-block-key=\"5aqki\">Try not to be embarrassed. The doctor will be used to talking about these symptoms.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour poo is black or dark red\nyou have bloody diarrhoea\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your poo is black or dark red",
+            "you have bloody diarrhoea"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"o5vyh\">your poo is black or dark red</li><li data-block-key=\"59gs5\">you have bloody diarrhoea</li></ul><p data-block-key=\"avp81\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "How bowel incontinence is diagnosed",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How bowel incontinence is diagnosed"
+        }
+      ],
+      "text": "How bowel incontinence is diagnosed\nIf a GP thinks you might have bowel incontinence they:\nwill talk to you about your symptoms\nmight ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)\nmight ask you to give a poo sample\nThey might refer you to a specialist for more tests such as:\nblood tests\na\ncolonoscopy\n(a test to check inside your bowels using a thin, flexible tube with a small camera inside it)\nan\nultrasound scan",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "will talk to you about your symptoms",
+            "might ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)",
+            "might ask you to give a poo sample"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "blood tests",
+            "a\ncolonoscopy\n(a test to check inside your bowels using a thin, flexible tube with a small camera inside it)",
+            "an\nultrasound scan"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "colonoscopy",
+          "url": "https://www.nhs.uk/tests-and-treatments/colonoscopy/"
+        },
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">How bowel incontinence is diagnosed</h2>\n<p data-block-key=\"vx0ef\">If a GP thinks you might have bowel incontinence they:</p><ul><li data-block-key=\"f9ta1\">will talk to you about your symptoms</li><li data-block-key=\"2c2km\">might ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)</li><li data-block-key=\"fvqom\">might ask you to give a poo sample</li></ul><p data-block-key=\"1fmcr\">They might refer you to a specialist for more tests such as:</p><ul><li data-block-key=\"f9lrd\">blood tests</li><li data-block-key=\"64r5j\">a <a href=\"/tests-and-treatments/colonoscopy/\">colonoscopy</a> (a test to check inside your bowels using a thin, flexible tube with a small camera inside it)</li><li data-block-key=\"1ern2\">an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for bowel incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for bowel incontinence"
+        },
+        {
+          "level": "h3",
+          "text": "Treatment from a GP"
+        },
+        {
+          "level": "h3",
+          "text": "Treatment from a specialist service"
+        },
+        {
+          "level": "h3",
+          "text": "Surgery for bowel incontinence"
+        }
+      ],
+      "text": "Treatment for bowel incontinence\nThe treatment you have for bowel incontinence will depend on what's causing your symptoms and how severe they are.\nTreatment from a GP\nA GP might recommend:\na review of your diet and any medicines you take\nmedicines to make you poo less often, such as\nloperamide\n, or medicines to soften your poo (laxatives)\nproducts to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed\nplugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these\nproducts to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean\nIf these things do not help, they might refer you to a specialist service.\nTreatment from a specialist service\nA specialist incontinence service can:\nreview your diet and any medicines you take\nrecommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)\nrecommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)\nIf these things do not help, you might be referred for surgery.\nSurgery for bowel incontinence\nYou may have surgery if other treatments have not helped or your symptoms are severe.\nSurgery can include:\nrepairing your muscles in your bottom that control when you poo (anal sphincter)\nmaking a new anal sphincter using muscle taken from your thigh\nputting an artificial sphincter in your bottom, so you can control when you poo\nputting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo\nhaving a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels\nmaking a small opening in your tummy (stoma) to attach a pouch to collect your poo\nThe surgeon will explain the risks and benefits of the operation, and what will happen.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a review of your diet and any medicines you take",
+            "medicines to make you poo less often, such as\nloperamide\n, or medicines to soften your poo (laxatives)",
+            "products to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed",
+            "plugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these",
+            "products to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "review your diet and any medicines you take",
+            "recommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)",
+            "recommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "repairing your muscles in your bottom that control when you poo (anal sphincter)",
+            "making a new anal sphincter using muscle taken from your thigh",
+            "putting an artificial sphincter in your bottom, so you can control when you poo",
+            "putting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo",
+            "having a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels",
+            "making a small opening in your tummy (stoma) to attach a pouch to collect your poo"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "loperamide",
+          "url": "https://www.nhs.uk/medicines/loperamide/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for bowel incontinence</h2>\n<p data-block-key=\"u0sau\">The treatment you have for bowel incontinence will depend on what's causing your symptoms and how severe they are.</p><h3 data-block-key=\"4vtjc\">Treatment from a GP</h3><p data-block-key=\"3rj68\">A GP might recommend:</p><ul><li data-block-key=\"ai3uf\">a review of your diet and any medicines you take</li><li data-block-key=\"3bqfq\">medicines to make you poo less often, such as <a href=\"/medicines/loperamide/\">loperamide</a>, or medicines to soften your poo (laxatives)</li><li data-block-key=\"c7jai\">products to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed</li><li data-block-key=\"db9k6\">plugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these</li><li data-block-key=\"2m6ic\">products to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean</li></ul><p data-block-key=\"a24v\">If these things do not help, they might refer you to a specialist service.</p><h3 data-block-key=\"e86o0\">Treatment from a specialist service</h3><p data-block-key=\"b5ui8\">A specialist incontinence service can:</p><ul><li data-block-key=\"bmbgv\">review your diet and any medicines you take</li><li data-block-key=\"7br3h\">recommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)</li><li data-block-key=\"e58vl\">recommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)</li></ul><p data-block-key=\"7kafq\">If these things do not help, you might be referred for surgery.</p><h3 data-block-key=\"d2607\">Surgery for bowel incontinence</h3><p data-block-key=\"av46a\">You may have surgery if other treatments have not helped or your symptoms are severe.</p><p data-block-key=\"2b4vr\">Surgery can include:</p><ul><li data-block-key=\"82lfg\">repairing your muscles in your bottom that control when you poo (anal sphincter)</li><li data-block-key=\"9t681\">making a new anal sphincter using muscle taken from your thigh</li><li data-block-key=\"8mdml\">putting an artificial sphincter in your bottom, so you can control when you poo</li><li data-block-key=\"2htqm\">putting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo</li><li data-block-key=\"fmlu6\">having a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels</li><li data-block-key=\"ctnak\">making a small opening in your tummy (stoma) to attach a pouch to collect your poo</li></ul><p data-block-key=\"7rc07\">The surgeon will explain the risks and benefits of the operation, and what will happen.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Lifestyle changes a doctor may recommend",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Lifestyle changes a doctor may recommend"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h4",
+          "text": "Get a RADAR key"
+        }
+      ],
+      "text": "Lifestyle changes a doctor may recommend\nThe GP or specialist may recommend lifestyle changes that can help manage bowel incontinence.\nDo\ntry changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly\ntry to poo at regular times, such as after meals\nkeep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre\nplan an easy route to the toilet at home and when you're out\nwear clothing that's easy to get off if you need to use the toilet in a rush\npractise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom\neat a balanced diet\nquit smoking – nicotine can affect how quickly food moves through your digestive system\nDon’t\ndo not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms\ntry not to strain when you poo\nInformation:\nGet a RADAR key\nRADAR keys unlock lots of accessible public toilets in places like cafés, restaurants and shopping centres.\nIt might help to get one so you can easily access a toilet when you're in public. You can usually get one from a charity.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly",
+            "try to poo at regular times, such as after meals",
+            "keep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre",
+            "plan an easy route to the toilet at home and when you're out",
+            "wear clothing that's easy to get off if you need to use the toilet in a rush",
+            "practise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom",
+            "eat a balanced diet",
+            "quit smoking – nicotine can affect how quickly food moves through your digestive system"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms",
+            "try not to strain when you poo"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Lifestyle changes a doctor may recommend</h2>\n<p data-block-key=\"45z3f\">The GP or specialist may recommend lifestyle changes that can help manage bowel incontinence.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bkfot\">try changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">try to poo at regular times, such as after meals</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">keep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">plan an easy route to the toilet at home and when you're out</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">wear clothing that's easy to get off if you need to use the toilet in a rush</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">practise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">eat a balanced diet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">quit smoking – nicotine can affect how quickly food moves through your digestive system</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l5t3j\">do not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gq0us\">try not to strain when you poo</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h4 data-block-key=\"yf8ko\">Get a RADAR key</h4><p data-block-key=\"9jtea\">RADAR keys unlock lots of accessible public toilets in places like cafés, restaurants and shopping centres.</p><p data-block-key=\"eeujc\">It might help to get one so you can easily access a toilet when you're in public. You can usually get one from a charity.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Support if you have bowel incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Support if you have bowel incontinence"
+        },
+        {
+          "level": "h3",
+          "text": "Get help from NHS talking therapies"
+        },
+        {
+          "level": "h3",
+          "text": "Support from charities"
+        },
+        {
+          "level": "h4",
+          "text": "Bladder & Bowel Community"
+        },
+        {
+          "level": "h4",
+          "text": "Bladder & Bowel UK"
+        }
+      ],
+      "text": "Support if you have bowel incontinence\nGet help from NHS talking therapies\nHaving bowel incontinence can affect your mental health. It can help to talk about how you're feeling.\nYou can get talking therapies for free on the NHS. These services can help you find ways to cope.\nHelp is available in person, by video, over the phone or as an online course.\nFind NHS talking therapies for anxiety and depression\nSupport from charities\nThere are also national charities that can offer support and information about bowel incontinence.\nBladder & Bowel Community\nInformation and support for people with bladder and bowel conditions.\nWebsite:\nwww.bladderandbowel.org\nEmail:\nhelp@bladderandbowel.org\nBladder & Bowel Community: online contact form\nBladder & Bowel Community: online support services\nBladder & Bowel Community: Facebook support group\nBladder & Bowel UK\nInformation and support for people with bladder and bowel conditions.\nWebsite:\nwww.bbuk.org.uk\nHelpline: 0161 214 4591\nBladder & Bowel UK: online contact form",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Website:\nwww.bladderandbowel.org",
+            "Email:\nhelp@bladderandbowel.org",
+            "Bladder & Bowel Community: online contact form",
+            "Bladder & Bowel Community: online support services",
+            "Bladder & Bowel Community: Facebook support group"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Website:\nwww.bbuk.org.uk",
+            "Helpline: 0161 214 4591",
+            "Bladder & Bowel UK: online contact form"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find NHS talking therapies for anxiety and depression",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "www.bladderandbowel.org",
+          "url": "https://www.bladderandbowel.org/"
+        },
+        {
+          "text": "help@bladderandbowel.org",
+          "url": "mailto:help@bladderandbowel.org"
+        },
+        {
+          "text": "Bladder & Bowel Community: online contact form",
+          "url": "https://www.bladderandbowel.org/contact-bladder-and-bowel/"
+        },
+        {
+          "text": "Bladder & Bowel Community: online support services",
+          "url": "https://www.bladderandbowel.org/help-information/support/"
+        },
+        {
+          "text": "Bladder & Bowel Community: Facebook support group",
+          "url": "https://www.facebook.com/groups/BandBCommunity/"
+        },
+        {
+          "text": "www.bbuk.org.uk",
+          "url": "https://www.bbuk.org.uk/"
+        },
+        {
+          "text": "Bladder & Bowel UK: online contact form",
+          "url": "https://www.bbuk.org.uk/enquiries/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"support\">Support if you have bowel incontinence</h2>\n<h3 data-block-key=\"w9hsj\">Get help from NHS talking therapies</h3><p data-block-key=\"4eh84\">Having bowel incontinence can affect your mental health. It can help to talk about how you're feeling.</p><p data-block-key=\"2fcna\">You can get talking therapies for free on the NHS. These services can help you find ways to cope.</p><p data-block-key=\"90h78\">Help is available in person, by video, over the phone or as an online course.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<h3 data-block-key=\"5tgxa\">Support from charities</h3><p data-block-key=\"fvi1g\">There are also national charities that can offer support and information about bowel incontinence.</p><h4 data-block-key=\"3hem0\">Bladder &amp; Bowel Community</h4><p data-block-key=\"7pg9i\">Information and support for people with bladder and bowel conditions.</p><ul><li data-block-key=\"80h8j\">Website: <a href=\"https://www.bladderandbowel.org/\">www.bladderandbowel.org</a></li><li data-block-key=\"5srjv\">Email: <a href=\"mailto:help@bladderandbowel.org\">help@bladderandbowel.org</a></li><li data-block-key=\"9kpms\"><a href=\"https://www.bladderandbowel.org/contact-bladder-and-bowel/\">Bladder &amp; Bowel Community: online contact form</a></li><li data-block-key=\"b9aau\"><a href=\"https://www.bladderandbowel.org/help-information/support/\">Bladder &amp; Bowel Community: online support services</a></li><li data-block-key=\"158dm\"><a href=\"https://www.facebook.com/groups/BandBCommunity/\">Bladder &amp; Bowel Community: Facebook support group</a></li></ul><h4 data-block-key=\"loun\">Bladder &amp; Bowel UK</h4><p data-block-key=\"73b0o\">Information and support for people with bladder and bowel conditions.</p><ul><li data-block-key=\"5aid4\">Website: <a href=\"https://www.bbuk.org.uk/\">www.bbuk.org.uk</a></li><li data-block-key=\"c3gm3\">Helpline: 0161 214 4591</li><li data-block-key=\"8lf5m\"><a href=\"https://www.bbuk.org.uk/enquiries/\">Bladder &amp; Bowel UK: online contact form</a></li></ul>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Causes of bowel incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of bowel incontinence"
+        }
+      ],
+      "text": "Causes of bowel incontinence\nBowel incontinence can happen for lots of reasons and is common. Try not to be embarrassed.\nYou may get it for reasons such as if you:\neat certain foods or drinks, for example spicy foods or drinks with caffeine in them\nhave weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth\nhave a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease\nhave a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine\nIt can be a result of more than one of these things.\nChildren can also get bowel incontinence. Sometimes they avoid going to the toilet, which means their poo hardens and runny poo leaks out, or they do not make it to the toilet in time.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "eat certain foods or drinks, for example spicy foods or drinks with caffeine in them",
+            "have weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth",
+            "have a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease",
+            "have a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of bowel incontinence</h2>\n<p data-block-key=\"v3qws\">Bowel incontinence can happen for lots of reasons and is common. Try not to be embarrassed.</p><p data-block-key=\"ei1v5\">You may get it for reasons such as if you:</p><ul><li data-block-key=\"djkh\">eat certain foods or drinks, for example spicy foods or drinks with caffeine in them</li><li data-block-key=\"ci95u\">have weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth</li><li data-block-key=\"e4073\">have a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease</li><li data-block-key=\"dfet9\">have a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine</li></ul><p data-block-key=\"9hcbs\">It can be a result of more than one of these things.</p><p data-block-key=\"4jqc9\">Children can also get bowel incontinence. Sometimes they avoid going to the toilet, which means their poo hardens and runny poo leaks out, or they do not make it to the toilet in time.</p>\n</section>"
+    },
+    {
+      "position": 9,
+      "heading": "Bowel incontinence",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Bowel incontinence"
+        }
+      ],
+      "text": "Bowel incontinence\nIn this video, an expert explains the condition. Bowel or faecal incontinence is more common than you might think.\nMedia last reviewed: 16 April 2024\nMedia review due: 16 April 2027",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Bowel incontinence</h3>\n<p>In this video, an expert explains the condition. Bowel or faecal incontinence is more common than you might think.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681801031001\" id=\"681801031001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 16 April 2024<br/>\n    Media review due: 16 April 2027\n  </div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Check if you have bowel incontinence\nYou might have bowel incontinence if you cannot control when you poo. Symptoms of bowel incontinence include:\npoo leaking out without you being able to stop it\nfeeling like you need to poo, but not being able to get to the toilet in time\nnot being able to get fully clean after going to the toilet\nseeing streaks or stains of poo in your underwear\nNon-urgent advice:\nSee a GP if:\nyou think you have bowel incontinence\nyou have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you\nTry not to be embarrassed. The doctor will be used to talking about these symptoms.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour poo is black or dark red\nyou have bloody diarrhoea\nYou can call 111 or\nget help from 111 online\n.\nHow bowel incontinence is diagnosed\nIf a GP thinks you might have bowel incontinence they:\nwill talk to you about your symptoms\nmight ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)\nmight ask you to give a poo sample\nThey might refer you to a specialist for more tests such as:\nblood tests\na\ncolonoscopy\n(a test to check inside your bowels using a thin, flexible tube with a small camera inside it)\nan\nultrasound scan\nTreatment for bowel incontinence\nThe treatment you have for bowel incontinence will depend on what's causing your symptoms and how severe they are.\nTreatment from a GP\nA GP might recommend:\na review of your diet and any medicines you take\nmedicines to make you poo less often, such as\nloperamide\n, or medicines to soften your poo (laxatives)\nproducts to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed\nplugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these\nproducts to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean\nIf these things do not help, they might refer you to a specialist service.\nTreatment from a specialist service\nA specialist incontinence service can:\nreview your diet and any medicines you take\nrecommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)\nrecommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)\nIf these things do not help, you might be referred for surgery.\nSurgery for bowel incontinence\nYou may have surgery if other treatments have not helped or your symptoms are severe.\nSurgery can include:\nrepairing your muscles in your bottom that control when you poo (anal sphincter)\nmaking a new anal sphincter using muscle taken from your thigh\nputting an artificial sphincter in your bottom, so you can control when you poo\nputting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo\nhaving a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels\nmaking a small opening in your tummy (stoma) to attach a pouch to collect your poo\nThe surgeon will explain the risks and benefits of the operation, and what will happen.\nLifestyle changes a doctor may recommend\nThe GP or specialist may recommend lifestyle changes that can help manage bowel incontinence.\nDo\ntry changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly\ntry to poo at regular times, such as after meals\nkeep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre\nplan an easy route to the toilet at home and when you're out\nwear clothing that's easy to get off if you need to use the toilet in a rush\npractise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom\neat a balanced diet\nquit smoking – nicotine can affect how quickly food moves through your digestive system\nDon’t\ndo not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms\ntry not to strain when you poo\nInformation:\nGet a RADAR key\nRADAR keys unlock lots of accessible public toilets in places like cafés, restaurants and shopping centres.\nIt might help to get one so you can easily access a toilet when you're in public. You can usually get one from a charity.\nSupport if you have bowel incontinence\nGet help from NHS talking therapies\nHaving bowel incontinence can affect your mental health. It can help to talk about how you're feeling.\nYou can get talking therapies for free on the NHS. These services can help you find ways to cope.\nHelp is available in person, by video, over the phone or as an online course.\nFind NHS talking therapies for anxiety and depression\nSupport from charities\nThere are also national charities that can offer support and information about bowel incontinence.\nBladder & Bowel Community\nInformation and support for people with bladder and bowel conditions.\nWebsite:\nwww.bladderandbowel.org\nEmail:\nhelp@bladderandbowel.org\nBladder & Bowel Community: online contact form\nBladder & Bowel Community: online support services\nBladder & Bowel Community: Facebook support group\nBladder & Bowel UK\nInformation and support for people with bladder and bowel conditions.\nWebsite:\nwww.bbuk.org.uk\nHelpline: 0161 214 4591\nBladder & Bowel UK: online contact form\nCauses of bowel incontinence\nBowel incontinence can happen for lots of reasons and is common. Try not to be embarrassed.\nYou may get it for reasons such as if you:\neat certain foods or drinks, for example spicy foods or drinks with caffeine in them\nhave weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth\nhave a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease\nhave a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine\nIt can be a result of more than one of these things.\nChildren can also get bowel incontinence. Sometimes they avoid going to the toilet, which means their poo hardens and runny poo leaks out, or they do not make it to the toilet in time.\nBowel incontinence\nIn this video, an expert explains the condition. Bowel or faecal incontinence is more common than you might think.\nMedia last reviewed: 16 April 2024\nMedia review due: 16 April 2027\nPage last reviewed: 15 August 2024\nNext review due: 15 August 2027",
+  "links": [
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "colonoscopy",
+      "url": "https://www.nhs.uk/tests-and-treatments/colonoscopy/"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "loperamide",
+      "url": "https://www.nhs.uk/medicines/loperamide/"
+    },
+    {
+      "text": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "www.bladderandbowel.org",
+      "url": "https://www.bladderandbowel.org/"
+    },
+    {
+      "text": "help@bladderandbowel.org",
+      "url": "mailto:help@bladderandbowel.org"
+    },
+    {
+      "text": "Bladder & Bowel Community: online contact form",
+      "url": "https://www.bladderandbowel.org/contact-bladder-and-bowel/"
+    },
+    {
+      "text": "Bladder & Bowel Community: online support services",
+      "url": "https://www.bladderandbowel.org/help-information/support/"
+    },
+    {
+      "text": "Bladder & Bowel Community: Facebook support group",
+      "url": "https://www.facebook.com/groups/BandBCommunity/"
+    },
+    {
+      "text": "www.bbuk.org.uk",
+      "url": "https://www.bbuk.org.uk/"
+    },
+    {
+      "text": "Bladder & Bowel UK: online contact form",
+      "url": "https://www.bbuk.org.uk/enquiries/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Check if you have bowel incontinence</h2>\n<p data-block-key=\"v3qws\">You might have bowel incontinence if you cannot control when you poo. Symptoms of bowel incontinence include:</p><ul><li data-block-key=\"cll5i\">poo leaking out without you being able to stop it</li><li data-block-key=\"8ds81\">feeling like you need to poo, but not being able to get to the toilet in time</li><li data-block-key=\"5ltok\">not being able to get fully clean after going to the toilet</li><li data-block-key=\"6a2b7\">seeing streaks or stains of poo in your underwear</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kbei6\">you think you have bowel incontinence</li><li data-block-key=\"1a5hm\">you have any changes in your poo that are not getting better, such as having softer poo, diarrhoea or constipation that is not usual for you</li></ul><p data-block-key=\"5aqki\">Try not to be embarrassed. The doctor will be used to talking about these symptoms.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"o5vyh\">your poo is black or dark red</li><li data-block-key=\"59gs5\">you have bloody diarrhoea</li></ul><p data-block-key=\"avp81\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">How bowel incontinence is diagnosed</h2>\n<p data-block-key=\"vx0ef\">If a GP thinks you might have bowel incontinence they:</p><ul><li data-block-key=\"f9ta1\">will talk to you about your symptoms</li><li data-block-key=\"2c2km\">might ask to examine you by feeling your tummy (abdomen) and feeling inside your bottom with a finger (they'll be wearing gloves)</li><li data-block-key=\"fvqom\">might ask you to give a poo sample</li></ul><p data-block-key=\"1fmcr\">They might refer you to a specialist for more tests such as:</p><ul><li data-block-key=\"f9lrd\">blood tests</li><li data-block-key=\"64r5j\">a <a href=\"/tests-and-treatments/colonoscopy/\">colonoscopy</a> (a test to check inside your bowels using a thin, flexible tube with a small camera inside it)</li><li data-block-key=\"1ern2\">an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for bowel incontinence</h2>\n<p data-block-key=\"u0sau\">The treatment you have for bowel incontinence will depend on what's causing your symptoms and how severe they are.</p><h3 data-block-key=\"4vtjc\">Treatment from a GP</h3><p data-block-key=\"3rj68\">A GP might recommend:</p><ul><li data-block-key=\"ai3uf\">a review of your diet and any medicines you take</li><li data-block-key=\"3bqfq\">medicines to make you poo less often, such as <a href=\"/medicines/loperamide/\">loperamide</a>, or medicines to soften your poo (laxatives)</li><li data-block-key=\"c7jai\">products to help with bowel incontinence, such as incontinence pants, or pads for inside your clothes or on your bed</li><li data-block-key=\"db9k6\">plugs that go inside your bottom to stop leaking (anal plugs) – the doctor will explain how to use these</li><li data-block-key=\"2m6ic\">products to protect your skin, such as barrier cream or ointment – they may also give you advice on how to keep your skin clean</li></ul><p data-block-key=\"a24v\">If these things do not help, they might refer you to a specialist service.</p><h3 data-block-key=\"e86o0\">Treatment from a specialist service</h3><p data-block-key=\"b5ui8\">A specialist incontinence service can:</p><ul><li data-block-key=\"bmbgv\">review your diet and any medicines you take</li><li data-block-key=\"7br3h\">recommend exercises to strengthen your pelvic floor and the muscles around your bottom (biofeedback)</li><li data-block-key=\"e58vl\">recommend techniques to help you empty your bowels fully and develop a controlled routine for emptying them (bowel retraining)</li></ul><p data-block-key=\"7kafq\">If these things do not help, you might be referred for surgery.</p><h3 data-block-key=\"d2607\">Surgery for bowel incontinence</h3><p data-block-key=\"av46a\">You may have surgery if other treatments have not helped or your symptoms are severe.</p><p data-block-key=\"2b4vr\">Surgery can include:</p><ul><li data-block-key=\"82lfg\">repairing your muscles in your bottom that control when you poo (anal sphincter)</li><li data-block-key=\"9t681\">making a new anal sphincter using muscle taken from your thigh</li><li data-block-key=\"8mdml\">putting an artificial sphincter in your bottom, so you can control when you poo</li><li data-block-key=\"2htqm\">putting a small device under your skin in your bottom that uses electrical pulses to help you control when you poo</li><li data-block-key=\"fmlu6\">having a small tube (catheter) put into your tummy through a small hole to flush water through, which helps empty your bowels</li><li data-block-key=\"ctnak\">making a small opening in your tummy (stoma) to attach a pouch to collect your poo</li></ul><p data-block-key=\"7rc07\">The surgeon will explain the risks and benefits of the operation, and what will happen.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Lifestyle changes a doctor may recommend</h2>\n<p data-block-key=\"45z3f\">The GP or specialist may recommend lifestyle changes that can help manage bowel incontinence.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bkfot\">try changing the position you sit in while pooing, such as using a squatting position – put your feet on a footstool while you sit on the toilet, so your knees are higher than your hips, and lean forward slightly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">try to poo at regular times, such as after meals</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">keep a diary of your symptoms and what you eat and drink – you may notice some things make your bowel incontinence worse, such as caffeine, alcohol, spicy food or too much fibre</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">plan an easy route to the toilet at home and when you're out</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">wear clothing that's easy to get off if you need to use the toilet in a rush</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">practise any exercises your doctor has recommended for your pelvic floor or muscles around your bottom</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">eat a balanced diet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ionq4\">quit smoking – nicotine can affect how quickly food moves through your digestive system</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"l5t3j\">do not cut lots of foods and drinks from your diet at once – try one thing at a time to see if it helps your symptoms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"gq0us\">try not to strain when you poo</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h4 data-block-key=\"yf8ko\">Get a RADAR key</h4><p data-block-key=\"9jtea\">RADAR keys unlock lots of accessible public toilets in places like cafés, restaurants and shopping centres.</p><p data-block-key=\"eeujc\">It might help to get one so you can easily access a toilet when you're in public. You can usually get one from a charity.</p>\n</div>\n</section>\n<section>\n<h2 id=\"support\">Support if you have bowel incontinence</h2>\n<h3 data-block-key=\"w9hsj\">Get help from NHS talking therapies</h3><p data-block-key=\"4eh84\">Having bowel incontinence can affect your mental health. It can help to talk about how you're feeling.</p><p data-block-key=\"2fcna\">You can get talking therapies for free on the NHS. These services can help you find ways to cope.</p><p data-block-key=\"90h78\">Help is available in person, by video, over the phone or as an online course.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<h3 data-block-key=\"5tgxa\">Support from charities</h3><p data-block-key=\"fvi1g\">There are also national charities that can offer support and information about bowel incontinence.</p><h4 data-block-key=\"3hem0\">Bladder &amp; Bowel Community</h4><p data-block-key=\"7pg9i\">Information and support for people with bladder and bowel conditions.</p><ul><li data-block-key=\"80h8j\">Website: <a href=\"https://www.bladderandbowel.org/\">www.bladderandbowel.org</a></li><li data-block-key=\"5srjv\">Email: <a href=\"mailto:help@bladderandbowel.org\">help@bladderandbowel.org</a></li><li data-block-key=\"9kpms\"><a href=\"https://www.bladderandbowel.org/contact-bladder-and-bowel/\">Bladder &amp; Bowel Community: online contact form</a></li><li data-block-key=\"b9aau\"><a href=\"https://www.bladderandbowel.org/help-information/support/\">Bladder &amp; Bowel Community: online support services</a></li><li data-block-key=\"158dm\"><a href=\"https://www.facebook.com/groups/BandBCommunity/\">Bladder &amp; Bowel Community: Facebook support group</a></li></ul><h4 data-block-key=\"loun\">Bladder &amp; Bowel UK</h4><p data-block-key=\"73b0o\">Information and support for people with bladder and bowel conditions.</p><ul><li data-block-key=\"5aid4\">Website: <a href=\"https://www.bbuk.org.uk/\">www.bbuk.org.uk</a></li><li data-block-key=\"c3gm3\">Helpline: 0161 214 4591</li><li data-block-key=\"8lf5m\"><a href=\"https://www.bbuk.org.uk/enquiries/\">Bladder &amp; Bowel UK: online contact form</a></li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of bowel incontinence</h2>\n<p data-block-key=\"v3qws\">Bowel incontinence can happen for lots of reasons and is common. Try not to be embarrassed.</p><p data-block-key=\"ei1v5\">You may get it for reasons such as if you:</p><ul><li data-block-key=\"djkh\">eat certain foods or drinks, for example spicy foods or drinks with caffeine in them</li><li data-block-key=\"ci95u\">have weaker muscles around your bottom – this can happen as you get older or because of things like hormonal changes or childbirth</li><li data-block-key=\"e4073\">have a health condition that affects your digestive system such as constipation, irritable bowel syndrome (IBS) or Crohn's disease</li><li data-block-key=\"dfet9\">have a health condition that makes you less aware of when you need to poo, such as dementia, a learning disability, a stroke or damage to the nerves in your spine</li></ul><p data-block-key=\"9hcbs\">It can be a result of more than one of these things.</p><p data-block-key=\"4jqc9\">Children can also get bowel incontinence. Sometimes they avoid going to the toilet, which means their poo hardens and runny poo leaks out, or they do not make it to the toilet in time.</p>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Bowel incontinence</h3>\n<p>In this video, an expert explains the condition. Bowel or faecal incontinence is more common than you might think.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681801031001\" id=\"681801031001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 16 April 2024<br/>\n    Media review due: 16 April 2027\n  </div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 15 August 2024<br/>\n    Next review due: 15 August 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

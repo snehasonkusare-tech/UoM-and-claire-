@@ -1,0 +1,549 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/reflux-in-babies/",
+  "final_url": "https://www.nhs.uk/conditions/reflux-in-babies/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:19.512408+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Acid reflux in babies, see Reflux in babies",
+      "url": "https://www.nhs.uk/conditions/reflux-in-babies/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "R",
+      "label": "Reflux in babies",
+      "url": "https://www.nhs.uk/conditions/reflux-in-babies/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Reflux in babies",
+  "meta_description": "Find out about reflux, where a baby brings up milk during or soon after a feed.",
+  "review_dates": {
+    "page_last_reviewed": "10 June 2025",
+    "next_review_due": "10 June 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about reflux, where a baby brings up milk during or soon after a feed."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/reflux-in-babies/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nReflux in babies\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about reflux, where a baby brings up milk during or soon after a feed."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Dec 2025, 4:12 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 1:57 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Acid reflux in babies"
+        ],
+        "name": "Reflux in babies"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/reflux-in-babies/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Reflux in babies"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-12-09T16:12:28+00:00",
+      "description": "Find out about reflux, where a baby brings up milk during or soon after a feed.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of reflux in babies include bringing up milk soon after feeding, coughing when feeding and not gaining weight.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Reflux usually starts before a baby is 8 weeks old and gets better by the time they're 1.</p><p>Symptoms of reflux in babies include:</p><ul><li>bringing up milk or being sick during or shortly after feeding</li><li>coughing or hiccupping when feeding</li><li>being unsettled during feeding</li><li>swallowing or gulping after burping or feeding</li><li>crying and not settling</li><li>not gaining weight as they're not keeping enough food down</li></ul><p>Sometimes babies may have signs of reflux but will not bring up milk or be sick. This is known as silent reflux.</p>"
+            }
+          ],
+          "headline": "Symptoms of reflux in babies",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A health visitor can give you feeding tips to help reduce your baby's reflux. This may include holding your baby upright and burping them regularly.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's common for a baby under the age of 1 to bring up a little bit of milk during or shortly after a feed, without being distressed. Your baby does not usually need to see a doctor if they have reflux, as long as they're happy, healthy and gaining weight.</p><p>If symptoms of reflux seem to be bothering your baby, there are things you can do to help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>ask a health visitor for advice and support</p></li><li><p>get advice about your baby's <a href=\"/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/\">breastfeeding position</a> or <a href=\"/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/\">how to bottle feed your baby</a></p></li><li><p>hold your baby upright during feeding and for as long as possible after feeding</p></li><li><p>burp your baby regularly during feeds</p></li><li><p>make sure your baby sleeps flat on their back (they should not sleep on their side or front)</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not raise the head of their cot or Moses basket</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to ease reflux in babies",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if your baby:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  is not improving after trying things to ease reflux\n </li>\n<li>\n  gets reflux for the first time after they're 6 months old\n </li>\n<li>\n  is older than 1 and still has reflux\n </li>\n<li>\n  is not gaining weight or is losing weight\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or call NHS 111 if your baby:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  has vomit that's green or yellow, or has blood in it\n </li>\n<li>\n  is projectile vomiting (being sick with more force than usual)\n </li>\n<li>\n  has blood in their poo\n </li>\n<li>\n  has a swollen or tender tummy\n </li>\n<li>\n  has a very high temperature, or they feel hot, cold or shivery\n </li>\n<li>\n  keeps being sick and cannot keep fluid down\n </li>\n<li>\n  has diarrhoea that lasts for over a week or has signs of dehydration\n </li>\n<li>\n  will not stop crying and is very distressed\n </li>\n<li>\n  is refusing to feed\n </li>\n</ul>\n<p>\n Also call your GP or 111 if you have any other concerns about your baby.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Sometimes reflux in babies may be treated with thickened formula feeds, medicines to help with distress from reflux and, rarely, surgery.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP or specialist may want to check whether your baby has an allergy to cow's milk, because the symptoms can be very similar to reflux. If there's no sign of cow' milk allergy, they may recommend treatments for reflux.</p><p>If your baby is formula-fed, they may recommend:</p><ul><li>a powder that's mixed with formula, to thicken it</li><li>a pre-thickened formula milk</li></ul><p>If the thickening powder does not help or your baby is breastfed, a GP or specialist might recommend medicines that help with distress from reflux and stop their stomach from producing as much acid.</p><p>Very rarely, surgery might be needed to strengthen the muscle that stops food or milk travelling back up. This is usually only after trying other things or if their reflux is severe.</p>"
+            }
+          ],
+          "headline": "Treatment for reflux in babies",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Babies often get reflux because the muscle in their food pipe (oesophagus) is weak and allows milk to come back up easily.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Reflux usually happens because the ring of muscle inside your baby's food pipe (oesophagus) can be weak, which allows milk to come back up easily.</p><p>This muscle will get stronger as your baby gets older and the reflux should stop.</p>"
+            }
+          ],
+          "headline": "Causes of reflux",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Reflux is when a baby brings up milk during or shortly after feeding. It's very common and usually gets better as they get older.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Reflux in babies",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Reflux in babies",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Reflux in babies",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Reflux in babies",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of reflux in babies include bringing up milk soon after feeding, coughing when feeding and not gaining weight.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A health visitor can give you feeding tips to help reduce your baby's reflux. This may include holding your baby upright and burping them regularly.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Sometimes reflux in babies may be treated with thickened formula feeds, medicines to help with distress from reflux and, rarely, surgery.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Babies often get reflux because the muscle in their food pipe (oesophagus) is weak and allows milk to come back up easily.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-06-10T11:01:00+00:00",
+        "2028-06-09T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Reflux in babies",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Reflux in babies",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/reflux-in-babies/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/reflux-in-babies/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of reflux in babies",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of reflux in babies"
+        }
+      ],
+      "text": "Symptoms of reflux in babies\nReflux usually starts before a baby is 8 weeks old and gets better by the time they're 1.\nSymptoms of reflux in babies include:\nbringing up milk or being sick during or shortly after feeding\ncoughing or hiccupping when feeding\nbeing unsettled during feeding\nswallowing or gulping after burping or feeding\ncrying and not settling\nnot gaining weight as they're not keeping enough food down\nSometimes babies may have signs of reflux but will not bring up milk or be sick. This is known as silent reflux.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "bringing up milk or being sick during or shortly after feeding",
+            "coughing or hiccupping when feeding",
+            "being unsettled during feeding",
+            "swallowing or gulping after burping or feeding",
+            "crying and not settling",
+            "not gaining weight as they're not keeping enough food down"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of reflux in babies</h2>\n<p data-block-key=\"6j6iw\">Reflux usually starts before a baby is 8 weeks old and gets better by the time they're 1.</p><p data-block-key=\"0rqu5\">Symptoms of reflux in babies include:</p><ul><li data-block-key=\"ueryj\">bringing up milk or being sick during or shortly after feeding</li><li data-block-key=\"t4hkw\">coughing or hiccupping when feeding</li><li data-block-key=\"4ey3a\">being unsettled during feeding</li><li data-block-key=\"izmf1\">swallowing or gulping after burping or feeding</li><li data-block-key=\"6d3v0\">crying and not settling</li><li data-block-key=\"8cjau\">not gaining weight as they're not keeping enough food down</li></ul><p data-block-key=\"fdxx3\">Sometimes babies may have signs of reflux but will not bring up milk or be sick. This is known as silent reflux.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can try to ease reflux in babies",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to ease reflux in babies"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can try to ease reflux in babies\nIt's common for a baby under the age of 1 to bring up a little bit of milk during or shortly after a feed, without being distressed. Your baby does not usually need to see a doctor if they have reflux, as long as they're happy, healthy and gaining weight.\nIf symptoms of reflux seem to be bothering your baby, there are things you can do to help.\nDo\nask a health visitor for advice and support\nget advice about your baby's\nbreastfeeding position\nor\nhow to bottle feed your baby\nhold your baby upright during feeding and for as long as possible after feeding\nburp your baby regularly during feeds\nmake sure your baby sleeps flat on their back (they should not sleep on their side or front)\nDon’t\ndo not raise the head of their cot or Moses basket",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "ask a health visitor for advice and support",
+            "get advice about your baby's\nbreastfeeding position\nor\nhow to bottle feed your baby",
+            "hold your baby upright during feeding and for as long as possible after feeding",
+            "burp your baby regularly during feeds",
+            "make sure your baby sleeps flat on their back (they should not sleep on their side or front)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not raise the head of their cot or Moses basket"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "breastfeeding position",
+          "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/"
+        },
+        {
+          "text": "how to bottle feed your baby",
+          "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to ease reflux in babies</h2>\n<p data-block-key=\"st6nd\">It's common for a baby under the age of 1 to bring up a little bit of milk during or shortly after a feed, without being distressed. Your baby does not usually need to see a doctor if they have reflux, as long as they're happy, healthy and gaining weight.</p><p data-block-key=\"1mn4i\">If symptoms of reflux seem to be bothering your baby, there are things you can do to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lp16a\">ask a health visitor for advice and support</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9gdti\">get advice about your baby's <a href=\"/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/\">breastfeeding position</a> or <a href=\"/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/\">how to bottle feed your baby</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"iu7tf\">hold your baby upright during feeding and for as long as possible after feeding</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"te3g7\">burp your baby regularly during feeds</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lmmcg\">make sure your baby sleeps flat on their back (they should not sleep on their side or front)</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"f9tm3\">do not raise the head of their cot or Moses basket</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if your baby:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if your baby:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if your baby:\nis not improving after trying things to ease reflux\ngets reflux for the first time after they're 6 months old\nis older than 1 and still has reflux\nis not gaining weight or is losing weight",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "is not improving after trying things to ease reflux",
+            "gets reflux for the first time after they're 6 months old",
+            "is older than 1 and still has reflux",
+            "is not gaining weight or is losing weight"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if your baby:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"eucr4\">is not improving after trying things to ease reflux</li><li data-block-key=\"t1dpq\">gets reflux for the first time after they're 6 months old</li><li data-block-key=\"kxcjn\">is older than 1 and still has reflux</li><li data-block-key=\"gf0q9\">is not gaining weight or is losing weight</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or call NHS 111 if your baby:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or call NHS 111 if your baby:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or call NHS 111 if your baby:\nhas vomit that's green or yellow, or has blood in it\nis projectile vomiting (being sick with more force than usual)\nhas blood in their poo\nhas a swollen or tender tummy\nhas a very high temperature, or they feel hot, cold or shivery\nkeeps being sick and cannot keep fluid down\nhas diarrhoea that lasts for over a week or has signs of dehydration\nwill not stop crying and is very distressed\nis refusing to feed\nAlso call your GP or 111 if you have any other concerns about your baby.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "has vomit that's green or yellow, or has blood in it",
+            "is projectile vomiting (being sick with more force than usual)",
+            "has blood in their poo",
+            "has a swollen or tender tummy",
+            "has a very high temperature, or they feel hot, cold or shivery",
+            "keeps being sick and cannot keep fluid down",
+            "has diarrhoea that lasts for over a week or has signs of dehydration",
+            "will not stop crying and is very distressed",
+            "is refusing to feed"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or call NHS 111 if your baby:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"d2esd\">has vomit that's green or yellow, or has blood in it</li><li data-block-key=\"5f2fc\">is projectile vomiting (being sick with more force than usual)</li><li data-block-key=\"f3e3r\">has blood in their poo</li><li data-block-key=\"dfh0o\">has a swollen or tender tummy</li><li data-block-key=\"9lk5f\">has a very high temperature, or they feel hot, cold or shivery</li><li data-block-key=\"52j0a\">keeps being sick and cannot keep fluid down</li><li data-block-key=\"3n713\">has diarrhoea that lasts for over a week or has signs of dehydration</li><li data-block-key=\"fkmmf\">will not stop crying and is very distressed</li><li data-block-key=\"dep92\">is refusing to feed</li></ul><p data-block-key=\"9iq97\">Also call your GP or 111 if you have any other concerns about your baby.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for reflux in babies",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for reflux in babies"
+        }
+      ],
+      "text": "Treatment for reflux in babies\nA GP or specialist may want to check whether your baby has an allergy to cow's milk, because the symptoms can be very similar to reflux. If there's no sign of cow' milk allergy, they may recommend treatments for reflux.\nIf your baby is formula-fed, they may recommend:\na powder that's mixed with formula, to thicken it\na pre-thickened formula milk\nIf the thickening powder does not help or your baby is breastfed, a GP or specialist might recommend medicines that help with distress from reflux and stop their stomach from producing as much acid.\nVery rarely, surgery might be needed to strengthen the muscle that stops food or milk travelling back up. This is usually only after trying other things or if their reflux is severe.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a powder that's mixed with formula, to thicken it",
+            "a pre-thickened formula milk"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for reflux in babies</h2>\n<p data-block-key=\"b1771\">A GP or specialist may want to check whether your baby has an allergy to cow's milk, because the symptoms can be very similar to reflux. If there's no sign of cow' milk allergy, they may recommend treatments for reflux.</p><p data-block-key=\"05rf9\">If your baby is formula-fed, they may recommend:</p><ul><li data-block-key=\"20llm\">a powder that's mixed with formula, to thicken it</li><li data-block-key=\"8yqv1\">a pre-thickened formula milk</li></ul><p data-block-key=\"gaafr\">If the thickening powder does not help or your baby is breastfed, a GP or specialist might recommend medicines that help with distress from reflux and stop their stomach from producing as much acid.</p><p data-block-key=\"qkd2t\">Very rarely, surgery might be needed to strengthen the muscle that stops food or milk travelling back up. This is usually only after trying other things or if their reflux is severe.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of reflux",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of reflux"
+        }
+      ],
+      "text": "Causes of reflux\nReflux usually happens because the ring of muscle inside your baby's food pipe (oesophagus) can be weak, which allows milk to come back up easily.\nThis muscle will get stronger as your baby gets older and the reflux should stop.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of reflux</h2>\n<p data-block-key=\"c5qk7\">Reflux usually happens because the ring of muscle inside your baby's food pipe (oesophagus) can be weak, which allows milk to come back up easily.</p><p data-block-key=\"ef8l5\">This muscle will get stronger as your baby gets older and the reflux should stop.</p>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of reflux in babies\nReflux usually starts before a baby is 8 weeks old and gets better by the time they're 1.\nSymptoms of reflux in babies include:\nbringing up milk or being sick during or shortly after feeding\ncoughing or hiccupping when feeding\nbeing unsettled during feeding\nswallowing or gulping after burping or feeding\ncrying and not settling\nnot gaining weight as they're not keeping enough food down\nSometimes babies may have signs of reflux but will not bring up milk or be sick. This is known as silent reflux.\nThings you can try to ease reflux in babies\nIt's common for a baby under the age of 1 to bring up a little bit of milk during or shortly after a feed, without being distressed. Your baby does not usually need to see a doctor if they have reflux, as long as they're happy, healthy and gaining weight.\nIf symptoms of reflux seem to be bothering your baby, there are things you can do to help.\nDo\nask a health visitor for advice and support\nget advice about your baby's\nbreastfeeding position\nor\nhow to bottle feed your baby\nhold your baby upright during feeding and for as long as possible after feeding\nburp your baby regularly during feeds\nmake sure your baby sleeps flat on their back (they should not sleep on their side or front)\nDon’t\ndo not raise the head of their cot or Moses basket\nNon-urgent advice:\nSee a GP if your baby:\nis not improving after trying things to ease reflux\ngets reflux for the first time after they're 6 months old\nis older than 1 and still has reflux\nis not gaining weight or is losing weight\nUrgent advice:\nAsk for an urgent GP appointment or call NHS 111 if your baby:\nhas vomit that's green or yellow, or has blood in it\nis projectile vomiting (being sick with more force than usual)\nhas blood in their poo\nhas a swollen or tender tummy\nhas a very high temperature, or they feel hot, cold or shivery\nkeeps being sick and cannot keep fluid down\nhas diarrhoea that lasts for over a week or has signs of dehydration\nwill not stop crying and is very distressed\nis refusing to feed\nAlso call your GP or 111 if you have any other concerns about your baby.\nTreatment for reflux in babies\nA GP or specialist may want to check whether your baby has an allergy to cow's milk, because the symptoms can be very similar to reflux. If there's no sign of cow' milk allergy, they may recommend treatments for reflux.\nIf your baby is formula-fed, they may recommend:\na powder that's mixed with formula, to thicken it\na pre-thickened formula milk\nIf the thickening powder does not help or your baby is breastfed, a GP or specialist might recommend medicines that help with distress from reflux and stop their stomach from producing as much acid.\nVery rarely, surgery might be needed to strengthen the muscle that stops food or milk travelling back up. This is usually only after trying other things or if their reflux is severe.\nCauses of reflux\nReflux usually happens because the ring of muscle inside your baby's food pipe (oesophagus) can be weak, which allows milk to come back up easily.\nThis muscle will get stronger as your baby gets older and the reflux should stop.\nPage last reviewed: 10 June 2025\nNext review due: 10 June 2028",
+  "links": [
+    {
+      "text": "breastfeeding position",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/"
+    },
+    {
+      "text": "how to bottle feed your baby",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of reflux in babies</h2>\n<p data-block-key=\"6j6iw\">Reflux usually starts before a baby is 8 weeks old and gets better by the time they're 1.</p><p data-block-key=\"0rqu5\">Symptoms of reflux in babies include:</p><ul><li data-block-key=\"ueryj\">bringing up milk or being sick during or shortly after feeding</li><li data-block-key=\"t4hkw\">coughing or hiccupping when feeding</li><li data-block-key=\"4ey3a\">being unsettled during feeding</li><li data-block-key=\"izmf1\">swallowing or gulping after burping or feeding</li><li data-block-key=\"6d3v0\">crying and not settling</li><li data-block-key=\"8cjau\">not gaining weight as they're not keeping enough food down</li></ul><p data-block-key=\"fdxx3\">Sometimes babies may have signs of reflux but will not bring up milk or be sick. This is known as silent reflux.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to ease reflux in babies</h2>\n<p data-block-key=\"st6nd\">It's common for a baby under the age of 1 to bring up a little bit of milk during or shortly after a feed, without being distressed. Your baby does not usually need to see a doctor if they have reflux, as long as they're happy, healthy and gaining weight.</p><p data-block-key=\"1mn4i\">If symptoms of reflux seem to be bothering your baby, there are things you can do to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lp16a\">ask a health visitor for advice and support</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9gdti\">get advice about your baby's <a href=\"/baby/breastfeeding-and-bottle-feeding/breastfeeding/positioning-and-attachment/\">breastfeeding position</a> or <a href=\"/baby/breastfeeding-and-bottle-feeding/bottle-feeding/advice/\">how to bottle feed your baby</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"iu7tf\">hold your baby upright during feeding and for as long as possible after feeding</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"te3g7\">burp your baby regularly during feeds</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lmmcg\">make sure your baby sleeps flat on their back (they should not sleep on their side or front)</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"f9tm3\">do not raise the head of their cot or Moses basket</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if your baby:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"eucr4\">is not improving after trying things to ease reflux</li><li data-block-key=\"t1dpq\">gets reflux for the first time after they're 6 months old</li><li data-block-key=\"kxcjn\">is older than 1 and still has reflux</li><li data-block-key=\"gf0q9\">is not gaining weight or is losing weight</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or call NHS 111 if your baby:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"d2esd\">has vomit that's green or yellow, or has blood in it</li><li data-block-key=\"5f2fc\">is projectile vomiting (being sick with more force than usual)</li><li data-block-key=\"f3e3r\">has blood in their poo</li><li data-block-key=\"dfh0o\">has a swollen or tender tummy</li><li data-block-key=\"9lk5f\">has a very high temperature, or they feel hot, cold or shivery</li><li data-block-key=\"52j0a\">keeps being sick and cannot keep fluid down</li><li data-block-key=\"3n713\">has diarrhoea that lasts for over a week or has signs of dehydration</li><li data-block-key=\"fkmmf\">will not stop crying and is very distressed</li><li data-block-key=\"dep92\">is refusing to feed</li></ul><p data-block-key=\"9iq97\">Also call your GP or 111 if you have any other concerns about your baby.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for reflux in babies</h2>\n<p data-block-key=\"b1771\">A GP or specialist may want to check whether your baby has an allergy to cow's milk, because the symptoms can be very similar to reflux. If there's no sign of cow' milk allergy, they may recommend treatments for reflux.</p><p data-block-key=\"05rf9\">If your baby is formula-fed, they may recommend:</p><ul><li data-block-key=\"20llm\">a powder that's mixed with formula, to thicken it</li><li data-block-key=\"8yqv1\">a pre-thickened formula milk</li></ul><p data-block-key=\"gaafr\">If the thickening powder does not help or your baby is breastfed, a GP or specialist might recommend medicines that help with distress from reflux and stop their stomach from producing as much acid.</p><p data-block-key=\"qkd2t\">Very rarely, surgery might be needed to strengthen the muscle that stops food or milk travelling back up. This is usually only after trying other things or if their reflux is severe.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of reflux</h2>\n<p data-block-key=\"c5qk7\">Reflux usually happens because the ring of muscle inside your baby's food pipe (oesophagus) can be weak, which allows milk to come back up easily.</p><p data-block-key=\"ef8l5\">This muscle will get stronger as your baby gets older and the reflux should stop.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 10 June 2025<br/>\n    Next review due: 10 June 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

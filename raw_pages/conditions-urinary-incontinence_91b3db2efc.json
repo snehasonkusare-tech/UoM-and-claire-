@@ -1,0 +1,567 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+  "final_url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:59.293331+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "I",
+      "label": "Incontinence (urinary), see Urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "U",
+      "label": "Urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Overview\n-\nUrinary incontinence",
+  "meta_description": "Read about urinary incontinence, which is the unintentional passing of urine. It's a common problem that's thought to affect millions of people worldwide.",
+  "review_dates": {
+    "page_last_reviewed": "15 June 2023",
+    "next_review_due": "15 June 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about urinary incontinence, which is the unintentional passing of urine. It's a common problem that's thought to affect millions of people worldwide."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/urinary-incontinence/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nUrinary incontinence\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about urinary incontinence, which is the unintentional passing of urine. It's a common problem that's thought to affect millions of people worldwide."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "11 Apr 2025, 5:41 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 10:34 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Incontinence (urinary)"
+        ],
+        "name": "Urinary incontinence"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/urinary-incontinence/",
+              "genre": [
+                "Condition"
+              ],
+              "name": "Urinary incontinence"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-11T16:41:59+00:00",
+      "description": "Read about urinary incontinence, which is the unintentional passing of urine. It's a common problem that's thought to affect millions of people worldwide.",
+      "genre": [
+        "Condition"
+      ],
+      "hasPart": [],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-06-14T23:00:00+00:00",
+        "2026-06-14T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Urinary incontinence",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "alternativeHeadline": "Overview",
+          "linkRelationship": "Navigation",
+          "name": "Urinary incontinence",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Symptoms",
+          "position": 1,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Causes",
+          "position": 2,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/causes/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Diagnosis",
+          "position": 3,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/diagnosis/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Non-surgical treatment",
+          "position": 4,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Surgery and procedures",
+          "position": 5,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/surgery/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Incontinence products",
+          "position": 6,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/incontinence-products/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "10 ways to stop leaks",
+          "position": 7,
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/10-ways-to-stop-leaks/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Urinary incontinence is the unintentional passing of urine. It's a common problem thought to affect millions of people.\nThere are several types of urinary incontinence, including:\nstress incontinence – when urine leaks out at times when your bladder is under pressure; for example, when you cough or laugh\nurge (urgency) incontinence – when urine leaks as you feel a sudden, intense urge to pee, or soon afterwards\noverflow incontinence (chronic urinary retention) – when you're unable to fully empty your bladder, which causes frequent leaking\ntotal incontinence – when your bladder cannot store any urine at all, which causes you to pass urine constantly or have frequent leaking\nIt's also possible to have a mixture of both stress and urge urinary incontinence.\nFind out more about the\nsymptoms of urinary incontinence\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stress incontinence – when urine leaks out at times when your bladder is under pressure; for example, when you cough or laugh",
+            "urge (urgency) incontinence – when urine leaks as you feel a sudden, intense urge to pee, or soon afterwards",
+            "overflow incontinence (chronic urinary retention) – when you're unable to fully empty your bladder, which causes frequent leaking",
+            "total incontinence – when your bladder cannot store any urine at all, which causes you to pass urine constantly or have frequent leaking"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "symptoms of urinary incontinence",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/symptoms/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"spsol\"><b>Urinary incontinence is the unintentional passing of urine. It's a common problem thought to affect millions of people.</b></p><p data-block-key=\"4g3t1\">There are several types of urinary incontinence, including:</p><ul><li data-block-key=\"abeo5\">stress incontinence – when urine leaks out at times when your bladder is under pressure; for example, when you cough or laugh</li><li data-block-key=\"q3g9c\">urge (urgency) incontinence – when urine leaks as you feel a sudden, intense urge to pee, or soon afterwards</li><li data-block-key=\"z2mqu\">overflow incontinence (chronic urinary retention) – when you're unable to fully empty your bladder, which causes frequent leaking</li><li data-block-key=\"9dqti\">total incontinence – when your bladder cannot store any urine at all, which causes you to pass urine constantly or have frequent leaking</li></ul><p data-block-key=\"sj9du\">It's also possible to have a mixture of both stress and urge urinary incontinence.</p><p data-block-key=\"4mv4r\">Find out more about the <a href=\"/conditions/urinary-incontinence/symptoms/\">symptoms of urinary incontinence</a>.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "When to seek medical advice",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When to seek medical advice"
+        }
+      ],
+      "text": "When to seek medical advice\nSee a GP if you have any type of urinary incontinence. Urinary incontinence is a common problem and you should not feel embarrassed talking to them about your symptoms.\nThis can also be the first step towards finding a way to effectively manage the problem.\nUrinary incontinence can usually be diagnosed after a consultation with a GP, who will ask about your symptoms and may do a pelvic examination (if you have a vagina) or a rectal examination (if you have a penis).\nThe GP may also suggest you keep a diary in which you note how much fluid you drink and how often you have to urinate.\nYou may also be referred to a specialist for more tests.\nFind out about\ndiagnosing urinary incontinence\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "diagnosing urinary incontinence",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/diagnosis/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"hq4ee\">When to seek medical advice</h2><p data-block-key=\"0o0rp\">See a GP if you have any type of urinary incontinence. Urinary incontinence is a common problem and you should not feel embarrassed talking to them about your symptoms.</p><p data-block-key=\"z9jhx\">This can also be the first step towards finding a way to effectively manage the problem.</p><p data-block-key=\"9ahan\">Urinary incontinence can usually be diagnosed after a consultation with a GP, who will ask about your symptoms and may do a pelvic examination (if you have a vagina) or a rectal examination (if you have a penis).</p><p data-block-key=\"7ez5y\">The GP may also suggest you keep a diary in which you note how much fluid you drink and how often you have to urinate.</p><p data-block-key=\"vagm\">You may also be referred to a specialist for more tests.</p><p data-block-key=\"v4562\">Find out about <a href=\"/conditions/urinary-incontinence/diagnosis/\">diagnosing urinary incontinence</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of urinary incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of urinary incontinence"
+        }
+      ],
+      "text": "Causes of urinary incontinence\nStress incontinence is usually the result of the weakening of or damage to the muscles used to prevent urination, such as the pelvic floor muscles and the urethral sphincter.\nUrge incontinence is usually the result of overactivity of the detrusor muscles, which control the bladder.\nOverflow incontinence is often caused by an obstruction or blockage in your bladder, which prevents it from emptying fully.\nTotal incontinence may be caused by a problem with the bladder from birth, a spinal injury, or a small, tunnel like hole that can form between the bladder and a nearby area (fistula).\nCertain things can increase the chances of urinary incontinence, including:\npregnancy and vaginal birth\nobesity\na family history of incontinence\nincreasing age – although incontinence is not an inevitable part of ageing\nFind out more about the\ncauses of urinary incontinence\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pregnancy and vaginal birth",
+            "obesity",
+            "a family history of incontinence",
+            "increasing age – although incontinence is not an inevitable part of ageing"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "causes of urinary incontinence",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/causes/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"4pppl\">Causes of urinary incontinence</h2><p data-block-key=\"m2swl\">Stress incontinence is usually the result of the weakening of or damage to the muscles used to prevent urination, such as the pelvic floor muscles and the urethral sphincter.</p><p data-block-key=\"vm88g\">Urge incontinence is usually the result of overactivity of the detrusor muscles, which control the bladder.</p><p data-block-key=\"4ajx8\">Overflow incontinence is often caused by an obstruction or blockage in your bladder, which prevents it from emptying fully.</p><p data-block-key=\"1zfrj\">Total incontinence may be caused by a problem with the bladder from birth, a spinal injury, or a small, tunnel like hole that can form between the bladder and a nearby area (fistula).</p><p data-block-key=\"p3fr2\">Certain things can increase the chances of urinary incontinence, including:</p><ul><li data-block-key=\"7jbm2\">pregnancy and vaginal birth</li><li data-block-key=\"7zs1b\">obesity</li><li data-block-key=\"qt357\">a family history of incontinence</li><li data-block-key=\"9huqi\">increasing age – although incontinence is not an inevitable part of ageing</li></ul><p data-block-key=\"obrn6\">Find out more about the <a href=\"/conditions/urinary-incontinence/causes/\">causes of urinary incontinence</a>.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treating urinary incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treating urinary incontinence"
+        },
+        {
+          "level": "h3",
+          "text": "Non-surgical treatments"
+        },
+        {
+          "level": "h3",
+          "text": "Surgical treatments"
+        }
+      ],
+      "text": "Treating urinary incontinence\nNon-surgical treatments\nInitially, a GP may suggest some simple measures to see if they help improve your symptoms.\nThese may include:\nlifestyle changes such as losing weight and cutting down on caffeine and alcohol\npelvic floor exercises\n, where you strengthen your pelvic floor muscles by squeezing them\nbladder training, where you learn ways to wait longer between needing to urinate and passing urine\nYou may also benefit from the use of\nincontinence products\n, such as absorbent pads and handheld urinals.\nMedicine may be recommended if you're still unable to manage your symptoms.\nFind out more about\nnon-surgical treatments for urinary incontinence\n.\nSurgical treatments\nSurgery may also be considered. The procedures that are suitable for you will depend on the type of incontinence you have.\nSurgical treatment for stress incontinence, such as a sling procedure, is used to reduce pressure on the bladder or strengthen the muscles that control urination.\nSurgery to treat urge incontinence includes enlarging the bladder or implanting a device that stimulates the nerve that controls the detrusor muscles.\nFind out more about\nsurgery and procedures for urinary incontinence\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "lifestyle changes such as losing weight and cutting down on caffeine and alcohol",
+            "pelvic floor exercises\n, where you strengthen your pelvic floor muscles by squeezing them",
+            "bladder training, where you learn ways to wait longer between needing to urinate and passing urine"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "pelvic floor exercises",
+          "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+        },
+        {
+          "text": "incontinence products",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/incontinence-products/"
+        },
+        {
+          "text": "non-surgical treatments for urinary incontinence",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
+        },
+        {
+          "text": "surgery and procedures for urinary incontinence",
+          "url": "https://www.nhs.uk/conditions/urinary-incontinence/surgery/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"7f7be\">Treating urinary incontinence</h2><h3 data-block-key=\"5ffoj\">Non-surgical treatments</h3><p data-block-key=\"gw4uc\">Initially, a GP may suggest some simple measures to see if they help improve your symptoms.</p><p data-block-key=\"g54ov\">These may include:</p><ul><li data-block-key=\"4tccy\">lifestyle changes such as losing weight and cutting down on caffeine and alcohol</li><li data-block-key=\"l4mkb\"><a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor exercises</a>, where you strengthen your pelvic floor muscles by squeezing them</li><li data-block-key=\"mkz8r\">bladder training, where you learn ways to wait longer between needing to urinate and passing urine</li></ul><p data-block-key=\"vjmxa\">You may also benefit from the use of <a href=\"/conditions/urinary-incontinence/incontinence-products/\">incontinence products</a>, such as absorbent pads and handheld urinals.</p><p data-block-key=\"ngvnf\">Medicine may be recommended if you're still unable to manage your symptoms.</p><p data-block-key=\"v0k6h\">Find out more about <a href=\"/conditions/urinary-incontinence/treatment/\">non-surgical treatments for urinary incontinence</a>.</p><h3 data-block-key=\"bhxlm\">Surgical treatments</h3><p data-block-key=\"d3s71\">Surgery may also be considered. The procedures that are suitable for you will depend on the type of incontinence you have.</p><p data-block-key=\"o96jr\">Surgical treatment for stress incontinence, such as a sling procedure, is used to reduce pressure on the bladder or strengthen the muscles that control urination.</p><p data-block-key=\"z9iqg\">Surgery to treat urge incontinence includes enlarging the bladder or implanting a device that stimulates the nerve that controls the detrusor muscles.</p><p data-block-key=\"yts79\">Find out more about <a href=\"/conditions/urinary-incontinence/surgery/\">surgery and procedures for urinary incontinence</a>.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Preventing urinary incontinence",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Preventing urinary incontinence"
+        },
+        {
+          "level": "h3",
+          "text": "Healthy weight"
+        },
+        {
+          "level": "h3",
+          "text": "Drinking habits"
+        },
+        {
+          "level": "h3",
+          "text": "Pelvic floor exercises"
+        }
+      ],
+      "text": "Preventing urinary incontinence\nIt's not always possible to prevent urinary incontinence, but there are some steps you can take that may help reduce the chance of it happening.\nThese include:\nmaintaining a healthy weight\nchanging your drinking habits, including cutting down on alcohol\ndoing\npelvic floor muscle exercises\nHealthy weight\nBeing obese can increase your risk of urinary incontinence. You may be able to lower your risk by maintaining a healthy weight through regular\nexercise\nand\nhealthy eating\n.\nUse the\nhealthy weight calculator\nto see if you are a healthy weight for your height.\nGet more information and advice about\nmanaging your weight.\nDrinking habits\nDepending on your particular bladder problem, a GP can advise you about the amount of fluids you should drink.\nIf you have urinary incontinence, cut down on alcohol and drinks containing caffeine, such as tea, coffee and cola. These can cause your kidneys to produce more urine and irritate your bladder.\nThe recommended weekly limit for alcohol consumption is 14 units.\nA unit of alcohol is roughly half a pint of normal strength lager or a single measure (25ml) of spirits.\nFind out more about\nalcohol units\n.\nIf you have to urinate frequently during the night (nocturia), try drinking less in the hours before you go to bed. However, make sure you still drink enough fluids during the day.\nPelvic floor exercises\nBeing pregnant and giving birth can weaken the muscles that control the flow of urine from your bladder. If you're pregnant, strengthening your pelvic floor muscles may help prevent urinary incontinence.\nFind out more about\npelvic floor muscle exercises during pregnancy.\nEveryone may benefit from strengthening their pelvic floor muscles with pelvic floor exercises.\nFind out more about\npelvic floor exercises\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "maintaining a healthy weight",
+            "changing your drinking habits, including cutting down on alcohol",
+            "doing\npelvic floor muscle exercises"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "pelvic floor muscle exercises",
+          "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+        },
+        {
+          "text": "exercise",
+          "url": "https://www.nhs.uk/live-well/exercise/"
+        },
+        {
+          "text": "healthy eating",
+          "url": "https://www.nhs.uk/live-well/eat-well/"
+        },
+        {
+          "text": "healthy weight calculator",
+          "url": "https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/"
+        },
+        {
+          "text": "managing your weight.",
+          "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+        },
+        {
+          "text": "alcohol units",
+          "url": "https://www.nhs.uk/live-well/alcohol-advice/calculating-alcohol-units/"
+        },
+        {
+          "text": "pelvic floor muscle exercises during pregnancy.",
+          "url": "https://www.nhs.uk/pregnancy/keeping-well/exercise/"
+        },
+        {
+          "text": "pelvic floor exercises",
+          "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"wlstn\">Preventing urinary incontinence</h2><p data-block-key=\"lxmko\">It's not always possible to prevent urinary incontinence, but there are some steps you can take that may help reduce the chance of it happening.</p><p data-block-key=\"o5mvh\">These include:</p><ul><li data-block-key=\"r4gd5\">maintaining a healthy weight</li><li data-block-key=\"m2nel\">changing your drinking habits, including cutting down on alcohol</li><li data-block-key=\"xdmd6\">doing <a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor muscle exercises</a></li></ul><h3 data-block-key=\"9q58n\">Healthy weight</h3><p data-block-key=\"cbbwe\">Being obese can increase your risk of urinary incontinence. You may be able to lower your risk by maintaining a healthy weight through regular <a href=\"/live-well/exercise/\">exercise</a> and <a href=\"/live-well/eat-well/\">healthy eating</a>.</p><p data-block-key=\"ro02z\">Use the <a href=\"/live-well/healthy-weight/bmi-calculator/\">healthy weight calculator</a> to see if you are a healthy weight for your height.</p><p data-block-key=\"wbcb3\">Get more information and advice about <a href=\"/live-well/healthy-weight/managing-your-weight/\">managing your weight.</a></p><h3 data-block-key=\"d94lo\">Drinking habits</h3><p data-block-key=\"1g22o\">Depending on your particular bladder problem, a GP can advise you about the amount of fluids you should drink.</p><p data-block-key=\"jgm90\">If you have urinary incontinence, cut down on alcohol and drinks containing caffeine, such as tea, coffee and cola. These can cause your kidneys to produce more urine and irritate your bladder.</p><p data-block-key=\"chfkg\">The recommended weekly limit for alcohol consumption is 14 units.</p><p data-block-key=\"msabs\">A unit of alcohol is roughly half a pint of normal strength lager or a single measure (25ml) of spirits.</p><p data-block-key=\"qpf7d\">Find out more about <a href=\"/live-well/alcohol-advice/calculating-alcohol-units/\">alcohol units</a>.</p><p data-block-key=\"d1vzf\">If you have to urinate frequently during the night (nocturia), try drinking less in the hours before you go to bed. However, make sure you still drink enough fluids during the day.</p><h3 data-block-key=\"jyesc\">Pelvic floor exercises</h3><p data-block-key=\"ij854\">Being pregnant and giving birth can weaken the muscles that control the flow of urine from your bladder. If you're pregnant, strengthening your pelvic floor muscles may help prevent urinary incontinence.</p><p data-block-key=\"zliee\">Find out more about <a href=\"/pregnancy/keeping-well/exercise/\">pelvic floor muscle exercises during pregnancy.</a></p><p data-block-key=\"3twb7\">Everyone may benefit from strengthening their pelvic floor muscles with pelvic floor exercises.</p><p data-block-key=\"gygla\">Find out more about <a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor exercises</a>.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Social care and support guide",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Social care and support guide"
+        }
+      ],
+      "text": "Information:\nSocial care and support guide\nIf you:\nneed help with day to day living because of illness or disability\ncare for someone regularly because they're ill, elderly or disabled (including family members)\nOur\nguide to social care and support\nexplains your options and where you can get support.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "need help with day to day living because of illness or disability",
+            "care for someone regularly because they're ill, elderly or disabled (including family members)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "guide to social care and support",
+          "url": "https://www.nhs.uk/social-care-and-support/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"rhr74\">Social care and support guide</h3><p data-block-key=\"a3n3q\">If you:</p><ul><li data-block-key=\"13rgz\">need help with day to day living because of illness or disability</li><li data-block-key=\"5n2pu\">care for someone regularly because they're ill, elderly or disabled (including family members)</li></ul><p data-block-key=\"7d77w\">Our <a href=\"/social-care-and-support/\">guide to social care and support</a> explains your options and where you can get support.</p>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Urinary incontinence is the unintentional passing of urine. It's a common problem thought to affect millions of people.\nThere are several types of urinary incontinence, including:\nstress incontinence – when urine leaks out at times when your bladder is under pressure; for example, when you cough or laugh\nurge (urgency) incontinence – when urine leaks as you feel a sudden, intense urge to pee, or soon afterwards\noverflow incontinence (chronic urinary retention) – when you're unable to fully empty your bladder, which causes frequent leaking\ntotal incontinence – when your bladder cannot store any urine at all, which causes you to pass urine constantly or have frequent leaking\nIt's also possible to have a mixture of both stress and urge urinary incontinence.\nFind out more about the\nsymptoms of urinary incontinence\n.\nWhen to seek medical advice\nSee a GP if you have any type of urinary incontinence. Urinary incontinence is a common problem and you should not feel embarrassed talking to them about your symptoms.\nThis can also be the first step towards finding a way to effectively manage the problem.\nUrinary incontinence can usually be diagnosed after a consultation with a GP, who will ask about your symptoms and may do a pelvic examination (if you have a vagina) or a rectal examination (if you have a penis).\nThe GP may also suggest you keep a diary in which you note how much fluid you drink and how often you have to urinate.\nYou may also be referred to a specialist for more tests.\nFind out about\ndiagnosing urinary incontinence\n.\nCauses of urinary incontinence\nStress incontinence is usually the result of the weakening of or damage to the muscles used to prevent urination, such as the pelvic floor muscles and the urethral sphincter.\nUrge incontinence is usually the result of overactivity of the detrusor muscles, which control the bladder.\nOverflow incontinence is often caused by an obstruction or blockage in your bladder, which prevents it from emptying fully.\nTotal incontinence may be caused by a problem with the bladder from birth, a spinal injury, or a small, tunnel like hole that can form between the bladder and a nearby area (fistula).\nCertain things can increase the chances of urinary incontinence, including:\npregnancy and vaginal birth\nobesity\na family history of incontinence\nincreasing age – although incontinence is not an inevitable part of ageing\nFind out more about the\ncauses of urinary incontinence\n.\nTreating urinary incontinence\nNon-surgical treatments\nInitially, a GP may suggest some simple measures to see if they help improve your symptoms.\nThese may include:\nlifestyle changes such as losing weight and cutting down on caffeine and alcohol\npelvic floor exercises\n, where you strengthen your pelvic floor muscles by squeezing them\nbladder training, where you learn ways to wait longer between needing to urinate and passing urine\nYou may also benefit from the use of\nincontinence products\n, such as absorbent pads and handheld urinals.\nMedicine may be recommended if you're still unable to manage your symptoms.\nFind out more about\nnon-surgical treatments for urinary incontinence\n.\nSurgical treatments\nSurgery may also be considered. The procedures that are suitable for you will depend on the type of incontinence you have.\nSurgical treatment for stress incontinence, such as a sling procedure, is used to reduce pressure on the bladder or strengthen the muscles that control urination.\nSurgery to treat urge incontinence includes enlarging the bladder or implanting a device that stimulates the nerve that controls the detrusor muscles.\nFind out more about\nsurgery and procedures for urinary incontinence\n.\nPreventing urinary incontinence\nIt's not always possible to prevent urinary incontinence, but there are some steps you can take that may help reduce the chance of it happening.\nThese include:\nmaintaining a healthy weight\nchanging your drinking habits, including cutting down on alcohol\ndoing\npelvic floor muscle exercises\nHealthy weight\nBeing obese can increase your risk of urinary incontinence. You may be able to lower your risk by maintaining a healthy weight through regular\nexercise\nand\nhealthy eating\n.\nUse the\nhealthy weight calculator\nto see if you are a healthy weight for your height.\nGet more information and advice about\nmanaging your weight.\nDrinking habits\nDepending on your particular bladder problem, a GP can advise you about the amount of fluids you should drink.\nIf you have urinary incontinence, cut down on alcohol and drinks containing caffeine, such as tea, coffee and cola. These can cause your kidneys to produce more urine and irritate your bladder.\nThe recommended weekly limit for alcohol consumption is 14 units.\nA unit of alcohol is roughly half a pint of normal strength lager or a single measure (25ml) of spirits.\nFind out more about\nalcohol units\n.\nIf you have to urinate frequently during the night (nocturia), try drinking less in the hours before you go to bed. However, make sure you still drink enough fluids during the day.\nPelvic floor exercises\nBeing pregnant and giving birth can weaken the muscles that control the flow of urine from your bladder. If you're pregnant, strengthening your pelvic floor muscles may help prevent urinary incontinence.\nFind out more about\npelvic floor muscle exercises during pregnancy.\nEveryone may benefit from strengthening their pelvic floor muscles with pelvic floor exercises.\nFind out more about\npelvic floor exercises\n.\nInformation:\nSocial care and support guide\nIf you:\nneed help with day to day living because of illness or disability\ncare for someone regularly because they're ill, elderly or disabled (including family members)\nOur\nguide to social care and support\nexplains your options and where you can get support.\nPage last reviewed: 15 June 2023\nNext review due: 15 June 2026\nNext\n:\nSymptoms",
+  "links": [
+    {
+      "text": "symptoms of urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/symptoms/"
+    },
+    {
+      "text": "diagnosing urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/diagnosis/"
+    },
+    {
+      "text": "causes of urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/causes/"
+    },
+    {
+      "text": "pelvic floor exercises",
+      "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+    },
+    {
+      "text": "incontinence products",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/incontinence-products/"
+    },
+    {
+      "text": "non-surgical treatments for urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/treatment/"
+    },
+    {
+      "text": "surgery and procedures for urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/surgery/"
+    },
+    {
+      "text": "pelvic floor muscle exercises",
+      "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+    },
+    {
+      "text": "exercise",
+      "url": "https://www.nhs.uk/live-well/exercise/"
+    },
+    {
+      "text": "healthy eating",
+      "url": "https://www.nhs.uk/live-well/eat-well/"
+    },
+    {
+      "text": "healthy weight calculator",
+      "url": "https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/"
+    },
+    {
+      "text": "managing your weight.",
+      "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+    },
+    {
+      "text": "alcohol units",
+      "url": "https://www.nhs.uk/live-well/alcohol-advice/calculating-alcohol-units/"
+    },
+    {
+      "text": "pelvic floor muscle exercises during pregnancy.",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/exercise/"
+    },
+    {
+      "text": "pelvic floor exercises",
+      "url": "https://www.nhs.uk/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/"
+    },
+    {
+      "text": "guide to social care and support",
+      "url": "https://www.nhs.uk/social-care-and-support/"
+    },
+    {
+      "text": "Next : Symptoms",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/symptoms/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"spsol\"><b>Urinary incontinence is the unintentional passing of urine. It's a common problem thought to affect millions of people.</b></p><p data-block-key=\"4g3t1\">There are several types of urinary incontinence, including:</p><ul><li data-block-key=\"abeo5\">stress incontinence – when urine leaks out at times when your bladder is under pressure; for example, when you cough or laugh</li><li data-block-key=\"q3g9c\">urge (urgency) incontinence – when urine leaks as you feel a sudden, intense urge to pee, or soon afterwards</li><li data-block-key=\"z2mqu\">overflow incontinence (chronic urinary retention) – when you're unable to fully empty your bladder, which causes frequent leaking</li><li data-block-key=\"9dqti\">total incontinence – when your bladder cannot store any urine at all, which causes you to pass urine constantly or have frequent leaking</li></ul><p data-block-key=\"sj9du\">It's also possible to have a mixture of both stress and urge urinary incontinence.</p><p data-block-key=\"4mv4r\">Find out more about the <a href=\"/conditions/urinary-incontinence/symptoms/\">symptoms of urinary incontinence</a>.</p>\n</section>\n<section>\n<h2 data-block-key=\"hq4ee\">When to seek medical advice</h2><p data-block-key=\"0o0rp\">See a GP if you have any type of urinary incontinence. Urinary incontinence is a common problem and you should not feel embarrassed talking to them about your symptoms.</p><p data-block-key=\"z9jhx\">This can also be the first step towards finding a way to effectively manage the problem.</p><p data-block-key=\"9ahan\">Urinary incontinence can usually be diagnosed after a consultation with a GP, who will ask about your symptoms and may do a pelvic examination (if you have a vagina) or a rectal examination (if you have a penis).</p><p data-block-key=\"7ez5y\">The GP may also suggest you keep a diary in which you note how much fluid you drink and how often you have to urinate.</p><p data-block-key=\"vagm\">You may also be referred to a specialist for more tests.</p><p data-block-key=\"v4562\">Find out about <a href=\"/conditions/urinary-incontinence/diagnosis/\">diagnosing urinary incontinence</a>.</p>\n</section>\n<section>\n<h2 data-block-key=\"4pppl\">Causes of urinary incontinence</h2><p data-block-key=\"m2swl\">Stress incontinence is usually the result of the weakening of or damage to the muscles used to prevent urination, such as the pelvic floor muscles and the urethral sphincter.</p><p data-block-key=\"vm88g\">Urge incontinence is usually the result of overactivity of the detrusor muscles, which control the bladder.</p><p data-block-key=\"4ajx8\">Overflow incontinence is often caused by an obstruction or blockage in your bladder, which prevents it from emptying fully.</p><p data-block-key=\"1zfrj\">Total incontinence may be caused by a problem with the bladder from birth, a spinal injury, or a small, tunnel like hole that can form between the bladder and a nearby area (fistula).</p><p data-block-key=\"p3fr2\">Certain things can increase the chances of urinary incontinence, including:</p><ul><li data-block-key=\"7jbm2\">pregnancy and vaginal birth</li><li data-block-key=\"7zs1b\">obesity</li><li data-block-key=\"qt357\">a family history of incontinence</li><li data-block-key=\"9huqi\">increasing age – although incontinence is not an inevitable part of ageing</li></ul><p data-block-key=\"obrn6\">Find out more about the <a href=\"/conditions/urinary-incontinence/causes/\">causes of urinary incontinence</a>.</p>\n</section>\n<section>\n<h2 data-block-key=\"7f7be\">Treating urinary incontinence</h2><h3 data-block-key=\"5ffoj\">Non-surgical treatments</h3><p data-block-key=\"gw4uc\">Initially, a GP may suggest some simple measures to see if they help improve your symptoms.</p><p data-block-key=\"g54ov\">These may include:</p><ul><li data-block-key=\"4tccy\">lifestyle changes such as losing weight and cutting down on caffeine and alcohol</li><li data-block-key=\"l4mkb\"><a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor exercises</a>, where you strengthen your pelvic floor muscles by squeezing them</li><li data-block-key=\"mkz8r\">bladder training, where you learn ways to wait longer between needing to urinate and passing urine</li></ul><p data-block-key=\"vjmxa\">You may also benefit from the use of <a href=\"/conditions/urinary-incontinence/incontinence-products/\">incontinence products</a>, such as absorbent pads and handheld urinals.</p><p data-block-key=\"ngvnf\">Medicine may be recommended if you're still unable to manage your symptoms.</p><p data-block-key=\"v0k6h\">Find out more about <a href=\"/conditions/urinary-incontinence/treatment/\">non-surgical treatments for urinary incontinence</a>.</p><h3 data-block-key=\"bhxlm\">Surgical treatments</h3><p data-block-key=\"d3s71\">Surgery may also be considered. The procedures that are suitable for you will depend on the type of incontinence you have.</p><p data-block-key=\"o96jr\">Surgical treatment for stress incontinence, such as a sling procedure, is used to reduce pressure on the bladder or strengthen the muscles that control urination.</p><p data-block-key=\"z9iqg\">Surgery to treat urge incontinence includes enlarging the bladder or implanting a device that stimulates the nerve that controls the detrusor muscles.</p><p data-block-key=\"yts79\">Find out more about <a href=\"/conditions/urinary-incontinence/surgery/\">surgery and procedures for urinary incontinence</a>.</p>\n</section>\n<section>\n<h2 data-block-key=\"wlstn\">Preventing urinary incontinence</h2><p data-block-key=\"lxmko\">It's not always possible to prevent urinary incontinence, but there are some steps you can take that may help reduce the chance of it happening.</p><p data-block-key=\"o5mvh\">These include:</p><ul><li data-block-key=\"r4gd5\">maintaining a healthy weight</li><li data-block-key=\"m2nel\">changing your drinking habits, including cutting down on alcohol</li><li data-block-key=\"xdmd6\">doing <a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor muscle exercises</a></li></ul><h3 data-block-key=\"9q58n\">Healthy weight</h3><p data-block-key=\"cbbwe\">Being obese can increase your risk of urinary incontinence. You may be able to lower your risk by maintaining a healthy weight through regular <a href=\"/live-well/exercise/\">exercise</a> and <a href=\"/live-well/eat-well/\">healthy eating</a>.</p><p data-block-key=\"ro02z\">Use the <a href=\"/live-well/healthy-weight/bmi-calculator/\">healthy weight calculator</a> to see if you are a healthy weight for your height.</p><p data-block-key=\"wbcb3\">Get more information and advice about <a href=\"/live-well/healthy-weight/managing-your-weight/\">managing your weight.</a></p><h3 data-block-key=\"d94lo\">Drinking habits</h3><p data-block-key=\"1g22o\">Depending on your particular bladder problem, a GP can advise you about the amount of fluids you should drink.</p><p data-block-key=\"jgm90\">If you have urinary incontinence, cut down on alcohol and drinks containing caffeine, such as tea, coffee and cola. These can cause your kidneys to produce more urine and irritate your bladder.</p><p data-block-key=\"chfkg\">The recommended weekly limit for alcohol consumption is 14 units.</p><p data-block-key=\"msabs\">A unit of alcohol is roughly half a pint of normal strength lager or a single measure (25ml) of spirits.</p><p data-block-key=\"qpf7d\">Find out more about <a href=\"/live-well/alcohol-advice/calculating-alcohol-units/\">alcohol units</a>.</p><p data-block-key=\"d1vzf\">If you have to urinate frequently during the night (nocturia), try drinking less in the hours before you go to bed. However, make sure you still drink enough fluids during the day.</p><h3 data-block-key=\"jyesc\">Pelvic floor exercises</h3><p data-block-key=\"ij854\">Being pregnant and giving birth can weaken the muscles that control the flow of urine from your bladder. If you're pregnant, strengthening your pelvic floor muscles may help prevent urinary incontinence.</p><p data-block-key=\"zliee\">Find out more about <a href=\"/pregnancy/keeping-well/exercise/\">pelvic floor muscle exercises during pregnancy.</a></p><p data-block-key=\"3twb7\">Everyone may benefit from strengthening their pelvic floor muscles with pelvic floor exercises.</p><p data-block-key=\"gygla\">Find out more about <a href=\"/common-health-questions/lifestyle/what-are-pelvic-floor-exercises/\">pelvic floor exercises</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"rhr74\">Social care and support guide</h3><p data-block-key=\"a3n3q\">If you:</p><ul><li data-block-key=\"13rgz\">need help with day to day living because of illness or disability</li><li data-block-key=\"5n2pu\">care for someone regularly because they're ill, elderly or disabled (including family members)</li></ul><p data-block-key=\"7d77w\">Our <a href=\"/social-care-and-support/\">guide to social care and support</a> explains your options and where you can get support.</p>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 15 June 2023<br/>\n    Next review due: 15 June 2026\n  </p>\n</div>\n<nav aria-label=\"Pagination\" class=\"nhsuk-pagination\" role=\"navigation\">\n<ul class=\"nhsuk-list nhsuk-pagination__list\">\n<li class=\"nhsuk-pagination-item--next\">\n<a class=\"nhsuk-pagination__link nhsuk-pagination__link--next\" href=\"/conditions/urinary-incontinence/symptoms/\">\n<span class=\"nhsuk-pagination__title\">Next</span>\n<span class=\"nhsuk-u-visually-hidden\">:</span>\n<span class=\"nhsuk-pagination__page\">Symptoms</span>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"m14.7 6.3 5 5c.2.2.3.4.3.7 0 .3-.1.5-.3.7l-5 5a1 1 0 0 1-1.4-1.4l3.3-3.3H5a1 1 0 0 1 0-2h11.6l-3.3-3.3a1 1 0 1 1 1.4-1.4Z\"></path>\n</svg>\n</a>\n</li>\n</ul>\n</nav>\n</div>\n</div>\n</article>"
+}

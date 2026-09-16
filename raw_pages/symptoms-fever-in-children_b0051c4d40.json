@@ -1,0 +1,643 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/fever-in-children/",
+  "final_url": "https://www.nhs.uk/symptoms/fever-in-children/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:41.708187+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Fever in children, see High temperature (fever) in children",
+      "url": "https://www.nhs.uk/symptoms/fever-in-children/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "H",
+      "label": "High temperature (fever) in children",
+      "url": "https://www.nhs.uk/symptoms/fever-in-children/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "High temperature (fever) in children",
+  "meta_description": "Find out how to check if your child has a high temperature (fever), what you can do to bring their temperature down, and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "03 January 2024",
+    "next_review_due": "03 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to check if your child has a high temperature (fever), what you can do to bring their temperature down, and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/fever-in-children/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHigh temperature (fever) in children\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to check if your child has a high temperature (fever), what you can do to bring their temperature down, and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Sep 2026, 12:07 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "24 Oct 2017, 4:25 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Fever in children"
+        ],
+        "name": "High temperature (fever) in children"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/fever-in-children/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "High temperature (fever) in children"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-09-09T11:07:14+00:00",
+      "description": "Find out how to check if your child has a high temperature (fever), what you can do to bring their temperature down, and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "A high temperature is 38C or more. A child with a high temperature might feel hotter than usual when you touch their back or chest.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A normal temperature in babies and children can vary slightly from child to child.</p><p>A high temperature is 38C or more.</p><p>If your child has a high temperature, they might:</p><ul><li>feel hotter than usual when you touch their back or chest</li><li>feel sweaty</li><li>look or feel unwell</li><li>have a seizure or fit, called a <a href=\"/conditions/febrile-seizures/\">febrile seizure</a></li></ul><p>Use a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.</p>"
+            }
+          ],
+          "headline": "Checking a high temperature",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can look after a child with a high temperature by giving them fluids, checking on them regularly and giving paracetamol if they're uncomfortable.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal</p></li><li><p>look out for <a href=\"/conditions/dehydration/\">signs of dehydration</a></p></li><li><p>give them food if they want it</p></li><li><p>check on your child regularly, including during the night</p></li><li><p>keep them at home</p></li><li><p>give them either <a href=\"/medicines/paracetamol-for-children/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-children/\">ibuprofen</a> if they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure</p></li><li><p>get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection</p></li><li><p>do not cover them up in too many clothes or bedclothes</p></li><li><p>do not give aspirin to children under 16 years of age</p></li><li><p>do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to</p></li><li><p>do not give paracetamol to a child under 2 months</p></li><li><p>do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated</p></li><li><p>do not give ibuprofen to children with <a href=\"/conditions/asthma/\">asthma</a> unless it's been recommended by a doctor</p></li></ul>"
+            }
+          ],
+          "headline": "What to do if your child has a high temperature",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 111 if your child:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature\n </li>\n<li>\n  is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature\n </li>\n<li>\n  has other signs of illness, such as a\n  <a href=\"/symptoms/rashes-babies-and-children/\">\n   rash\n  </a>\n  , as well as a high temperature\n </li>\n<li>\n  has a high temperature that's lasted for 5 days or more\n </li>\n<li>\n  does not want to eat, or is not their usual self and you're worried\n </li>\n<li>\n  is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying\n  <br/>\n</li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if your child:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  has a stiff neck\n </li>\n<li>\n  has a rash that does not fade when you press a glass against it\n </li>\n<li>\n  is bothered by light\n </li>\n<li>\n  has a fit (\n  <a href=\"/conditions/febrile-seizures/\">\n   febrile seizure\n  </a>\n  ) for the first time (they cannot stop shaking)\n </li>\n<li>\n  has unusually cold hands and feet\n </li>\n<li>\n  has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue\n </li>\n<li>\n  is drowsy and hard to wake\n </li>\n<li>\n  is extremely agitated (does not stop crying) or is confused\n </li>\n<li>\n  has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast\n </li>\n<li>\n  is not responding like they normally do, or is not interested in feeding or normal activities\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A high temperature is the body's natural response to fighting infections. Illnesses like colds and chickenpox can cause a high temperature.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A high temperature is the body's natural response to fighting infections like coughs and colds.</p><p>Many things can cause a high temperature in children, from common childhood illnesses like <a href=\"/conditions/chickenpox/\">chickenpox</a> and <a href=\"/conditions/tonsillitis/\">tonsillitis</a>, to vaccinations.</p>"
+            }
+          ],
+          "headline": "Causes of a high temperature in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in children",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in children",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "High temperature (fever) in children",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A high temperature is 38C or more. A child with a high temperature might feel hotter than usual when you touch their back or chest.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can look after a child with a high temperature by giving them fluids, checking on them regularly and giving paracetamol if they're uncomfortable.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A high temperature is the body's natural response to fighting infections. Illnesses like colds and chickenpox can cause a high temperature.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-03T17:00:00+00:00",
+        "2027-01-03T17:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "High temperature (fever) in children",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "High temperature (fever) in children",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "5492040577001",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/9cd23607-87a3-40c0-be0f-5121e41482bc/10s/master.m3u8?fastly_token=NjkxMzZhMGFfNzk3YmVkMmYxZmZjNTJjOTNlN2M0NDBlMGZlYmJlNTJhYzE1OWNhMDBkNmFhMDVhY2M2MWM4OTg2NzQxODFlMw%3D%3D",
+      "description": "Watch this video on how to help a child with fever recover as quickly as possible.",
+      "duration": "PT3M59.723S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=5492040577001",
+      "name": "How to care for a child with a fever",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/9cd23607-87a3-40c0-be0f-5121e41482bc/5e783b76-9f22-4488-bc7a-b7e7a18630e0/160x90/match/image.jpg",
+      "uploadDate": "2025-10-07T10:53:08.905000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"lmr8s\"><b>A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Checking a high temperature",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Checking a high temperature"
+        }
+      ],
+      "text": "Checking a high temperature\nA normal temperature in babies and children can vary slightly from child to child.\nA high temperature is 38C or more.\nIf your child has a high temperature, they might:\nfeel hotter than usual when you touch their back or chest\nfeel sweaty\nlook or feel unwell\nhave a seizure or fit, called a\nfebrile seizure\nUse a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "feel hotter than usual when you touch their back or chest",
+            "feel sweaty",
+            "look or feel unwell",
+            "have a seizure or fit, called a\nfebrile seizure"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "febrile seizure",
+          "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Checking a high temperature</h2>\n<p data-block-key=\"xge9z\">A normal temperature in babies and children can vary slightly from child to child.</p><p data-block-key=\"ejqm1\">A high temperature is 38C or more.</p><p data-block-key=\"b6sid\">If your child has a high temperature, they might:</p><ul><li data-block-key=\"fe2pj\">feel hotter than usual when you touch their back or chest</li><li data-block-key=\"2tnp2\">feel sweaty</li><li data-block-key=\"clqde\">look or feel unwell</li><li data-block-key=\"dmkag\">have a seizure or fit, called a <a href=\"/conditions/febrile-seizures/\">febrile seizure</a></li></ul><p data-block-key=\"flt8d\">Use a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "How to take your child's temperature\nPlace the thermometer inside the top of the armpit.\nGently close the arm over the thermometer and keep it pressed to the side of the body.\nLeave the thermometer in place for as long as it says in the instruction leaflet. Some digital thermometers beep when they're ready.\nRemove the thermometer. The display will show your child's temperature.\nIf your child has just had a bath or been wrapped in a blanket, their temperature may be higher for a short time. Wait a few minutes then try again.",
+      "lists": [
+        {
+          "type": "ordered",
+          "items": [
+            "Place the thermometer inside the top of the armpit.",
+            "Gently close the arm over the thermometer and keep it pressed to the side of the body.",
+            "Leave the thermometer in place for as long as it says in the instruction leaflet. Some digital thermometers beep when they're ready.",
+            "Remove the thermometer. The display will show your child's temperature."
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to take your child's temperature\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"sfs17\">Place the thermometer inside the top of the armpit.</li><li data-block-key=\"3ge2v\">Gently close the arm over the thermometer and keep it pressed to the side of the body.</li><li data-block-key=\"686jr\">Leave the thermometer in place for as long as it says in the instruction leaflet. Some digital thermometers beep when they're ready.</li><li data-block-key=\"a8l83\">Remove the thermometer. The display will show your child's temperature.</li></ol><p data-block-key=\"1prm3\">If your child has just had a bath or been wrapped in a blanket, their temperature may be higher for a short time. Wait a few minutes then try again.</p>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What to do if your child has a high temperature",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What to do if your child has a high temperature"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "What to do if your child has a high temperature\nIf your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.\nDo\ngive them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal\nlook out for\nsigns of dehydration\ngive them food if they want it\ncheck on your child regularly, including during the night\nkeep them at home\ngive them either\nparacetamol\nor\nibuprofen\nif they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure\nget medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping\nDon’t\ndo not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection\ndo not cover them up in too many clothes or bedclothes\ndo not give aspirin to children under 16 years of age\ndo not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to\ndo not give paracetamol to a child under 2 months\ndo not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated\ndo not give ibuprofen to children with\nasthma\nunless it's been recommended by a doctor",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal",
+            "look out for\nsigns of dehydration",
+            "give them food if they want it",
+            "check on your child regularly, including during the night",
+            "keep them at home",
+            "give them either\nparacetamol\nor\nibuprofen\nif they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure",
+            "get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection",
+            "do not cover them up in too many clothes or bedclothes",
+            "do not give aspirin to children under 16 years of age",
+            "do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to",
+            "do not give paracetamol to a child under 2 months",
+            "do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated",
+            "do not give ibuprofen to children with\nasthma\nunless it's been recommended by a doctor"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "signs of dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        },
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-children/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-children/"
+        },
+        {
+          "text": "asthma",
+          "url": "https://www.nhs.uk/conditions/asthma/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">What to do if your child has a high temperature</h2>\n<p data-block-key=\"evbvq\">If your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m4m6h\">give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">look out for <a href=\"/conditions/dehydration/\">signs of dehydration</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">give them food if they want it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">check on your child regularly, including during the night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">keep them at home</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">give them either <a href=\"/medicines/paracetamol-for-children/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-children/\">ibuprofen</a> if they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8jtnm\">do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not cover them up in too many clothes or bedclothes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give aspirin to children under 16 years of age</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give paracetamol to a child under 2 months</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give ibuprofen to children with <a href=\"/conditions/asthma/\">asthma</a> unless it's been recommended by a doctor</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Read more about giving medicines to babies and children",
+      "lists": [],
+      "links": [
+        {
+          "text": "Read more about giving medicines to babies and children",
+          "url": "https://www.nhs.uk/baby/health/medicines-for-babies-and-children/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"42qey\"><a href=\"/baby/health/medicines-for-babies-and-children/\">Read more about giving medicines to babies and children</a></p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Urgent advice: Call 111 if your child:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Call 111 if your child:"
+        }
+      ],
+      "text": "Urgent advice:\nCall 111 if your child:\nis under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature\nis 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature\nhas other signs of illness, such as a\nrash\n, as well as a high temperature\nhas a high temperature that's lasted for 5 days or more\ndoes not want to eat, or is not their usual self and you're worried\nis dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature",
+            "is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature",
+            "has other signs of illness, such as a\nrash\n, as well as a high temperature",
+            "has a high temperature that's lasted for 5 days or more",
+            "does not want to eat, or is not their usual self and you're worried",
+            "is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "rash",
+          "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call 111 if your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"py525\">is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature</li><li data-block-key=\"xj3j0\">is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature</li><li data-block-key=\"j9mx0\">has other signs of illness, such as a <a href=\"/symptoms/rashes-babies-and-children/\">rash</a>, as well as a high temperature</li><li data-block-key=\"jmgpg\">has a high temperature that's lasted for 5 days or more</li><li data-block-key=\"cim3n\">does not want to eat, or is not their usual self and you're worried</li><li data-block-key=\"8ibnj\">is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying<br/></li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Immediate action required: Call 999 if your child:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if your child:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if your child:\nhas a stiff neck\nhas a rash that does not fade when you press a glass against it\nis bothered by light\nhas a fit (\nfebrile seizure\n) for the first time (they cannot stop shaking)\nhas unusually cold hands and feet\nhas changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue\nis drowsy and hard to wake\nis extremely agitated (does not stop crying) or is confused\nhas difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast\nis not responding like they normally do, or is not interested in feeding or normal activities",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "has a stiff neck",
+            "has a rash that does not fade when you press a glass against it",
+            "is bothered by light",
+            "has a fit (\nfebrile seizure\n) for the first time (they cannot stop shaking)",
+            "has unusually cold hands and feet",
+            "has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue",
+            "is drowsy and hard to wake",
+            "is extremely agitated (does not stop crying) or is confused",
+            "has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast",
+            "is not responding like they normally do, or is not interested in feeding or normal activities"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "febrile seizure",
+          "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"ddqfv\">has a stiff neck</li><li data-block-key=\"aefz5\">has a rash that does not fade when you press a glass against it</li><li data-block-key=\"eug18\">is bothered by light</li><li data-block-key=\"nvkgx\">has a fit (<a href=\"/conditions/febrile-seizures/\">febrile seizure</a>) for the first time (they cannot stop shaking)</li><li data-block-key=\"9xtm1\">has unusually cold hands and feet</li><li data-block-key=\"gj0of\">has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue</li><li data-block-key=\"zshjz\">is drowsy and hard to wake</li><li data-block-key=\"49d0g\">is extremely agitated (does not stop crying) or is confused</li><li data-block-key=\"izy36\">has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast</li><li data-block-key=\"8jj13\">is not responding like they normally do, or is not interested in feeding or normal activities</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Causes of a high temperature in children",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of a high temperature in children"
+        }
+      ],
+      "text": "Causes of a high temperature in children\nA high temperature is the body's natural response to fighting infections like coughs and colds.\nMany things can cause a high temperature in children, from common childhood illnesses like\nchickenpox\nand\ntonsillitis\n, to vaccinations.",
+      "lists": [],
+      "links": [
+        {
+          "text": "chickenpox",
+          "url": "https://www.nhs.uk/conditions/chickenpox/"
+        },
+        {
+          "text": "tonsillitis",
+          "url": "https://www.nhs.uk/conditions/tonsillitis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of a high temperature in children</h2>\n<p data-block-key=\"42qey\">A high temperature is the body's natural response to fighting infections like coughs and colds.</p><p data-block-key=\"bo882\">Many things can cause a high temperature in children, from common childhood illnesses like <a href=\"/conditions/chickenpox/\">chickenpox</a> and <a href=\"/conditions/tonsillitis/\">tonsillitis</a>, to vaccinations.</p>\n</section>"
+    },
+    {
+      "position": 9,
+      "heading": "Video: Caring for children with fever at home",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Video: Caring for children with fever at home"
+        }
+      ],
+      "text": "Video: Caring for children with fever at home\nWatch this video on how to help a child with fever recover as quickly as possible.\nMedia last reviewed: 20 September 2025\nMedia review due: 20 September 2028",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: Caring for children with fever at home</h2>\n<p>Watch this video on how to help a child with fever recover as quickly as possible.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"5492040577001\" id=\"5492040577001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 20 September 2025<br/>\n    Media review due: 20 September 2028\n  </div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.\nChecking a high temperature\nA normal temperature in babies and children can vary slightly from child to child.\nA high temperature is 38C or more.\nIf your child has a high temperature, they might:\nfeel hotter than usual when you touch their back or chest\nfeel sweaty\nlook or feel unwell\nhave a seizure or fit, called a\nfebrile seizure\nUse a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.\nHow to take your child's temperature\nPlace the thermometer inside the top of the armpit.\nGently close the arm over the thermometer and keep it pressed to the side of the body.\nLeave the thermometer in place for as long as it says in the instruction leaflet. Some digital thermometers beep when they're ready.\nRemove the thermometer. The display will show your child's temperature.\nIf your child has just had a bath or been wrapped in a blanket, their temperature may be higher for a short time. Wait a few minutes then try again.\nWhat to do if your child has a high temperature\nIf your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.\nDo\ngive them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal\nlook out for\nsigns of dehydration\ngive them food if they want it\ncheck on your child regularly, including during the night\nkeep them at home\ngive them either\nparacetamol\nor\nibuprofen\nif they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure\nget medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping\nDon’t\ndo not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection\ndo not cover them up in too many clothes or bedclothes\ndo not give aspirin to children under 16 years of age\ndo not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to\ndo not give paracetamol to a child under 2 months\ndo not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated\ndo not give ibuprofen to children with\nasthma\nunless it's been recommended by a doctor\nRead more about giving medicines to babies and children\nUrgent advice:\nCall 111 if your child:\nis under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature\nis 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature\nhas other signs of illness, such as a\nrash\n, as well as a high temperature\nhas a high temperature that's lasted for 5 days or more\ndoes not want to eat, or is not their usual self and you're worried\nis dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying\nImmediate action required:\nCall 999 if your child:\nhas a stiff neck\nhas a rash that does not fade when you press a glass against it\nis bothered by light\nhas a fit (\nfebrile seizure\n) for the first time (they cannot stop shaking)\nhas unusually cold hands and feet\nhas changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue\nis drowsy and hard to wake\nis extremely agitated (does not stop crying) or is confused\nhas difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast\nis not responding like they normally do, or is not interested in feeding or normal activities\nCauses of a high temperature in children\nA high temperature is the body's natural response to fighting infections like coughs and colds.\nMany things can cause a high temperature in children, from common childhood illnesses like\nchickenpox\nand\ntonsillitis\n, to vaccinations.\nVideo: Caring for children with fever at home\nWatch this video on how to help a child with fever recover as quickly as possible.\nMedia last reviewed: 20 September 2025\nMedia review due: 20 September 2028\nPage last reviewed: 03 January 2024\nNext review due: 03 January 2027",
+  "links": [
+    {
+      "text": "febrile seizure",
+      "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+    },
+    {
+      "text": "signs of dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-children/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-children/"
+    },
+    {
+      "text": "asthma",
+      "url": "https://www.nhs.uk/conditions/asthma/"
+    },
+    {
+      "text": "Read more about giving medicines to babies and children",
+      "url": "https://www.nhs.uk/baby/health/medicines-for-babies-and-children/"
+    },
+    {
+      "text": "rash",
+      "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+    },
+    {
+      "text": "febrile seizure",
+      "url": "https://www.nhs.uk/conditions/febrile-seizures/"
+    },
+    {
+      "text": "chickenpox",
+      "url": "https://www.nhs.uk/conditions/chickenpox/"
+    },
+    {
+      "text": "tonsillitis",
+      "url": "https://www.nhs.uk/conditions/tonsillitis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"lmr8s\"><b>A high temperature (fever) is very common in young children. The temperature usually returns to normal within 1 to 4 days.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Checking a high temperature</h2>\n<p data-block-key=\"xge9z\">A normal temperature in babies and children can vary slightly from child to child.</p><p data-block-key=\"ejqm1\">A high temperature is 38C or more.</p><p data-block-key=\"b6sid\">If your child has a high temperature, they might:</p><ul><li data-block-key=\"fe2pj\">feel hotter than usual when you touch their back or chest</li><li data-block-key=\"2tnp2\">feel sweaty</li><li data-block-key=\"clqde\">look or feel unwell</li><li data-block-key=\"dmkag\">have a seizure or fit, called a <a href=\"/conditions/febrile-seizures/\">febrile seizure</a></li></ul><p data-block-key=\"flt8d\">Use a digital thermometer, which you can buy from pharmacies and supermarkets, to take your child's temperature.</p>\n</section>\n<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to take your child's temperature\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"sfs17\">Place the thermometer inside the top of the armpit.</li><li data-block-key=\"3ge2v\">Gently close the arm over the thermometer and keep it pressed to the side of the body.</li><li data-block-key=\"686jr\">Leave the thermometer in place for as long as it says in the instruction leaflet. Some digital thermometers beep when they're ready.</li><li data-block-key=\"a8l83\">Remove the thermometer. The display will show your child's temperature.</li></ol><p data-block-key=\"1prm3\">If your child has just had a bath or been wrapped in a blanket, their temperature may be higher for a short time. Wait a few minutes then try again.</p>\n</div>\n</details>\n</section>\n<section>\n<h2 id=\"self-care\">What to do if your child has a high temperature</h2>\n<p data-block-key=\"evbvq\">If your child or baby has a high temperature, you can usually look after them at home. The temperature should go down over 1 to 4 days.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m4m6h\">give them plenty of fluids – if your baby is breastfed, continue to breastfeed as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">look out for <a href=\"/conditions/dehydration/\">signs of dehydration</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">give them food if they want it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">check on your child regularly, including during the night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">keep them at home</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">give them either <a href=\"/medicines/paracetamol-for-children/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-children/\">ibuprofen</a> if they're distressed or uncomfortable – check the packaging or leaflet to make sure the medicine is suitable for your child, or speak to a pharmacist or GP if you're not sure</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mjibc\">get medical advice if you're worried about your child, or if the paracetamol or ibuprofen is not helping</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8jtnm\">do not undress your child or sponge them down to cool them – a high temperature is a natural and healthy response to infection</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not cover them up in too many clothes or bedclothes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give aspirin to children under 16 years of age</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not alternate ibuprofen and paracetamol, unless a health professional such as a doctor or nurse tells you to</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give paracetamol to a child under 2 months</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give ibuprofen to a child who is under 3 months, weighs under 5kg, has chickenpox, or is dehydrated</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"6srwq\">do not give ibuprofen to children with <a href=\"/conditions/asthma/\">asthma</a> unless it's been recommended by a doctor</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<p data-block-key=\"42qey\"><a href=\"/baby/health/medicines-for-babies-and-children/\">Read more about giving medicines to babies and children</a></p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Call 111 if your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"py525\">is under 3 months old and has a temperature of 38C or higher, or you think they have a high temperature</li><li data-block-key=\"xj3j0\">is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a high temperature</li><li data-block-key=\"j9mx0\">has other signs of illness, such as a <a href=\"/symptoms/rashes-babies-and-children/\">rash</a>, as well as a high temperature</li><li data-block-key=\"jmgpg\">has a high temperature that's lasted for 5 days or more</li><li data-block-key=\"cim3n\">does not want to eat, or is not their usual self and you're worried</li><li data-block-key=\"8ibnj\">is dehydrated – such as nappies that are not very wet, sunken eyes, and no tears when they're crying<br/></li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if your child:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"ddqfv\">has a stiff neck</li><li data-block-key=\"aefz5\">has a rash that does not fade when you press a glass against it</li><li data-block-key=\"eug18\">is bothered by light</li><li data-block-key=\"nvkgx\">has a fit (<a href=\"/conditions/febrile-seizures/\">febrile seizure</a>) for the first time (they cannot stop shaking)</li><li data-block-key=\"9xtm1\">has unusually cold hands and feet</li><li data-block-key=\"gj0of\">has changes to their skin colour such as blue, grey, paler than usual or blotchy skin (this may be harder to see on brown or black skin), or blue, grey or paler than usual lips or tongue</li><li data-block-key=\"zshjz\">is drowsy and hard to wake</li><li data-block-key=\"49d0g\">is extremely agitated (does not stop crying) or is confused</li><li data-block-key=\"izy36\">has difficulty breathing (you may notice grunting noises or their stomach sucking under their ribcage), breathlessness or breathing very fast</li><li data-block-key=\"8jj13\">is not responding like they normally do, or is not interested in feeding or normal activities</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of a high temperature in children</h2>\n<p data-block-key=\"42qey\">A high temperature is the body's natural response to fighting infections like coughs and colds.</p><p data-block-key=\"bo882\">Many things can cause a high temperature in children, from common childhood illnesses like <a href=\"/conditions/chickenpox/\">chickenpox</a> and <a href=\"/conditions/tonsillitis/\">tonsillitis</a>, to vaccinations.</p>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>Video: Caring for children with fever at home</h2>\n<p>Watch this video on how to help a child with fever recover as quickly as possible.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"5492040577001\" id=\"5492040577001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 20 September 2025<br/>\n    Media review due: 20 September 2028\n  </div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 03 January 2024<br/>\n    Next review due: 03 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

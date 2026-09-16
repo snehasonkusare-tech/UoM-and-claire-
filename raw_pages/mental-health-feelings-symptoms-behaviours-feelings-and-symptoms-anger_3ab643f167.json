@@ -1,0 +1,802 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:36.614760+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Anger",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Anger",
+  "meta_description": "NHS information about anger, including symptoms and things you can do to help yourself.",
+  "review_dates": {
+    "page_last_reviewed": "4 August 2026",
+    "next_review_due": "4 August 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about anger, including symptoms and things you can do to help yourself."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Get help with anger"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about anger, including symptoms and things you can do to help yourself."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "10 Aug 2026, 3:59 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Feb 2021, 11:32 a.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "WebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Anger"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Anger"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-10T14:59:08+00:00",
+      "description": "NHS information about anger, including symptoms and things you can do to help yourself.",
+      "genre": [
+        "Advice or information"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you find managing your anger difficult or feel like it's affecting your life, there are things you can do to help. Support is also available.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Anger",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anger",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anger",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anger",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of anger include a faster heartbeat, feeling tense and unable to relax, and being aggressive.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible</p></li><li><p>give yourself time to think before reacting – try counting to 10 and doing <a href=\"/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/\">calming breathing exercises</a></p></li><li><p>talk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP</p></li><li><p>exercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress</p></li><li><p>consider peer support, where people use their experiences to help others</p></li><li><p>try <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">self-help cognitive behavioural therapy (CBT) techniques</a> to manage unhelpful thoughts, stressful situations and solve problems</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets you can easily achieve</p></li><li><p>do not focus on things you cannot change – focus your time and energy on helping yourself feel better</p></li><li><p>try not to think you're alone in how you feel – most people feel angry sometimes, and support is available</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You may need medical help for anger if you're struggling to cope and things you're doing to help yourself are not working.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Anger can be caused by many things, including feeling like you've been unfairly treated, or like you've been threatened or attacked in some way.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of anger include a faster heartbeat, feeling tense and unable to relax, and being aggressive.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Anger can cause many different symptoms. It might affect how you feel physically or mentally, or how you behave.</p><p>Some people become aggressive towards others when they're angry. Other people hide their anger and may take it out on themselves.</p><p>It's not always easy to recognise when anger is the reason why you're behaving differently.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<listvalue: 'body':=\"\" 'physical=\"\" 0x749030a7c260=\"\" <streamvalue=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" [structvalue({'title':=\"\" at=\"\" object=\"\" richtext:=\"\" symptoms',=\"\">&gt;]&gt;}), StructValue({'title': 'Mental symptoms', 'body': <streamvalue 0x749030a7c860=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" at=\"\" object=\"\" richtext:=\"\">&gt;]&gt;}), StructValue({'title': 'Changes in behaviour', 'body': <streamvalue 0x74903a7fbf80=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" at=\"\" object=\"\" richtext:=\"\">&gt;]&gt;})]&gt;</streamvalue></streamvalue></listvalue:>"
+            }
+          ],
+          "headline": "Symptoms of anger",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are things you can do yourself if anger is affecting you, such as doing calming exercises and talking to someone about what makes you angry.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible</p></li><li><p>give yourself time to think before reacting – try counting to 10 and doing <a href=\"/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/\">calming breathing exercises</a></p></li><li><p>talk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP</p></li><li><p>exercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress</p></li><li><p>consider peer support, where people use their experiences to help others</p></li><li><p>try <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">self-help cognitive behavioural therapy (CBT) techniques</a> to manage unhelpful thoughts, stressful situations and solve problems</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets you can easily achieve</p></li><li><p>do not focus on things you cannot change – focus your time and energy on helping yourself feel better</p></li><li><p>try not to think you're alone in how you feel – most people feel angry sometimes, and support is available</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to help with anger",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may need medical help for anger if you're struggling to cope and things you're doing to help yourself are not working.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you're struggling to cope with anger and the things you're doing to help yourself are not working, you may need medical help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're struggling to cope with anger\n </li>\n<li>\n  things you're doing to help yourself are not working\n </li>\n<li>\n  you're acting in an abusive or violent way\n </li>\n<li>\n  you're struggling to cope with stress, anxiety or depression\n </li>\n<li>\n  you've had a low mood for more than 2 weeks\n </li>\n</ul>\n<p>\n Your GP may be able to refer you to a local anger-management programme or counselling.\n</p>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Anger can be caused by many things, including feeling like you've been unfairly treated, or like you've been threatened or attacked in some way.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are many different causes of anger and it's different for everyone.</p><p>Some common things that make people feel angry include:</p><ul><li>being treated unfairly and feeling powerless to do anything about it</li><li>feeling threatened or attacked</li><li>other people not respecting you, your feelings or your property</li><li>being interrupted when you're trying to achieve a goal</li></ul><p>How you react to anger can depend on lots of things, including:</p><ul><li>the situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger</li><li>your family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child</li><li>events in your past – people who experience traumatic, frightening or stressful events sometimes develop <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post-traumatic stress disorder (PTSD)</a>, which can lead to angry outbursts</li><li>substances such as drugs and alcohol – which make some people act more aggressively than usual</li></ul><p>Some of the things that make you angry may not bother other people at all.</p><p>You might find it hard to explain why you feel this way but talking to someone could help you find a solution.</p>"
+            }
+          ],
+          "headline": "Causes of anger",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/#causes"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-08-04T16:02:00+00:00",
+        "2029-08-04T16:03:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Anger",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Stress",
+          "position": 1,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Low mood, sadness and depression",
+          "position": 2,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feeling lonely",
+          "position": 3,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Grief after bereavement or loss",
+          "position": 4,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Anger",
+          "position": 5,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Important: Get urgent help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Important: Get urgent help"
+        }
+      ],
+      "text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out where to get urgent help for mental health",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h2>\n<p data-block-key=\"f9klt\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"8pe5m\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of anger",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of anger"
+        }
+      ],
+      "text": "Symptoms of anger\nAnger can cause many different symptoms. It might affect how you feel physically or mentally, or how you behave.\nSome people become aggressive towards others when they're angry. Other people hide their anger and may take it out on themselves.\nIt's not always easy to recognise when anger is the reason why you're behaving differently.\nPhysical symptoms\nPhysical symptoms of anger include:\nfaster heartbeat\ntense muscles\nclenching your fists\ntightness in your chest\nfeeling hot\nMental symptoms\nMental symptoms of anger include:\nfeeling tense or nervous\nbeing unable to relax\nbeing easily irritated\nfeeling humiliated\nresenting other people\nChanges in behaviour\nChanges in behaviour that can happen with anger include:\nshouting\nignoring people or sulking\nstarting fights\nbreaking things\nself-harming",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "faster heartbeat",
+            "tense muscles",
+            "clenching your fists",
+            "tightness in your chest",
+            "feeling hot"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "feeling tense or nervous",
+            "being unable to relax",
+            "being easily irritated",
+            "feeling humiliated",
+            "resenting other people"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "shouting",
+            "ignoring people or sulking",
+            "starting fights",
+            "breaking things",
+            "self-harming"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of anger</h2>\n<p data-block-key=\"ljogb\">Anger can cause many different symptoms. It might affect how you feel physically or mentally, or how you behave.</p><p data-block-key=\"rfc5a\">Some people become aggressive towards others when they're angry. Other people hide their anger and may take it out on themselves.</p><p data-block-key=\"su450\">It's not always easy to recognise when anger is the reason why you're behaving differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Physical symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xzif3\">Physical symptoms of anger include:</p><ul><li data-block-key=\"89uiv\">faster heartbeat</li><li data-block-key=\"q7rl7\">tense muscles</li><li data-block-key=\"vb9i5\">clenching your fists</li><li data-block-key=\"f3vif\">tightness in your chest</li><li data-block-key=\"nznwn\">feeling hot</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Mental symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"etbfg\">Mental symptoms of anger include:</p><ul><li data-block-key=\"80oth\">feeling tense or nervous</li><li data-block-key=\"b5og2\">being unable to relax</li><li data-block-key=\"9bm4k\">being easily irritated</li><li data-block-key=\"r7lrp\">feeling humiliated</li><li data-block-key=\"6zt9f\">resenting other people</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Changes in behaviour\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"ekr6d\">Changes in behaviour that can happen with anger include:</p><ul><li data-block-key=\"6gafa\">shouting</li><li data-block-key=\"mv0on\">ignoring people or sulking</li><li data-block-key=\"6g136\">starting fights</li><li data-block-key=\"j026d\">breaking things</li><li data-block-key=\"rr7bq\">self-harming</li></ul>\n</div>\n</details>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Things you can try to help with anger",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help with anger"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can try to help with anger\nDo\ntry mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible\ngive yourself time to think before reacting – try counting to 10 and doing\ncalming breathing exercises\ntalk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP\nexercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress\nconsider peer support, where people use their experiences to help others\ntry\nself-help cognitive behavioural therapy (CBT) techniques\nto manage unhelpful thoughts, stressful situations and solve problems\nDon’t\ndo not try to do everything at once – set small targets you can easily achieve\ndo not focus on things you cannot change – focus your time and energy on helping yourself feel better\ntry not to think you're alone in how you feel – most people feel angry sometimes, and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible",
+            "give yourself time to think before reacting – try counting to 10 and doing\ncalming breathing exercises",
+            "talk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP",
+            "exercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress",
+            "consider peer support, where people use their experiences to help others",
+            "try\nself-help cognitive behavioural therapy (CBT) techniques\nto manage unhelpful thoughts, stressful situations and solve problems"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not try to do everything at once – set small targets you can easily achieve",
+            "do not focus on things you cannot change – focus your time and energy on helping yourself feel better",
+            "try not to think you're alone in how you feel – most people feel angry sometimes, and support is available",
+            "try not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "calming breathing exercises",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/"
+        },
+        {
+          "text": "self-help cognitive behavioural therapy (CBT) techniques",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help with anger</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"sda65\">try mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"57g8s\">give yourself time to think before reacting – try counting to 10 and doing <a href=\"/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/\">calming breathing exercises</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"w8ill\">talk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"2204q\">exercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"u7xfb\">consider peer support, where people use their experiences to help others</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b1zov\">try <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">self-help cognitive behavioural therapy (CBT) techniques</a> to manage unhelpful thoughts, stressful situations and solve problems</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0kqhu\">do not try to do everything at once – set small targets you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fkjb5\">do not focus on things you cannot change – focus your time and energy on helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3znhr\">try not to think you're alone in how you feel – most people feel angry sometimes, and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5om1n\">try not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Further information and support",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Further information and support"
+        }
+      ],
+      "text": "Further information and support\nMental health tips and support – self-help advice, including mindfulness and raising low self-esteem\nMental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises\nContact Samaritans\nby calling 116 123 if you need someone to talk to\nHow can I manage my anger long term? (Mind)\nHow to find a peer support group (Mind)\nMental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Mental health tips and support – self-help advice, including mindfulness and raising low self-esteem",
+            "Mental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises",
+            "Contact Samaritans\nby calling 116 123 if you need someone to talk to",
+            "How can I manage my anger long term? (Mind)",
+            "How to find a peer support group (Mind)",
+            "Mental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Mental health tips and support – self-help advice, including mindfulness and raising low self-esteem",
+          "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/"
+        },
+        {
+          "text": "Mental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/"
+        },
+        {
+          "text": "Contact Samaritans",
+          "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+        },
+        {
+          "text": "How can I manage my anger long term? (Mind)",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/long-term-coping/"
+        },
+        {
+          "text": "How to find a peer support group (Mind)",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+        },
+        {
+          "text": "Mental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)",
+          "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"3m7b1\">Further information and support</h3><ul><li data-block-key=\"dl4o2\"><a href=\"/mental-health/self-help/tips-and-support/\">Mental health tips and support – self-help advice, including mindfulness and raising low self-esteem</a></li><li data-block-key=\"b8frj\"><a href=\"/mental-health/self-help/guides-tools-and-activities/\">Mental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises</a></li><li data-block-key=\"3gmvk\"><a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Contact Samaritans</a> by calling 116 123 if you need someone to talk to</li><li data-block-key=\"2nlu2\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/long-term-coping/\">How can I manage my anger long term? (Mind)</a></li><li data-block-key=\"fmmb6\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a peer support group (Mind)</a></li><li data-block-key=\"d1ba8\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/\">Mental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)</a></li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "When and where to get medical help\nIf you're struggling to cope with anger and the things you're doing to help yourself are not working, you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with anger\nthings you're doing to help yourself are not working\nyou're acting in an abusive or violent way\nyou're struggling to cope with stress, anxiety or depression\nyou've had a low mood for more than 2 weeks\nYour GP may be able to refer you to a local anger-management programme or counselling.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're struggling to cope with anger",
+            "things you're doing to help yourself are not working",
+            "you're acting in an abusive or violent way",
+            "you're struggling to cope with stress, anxiety or depression",
+            "you've had a low mood for more than 2 weeks"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"6r9j2\">If you're struggling to cope with anger and the things you're doing to help yourself are not working, you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"wl1aj\">you're struggling to cope with anger</li><li data-block-key=\"9hll7\">things you're doing to help yourself are not working</li><li data-block-key=\"4es58\">you're acting in an abusive or violent way</li><li data-block-key=\"e2lmv\">you're struggling to cope with stress, anxiety or depression</li><li data-block-key=\"2gp6a\">you've had a low mood for more than 2 weeks</li></ul><p data-block-key=\"e1mta\">Your GP may be able to refer you to a local anger-management programme or counselling.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Other ways to get help",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Other ways to get help"
+        },
+        {
+          "level": "h4",
+          "text": "Anger management programmes"
+        },
+        {
+          "level": "h4",
+          "text": "Referring yourself for therapy"
+        }
+      ],
+      "text": "Other ways to get help\nIf you have problems managing your anger, there are other ways to get help.\nAnger management programmes\nA typical anger management programme may involve 1-to-1\ncounselling\nand working in a group.\nA programme may be a 1-day or weekend course, or over a couple of months.\nThe structure of the programme depends on who provides it, but most programmes include\ncognitive behavioural therapy (CBT)\n, as well as counselling.\nThere are also private courses and therapists who can help with anger issues. Make sure any therapist you see is registered with a professional organisation, such as the\nBritish Association for Counselling & Psychotherapy\n.\nReferring yourself for therapy\nIf you need more support, you can get free talking therapies, such as cognitive behavioural therapy (CBT), on the NHS.\nYou can refer yourself directly to a talking therapies service without a referral from a GP.\nFind an NHS talking therapies service\nIf you're aged 17 or under, or want to get help for someone under 18, find out how to get\nmental health support for children and young people\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "counselling",
+          "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+        },
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        },
+        {
+          "text": "British Association for Counselling & Psychotherapy",
+          "url": "http://www.bacp.co.uk/"
+        },
+        {
+          "text": "Find an NHS talking therapies service",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "mental health support for children and young people",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"6r9j2\">Other ways to get help</h3><p data-block-key=\"55nvr\">If you have problems managing your anger, there are other ways to get help.</p><h4 data-block-key=\"2j66r\">Anger management programmes</h4><p data-block-key=\"c0v17\">A typical anger management programme may involve 1-to-1 <a href=\"/tests-and-treatments/counselling/\">counselling</a> and working in a group.</p><p data-block-key=\"8406t\">A programme may be a 1-day or weekend course, or over a couple of months.</p><p data-block-key=\"e65me\">The structure of the programme depends on who provides it, but most programmes include <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a>, as well as counselling.</p><p data-block-key=\"ce43u\">There are also private courses and therapists who can help with anger issues. Make sure any therapist you see is registered with a professional organisation, such as the <a href=\"http://www.bacp.co.uk/\">British Association for Counselling &amp; Psychotherapy</a>.</p><h4 data-block-key=\"ea5pn\">Referring yourself for therapy</h4><p data-block-key=\"2jugi\">If you need more support, you can get free talking therapies, such as cognitive behavioural therapy (CBT), on the NHS.</p><p data-block-key=\"1ff1c\">You can refer yourself directly to a talking therapies service without a referral from a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS talking therapies service</span>\n</a>\n<p data-block-key=\"6r9j2\">If you're aged 17 or under, or want to get help for someone under 18, find out how to get <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">mental health support for children and young people</a>.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Causes of anger",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of anger"
+        }
+      ],
+      "text": "Causes of anger\nThere are many different causes of anger and it's different for everyone.\nSome common things that make people feel angry include:\nbeing treated unfairly and feeling powerless to do anything about it\nfeeling threatened or attacked\nother people not respecting you, your feelings or your property\nbeing interrupted when you're trying to achieve a goal\nHow you react to anger can depend on lots of things, including:\nthe situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger\nyour family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child\nevents in your past – people who experience traumatic, frightening or stressful events sometimes develop\npost-traumatic stress disorder (PTSD)\n, which can lead to angry outbursts\nsubstances such as drugs and alcohol – which make some people act more aggressively than usual\nSome of the things that make you angry may not bother other people at all.\nYou might find it hard to explain why you feel this way but talking to someone could help you find a solution.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "being treated unfairly and feeling powerless to do anything about it",
+            "feeling threatened or attacked",
+            "other people not respecting you, your feelings or your property",
+            "being interrupted when you're trying to achieve a goal"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger",
+            "your family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child",
+            "events in your past – people who experience traumatic, frightening or stressful events sometimes develop\npost-traumatic stress disorder (PTSD)\n, which can lead to angry outbursts",
+            "substances such as drugs and alcohol – which make some people act more aggressively than usual"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "post-traumatic stress disorder (PTSD)",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of anger</h2>\n<p data-block-key=\"cbp83\">There are many different causes of anger and it's different for everyone.</p><p data-block-key=\"wbqaz\">Some common things that make people feel angry include:</p><ul><li data-block-key=\"kkc5r\">being treated unfairly and feeling powerless to do anything about it</li><li data-block-key=\"8t7li\">feeling threatened or attacked</li><li data-block-key=\"4pz9x\">other people not respecting you, your feelings or your property</li><li data-block-key=\"rdxcl\">being interrupted when you're trying to achieve a goal</li></ul><p data-block-key=\"ogmek\">How you react to anger can depend on lots of things, including:</p><ul><li data-block-key=\"eidd3\">the situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger</li><li data-block-key=\"oo1ce\">your family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child</li><li data-block-key=\"h8zik\">events in your past – people who experience traumatic, frightening or stressful events sometimes develop <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post-traumatic stress disorder (PTSD)</a>, which can lead to angry outbursts</li><li data-block-key=\"5jka1\">substances such as drugs and alcohol – which make some people act more aggressively than usual</li></ul><p data-block-key=\"lxvu1\">Some of the things that make you angry may not bother other people at all.</p><p data-block-key=\"0pctn\">You might find it hard to explain why you feel this way but talking to someone could help you find a solution.</p>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Important",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Important"
+        }
+      ],
+      "text": "Find out about the 5 steps to mental wellbeing\nImportant\nIf uncontrolled anger leads to domestic violence and abuse (violence or threatening behaviour within a relationship), there are places that offer help and support.\nYou can contact organisations such as:\nRefuge\nWomen's Aid\nRespect – Men's Advice Line\nFind out more about\ngetting help for domestic violence and abuse\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Refuge",
+            "Women's Aid",
+            "Respect – Men's Advice Line"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find out about the 5 steps to mental wellbeing",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+        },
+        {
+          "text": "Refuge",
+          "url": "https://www.refuge.org.uk/"
+        },
+        {
+          "text": "Women's Aid",
+          "url": "http://www.womensaid.org.uk/"
+        },
+        {
+          "text": "Respect – Men's Advice Line",
+          "url": "http://www.mensadviceline.org.uk/"
+        },
+        {
+          "text": "getting help for domestic violence and abuse",
+          "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"6r9j2\"><a href=\"/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/\">Find out about the 5 steps to mental wellbeing</a></p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h2>\n<p data-block-key=\"f9klt\">If uncontrolled anger leads to domestic violence and abuse (violence or threatening behaviour within a relationship), there are places that offer help and support.</p><p data-block-key=\"d67i3\">You can contact organisations such as:</p><ul><li data-block-key=\"6aeo7\"><a href=\"https://www.refuge.org.uk/\">Refuge</a></li><li data-block-key=\"6ddf2\"><a href=\"http://www.womensaid.org.uk/\">Women's Aid</a></li><li data-block-key=\"cn7jb\"><a href=\"http://www.mensadviceline.org.uk/\">Respect – Men's Advice Line</a></li></ul><p data-block-key=\"tnqt\">Find out more about <a href=\"/live-well/getting-help-for-domestic-violence/\">getting help for domestic violence and abuse</a>.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health\nSymptoms of anger\nAnger can cause many different symptoms. It might affect how you feel physically or mentally, or how you behave.\nSome people become aggressive towards others when they're angry. Other people hide their anger and may take it out on themselves.\nIt's not always easy to recognise when anger is the reason why you're behaving differently.\nPhysical symptoms\nPhysical symptoms of anger include:\nfaster heartbeat\ntense muscles\nclenching your fists\ntightness in your chest\nfeeling hot\nMental symptoms\nMental symptoms of anger include:\nfeeling tense or nervous\nbeing unable to relax\nbeing easily irritated\nfeeling humiliated\nresenting other people\nChanges in behaviour\nChanges in behaviour that can happen with anger include:\nshouting\nignoring people or sulking\nstarting fights\nbreaking things\nself-harming\nThings you can try to help with anger\nDo\ntry mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible\ngive yourself time to think before reacting – try counting to 10 and doing\ncalming breathing exercises\ntalk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP\nexercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress\nconsider peer support, where people use their experiences to help others\ntry\nself-help cognitive behavioural therapy (CBT) techniques\nto manage unhelpful thoughts, stressful situations and solve problems\nDon’t\ndo not try to do everything at once – set small targets you can easily achieve\ndo not focus on things you cannot change – focus your time and energy on helping yourself feel better\ntry not to think you're alone in how you feel – most people feel angry sometimes, and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health\nFurther information and support\nMental health tips and support – self-help advice, including mindfulness and raising low self-esteem\nMental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises\nContact Samaritans\nby calling 116 123 if you need someone to talk to\nHow can I manage my anger long term? (Mind)\nHow to find a peer support group (Mind)\nMental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)\nWhen and where to get medical help\nIf you're struggling to cope with anger and the things you're doing to help yourself are not working, you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with anger\nthings you're doing to help yourself are not working\nyou're acting in an abusive or violent way\nyou're struggling to cope with stress, anxiety or depression\nyou've had a low mood for more than 2 weeks\nYour GP may be able to refer you to a local anger-management programme or counselling.\nOther ways to get help\nIf you have problems managing your anger, there are other ways to get help.\nAnger management programmes\nA typical anger management programme may involve 1-to-1\ncounselling\nand working in a group.\nA programme may be a 1-day or weekend course, or over a couple of months.\nThe structure of the programme depends on who provides it, but most programmes include\ncognitive behavioural therapy (CBT)\n, as well as counselling.\nThere are also private courses and therapists who can help with anger issues. Make sure any therapist you see is registered with a professional organisation, such as the\nBritish Association for Counselling & Psychotherapy\n.\nReferring yourself for therapy\nIf you need more support, you can get free talking therapies, such as cognitive behavioural therapy (CBT), on the NHS.\nYou can refer yourself directly to a talking therapies service without a referral from a GP.\nFind an NHS talking therapies service\nIf you're aged 17 or under, or want to get help for someone under 18, find out how to get\nmental health support for children and young people\n.\nCauses of anger\nThere are many different causes of anger and it's different for everyone.\nSome common things that make people feel angry include:\nbeing treated unfairly and feeling powerless to do anything about it\nfeeling threatened or attacked\nother people not respecting you, your feelings or your property\nbeing interrupted when you're trying to achieve a goal\nHow you react to anger can depend on lots of things, including:\nthe situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger\nyour family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child\nevents in your past – people who experience traumatic, frightening or stressful events sometimes develop\npost-traumatic stress disorder (PTSD)\n, which can lead to angry outbursts\nsubstances such as drugs and alcohol – which make some people act more aggressively than usual\nSome of the things that make you angry may not bother other people at all.\nYou might find it hard to explain why you feel this way but talking to someone could help you find a solution.\nFind out about the 5 steps to mental wellbeing\nImportant\nIf uncontrolled anger leads to domestic violence and abuse (violence or threatening behaviour within a relationship), there are places that offer help and support.\nYou can contact organisations such as:\nRefuge\nWomen's Aid\nRespect – Men's Advice Line\nFind out more about\ngetting help for domestic violence and abuse\n.",
+  "links": [
+    {
+      "text": "Find out where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+    },
+    {
+      "text": "calming breathing exercises",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/"
+    },
+    {
+      "text": "self-help cognitive behavioural therapy (CBT) techniques",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    },
+    {
+      "text": "Mental health tips and support – self-help advice, including mindfulness and raising low self-esteem",
+      "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/"
+    },
+    {
+      "text": "Mental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/"
+    },
+    {
+      "text": "Contact Samaritans",
+      "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    },
+    {
+      "text": "How can I manage my anger long term? (Mind)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/long-term-coping/"
+    },
+    {
+      "text": "How to find a peer support group (Mind)",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+    },
+    {
+      "text": "Mental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/"
+    },
+    {
+      "text": "counselling",
+      "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    },
+    {
+      "text": "British Association for Counselling & Psychotherapy",
+      "url": "http://www.bacp.co.uk/"
+    },
+    {
+      "text": "Find an NHS talking therapies service",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "mental health support for children and young people",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+    },
+    {
+      "text": "post-traumatic stress disorder (PTSD)",
+      "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+    },
+    {
+      "text": "Find out about the 5 steps to mental wellbeing",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+    },
+    {
+      "text": "Refuge",
+      "url": "https://www.refuge.org.uk/"
+    },
+    {
+      "text": "Women's Aid",
+      "url": "http://www.womensaid.org.uk/"
+    },
+    {
+      "text": "Respect – Men's Advice Line",
+      "url": "http://www.mensadviceline.org.uk/"
+    },
+    {
+      "text": "getting help for domestic violence and abuse",
+      "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h2>\n<p data-block-key=\"f9klt\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"8pe5m\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of anger</h2>\n<p data-block-key=\"ljogb\">Anger can cause many different symptoms. It might affect how you feel physically or mentally, or how you behave.</p><p data-block-key=\"rfc5a\">Some people become aggressive towards others when they're angry. Other people hide their anger and may take it out on themselves.</p><p data-block-key=\"su450\">It's not always easy to recognise when anger is the reason why you're behaving differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Physical symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"xzif3\">Physical symptoms of anger include:</p><ul><li data-block-key=\"89uiv\">faster heartbeat</li><li data-block-key=\"q7rl7\">tense muscles</li><li data-block-key=\"vb9i5\">clenching your fists</li><li data-block-key=\"f3vif\">tightness in your chest</li><li data-block-key=\"nznwn\">feeling hot</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Mental symptoms\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"etbfg\">Mental symptoms of anger include:</p><ul><li data-block-key=\"80oth\">feeling tense or nervous</li><li data-block-key=\"b5og2\">being unable to relax</li><li data-block-key=\"9bm4k\">being easily irritated</li><li data-block-key=\"r7lrp\">feeling humiliated</li><li data-block-key=\"6zt9f\">resenting other people</li></ul>\n</div>\n</details>\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Changes in behaviour\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"ekr6d\">Changes in behaviour that can happen with anger include:</p><ul><li data-block-key=\"6gafa\">shouting</li><li data-block-key=\"mv0on\">ignoring people or sulking</li><li data-block-key=\"6g136\">starting fights</li><li data-block-key=\"j026d\">breaking things</li><li data-block-key=\"rr7bq\">self-harming</li></ul>\n</div>\n</details>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help with anger</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"sda65\">try mindfulness techniques to help you recognise when you start to feel angry so you can take steps to calm down as early as possible</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"57g8s\">give yourself time to think before reacting – try counting to 10 and doing <a href=\"/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/\">calming breathing exercises</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"w8ill\">talk to people about what's making you angry – speak to someone who is not connected to the situation, such as a friend or a GP</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"2204q\">exercise – activities such as running, walking, swimming and yoga can help you relax and reduce stress</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"u7xfb\">consider peer support, where people use their experiences to help others</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b1zov\">try <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">self-help cognitive behavioural therapy (CBT) techniques</a> to manage unhelpful thoughts, stressful situations and solve problems</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0kqhu\">do not try to do everything at once – set small targets you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fkjb5\">do not focus on things you cannot change – focus your time and energy on helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3znhr\">try not to think you're alone in how you feel – most people feel angry sometimes, and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5om1n\">try not to use alcohol, cigarettes, gambling or drugs to relieve anger – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"3m7b1\">Further information and support</h3><ul><li data-block-key=\"dl4o2\"><a href=\"/mental-health/self-help/tips-and-support/\">Mental health tips and support – self-help advice, including mindfulness and raising low self-esteem</a></li><li data-block-key=\"b8frj\"><a href=\"/mental-health/self-help/guides-tools-and-activities/\">Mental health guides, tools and activities – self-help guides including wellbeing audio guides and breathing exercises</a></li><li data-block-key=\"3gmvk\"><a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Contact Samaritans</a> by calling 116 123 if you need someone to talk to</li><li data-block-key=\"2nlu2\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/long-term-coping/\">How can I manage my anger long term? (Mind)</a></li><li data-block-key=\"fmmb6\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a peer support group (Mind)</a></li><li data-block-key=\"d1ba8\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/\">Mental wellbeing tips, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free, personalised advice to your email inbox (Every Mind Matters)</a></li></ul>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"6r9j2\">If you're struggling to cope with anger and the things you're doing to help yourself are not working, you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"wl1aj\">you're struggling to cope with anger</li><li data-block-key=\"9hll7\">things you're doing to help yourself are not working</li><li data-block-key=\"4es58\">you're acting in an abusive or violent way</li><li data-block-key=\"e2lmv\">you're struggling to cope with stress, anxiety or depression</li><li data-block-key=\"2gp6a\">you've had a low mood for more than 2 weeks</li></ul><p data-block-key=\"e1mta\">Your GP may be able to refer you to a local anger-management programme or counselling.</p>\n</div>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"6r9j2\">Other ways to get help</h3><p data-block-key=\"55nvr\">If you have problems managing your anger, there are other ways to get help.</p><h4 data-block-key=\"2j66r\">Anger management programmes</h4><p data-block-key=\"c0v17\">A typical anger management programme may involve 1-to-1 <a href=\"/tests-and-treatments/counselling/\">counselling</a> and working in a group.</p><p data-block-key=\"8406t\">A programme may be a 1-day or weekend course, or over a couple of months.</p><p data-block-key=\"e65me\">The structure of the programme depends on who provides it, but most programmes include <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a>, as well as counselling.</p><p data-block-key=\"ce43u\">There are also private courses and therapists who can help with anger issues. Make sure any therapist you see is registered with a professional organisation, such as the <a href=\"http://www.bacp.co.uk/\">British Association for Counselling &amp; Psychotherapy</a>.</p><h4 data-block-key=\"ea5pn\">Referring yourself for therapy</h4><p data-block-key=\"2jugi\">If you need more support, you can get free talking therapies, such as cognitive behavioural therapy (CBT), on the NHS.</p><p data-block-key=\"1ff1c\">You can refer yourself directly to a talking therapies service without a referral from a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS talking therapies service</span>\n</a>\n<p data-block-key=\"6r9j2\">If you're aged 17 or under, or want to get help for someone under 18, find out how to get <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">mental health support for children and young people</a>.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of anger</h2>\n<p data-block-key=\"cbp83\">There are many different causes of anger and it's different for everyone.</p><p data-block-key=\"wbqaz\">Some common things that make people feel angry include:</p><ul><li data-block-key=\"kkc5r\">being treated unfairly and feeling powerless to do anything about it</li><li data-block-key=\"8t7li\">feeling threatened or attacked</li><li data-block-key=\"4pz9x\">other people not respecting you, your feelings or your property</li><li data-block-key=\"rdxcl\">being interrupted when you're trying to achieve a goal</li></ul><p data-block-key=\"ogmek\">How you react to anger can depend on lots of things, including:</p><ul><li data-block-key=\"eidd3\">the situation you're in at the moment – if you're dealing with lots of problems or stress, you may find it harder to control your anger</li><li data-block-key=\"oo1ce\">your family history – you may have learned unhelpful ways of dealing with anger from the adults around you when you were a child</li><li data-block-key=\"h8zik\">events in your past – people who experience traumatic, frightening or stressful events sometimes develop <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post-traumatic stress disorder (PTSD)</a>, which can lead to angry outbursts</li><li data-block-key=\"5jka1\">substances such as drugs and alcohol – which make some people act more aggressively than usual</li></ul><p data-block-key=\"lxvu1\">Some of the things that make you angry may not bother other people at all.</p><p data-block-key=\"0pctn\">You might find it hard to explain why you feel this way but talking to someone could help you find a solution.</p>\n</section>\n<section>\n<p data-block-key=\"6r9j2\"><a href=\"/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/\">Find out about the 5 steps to mental wellbeing</a></p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h2>\n<p data-block-key=\"f9klt\">If uncontrolled anger leads to domestic violence and abuse (violence or threatening behaviour within a relationship), there are places that offer help and support.</p><p data-block-key=\"d67i3\">You can contact organisations such as:</p><ul><li data-block-key=\"6aeo7\"><a href=\"https://www.refuge.org.uk/\">Refuge</a></li><li data-block-key=\"6ddf2\"><a href=\"http://www.womensaid.org.uk/\">Women's Aid</a></li><li data-block-key=\"cn7jb\"><a href=\"http://www.mensadviceline.org.uk/\">Respect – Men's Advice Line</a></li></ul><p data-block-key=\"tnqt\">Find out more about <a href=\"/live-well/getting-help-for-domestic-violence/\">getting help for domestic violence and abuse</a>.</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

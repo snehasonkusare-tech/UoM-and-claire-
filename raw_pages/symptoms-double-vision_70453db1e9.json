@@ -1,0 +1,582 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/double-vision/",
+  "final_url": "https://www.nhs.uk/symptoms/double-vision/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:17.657935+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "D",
+      "label": "Double vision",
+      "url": "https://www.nhs.uk/symptoms/double-vision/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Double vision",
+  "meta_description": "Find out about double vision (diplopia), including how to tell if you have it, what can cause it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "12 January 2024",
+    "next_review_due": "12 January 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about double vision (diplopia), including how to tell if you have it, what can cause it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/double-vision/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nDouble vision\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about double vision (diplopia), including how to tell if you have it, what can cause it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 May 2025, 11:26 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 3:45 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Double vision"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/double-vision/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Double vision"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-05-16T10:26:19+00:00",
+      "description": "Find out about double vision (diplopia), including how to tell if you have it, what can cause it and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may have double vision if you look at 1 object but see 2 images. Children may cover an eye with their hand or squint to see better.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Double vision is when you look at 1 object but can see 2 images. It may affect 1 eye or both eyes.</p><p>Children often cannot tell if they have double vision. Signs that your child may have problems with their vision include:</p><ul><li>narrowing or squinting their eyes to try to see better</li><li>closing 1 eye or covering 1 eye with their hand</li><li>turning their head in unusual ways (for example, tilting their head)</li><li>looking at you sideways instead of facing forward</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of double vision",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to an optician or see a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you think you or your child might have double vision, even if it comes and goes\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find an NHS sight test\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To check if you have double vision, an optician or GP may ask you some questions, do some eye tests or refer you to an eye specialist for more tests.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have double vision, an optician or GP can ask about your symptoms and do some simple, painless eye tests.</p><p>They may refer you to an eye specialist in hospital for tests and treatment.</p><p>The optician can also let you know if you need to see a GP instead.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have eye pain and double vision\n </li>\n<li>\n  you have double vision that has started suddenly\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you have a severe headache or an enlarged (dilated) pupil with blurred or double vision\n </li>\n<li>\n  you have double vision after a head injury\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for double vision can be as simple as wearing an eye patch or glasses. Sometimes it may require eye surgery.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Your eyecare team or GP can advise you about the best treatment for double vision once they work out the cause.</p><p>In some cases, this may be simple treatments such as eye exercises, wearing an eye patch or being prescribed glasses or contact lenses.</p><p>Some conditions that cause double vision may require eye surgery to correct the problem.</p>"
+            }
+          ],
+          "headline": "Treating double vision",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lots of things can cause double vision. Causes can include a squint, dry eyes, astigmatism and cataracts.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Double vision has many possible causes, depending on whether 1 eye or both eyes are affected.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>Try covering 1 eye at a time to see if your double vision goes away.</p><p>If your double vision goes away with 1 eye covered, it's probably affecting both eyes (binocular).</p><p>If you still have double vision in the eye that is not covered, it's probably only affecting that eye (monocular).</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Double vision affecting both eyes (binocular)",
+              "text": "<p>Double vision affecting both eyes is usually a symptom of a <a href=\"/conditions/squint/\">squint</a>.</p><p>This is where problems with the eye muscles or nerves cause the eyes to look in slightly different directions.</p><p>Squints are more common in children, but they do not always cause double vision. An untreated squint in children under 7 causes a <a href=\"/conditions/lazy-eye/\">lazy eye</a> instead.</p><p>Squints or binocular double vision in adults can be a sign of a more serious condition.</p><h3>Double vision affecting 1 eye (monocular)</h3><p>Double vision affecting 1 eye is less common. It's usually caused by eye problems such as:</p><ul><li><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – where the eyes do not produce enough tears</li><li><a href=\"/conditions/astigmatism/\">astigmatism</a> – a common condition where part of the eye is not a perfect shape</li><li><a href=\"/conditions/cataracts/\">cataracts</a> – cloudy patches over the front of the eyes</li><li>keratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape</li></ul>"
+            }
+          ],
+          "headline": "Causes of double vision",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Double vision (diplopia) is not usually serious, but you should get it checked, even if it comes and goes.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Double vision",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Double vision",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Double vision",
+              "text": "Medical treatments"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/double-vision/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-01-12T00:00:00+00:00",
+        "2027-01-12T11:38:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Double vision",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Double vision",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/double-vision/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/double-vision/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Double vision (diplopia) is not usually serious, but it's important to get it checked, even if it comes and goes.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"bhuc6\"><b>Double vision (diplopia) is not usually serious, but it's important to get it checked, even if it comes and goes.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of double vision",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of double vision"
+        }
+      ],
+      "text": "Symptoms of double vision\nDouble vision is when you look at 1 object but can see 2 images. It may affect 1 eye or both eyes.\nChildren often cannot tell if they have double vision. Signs that your child may have problems with their vision include:\nnarrowing or squinting their eyes to try to see better\nclosing 1 eye or covering 1 eye with their hand\nturning their head in unusual ways (for example, tilting their head)\nlooking at you sideways instead of facing forward",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "narrowing or squinting their eyes to try to see better",
+            "closing 1 eye or covering 1 eye with their hand",
+            "turning their head in unusual ways (for example, tilting their head)",
+            "looking at you sideways instead of facing forward"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of double vision</h2>\n<p data-block-key=\"p2j83\">Double vision is when you look at 1 object but can see 2 images. It may affect 1 eye or both eyes.</p><p data-block-key=\"pr0td\">Children often cannot tell if they have double vision. Signs that your child may have problems with their vision include:</p><ul><li data-block-key=\"3cmzv\">narrowing or squinting their eyes to try to see better</li><li data-block-key=\"4rbg6\">closing 1 eye or covering 1 eye with their hand</li><li data-block-key=\"im389\">turning their head in unusual ways (for example, tilting their head)</li><li data-block-key=\"a4mfq\">looking at you sideways instead of facing forward</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: Go to an optician or see a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: Go to an optician or see a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nGo to an optician or see a GP if:\nyou think you or your child might have double vision, even if it comes and goes\nFind an NHS sight test",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you think you or your child might have double vision, even if it comes and goes"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find an NHS sight test",
+          "url": "https://www.nhs.uk/service-search/find-an-NHS-sight-test/location"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>Go to an optician or see a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"ajyui\">you think you or your child might have double vision, even if it comes and goes</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS sight test</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nIf you have double vision, an optician or GP can ask about your symptoms and do some simple, painless eye tests.\nThey may refer you to an eye specialist in hospital for tests and treatment.\nThe optician can also let you know if you need to see a GP instead.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"vo6le\">If you have double vision, an optician or GP can ask about your symptoms and do some simple, painless eye tests.</p><p data-block-key=\"12ma2\">They may refer you to an eye specialist in hospital for tests and treatment.</p><p data-block-key=\"rsv\">The optician can also let you know if you need to see a GP instead.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        },
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have eye pain and double vision\nyou have double vision that has started suddenly\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E if:\nyou have a severe headache or an enlarged (dilated) pupil with blurred or double vision\nyou have double vision after a head injury",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have eye pain and double vision",
+            "you have double vision that has started suddenly"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you have a severe headache or an enlarged (dilated) pupil with blurred or double vision",
+            "you have double vision after a head injury"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"en4ue\">you have eye pain and double vision</li><li data-block-key=\"8mbrp\">you have double vision that has started suddenly</li></ul><p data-block-key=\"9ll9c\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kfogj\">you have a severe headache or an enlarged (dilated) pupil with blurred or double vision</li><li data-block-key=\"f44oq\">you have double vision after a head injury</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treating double vision",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treating double vision"
+        }
+      ],
+      "text": "Treating double vision\nYour eyecare team or GP can advise you about the best treatment for double vision once they work out the cause.\nIn some cases, this may be simple treatments such as eye exercises, wearing an eye patch or being prescribed glasses or contact lenses.\nSome conditions that cause double vision may require eye surgery to correct the problem.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treating double vision</h2>\n<p data-block-key=\"m8ung\">Your eyecare team or GP can advise you about the best treatment for double vision once they work out the cause.</p><p data-block-key=\"badin\">In some cases, this may be simple treatments such as eye exercises, wearing an eye patch or being prescribed glasses or contact lenses.</p><p data-block-key=\"kc7x5\">Some conditions that cause double vision may require eye surgery to correct the problem.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Causes of double vision",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of double vision"
+        },
+        {
+          "level": "h3",
+          "text": "Double vision affecting both eyes (binocular)"
+        },
+        {
+          "level": "h3",
+          "text": "Double vision affecting 1 eye (monocular)"
+        }
+      ],
+      "text": "Causes of double vision\nDouble vision has many possible causes, depending on whether 1 eye or both eyes are affected.\nInformation:\nTry covering 1 eye at a time to see if your double vision goes away.\nIf your double vision goes away with 1 eye covered, it's probably affecting both eyes (binocular).\nIf you still have double vision in the eye that is not covered, it's probably only affecting that eye (monocular).\nDouble vision affecting both eyes (binocular)\nDouble vision affecting both eyes is usually a symptom of a\nsquint\n.\nThis is where problems with the eye muscles or nerves cause the eyes to look in slightly different directions.\nSquints are more common in children, but they do not always cause double vision. An untreated squint in children under 7 causes a\nlazy eye\ninstead.\nSquints or binocular double vision in adults can be a sign of a more serious condition.\nDouble vision affecting 1 eye (monocular)\nDouble vision affecting 1 eye is less common. It's usually caused by eye problems such as:\ndry eyes\n– where the eyes do not produce enough tears\nastigmatism\n– a common condition where part of the eye is not a perfect shape\ncataracts\n– cloudy patches over the front of the eyes\nkeratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "dry eyes\n– where the eyes do not produce enough tears",
+            "astigmatism\n– a common condition where part of the eye is not a perfect shape",
+            "cataracts\n– cloudy patches over the front of the eyes",
+            "keratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "squint",
+          "url": "https://www.nhs.uk/conditions/squint/"
+        },
+        {
+          "text": "lazy eye",
+          "url": "https://www.nhs.uk/conditions/lazy-eye/"
+        },
+        {
+          "text": "dry eyes",
+          "url": "https://www.nhs.uk/symptoms/dry-eyes/"
+        },
+        {
+          "text": "astigmatism",
+          "url": "https://www.nhs.uk/conditions/astigmatism/"
+        },
+        {
+          "text": "cataracts",
+          "url": "https://www.nhs.uk/conditions/cataracts/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of double vision</h2>\n<p data-block-key=\"ztbmw\">Double vision has many possible causes, depending on whether 1 eye or both eyes are affected.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"e8g54\">Try covering 1 eye at a time to see if your double vision goes away.</p><p data-block-key=\"5qtmj\">If your double vision goes away with 1 eye covered, it's probably affecting both eyes (binocular).</p><p data-block-key=\"t7kg6\">If you still have double vision in the eye that is not covered, it's probably only affecting that eye (monocular).</p>\n</div>\n<h3 data-block-key=\"58i3v\">Double vision affecting both eyes (binocular)</h3><p data-block-key=\"ixlwj\">Double vision affecting both eyes is usually a symptom of a <a href=\"/conditions/squint/\">squint</a>.</p><p data-block-key=\"kjuj5\">This is where problems with the eye muscles or nerves cause the eyes to look in slightly different directions.</p><p data-block-key=\"uwj78\">Squints are more common in children, but they do not always cause double vision. An untreated squint in children under 7 causes a <a href=\"/conditions/lazy-eye/\">lazy eye</a> instead.</p><p data-block-key=\"344xu\">Squints or binocular double vision in adults can be a sign of a more serious condition.</p><h3 data-block-key=\"4nmrh\">Double vision affecting 1 eye (monocular)</h3><p data-block-key=\"xg7nl\">Double vision affecting 1 eye is less common. It's usually caused by eye problems such as:</p><ul><li data-block-key=\"cmjch\"><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – where the eyes do not produce enough tears</li><li data-block-key=\"7s4zh\"><a href=\"/conditions/astigmatism/\">astigmatism</a> – a common condition where part of the eye is not a perfect shape</li><li data-block-key=\"n5vtv\"><a href=\"/conditions/cataracts/\">cataracts</a> – cloudy patches over the front of the eyes</li><li data-block-key=\"60g7t\">keratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape</li></ul>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Important",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Important\nYou must stop driving and tell the Driver and Vehicle Licensing Agency (DVLA) if you're diagnosed with double vision. You can drive again if a doctor tells the DVLA it's safe for you to do so.\nFind out how to tell the DVLA about double vision (diplopia)",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out how to tell the DVLA about double vision (diplopia)",
+          "url": "https://www.gov.uk/diplopia-and-driving"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"6wuoj\">You must stop driving and tell the Driver and Vehicle Licensing Agency (DVLA) if you're diagnosed with double vision. You can drive again if a doctor tells the DVLA it's safe for you to do so.</p><p data-block-key=\"t22u\"><a href=\"https://www.gov.uk/diplopia-and-driving\">Find out how to tell the DVLA about double vision (diplopia)</a></p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Double vision (diplopia) is not usually serious, but it's important to get it checked, even if it comes and goes.\nSymptoms of double vision\nDouble vision is when you look at 1 object but can see 2 images. It may affect 1 eye or both eyes.\nChildren often cannot tell if they have double vision. Signs that your child may have problems with their vision include:\nnarrowing or squinting their eyes to try to see better\nclosing 1 eye or covering 1 eye with their hand\nturning their head in unusual ways (for example, tilting their head)\nlooking at you sideways instead of facing forward\nNon-urgent advice:\nGo to an optician or see a GP if:\nyou think you or your child might have double vision, even if it comes and goes\nFind an NHS sight test\nWhat happens at your appointment\nIf you have double vision, an optician or GP can ask about your symptoms and do some simple, painless eye tests.\nThey may refer you to an eye specialist in hospital for tests and treatment.\nThe optician can also let you know if you need to see a GP instead.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have eye pain and double vision\nyou have double vision that has started suddenly\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E if:\nyou have a severe headache or an enlarged (dilated) pupil with blurred or double vision\nyou have double vision after a head injury\nTreating double vision\nYour eyecare team or GP can advise you about the best treatment for double vision once they work out the cause.\nIn some cases, this may be simple treatments such as eye exercises, wearing an eye patch or being prescribed glasses or contact lenses.\nSome conditions that cause double vision may require eye surgery to correct the problem.\nCauses of double vision\nDouble vision has many possible causes, depending on whether 1 eye or both eyes are affected.\nInformation:\nTry covering 1 eye at a time to see if your double vision goes away.\nIf your double vision goes away with 1 eye covered, it's probably affecting both eyes (binocular).\nIf you still have double vision in the eye that is not covered, it's probably only affecting that eye (monocular).\nDouble vision affecting both eyes (binocular)\nDouble vision affecting both eyes is usually a symptom of a\nsquint\n.\nThis is where problems with the eye muscles or nerves cause the eyes to look in slightly different directions.\nSquints are more common in children, but they do not always cause double vision. An untreated squint in children under 7 causes a\nlazy eye\ninstead.\nSquints or binocular double vision in adults can be a sign of a more serious condition.\nDouble vision affecting 1 eye (monocular)\nDouble vision affecting 1 eye is less common. It's usually caused by eye problems such as:\ndry eyes\n– where the eyes do not produce enough tears\nastigmatism\n– a common condition where part of the eye is not a perfect shape\ncataracts\n– cloudy patches over the front of the eyes\nkeratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape\nImportant\nYou must stop driving and tell the Driver and Vehicle Licensing Agency (DVLA) if you're diagnosed with double vision. You can drive again if a doctor tells the DVLA it's safe for you to do so.\nFind out how to tell the DVLA about double vision (diplopia)\nPage last reviewed: 12 January 2024\nNext review due: 12 January 2027",
+  "links": [
+    {
+      "text": "Find an NHS sight test",
+      "url": "https://www.nhs.uk/service-search/find-an-NHS-sight-test/location"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "squint",
+      "url": "https://www.nhs.uk/conditions/squint/"
+    },
+    {
+      "text": "lazy eye",
+      "url": "https://www.nhs.uk/conditions/lazy-eye/"
+    },
+    {
+      "text": "dry eyes",
+      "url": "https://www.nhs.uk/symptoms/dry-eyes/"
+    },
+    {
+      "text": "astigmatism",
+      "url": "https://www.nhs.uk/conditions/astigmatism/"
+    },
+    {
+      "text": "cataracts",
+      "url": "https://www.nhs.uk/conditions/cataracts/"
+    },
+    {
+      "text": "Find out how to tell the DVLA about double vision (diplopia)",
+      "url": "https://www.gov.uk/diplopia-and-driving"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"bhuc6\"><b>Double vision (diplopia) is not usually serious, but it's important to get it checked, even if it comes and goes.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of double vision</h2>\n<p data-block-key=\"p2j83\">Double vision is when you look at 1 object but can see 2 images. It may affect 1 eye or both eyes.</p><p data-block-key=\"pr0td\">Children often cannot tell if they have double vision. Signs that your child may have problems with their vision include:</p><ul><li data-block-key=\"3cmzv\">narrowing or squinting their eyes to try to see better</li><li data-block-key=\"4rbg6\">closing 1 eye or covering 1 eye with their hand</li><li data-block-key=\"im389\">turning their head in unusual ways (for example, tilting their head)</li><li data-block-key=\"a4mfq\">looking at you sideways instead of facing forward</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>Go to an optician or see a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"ajyui\">you think you or your child might have double vision, even if it comes and goes</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS sight test</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"vo6le\">If you have double vision, an optician or GP can ask about your symptoms and do some simple, painless eye tests.</p><p data-block-key=\"12ma2\">They may refer you to an eye specialist in hospital for tests and treatment.</p><p data-block-key=\"rsv\">The optician can also let you know if you need to see a GP instead.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"en4ue\">you have eye pain and double vision</li><li data-block-key=\"8mbrp\">you have double vision that has started suddenly</li></ul><p data-block-key=\"9ll9c\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"kfogj\">you have a severe headache or an enlarged (dilated) pupil with blurred or double vision</li><li data-block-key=\"f44oq\">you have double vision after a head injury</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treating double vision</h2>\n<p data-block-key=\"m8ung\">Your eyecare team or GP can advise you about the best treatment for double vision once they work out the cause.</p><p data-block-key=\"badin\">In some cases, this may be simple treatments such as eye exercises, wearing an eye patch or being prescribed glasses or contact lenses.</p><p data-block-key=\"kc7x5\">Some conditions that cause double vision may require eye surgery to correct the problem.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of double vision</h2>\n<p data-block-key=\"ztbmw\">Double vision has many possible causes, depending on whether 1 eye or both eyes are affected.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"e8g54\">Try covering 1 eye at a time to see if your double vision goes away.</p><p data-block-key=\"5qtmj\">If your double vision goes away with 1 eye covered, it's probably affecting both eyes (binocular).</p><p data-block-key=\"t7kg6\">If you still have double vision in the eye that is not covered, it's probably only affecting that eye (monocular).</p>\n</div>\n<h3 data-block-key=\"58i3v\">Double vision affecting both eyes (binocular)</h3><p data-block-key=\"ixlwj\">Double vision affecting both eyes is usually a symptom of a <a href=\"/conditions/squint/\">squint</a>.</p><p data-block-key=\"kjuj5\">This is where problems with the eye muscles or nerves cause the eyes to look in slightly different directions.</p><p data-block-key=\"uwj78\">Squints are more common in children, but they do not always cause double vision. An untreated squint in children under 7 causes a <a href=\"/conditions/lazy-eye/\">lazy eye</a> instead.</p><p data-block-key=\"344xu\">Squints or binocular double vision in adults can be a sign of a more serious condition.</p><h3 data-block-key=\"4nmrh\">Double vision affecting 1 eye (monocular)</h3><p data-block-key=\"xg7nl\">Double vision affecting 1 eye is less common. It's usually caused by eye problems such as:</p><ul><li data-block-key=\"cmjch\"><a href=\"/symptoms/dry-eyes/\">dry eyes</a> – where the eyes do not produce enough tears</li><li data-block-key=\"7s4zh\"><a href=\"/conditions/astigmatism/\">astigmatism</a> – a common condition where part of the eye is not a perfect shape</li><li data-block-key=\"n5vtv\"><a href=\"/conditions/cataracts/\">cataracts</a> – cloudy patches over the front of the eyes</li><li data-block-key=\"60g7t\">keratoconus – where the clear outer layer of the eye (cornea) gets thinner and changes shape</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"6wuoj\">You must stop driving and tell the Driver and Vehicle Licensing Agency (DVLA) if you're diagnosed with double vision. You can drive again if a doctor tells the DVLA it's safe for you to do so.</p><p data-block-key=\"t22u\"><a href=\"https://www.gov.uk/diplopia-and-driving\">Find out how to tell the DVLA about double vision (diplopia)</a></p>\n</div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 January 2024<br/>\n    Next review due: 12 January 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

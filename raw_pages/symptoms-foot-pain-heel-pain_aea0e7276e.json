@@ -1,0 +1,551 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:52.713744+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Heel pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Heel pain",
+  "meta_description": "Find out about what causes heel pain and what you can do to ease the pain yourself.",
+  "review_dates": {
+    "page_last_reviewed": "24 October 2025",
+    "next_review_due": "24 October 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    },
+    {
+      "text": "Foot pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about what causes heel pain and what you can do to ease the pain yourself."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Heel pain"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about what causes heel pain and what you can do to ease the pain yourself."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 3:59 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 1:58 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Heel pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/foot-pain/",
+              "genre": [],
+              "name": "Foot pain"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Heel pain"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T14:59:56+00:00",
+      "description": "Find out about what causes heel pain and what you can do to ease the pain yourself.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Heel pain is very common, especially if you exercise regularly. You can usually ease the pain yourself, but it can be a sign of a broken heel bone.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Heel pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heel pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to ease heel pain include resting and raising your heel when you can, wearing comfortable shoes and doing regular gentle stretches.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of heel pain include exercising too much, wearing tight shoes and conditions like plantar fasciitis.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of heel pain include exercising too much, wearing tight shoes and conditions like plantar fasciitis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Heel pain can be caused by things like exercising too much, standing on hard surfaces for too long, or being overweight.</p><p>Do not try to diagnose the cause of the pain yourself.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>If you think you might have broken your heel bone, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>"
+            }
+          ],
+          "headline": "Common causes of heel pain",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to ease heel pain include resting and raising your heel when you can, wearing comfortable shoes and doing regular gentle stretches.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you see a GP about heel pain, they'll usually suggest you try these things:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>rest and raise your heel when you can</p></li><li><p>put an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours</p></li><li><p>wear wide comfortable shoes with a low heel and soft sole</p></li><li><p>use soft insoles or heel pads in your shoes</p></li><li><p>wrap a bandage around your heel and ankle to support it</p></li><li><p>try regular gentle stretching exercises</p></li><li><p>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p></li><li><p>try to lose weight if you are overweight</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not walk or stand for long periods, especially barefoot</p></li><li><p>do not wear high heels or tight pointy shoes</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with heel pain",
+              "text": "<p>You can ask a pharmacist about:</p><ul><li>the best painkiller to take for your heel pain</li><li>insoles and pads for your shoes</li><li>treatments for common skin problems that can affect the heel</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How to ease heel pain yourself",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  heel pain is severe or stopping you doing normal activities\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you have any tingling or loss of sensation in your foot\n </li>\n<li>\n  you have diabetes and have heel pain – foot problems can be more serious if you have diabetes\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Contact NHS 111 if you:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  have severe heel pain after an injury\n </li>\n<li>\n  feel faint, dizzy or sick from the pain\n </li>\n<li>\n  have an ankle or foot that has changed shape or is at an odd angle\n </li>\n<li>\n  heard a snap, grinding or popping noise at the time of injury\n </li>\n<li>\n  are not able to walk\n </li>\n<li>\n  are not able to walk on your tiptoes\n </li>\n<li>\n  are not able to walk up the stairs\n </li>\n<li>\n  have swelling and bruising in your calf and ankle\n </li>\n</ul>\n<p>\n These might be signs of a broken heel bone or broken ankle.\n</p>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/#emergency-medical-help-old"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-10-24T08:00:00+00:00",
+        "2028-10-24T08:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Heel pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Foot pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/foot-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of heel pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of heel pain"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Common causes of heel pain\nHeel pain can be caused by things like exercising too much, standing on hard surfaces for too long, or being overweight.\nDo not try to diagnose the cause of the pain yourself.\nPossible causes of heel pain\nSymptoms\nPossible cause\nSudden sharp pain in heel, swelling, a popping or snapping sound during the injury, difficulty walking\nHeel fracture or ruptured Achilles tendon\nSharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor\nPlantar fasciitis\nPain in the back of the heel, and in the ankle and calf\nAchilles tendonitis\nRedness and swelling, dull aching pain in heel\nBursitis\nImportant\nIf you think you might have broken your heel bone, do not try to treat it yourself. Contact NHS 111 to find out what to do.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of heel pain</h2>\n<p data-block-key=\"4abau\">Heel pain can be caused by things like exercising too much, standing on hard surfaces for too long, or being overweight.</p><p data-block-key=\"araq8\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of heel pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Sudden sharp pain in heel, swelling, a popping or snapping sound during the injury, difficulty walking</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Heel fracture or ruptured Achilles tendon</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Sharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Plantar fasciitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Pain in the back of the heel, and in the ankle and calf</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Achilles tendonitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Redness and swelling, dull aching pain in heel</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Bursitis</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xkq99\">If you think you might have broken your heel bone, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How to ease heel pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease heel pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with heel pain"
+        }
+      ],
+      "text": "How to ease heel pain yourself\nIf you see a GP about heel pain, they'll usually suggest you try these things:\nDo\nrest and raise your heel when you can\nput an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours\nwear wide comfortable shoes with a low heel and soft sole\nuse soft insoles or heel pads in your shoes\nwrap a bandage around your heel and ankle to support it\ntry regular gentle stretching exercises\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\ntry to lose weight if you are overweight\nDon’t\ndo not walk or stand for long periods, especially barefoot\ndo not wear high heels or tight pointy shoes\nA pharmacist can help with heel pain\nYou can ask a pharmacist about:\nthe best painkiller to take for your heel pain\ninsoles and pads for your shoes\ntreatments for common skin problems that can affect the heel\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest and raise your heel when you can",
+            "put an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours",
+            "wear wide comfortable shoes with a low heel and soft sole",
+            "use soft insoles or heel pads in your shoes",
+            "wrap a bandage around your heel and ankle to support it",
+            "try regular gentle stretching exercises",
+            "use painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)",
+            "try to lose weight if you are overweight"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not walk or stand for long periods, especially barefoot",
+            "do not wear high heels or tight pointy shoes"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller to take for your heel pain",
+            "insoles and pads for your shoes",
+            "treatments for common skin problems that can affect the heel",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen gel",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease heel pain yourself</h2>\n<p data-block-key=\"6idx7\">If you see a GP about heel pain, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"osf8y\">rest and raise your heel when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">put an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">wear wide comfortable shoes with a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">use soft insoles or heel pads in your shoes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">wrap a bandage around your heel and ankle to support it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">try regular gentle stretching exercises</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n1lm1\">try to lose weight if you are overweight</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"agdnz\">do not walk or stand for long periods, especially barefoot</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"agdnz\">do not wear high heels or tight pointy shoes</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"6idx7\">A pharmacist can help with heel pain</h3><p data-block-key=\"4gvrf\">You can ask a pharmacist about:</p><ul><li data-block-key=\"6jltc\">the best painkiller to take for your heel pain</li><li data-block-key=\"27n52\">insoles and pads for your shoes</li><li data-block-key=\"397cs\">treatments for common skin problems that can affect the heel</li><li data-block-key=\"42su4\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Video: exercises to reduce heel pain",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Video: exercises to reduce heel pain"
+        }
+      ],
+      "text": "Video: exercises to reduce heel pain\nThis video demonstrates exercises that can help reduce heel pain.\nMedia last reviewed: 1 April 2025\nMedia review due: 1 April 2028\nSee exercise video safety information\nThe exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.\nUnless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.\nGet advice from a healthcare professional (such as a GP) before trying them if:\nyou are not sure if the exercises are suitable for your current level of fitness\nyou have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation\nyou have any other concerns about your health\nyou are pregnant or have recently given birth\nStop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away,\nget help from 111 online\nor call 111 for advice.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you are not sure if the exercises are suitable for your current level of fitness",
+            "you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation",
+            "you have any other concerns about your health",
+            "you are pregnant or have recently given birth"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: exercises to reduce heel pain</h3>\n<p>This video demonstrates exercises that can help reduce heel pain.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6027126658001\" id=\"6027126658001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 1 April 2025<br/>\n    Media review due: 1 April 2028\n  </div>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See exercise video safety information\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"qnbgw\">The exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.</p><p data-block-key=\"e7cie\">Unless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.</p><p data-block-key=\"d7l6r\">Get advice from a healthcare professional (such as a GP) before trying them if:</p><ul><li data-block-key=\"a7enh\">you are not sure if the exercises are suitable for your current level of fitness</li><li data-block-key=\"4k76c\">you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation</li><li data-block-key=\"3gk4l\">you have any other concerns about your health</li><li data-block-key=\"8njuf\">you are pregnant or have recently given birth</li></ul><p data-block-key=\"emhn6\">Stop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away, <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a> or call 111 for advice.</p>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nheel pain is severe or stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your foot\nyou have diabetes and have heel pain – foot problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "heel pain is severe or stopping you doing normal activities",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you have any tingling or loss of sensation in your foot",
+            "you have diabetes and have heel pain – foot problems can be more serious if you have diabetes"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"0gtke\">heel pain is severe or stopping you doing normal activities</li><li data-block-key=\"e7huf\">the pain is getting worse or keeps coming back</li><li data-block-key=\"2iivn\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"jhvd\">you have any tingling or loss of sensation in your foot</li><li data-block-key=\"1f7eg\">you have diabetes and have heel pain – foot problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Contact NHS 111 if you:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Contact NHS 111 if you:"
+        }
+      ],
+      "text": "Urgent advice:\nContact NHS 111 if you:\nhave severe heel pain after an injury\nfeel faint, dizzy or sick from the pain\nhave an ankle or foot that has changed shape or is at an odd angle\nheard a snap, grinding or popping noise at the time of injury\nare not able to walk\nare not able to walk on your tiptoes\nare not able to walk up the stairs\nhave swelling and bruising in your calf and ankle\nThese might be signs of a broken heel bone or broken ankle.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "have severe heel pain after an injury",
+            "feel faint, dizzy or sick from the pain",
+            "have an ankle or foot that has changed shape or is at an odd angle",
+            "heard a snap, grinding or popping noise at the time of injury",
+            "are not able to walk",
+            "are not able to walk on your tiptoes",
+            "are not able to walk up the stairs",
+            "have swelling and bruising in your calf and ankle"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"0gtke\">have severe heel pain after an injury</li><li data-block-key=\"fvlsl\">feel faint, dizzy or sick from the pain</li><li data-block-key=\"5sofn\">have an ankle or foot that has changed shape or is at an odd angle</li><li data-block-key=\"e6n5s\">heard a snap, grinding or popping noise at the time of injury</li><li data-block-key=\"d1mu4\">are not able to walk</li><li data-block-key=\"6i83n\">are not able to walk on your tiptoes</li><li data-block-key=\"9qel2\">are not able to walk up the stairs</li><li data-block-key=\"6qj8j\">have swelling and bruising in your calf and ankle</li></ul><p data-block-key=\"1i1hc\">These might be signs of a broken heel bone or broken ankle.</p><p data-block-key=\"al81\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of heel pain\nHeel pain can be caused by things like exercising too much, standing on hard surfaces for too long, or being overweight.\nDo not try to diagnose the cause of the pain yourself.\nPossible causes of heel pain\nSymptoms\nPossible cause\nSudden sharp pain in heel, swelling, a popping or snapping sound during the injury, difficulty walking\nHeel fracture or ruptured Achilles tendon\nSharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor\nPlantar fasciitis\nPain in the back of the heel, and in the ankle and calf\nAchilles tendonitis\nRedness and swelling, dull aching pain in heel\nBursitis\nImportant\nIf you think you might have broken your heel bone, do not try to treat it yourself. Contact NHS 111 to find out what to do.\nHow to ease heel pain yourself\nIf you see a GP about heel pain, they'll usually suggest you try these things:\nDo\nrest and raise your heel when you can\nput an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours\nwear wide comfortable shoes with a low heel and soft sole\nuse soft insoles or heel pads in your shoes\nwrap a bandage around your heel and ankle to support it\ntry regular gentle stretching exercises\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\ntry to lose weight if you are overweight\nDon’t\ndo not walk or stand for long periods, especially barefoot\ndo not wear high heels or tight pointy shoes\nA pharmacist can help with heel pain\nYou can ask a pharmacist about:\nthe best painkiller to take for your heel pain\ninsoles and pads for your shoes\ntreatments for common skin problems that can affect the heel\nif you need to see a GP\nFind a pharmacy\nVideo: exercises to reduce heel pain\nThis video demonstrates exercises that can help reduce heel pain.\nMedia last reviewed: 1 April 2025\nMedia review due: 1 April 2028\nSee exercise video safety information\nThe exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.\nUnless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.\nGet advice from a healthcare professional (such as a GP) before trying them if:\nyou are not sure if the exercises are suitable for your current level of fitness\nyou have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation\nyou have any other concerns about your health\nyou are pregnant or have recently given birth\nStop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away,\nget help from 111 online\nor call 111 for advice.\nNon-urgent advice:\nSee a GP if:\nheel pain is severe or stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your foot\nyou have diabetes and have heel pain – foot problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nContact NHS 111 if you:\nhave severe heel pain after an injury\nfeel faint, dizzy or sick from the pain\nhave an ankle or foot that has changed shape or is at an odd angle\nheard a snap, grinding or popping noise at the time of injury\nare not able to walk\nare not able to walk on your tiptoes\nare not able to walk up the stairs\nhave swelling and bruising in your calf and ankle\nThese might be signs of a broken heel bone or broken ankle.\nYou can call 111 or\nget help from 111 online\n.",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen gel",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of heel pain</h2>\n<p data-block-key=\"4abau\">Heel pain can be caused by things like exercising too much, standing on hard surfaces for too long, or being overweight.</p><p data-block-key=\"araq8\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of heel pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Sudden sharp pain in heel, swelling, a popping or snapping sound during the injury, difficulty walking</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Heel fracture or ruptured Achilles tendon</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Sharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Plantar fasciitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Pain in the back of the heel, and in the ankle and calf</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Achilles tendonitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Redness and swelling, dull aching pain in heel</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2faz8\">Bursitis</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xkq99\">If you think you might have broken your heel bone, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease heel pain yourself</h2>\n<p data-block-key=\"6idx7\">If you see a GP about heel pain, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"osf8y\">rest and raise your heel when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">put an ice pack (or bag of frozen peas) in a towel on your heel for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">wear wide comfortable shoes with a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">use soft insoles or heel pads in your shoes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">wrap a bandage around your heel and ankle to support it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">try regular gentle stretching exercises</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"cpj90\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n1lm1\">try to lose weight if you are overweight</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"agdnz\">do not walk or stand for long periods, especially barefoot</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"agdnz\">do not wear high heels or tight pointy shoes</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"6idx7\">A pharmacist can help with heel pain</h3><p data-block-key=\"4gvrf\">You can ask a pharmacist about:</p><ul><li data-block-key=\"6jltc\">the best painkiller to take for your heel pain</li><li data-block-key=\"27n52\">insoles and pads for your shoes</li><li data-block-key=\"397cs\">treatments for common skin problems that can affect the heel</li><li data-block-key=\"42su4\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: exercises to reduce heel pain</h3>\n<p>This video demonstrates exercises that can help reduce heel pain.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6027126658001\" id=\"6027126658001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 1 April 2025<br/>\n    Media review due: 1 April 2028\n  </div>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See exercise video safety information\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"qnbgw\">The exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.</p><p data-block-key=\"e7cie\">Unless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.</p><p data-block-key=\"d7l6r\">Get advice from a healthcare professional (such as a GP) before trying them if:</p><ul><li data-block-key=\"a7enh\">you are not sure if the exercises are suitable for your current level of fitness</li><li data-block-key=\"4k76c\">you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation</li><li data-block-key=\"3gk4l\">you have any other concerns about your health</li><li data-block-key=\"8njuf\">you are pregnant or have recently given birth</li></ul><p data-block-key=\"emhn6\">Stop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away, <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a> or call 111 for advice.</p>\n</div>\n</details>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"0gtke\">heel pain is severe or stopping you doing normal activities</li><li data-block-key=\"e7huf\">the pain is getting worse or keeps coming back</li><li data-block-key=\"2iivn\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"jhvd\">you have any tingling or loss of sensation in your foot</li><li data-block-key=\"1f7eg\">you have diabetes and have heel pain – foot problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"0gtke\">have severe heel pain after an injury</li><li data-block-key=\"fvlsl\">feel faint, dizzy or sick from the pain</li><li data-block-key=\"5sofn\">have an ankle or foot that has changed shape or is at an odd angle</li><li data-block-key=\"e6n5s\">heard a snap, grinding or popping noise at the time of injury</li><li data-block-key=\"d1mu4\">are not able to walk</li><li data-block-key=\"6i83n\">are not able to walk on your tiptoes</li><li data-block-key=\"9qel2\">are not able to walk up the stairs</li><li data-block-key=\"6qj8j\">have swelling and bruising in your calf and ankle</li></ul><p data-block-key=\"1i1hc\">These might be signs of a broken heel bone or broken ankle.</p><p data-block-key=\"al81\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

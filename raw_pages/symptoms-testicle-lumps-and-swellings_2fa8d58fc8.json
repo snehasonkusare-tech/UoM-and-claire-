@@ -1,0 +1,440 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/",
+  "final_url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:51.073343+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "T",
+      "label": "Testicle lumps and swellings",
+      "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Testicle lumps and swellings",
+  "meta_description": "Find out about lumps and swellings in the testicles, including what can cause them and when to get medical advice.",
+  "review_dates": {
+    "page_last_reviewed": "18 July 2023",
+    "next_review_due": "18 July 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about lumps and swellings in the testicles, including what can cause them and when to get medical advice."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nTesticle lumps and swellings\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about lumps and swellings in the testicles, including what can cause them and when to get medical advice."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:32 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 4:26 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Testicle lumps and swellings"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Testicle lumps and swellings"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:32:46+00:00",
+      "description": "Find out about lumps and swellings in the testicles, including what can cause them and when to get medical advice.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if you have:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  a lump in your testicles\n </li>\n<li>\n  swollen testicles\n </li>\n<li>\n  a change in the shape of your testicles\n </li>\n<li>\n  a change in the way your testicles feel\n </li>\n<li>\n  1 testicle that has become bigger than the other\n </li>\n<li>\n  aching or discomfort in your testicles that does not go away\n </li>\n</ul>\n<p>\n Lumps in the testicles can be a sign of\n <a href=\"/conditions/testicular-cancer/\">\n  testicular cancer\n </a>\n . This is easier to treat if it's found early.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E immediately or call 999 if you have any of these symptoms:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  sudden, severe pain in a testicle\n </li>\n<li>\n  testicle pain along with feeling sick, being sick or pain in your tummy\n </li>\n<li>\n  testicle pain that has lasted more than an hour or continues when you're resting\n </li>\n</ul>\n<p>\n These can be signs of a serious problem that needs to be treated in hospital as soon as possible.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have a lump in your testicle, a GP will check your testicle for obvious causes and may refer you for an ultrasound scan.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To find out what the cause of the lump or swelling in your testicle is, the GP may:</p><ul><li>look at and feel your testicles</li><li>shine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid</li><li>refer you for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul><p>Treatment for a lump or swelling depends on the cause. You might not need treatment if it does not cause any problems and is not getting worse.</p><p>If the lump or swelling is painful or very big, the GP may refer you to a specialist for an operation to drain, shrink or remove it.</p>"
+            }
+          ],
+          "headline": "What happens at your GP appointment",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lumps in the testicles can have many causes, like a build-up of fluid (cyst) or swollen veins. Sometimes they can be a sign of testicular cancer.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Lumps and swellings in the testicles can have lots of different causes.</p><p>Most are caused by something less serious, such as a build-up of fluid (cyst) or swollen veins in the testicles (varicocele).</p><p>But sometimes they can be a sign of something serious, such as <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>.</p><p>Do not try to self-diagnose the cause of your lump – always see a GP.</p>"
+            }
+          ],
+          "headline": "Causes of testicle lumps and swellings",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lumps and swellings in the testicles (balls) are not usually caused by anything serious, but you should always get them checked by a GP.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Testicle lumps and swellings",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Testicle lumps and swellings",
+              "text": "Diagnosis"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-07-18T15:52:00+00:00",
+        "2026-07-18T15:52:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Testicle lumps and swellings",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Testicle lumps and swellings",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Lumps and swellings in the testicles (balls) are not usually caused by anything serious, but you should always get them checked by a GP.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"r6wcs\"><b>Lumps and swellings in the testicles (balls) are not usually caused by anything serious, but you should always get them checked by a GP.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if you have:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if you have:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if you have:\na lump in your testicles\nswollen testicles\na change in the shape of your testicles\na change in the way your testicles feel\n1 testicle that has become bigger than the other\naching or discomfort in your testicles that does not go away\nLumps in the testicles can be a sign of\ntesticular cancer\n. This is easier to treat if it's found early.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a lump in your testicles",
+            "swollen testicles",
+            "a change in the shape of your testicles",
+            "a change in the way your testicles feel",
+            "1 testicle that has become bigger than the other",
+            "aching or discomfort in your testicles that does not go away"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "testicular cancer",
+          "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"1lz9n\">a lump in your testicles</li><li data-block-key=\"5tptf\">swollen testicles</li><li data-block-key=\"d3u3m\">a change in the shape of your testicles</li><li data-block-key=\"bt5vm\">a change in the way your testicles feel</li><li data-block-key=\"1v956\">1 testicle that has become bigger than the other</li><li data-block-key=\"8ckda\">aching or discomfort in your testicles that does not go away</li></ul><p data-block-key=\"lkoj\">Lumps in the testicles can be a sign of <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>. This is easier to treat if it's found early.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Go to A&E immediately or call 999 if you have any of these symptoms:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E immediately or call 999 if you have any of these symptoms:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E immediately or call 999 if you have any of these symptoms:\nsudden, severe pain in a testicle\ntesticle pain along with feeling sick, being sick or pain in your tummy\ntesticle pain that has lasted more than an hour or continues when you're resting\nThese can be signs of a serious problem that needs to be treated in hospital as soon as possible.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "sudden, severe pain in a testicle",
+            "testicle pain along with feeling sick, being sick or pain in your tummy",
+            "testicle pain that has lasted more than an hour or continues when you're resting"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E immediately or call 999 if you have any of these symptoms:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"oij27\">sudden, severe pain in a testicle</li><li data-block-key=\"epcvs\">testicle pain along with feeling sick, being sick or pain in your tummy</li><li data-block-key=\"8oprn\">testicle pain that has lasted more than an hour or continues when you're resting</li></ul><p data-block-key=\"bcone\">These can be signs of a serious problem that needs to be treated in hospital as soon as possible.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What happens at your GP appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your GP appointment"
+        }
+      ],
+      "text": "What happens at your GP appointment\nTo find out what the cause of the lump or swelling in your testicle is, the GP may:\nlook at and feel your testicles\nshine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid\nrefer you for an\nultrasound scan\nTreatment for a lump or swelling depends on the cause. You might not need treatment if it does not cause any problems and is not getting worse.\nIf the lump or swelling is painful or very big, the GP may refer you to a specialist for an operation to drain, shrink or remove it.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "look at and feel your testicles",
+            "shine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid",
+            "refer you for an\nultrasound scan"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"6zko5\">To find out what the cause of the lump or swelling in your testicle is, the GP may:</p><ul><li data-block-key=\"2bi95\">look at and feel your testicles</li><li data-block-key=\"e3vpb\">shine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid</li><li data-block-key=\"5315h\">refer you for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul><p data-block-key=\"67va0\">Treatment for a lump or swelling depends on the cause. You might not need treatment if it does not cause any problems and is not getting worse.</p><p data-block-key=\"bdjt3\">If the lump or swelling is painful or very big, the GP may refer you to a specialist for an operation to drain, shrink or remove it.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of testicle lumps and swellings",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of testicle lumps and swellings"
+        }
+      ],
+      "text": "Causes of testicle lumps and swellings\nLumps and swellings in the testicles can have lots of different causes.\nMost are caused by something less serious, such as a build-up of fluid (cyst) or swollen veins in the testicles (varicocele).\nBut sometimes they can be a sign of something serious, such as\ntesticular cancer\n.\nDo not try to self-diagnose the cause of your lump – always see a GP.",
+      "lists": [],
+      "links": [
+        {
+          "text": "testicular cancer",
+          "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of testicle lumps and swellings</h2>\n<p data-block-key=\"n8cpq\">Lumps and swellings in the testicles can have lots of different causes.</p><p data-block-key=\"bv9hf\">Most are caused by something less serious, such as a build-up of fluid (cyst) or swollen veins in the testicles (varicocele).</p><p data-block-key=\"6c43\">But sometimes they can be a sign of something serious, such as <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>.</p><p data-block-key=\"95qag\">Do not try to self-diagnose the cause of your lump – always see a GP.</p>\n</section>"
+    }
+  ],
+  "page_text": "Lumps and swellings in the testicles (balls) are not usually caused by anything serious, but you should always get them checked by a GP.\nNon-urgent advice:\nSee a GP if you have:\na lump in your testicles\nswollen testicles\na change in the shape of your testicles\na change in the way your testicles feel\n1 testicle that has become bigger than the other\naching or discomfort in your testicles that does not go away\nLumps in the testicles can be a sign of\ntesticular cancer\n. This is easier to treat if it's found early.\nImmediate action required:\nGo to A&E immediately or call 999 if you have any of these symptoms:\nsudden, severe pain in a testicle\ntesticle pain along with feeling sick, being sick or pain in your tummy\ntesticle pain that has lasted more than an hour or continues when you're resting\nThese can be signs of a serious problem that needs to be treated in hospital as soon as possible.\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nWhat happens at your GP appointment\nTo find out what the cause of the lump or swelling in your testicle is, the GP may:\nlook at and feel your testicles\nshine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid\nrefer you for an\nultrasound scan\nTreatment for a lump or swelling depends on the cause. You might not need treatment if it does not cause any problems and is not getting worse.\nIf the lump or swelling is painful or very big, the GP may refer you to a specialist for an operation to drain, shrink or remove it.\nCauses of testicle lumps and swellings\nLumps and swellings in the testicles can have lots of different causes.\nMost are caused by something less serious, such as a build-up of fluid (cyst) or swollen veins in the testicles (varicocele).\nBut sometimes they can be a sign of something serious, such as\ntesticular cancer\n.\nDo not try to self-diagnose the cause of your lump – always see a GP.\nPage last reviewed: 18 July 2023\nNext review due: 18 July 2026",
+  "links": [
+    {
+      "text": "testicular cancer",
+      "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "testicular cancer",
+      "url": "https://www.nhs.uk/conditions/testicular-cancer/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"r6wcs\"><b>Lumps and swellings in the testicles (balls) are not usually caused by anything serious, but you should always get them checked by a GP.</b></p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you have:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"1lz9n\">a lump in your testicles</li><li data-block-key=\"5tptf\">swollen testicles</li><li data-block-key=\"d3u3m\">a change in the shape of your testicles</li><li data-block-key=\"bt5vm\">a change in the way your testicles feel</li><li data-block-key=\"1v956\">1 testicle that has become bigger than the other</li><li data-block-key=\"8ckda\">aching or discomfort in your testicles that does not go away</li></ul><p data-block-key=\"lkoj\">Lumps in the testicles can be a sign of <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>. This is easier to treat if it's found early.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E immediately or call 999 if you have any of these symptoms:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"oij27\">sudden, severe pain in a testicle</li><li data-block-key=\"epcvs\">testicle pain along with feeling sick, being sick or pain in your tummy</li><li data-block-key=\"8oprn\">testicle pain that has lasted more than an hour or continues when you're resting</li></ul><p data-block-key=\"bcone\">These can be signs of a serious problem that needs to be treated in hospital as soon as possible.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"6zko5\">To find out what the cause of the lump or swelling in your testicle is, the GP may:</p><ul><li data-block-key=\"2bi95\">look at and feel your testicles</li><li data-block-key=\"e3vpb\">shine a torch through the bag of skin containing your testicles (scrotum) to check for a build-up of fluid</li><li data-block-key=\"5315h\">refer you for an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a></li></ul><p data-block-key=\"67va0\">Treatment for a lump or swelling depends on the cause. You might not need treatment if it does not cause any problems and is not getting worse.</p><p data-block-key=\"bdjt3\">If the lump or swelling is painful or very big, the GP may refer you to a specialist for an operation to drain, shrink or remove it.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of testicle lumps and swellings</h2>\n<p data-block-key=\"n8cpq\">Lumps and swellings in the testicles can have lots of different causes.</p><p data-block-key=\"bv9hf\">Most are caused by something less serious, such as a build-up of fluid (cyst) or swollen veins in the testicles (varicocele).</p><p data-block-key=\"6c43\">But sometimes they can be a sign of something serious, such as <a href=\"/conditions/testicular-cancer/\">testicular cancer</a>.</p><p data-block-key=\"95qag\">Do not try to self-diagnose the cause of your lump – always see a GP.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 18 July 2023<br/>\n    Next review due: 18 July 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

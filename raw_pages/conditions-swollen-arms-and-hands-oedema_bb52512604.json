@@ -1,0 +1,651 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/",
+  "final_url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:48.869328+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "S",
+      "label": "Swollen arms and hands (oedema)",
+      "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Swollen arms and hands (oedema)",
+  "meta_description": "Find out about the causes of swollen arms and hands, what to do about it and when to get help.",
+  "review_dates": {
+    "page_last_reviewed": "01 October 2025",
+    "next_review_due": "01 October 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about the causes of swollen arms and hands, what to do about it and when to get help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nSwollen arms and hands (oedema)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about the causes of swollen arms and hands, what to do about it and when to get help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Dec 2025, 4:36 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "16 May 2019, 10:21 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Swollen arms and hands (oedema)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Swollen arms and hands (oedema)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-12-09T16:36:32+00:00",
+      "description": "Find out about the causes of swollen arms and hands, what to do about it and when to get help.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of swollen arms or hands include staying in the same position for too long, a diet high in salt, allergic reactions and some medicines.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Swelling in the arms and hands is often caused by a build-up of fluid in these areas.</p><p>This can be caused by:</p><ul><li>staying in the same position for too long</li><li>eating too much salty food</li><li>taking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids</li><li>cancer treatment</li><li>an infection or injury, such as a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li>sudden changes in temperature, such as very hot weather</li><li>an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a>, or a skin allergy such as <a href=\"/conditions/angioedema/\">angioedema</a></li><li>problems with your kidneys, liver or heart</li><li>a blood clot or circulation problems</li><li><a href=\"/conditions/lymphoedema/\">lymphoedema</a></li></ul>"
+            }
+          ],
+          "headline": "Common causes of swollen arms and hands",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Swelling in the arms and hands can make the skin very tight, puffy and shiny.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Symptoms of oedema in the arms or hands include:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Swollen or puffy arms or hands.",
+                  "datePublished": "2019-05-13T13:35:01+00:00",
+                  "keywords": [
+                    "Lymphoedema",
+                    "skin infection",
+                    "swelling",
+                    "wart",
+                    "swollen",
+                    "growth",
+                    "tight skin",
+                    "chronic condition",
+                    "aching",
+                    "hard skin"
+                  ],
+                  "license": "<p data-block-key=\"3k2hl\">DR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/477302/view</p>",
+                  "name": "The inside of 2 white arms, from wrist to elbow. 1 arm is swollen, so it looks much bigger and the skin is stretched tight.",
+                  "provider": "Science Photo Library",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Swollen or puffy arms or hands.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Shiny, stretched skin.",
+                  "datePublished": "2019-05-13T13:42:25+00:00",
+                  "keywords": [
+                    "Lymphoedema",
+                    "skin infection",
+                    "swelling",
+                    "wart",
+                    "swollen",
+                    "growth",
+                    "tight skin",
+                    "chronic condition",
+                    "aching",
+                    "hard skin"
+                  ],
+                  "license": "<p data-block-key=\"j8t9a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/648284/view</p>",
+                  "name": "A swollen white hand that looks puffy. The skin is stretched and shiny, especially across the top of the hand and knuckles.",
+                  "provider": "Science Photo Library",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Shiny, stretched skin.</p>"
+            }
+          ],
+          "headline": "Symptoms of oedema",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to ease swelling in your arms or hands include raising the area, doing gentle exercise and drinking fluids as normal.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have swelling in your arms or hands there are some things you can try that may help.</p><p>If you do not know what's causing the swelling, get advice from a health professional before trying these self-care tips.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>use pillows or cushions to raise your arm when lying or sitting</p></li><li><p>move your arm as normal</p></li><li><p>get some gentle exercise, like walking, to improve your blood flow</p></li><li><p>keep hydrated and drink fluids as normal</p></li><li><p>wash and dry your arms and hands to avoid infections, and moisturise to protect your skin</p></li><li><p>try to stay cool if you know getting hot makes the swelling worse</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not stay in the same position for long periods of time</p></li><li><p>do not wear clothes that are too tight</p></li></ul>"
+            }
+          ],
+          "headline": "How to ease swelling yourself",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury\n </li>\n<li>\n  the swelling is severe, painful or starts very suddenly\n </li>\n<li>\n  the swollen area is red or feels hot to the touch\n </li>\n<li>\n  your arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery\n </li>\n<li>\n  you have swelling in your arms, hands and other parts of your body\n </li>\n<li>\n  you have diabetes and your arm or hand is swollen\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you feel short of breath or are struggling to breathe\n </li>\n<li>\n  your chest feels tight, heavy or painful\n </li>\n</ul>\n<p>\n You could have a blood clot in your lungs, or another serious problem that needs immediate treatment.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for swollen arms or hands depends on the cause. For example, taking water tablets (diuretics) or wearing compression sleeves may help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for swelling or oedema that does not go away on its own will depend on the cause.</p><p>Possible treatments include:</p><ul><li>changing your medicine if this is the cause of the swelling</li><li>treating any condition that is causing the swelling</li><li>diuretics (water tablets) to help reduce the swelling</li><li>wearing special gloves or sleeves to stop any swelling from coming back (compression aids)</li></ul><p>Treatment may also include lifestyle changes, such as <a href=\"/live-well/healthy-weight/managing-your-weight/\">losing weight</a> or going on a <a href=\"/live-well/eat-well/food-types/salt-in-your-diet/\">low-salt diet</a>.</p>"
+            }
+          ],
+          "headline": "Treatment for swelling",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Swelling in the arms or hands (called oedema) often goes away on its own. See a GP if it does not get better or if you do not know what’s causing it.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen arms and hands (oedema)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen arms and hands (oedema)",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen arms and hands (oedema)",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of swollen arms or hands include staying in the same position for too long, a diet high in salt, allergic reactions and some medicines.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to ease swelling in your arms or hands include raising the area, doing gentle exercise and drinking fluids as normal.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for swollen arms or hands depends on the cause. For example, taking water tablets (diuretics) or wearing compression sleeves may help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-10-01T12:00:00+00:00",
+        "2028-10-01T13:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Swollen arms and hands (oedema)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Swollen arms and hands (oedema)",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of swollen arms and hands",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of swollen arms and hands"
+        }
+      ],
+      "text": "Common causes of swollen arms and hands\nSwelling in the arms and hands is often caused by a build-up of fluid in these areas.\nThis can be caused by:\nstaying in the same position for too long\neating too much salty food\ntaking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids\ncancer treatment\nan infection or injury, such as a\nsprain or strain\nsudden changes in temperature, such as very hot weather\nan\ninsect bite or sting\n, or a skin allergy such as\nangioedema\nproblems with your kidneys, liver or heart\na blood clot or circulation problems\nlymphoedema",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "staying in the same position for too long",
+            "eating too much salty food",
+            "taking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids",
+            "cancer treatment",
+            "an infection or injury, such as a\nsprain or strain",
+            "sudden changes in temperature, such as very hot weather",
+            "an\ninsect bite or sting\n, or a skin allergy such as\nangioedema",
+            "problems with your kidneys, liver or heart",
+            "a blood clot or circulation problems",
+            "lymphoedema"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "sprain or strain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "insect bite or sting",
+          "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/"
+        },
+        {
+          "text": "angioedema",
+          "url": "https://www.nhs.uk/conditions/angioedema/"
+        },
+        {
+          "text": "lymphoedema",
+          "url": "https://www.nhs.uk/conditions/lymphoedema/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of swollen arms and hands</h2>\n<p data-block-key=\"xb7sh\">Swelling in the arms and hands is often caused by a build-up of fluid in these areas.</p><p data-block-key=\"tq0z6\">This can be caused by:</p><ul><li data-block-key=\"fge0w\">staying in the same position for too long</li><li data-block-key=\"n9px2\">eating too much salty food</li><li data-block-key=\"7y9o1\">taking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids</li><li data-block-key=\"1rhnk\">cancer treatment</li><li data-block-key=\"lolmp\">an infection or injury, such as a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li data-block-key=\"0x361\">sudden changes in temperature, such as very hot weather</li><li data-block-key=\"8zry4\">an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a>, or a skin allergy such as <a href=\"/conditions/angioedema/\">angioedema</a></li><li data-block-key=\"sb56h\">problems with your kidneys, liver or heart</li><li data-block-key=\"e0qoi\">a blood clot or circulation problems</li><li data-block-key=\"d0mo6\"><a href=\"/conditions/lymphoedema/\">lymphoedema</a></li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of oedema",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of oedema"
+        }
+      ],
+      "text": "Symptoms of oedema\nSymptoms of oedema in the arms or hands include:\nSwollen or puffy arms or hands.\nCredit:\nDR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/477302/view\nShiny, stretched skin.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/648284/view",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of oedema</h2>\n<p data-block-key=\"ln7nl\">Symptoms of oedema in the arms or hands include:</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"The inside of 2 white arms, from wrist to elbow. 1 arm is swollen, so it looks much bigger and the skin is stretched tight.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Swollen or puffy arms or hands.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"3k2hl\">DR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/477302/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen white hand that looks puffy. The skin is stretched and shiny, especially across the top of the hand and knuckles.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Shiny, stretched skin.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"j8t9a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/648284/view</p>\n</div>\n</figure>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How to ease swelling yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease swelling yourself"
+        },
+        {
+          "level": "h2",
+          "text": "Do"
+        },
+        {
+          "level": "h2",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How to ease swelling yourself\nIf you have swelling in your arms or hands there are some things you can try that may help.\nIf you do not know what's causing the swelling, get advice from a health professional before trying these self-care tips.\nDo\nuse pillows or cushions to raise your arm when lying or sitting\nmove your arm as normal\nget some gentle exercise, like walking, to improve your blood flow\nkeep hydrated and drink fluids as normal\nwash and dry your arms and hands to avoid infections, and moisturise to protect your skin\ntry to stay cool if you know getting hot makes the swelling worse\nDon’t\ndo not stay in the same position for long periods of time\ndo not wear clothes that are too tight",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "use pillows or cushions to raise your arm when lying or sitting",
+            "move your arm as normal",
+            "get some gentle exercise, like walking, to improve your blood flow",
+            "keep hydrated and drink fluids as normal",
+            "wash and dry your arms and hands to avoid infections, and moisturise to protect your skin",
+            "try to stay cool if you know getting hot makes the swelling worse"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not stay in the same position for long periods of time",
+            "do not wear clothes that are too tight"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease swelling yourself</h2>\n<p data-block-key=\"vn97o\">If you have swelling in your arms or hands there are some things you can try that may help.</p><p data-block-key=\"34qqd\">If you do not know what's causing the swelling, get advice from a health professional before trying these self-care tips.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h2 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h2>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"71qxm\">use pillows or cushions to raise your arm when lying or sitting</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6kzn6\">move your arm as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"kn2di\">get some gentle exercise, like walking, to improve your blood flow</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"glqic\">keep hydrated and drink fluids as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ao0pw\">wash and dry your arms and hands to avoid infections, and moisturise to protect your skin</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3wfj9\">try to stay cool if you know getting hot makes the swelling worse</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h2 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h2>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0fpav\">do not stay in the same position for long periods of time</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"mtr1p\">do not wear clothes that are too tight</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury\nthe swelling is severe, painful or starts very suddenly\nthe swollen area is red or feels hot to the touch\nyour arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery\nyou have swelling in your arms, hands and other parts of your body\nyou have diabetes and your arm or hand is swollen\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury",
+            "the swelling is severe, painful or starts very suddenly",
+            "the swollen area is red or feels hot to the touch",
+            "your arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery",
+            "you have swelling in your arms, hands and other parts of your body",
+            "you have diabetes and your arm or hand is swollen"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"pbpr6\">you have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury</li><li data-block-key=\"b43eq\">the swelling is severe, painful or starts very suddenly</li><li data-block-key=\"0sj94\">the swollen area is red or feels hot to the touch</li><li data-block-key=\"fls9q\">your arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery</li><li data-block-key=\"8g42q\">you have swelling in your arms, hands and other parts of your body</li><li data-block-key=\"dv8rx\">you have diabetes and your arm or hand is swollen</li></ul><p data-block-key=\"dr0pk\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nyou feel short of breath or are struggling to breathe\nyour chest feels tight, heavy or painful\nYou could have a blood clot in your lungs, or another serious problem that needs immediate treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you feel short of breath or are struggling to breathe",
+            "your chest feels tight, heavy or painful"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"typw0\">you feel short of breath or are struggling to breathe</li><li data-block-key=\"ntek4\">your chest feels tight, heavy or painful</li></ul><p data-block-key=\"52mdv\">You could have a blood clot in your lungs, or another serious problem that needs immediate treatment.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatment for swelling",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for swelling"
+        }
+      ],
+      "text": "Treatment for swelling\nTreatment for swelling or oedema that does not go away on its own will depend on the cause.\nPossible treatments include:\nchanging your medicine if this is the cause of the swelling\ntreating any condition that is causing the swelling\ndiuretics (water tablets) to help reduce the swelling\nwearing special gloves or sleeves to stop any swelling from coming back (compression aids)\nTreatment may also include lifestyle changes, such as\nlosing weight\nor going on a\nlow-salt diet\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "changing your medicine if this is the cause of the swelling",
+            "treating any condition that is causing the swelling",
+            "diuretics (water tablets) to help reduce the swelling",
+            "wearing special gloves or sleeves to stop any swelling from coming back (compression aids)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "losing weight",
+          "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+        },
+        {
+          "text": "low-salt diet",
+          "url": "https://www.nhs.uk/live-well/eat-well/food-types/salt-in-your-diet/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for swelling</h2>\n<p data-block-key=\"fwm38\">Treatment for swelling or oedema that does not go away on its own will depend on the cause.</p><p data-block-key=\"fm8ek\">Possible treatments include:</p><ul><li data-block-key=\"26b64\">changing your medicine if this is the cause of the swelling</li><li data-block-key=\"1id6r\">treating any condition that is causing the swelling</li><li data-block-key=\"fa0r9\">diuretics (water tablets) to help reduce the swelling</li><li data-block-key=\"2nrov\">wearing special gloves or sleeves to stop any swelling from coming back (compression aids)</li></ul><p data-block-key=\"c7c4c\">Treatment may also include lifestyle changes, such as <a href=\"/live-well/healthy-weight/managing-your-weight/\">losing weight</a> or going on a <a href=\"/live-well/eat-well/food-types/salt-in-your-diet/\">low-salt diet</a>.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of swollen arms and hands\nSwelling in the arms and hands is often caused by a build-up of fluid in these areas.\nThis can be caused by:\nstaying in the same position for too long\neating too much salty food\ntaking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids\ncancer treatment\nan infection or injury, such as a\nsprain or strain\nsudden changes in temperature, such as very hot weather\nan\ninsect bite or sting\n, or a skin allergy such as\nangioedema\nproblems with your kidneys, liver or heart\na blood clot or circulation problems\nlymphoedema\nSymptoms of oedema\nSymptoms of oedema in the arms or hands include:\nSwollen or puffy arms or hands.\nCredit:\nDR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/477302/view\nShiny, stretched skin.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/648284/view\nHow to ease swelling yourself\nIf you have swelling in your arms or hands there are some things you can try that may help.\nIf you do not know what's causing the swelling, get advice from a health professional before trying these self-care tips.\nDo\nuse pillows or cushions to raise your arm when lying or sitting\nmove your arm as normal\nget some gentle exercise, like walking, to improve your blood flow\nkeep hydrated and drink fluids as normal\nwash and dry your arms and hands to avoid infections, and moisturise to protect your skin\ntry to stay cool if you know getting hot makes the swelling worse\nDon’t\ndo not stay in the same position for long periods of time\ndo not wear clothes that are too tight\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury\nthe swelling is severe, painful or starts very suddenly\nthe swollen area is red or feels hot to the touch\nyour arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery\nyou have swelling in your arms, hands and other parts of your body\nyou have diabetes and your arm or hand is swollen\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 if:\nyou feel short of breath or are struggling to breathe\nyour chest feels tight, heavy or painful\nYou could have a blood clot in your lungs, or another serious problem that needs immediate treatment.\nTreatment for swelling\nTreatment for swelling or oedema that does not go away on its own will depend on the cause.\nPossible treatments include:\nchanging your medicine if this is the cause of the swelling\ntreating any condition that is causing the swelling\ndiuretics (water tablets) to help reduce the swelling\nwearing special gloves or sleeves to stop any swelling from coming back (compression aids)\nTreatment may also include lifestyle changes, such as\nlosing weight\nor going on a\nlow-salt diet\n.\nPage last reviewed: 01 October 2025\nNext review due: 01 October 2028",
+  "links": [
+    {
+      "text": "sprain or strain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "insect bite or sting",
+      "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/"
+    },
+    {
+      "text": "angioedema",
+      "url": "https://www.nhs.uk/conditions/angioedema/"
+    },
+    {
+      "text": "lymphoedema",
+      "url": "https://www.nhs.uk/conditions/lymphoedema/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "text": "losing weight",
+      "url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+    },
+    {
+      "text": "low-salt diet",
+      "url": "https://www.nhs.uk/live-well/eat-well/food-types/salt-in-your-diet/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-320.jpg",
+      "alt": "The inside of 2 white arms, from wrist to elbow. 1 arm is swollen, so it looks much bigger and the skin is stretched tight.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-320.jpg",
+      "alt": "A swollen white hand that looks puffy. The skin is stretched and shiny, especially across the top of the hand and knuckles.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of swollen arms and hands</h2>\n<p data-block-key=\"xb7sh\">Swelling in the arms and hands is often caused by a build-up of fluid in these areas.</p><p data-block-key=\"tq0z6\">This can be caused by:</p><ul><li data-block-key=\"fge0w\">staying in the same position for too long</li><li data-block-key=\"n9px2\">eating too much salty food</li><li data-block-key=\"7y9o1\">taking certain medicines, such as some blood pressure medicines, contraceptive pills, antidepressants and steroids</li><li data-block-key=\"1rhnk\">cancer treatment</li><li data-block-key=\"lolmp\">an infection or injury, such as a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li data-block-key=\"0x361\">sudden changes in temperature, such as very hot weather</li><li data-block-key=\"8zry4\">an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a>, or a skin allergy such as <a href=\"/conditions/angioedema/\">angioedema</a></li><li data-block-key=\"sb56h\">problems with your kidneys, liver or heart</li><li data-block-key=\"e0qoi\">a blood clot or circulation problems</li><li data-block-key=\"d0mo6\"><a href=\"/conditions/lymphoedema/\">lymphoedema</a></li></ul>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of oedema</h2>\n<p data-block-key=\"ln7nl\">Symptoms of oedema in the arms or hands include:</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"The inside of 2 white arms, from wrist to elbow. 1 arm is swollen, so it looks much bigger and the skin is stretched tight.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0142743_PcKbtO4.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Swollen or puffy arms or hands.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"3k2hl\">DR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/477302/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen white hand that looks puffy. The skin is stretched and shiny, especially across the top of the hand and knuckles.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0519_lymphoedema_C0238942.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Shiny, stretched skin.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"j8t9a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/648284/view</p>\n</div>\n</figure>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease swelling yourself</h2>\n<p data-block-key=\"vn97o\">If you have swelling in your arms or hands there are some things you can try that may help.</p><p data-block-key=\"34qqd\">If you do not know what's causing the swelling, get advice from a health professional before trying these self-care tips.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h2 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h2>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"71qxm\">use pillows or cushions to raise your arm when lying or sitting</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6kzn6\">move your arm as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"kn2di\">get some gentle exercise, like walking, to improve your blood flow</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"glqic\">keep hydrated and drink fluids as normal</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ao0pw\">wash and dry your arms and hands to avoid infections, and moisturise to protect your skin</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3wfj9\">try to stay cool if you know getting hot makes the swelling worse</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h2 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h2>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0fpav\">do not stay in the same position for long periods of time</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"mtr1p\">do not wear clothes that are too tight</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"pbpr6\">you have swelling in 1 or both arms or hands and there's no obvious cause, such as an injury</li><li data-block-key=\"b43eq\">the swelling is severe, painful or starts very suddenly</li><li data-block-key=\"0sj94\">the swollen area is red or feels hot to the touch</li><li data-block-key=\"fls9q\">your arm or hand is swollen and your temperature is very high, or you feel hot, cold or shivery</li><li data-block-key=\"8g42q\">you have swelling in your arms, hands and other parts of your body</li><li data-block-key=\"dv8rx\">you have diabetes and your arm or hand is swollen</li></ul><p data-block-key=\"dr0pk\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"typw0\">you feel short of breath or are struggling to breathe</li><li data-block-key=\"ntek4\">your chest feels tight, heavy or painful</li></ul><p data-block-key=\"52mdv\">You could have a blood clot in your lungs, or another serious problem that needs immediate treatment.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for swelling</h2>\n<p data-block-key=\"fwm38\">Treatment for swelling or oedema that does not go away on its own will depend on the cause.</p><p data-block-key=\"fm8ek\">Possible treatments include:</p><ul><li data-block-key=\"26b64\">changing your medicine if this is the cause of the swelling</li><li data-block-key=\"1id6r\">treating any condition that is causing the swelling</li><li data-block-key=\"fa0r9\">diuretics (water tablets) to help reduce the swelling</li><li data-block-key=\"2nrov\">wearing special gloves or sleeves to stop any swelling from coming back (compression aids)</li></ul><p data-block-key=\"c7c4c\">Treatment may also include lifestyle changes, such as <a href=\"/live-well/healthy-weight/managing-your-weight/\">losing weight</a> or going on a <a href=\"/live-well/eat-well/food-types/salt-in-your-diet/\">low-salt diet</a>.</p>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 01 October 2025<br/>\n    Next review due: 01 October 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

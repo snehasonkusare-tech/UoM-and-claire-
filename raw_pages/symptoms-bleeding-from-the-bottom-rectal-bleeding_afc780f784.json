@@ -1,0 +1,678 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/",
+  "final_url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:51.208566+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bleeding from the bottom (rectal bleeding)",
+      "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Bleeding from the bottom (rectal bleeding)",
+  "meta_description": "Bleeding from the bottom (rectal bleeding) is often seen as small amounts of bright-red blood on toilet paper or pink water in the toilet. Find out when to get medical help if you keep bleeding from your bottom.",
+  "review_dates": {
+    "page_last_reviewed": "12 April 2023",
+    "next_review_due": "12 April 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Bleeding from the bottom (rectal bleeding) is often seen as small amounts of bright-red blood on toilet paper or pink water in the toilet. Find out when to get medical help if you keep bleeding from your bottom."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBleeding from the bottom (rectal bleeding)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Bleeding from the bottom (rectal bleeding) is often seen as small amounts of bright-red blood on toilet paper or pink water in the toilet. Find out when to get medical help if you keep bleeding from your bottom."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "21 Jul 2025, 10:02 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 2:30 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Bleeding from the bottom (rectal bleeding)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Bleeding from the bottom (rectal bleeding)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-21T09:02:50+00:00",
+      "description": "Bleeding from the bottom (rectal bleeding) is often seen as small amounts of bright-red blood on toilet paper or pink water in the toilet. Find out when to get medical help if you keep bleeding from your bottom.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Signs of bleeding from the bottom include blood on your toilet paper, blood on or in your poo, pink water in the toilet, or very dark poo.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You might be bleeding from the bottom if you have:</p><ul><li>blood on your toilet paper</li><li>red streaks on the outside of your poo</li><li>pink water in the toilet bowl</li><li>blood in your poo or bloody diarrhoea</li><li>very dark poo (this can be blood mixed in poo)</li></ul><p>A small amount of one-off bleeding can often go away on its own without needing treatment.</p>"
+            }
+          ],
+          "headline": "Signs of bleeding from the bottom",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your child has blood in their poo\n </li>\n<li>\n  you've had blood in your poo for 3 weeks\n </li>\n<li>\n  your poo has been softer, thinner or longer than normal for 3 weeks\n </li>\n<li>\n  you're in a lot of pain around the bottom\n </li>\n<li>\n  you have a pain or lump in your tummy\n </li>\n<li>\n  you've been more tired than usual\n </li>\n<li>\n  you've lost weight for no reason\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  your poo is black or dark red\n </li>\n<li>\n  you have bloody diarrhoea\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E or call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you're bleeding non-stop\n </li>\n<li>\n  there's a lot of blood – for example, the toilet water turns red or you see large blood clots\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you see a GP because you have bleeding from your bottom, they may check your bottom with a gloved finger and ask for a sample of poo for testing.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have bleeding from your bottom, a GP will check what's causing it.</p><p>They might:</p><ul><li>check your bottom (rectum) with a gloved finger (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>)</li><li>ask for a sample of poo for testing</li><li>refer you to a specialist for tests</li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bowel cancer risk",
+              "text": "<p>Bleeding from the bottom is sometimes a sign of bowel cancer.</p><p>This is easier to treat if it's found early, so it's important to get it checked.</p>"
+            }
+          ],
+          "headline": "What happens at the GP appointment",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of bleeding from the bottom include piles, anal fissures, sexually transmitted infections and a side effect of medicine to prevent blood clots.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have other symptoms, this might give you an idea of the cause.</p><p>Do not self-diagnose. See a GP if you're worried.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bright red blood on toilet paper, streaks on poo, pink toilet water",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Symptoms\n          : \nBright red blood and pain when pooing, itchy bottom, lumps\n<br/>\n            Possible causes\n          : \nPiles (haemorrhoids)\n</p><p>\n            Symptoms\n          : \nBright red blood and pain when pooing – often after constipation\n<br/>\n            Possible causes\n          : \nA small tear in your anus (anal fissure)\n</p><p>\n            Symptoms\n          : \nBleeding with or without lumps, itching or pain\n<br/>\n            Possible causes\n          : \nSexually transmitted infections (STIs) like genital warts, damage from anal sex\n</p><p>\n            Symptoms\n          : \nBright red blood without pain\n<br/>\n            Possible causes\n          : \nSide effect of medicine to help prevent blood clots like warfarin and apixaban (anticoagulants) or aspirin. Broken blood vessels in the gut (angiodysplasia)\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blood in poo or blood with slime",
+              "text": "<div class=\"block-richtext\">\n<p>Poo can look like it's mixed with blood if you've eaten a lot of red or purple foods like tomatoes and beetroot.</p><p>But it's sometimes a sign of something else. A GP can check if you're worried.</p>\n</div>\n<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Symptoms\n          : \nBlood and yellow slime when pooing, irritated anus, non stop bottom pain\n<br/>\n            Possible causes\n          : \nAnal fistula\n</p><p>\n            Symptoms\n          : \nBloody diarrhoea with clear slime, feeling and being sick\n<br/>\n            Possible causes\n          : \nTummy bug (gastroenteritis)\n</p><p>\n            Symptoms\n          : \nBloody diarrhoea, tummy cramps and pain, feeling bloated\n<br/>\n            Possible causes\n          : \nAn inflammatory bowel disease (IBD) like ulcerative colitis or Crohn's disease\n</p><p>\n            Symptoms\n          : \nBlood in poo\n<br/>\n            Possible causes\n          : \nBleeding in the anus, bowel or lower gut from injury or another problem\n</p><p>\n            Symptoms\n          : \nBlood in poo, change in pooing habits (like looser poo, diarrhoea or constipation), slime with poo\n<br/>\n            Possible causes\n          : \nBowel polyps, early signs of bowel cancer\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Very dark or black blood or poo",
+              "text": "<div class=\"block-richtext\">\n<p>Poo can look very dark or black if you:</p><ul><li>take iron tablets</li><li>eat a lot of dark foods like liquorice and blueberries</li></ul><p>But it's sometimes a sign of something else. A GP can do a test to check this if you're worried.</p>\n</div>\n<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Symptoms\n          : \nDark or black poo\n<br/>\n            Possible causes\n          : \nBleeding in the stomach or gut – can be from injury or a side effect of medicine to help prevent blood clots like warfarin and apixaban (anticoagulants) or aspirin\n</p><p>\n            Symptoms\n          : \nDark blood or poo with tummy pain or cramps\n<br/>\n            Possible causes\n          : \nStomach ulcer\n</p><p>\n            Symptoms\n          : \nDark blood without pain\n<br/>\n            Possible causes\n          : \nSide effect of medicine to help prevent blood clots like warfarin and apixaban (anticoagulants) or aspirin\n</p>\n</div></div>"
+            }
+          ],
+          "headline": "Common causes of bleeding from the bottom",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A small amount of one-off bleeding from your bottom (rectal bleeding) is not usually a serious problem. A GP can check what the cause might be.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Bleeding from the bottom (rectal bleeding)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bleeding from the bottom (rectal bleeding)",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bleeding from the bottom (rectal bleeding)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Signs of bleeding from the bottom include blood on your toilet paper, blood on or in your poo, pink water in the toilet, or very dark poo.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you see a GP because you have bleeding from your bottom, they may check your bottom with a gloved finger and ask for a sample of poo for testing.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of bleeding from the bottom include piles, anal fissures, sexually transmitted infections and a side effect of medicine to prevent blood clots.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-04-12T00:00:00+00:00",
+        "2026-04-12T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Bleeding from the bottom (rectal bleeding)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Bleeding from the bottom (rectal bleeding)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "A small amount of one-off bleeding from the bottom is not usually a serious problem. But a GP can check.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"e88rk\"><b>A small amount of one-off bleeding from the bottom is not usually a serious problem. But a GP can check.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Signs of bleeding from the bottom",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Signs of bleeding from the bottom"
+        }
+      ],
+      "text": "Signs of bleeding from the bottom\nYou might be bleeding from the bottom if you have:\nblood on your toilet paper\nred streaks on the outside of your poo\npink water in the toilet bowl\nblood in your poo or bloody diarrhoea\nvery dark poo (this can be blood mixed in poo)\nA small amount of one-off bleeding can often go away on its own without needing treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "blood on your toilet paper",
+            "red streaks on the outside of your poo",
+            "pink water in the toilet bowl",
+            "blood in your poo or bloody diarrhoea",
+            "very dark poo (this can be blood mixed in poo)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Signs of bleeding from the bottom</h2>\n<p data-block-key=\"5eq5o\">You might be bleeding from the bottom if you have:</p><ul><li data-block-key=\"09gp1\">blood on your toilet paper</li><li data-block-key=\"q0jpw\">red streaks on the outside of your poo</li><li data-block-key=\"gsmvk\">pink water in the toilet bowl</li><li data-block-key=\"6srd2\">blood in your poo or bloody diarrhoea</li><li data-block-key=\"5fn89\">very dark poo (this can be blood mixed in poo)</li></ul><p data-block-key=\"1sxc8\">A small amount of one-off bleeding can often go away on its own without needing treatment.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour child has blood in their poo\nyou've had blood in your poo for 3 weeks\nyour poo has been softer, thinner or longer than normal for 3 weeks\nyou're in a lot of pain around the bottom\nyou have a pain or lump in your tummy\nyou've been more tired than usual\nyou've lost weight for no reason",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your child has blood in their poo",
+            "you've had blood in your poo for 3 weeks",
+            "your poo has been softer, thinner or longer than normal for 3 weeks",
+            "you're in a lot of pain around the bottom",
+            "you have a pain or lump in your tummy",
+            "you've been more tired than usual",
+            "you've lost weight for no reason"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"e4tty\">your child has blood in their poo</li><li data-block-key=\"a71fo\">you've had blood in your poo for 3 weeks</li><li data-block-key=\"lp7c9\">your poo has been softer, thinner or longer than normal for 3 weeks</li><li data-block-key=\"zlscl\">you're in a lot of pain around the bottom</li><li data-block-key=\"ael0b\">you have a pain or lump in your tummy</li><li data-block-key=\"l2y9f\">you've been more tired than usual</li><li data-block-key=\"kf0zp\">you've lost weight for no reason</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour poo is black or dark red\nyou have bloody diarrhoea\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your poo is black or dark red",
+            "you have bloody diarrhoea"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bp4wp\">your poo is black or dark red</li><li data-block-key=\"c96qc\">you have bloody diarrhoea</li></ul><p data-block-key=\"17sq\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Immediate action required: Go to A&E or call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E or call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E or call 999 if:\nyou're bleeding non-stop\nthere's a lot of blood – for example, the toilet water turns red or you see large blood clots\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're bleeding non-stop",
+            "there's a lot of blood – for example, the toilet water turns red or you see large blood clots"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bp4wp\">you're bleeding non-stop</li><li data-block-key=\"9p0hf\">there's a lot of blood – for example, the toilet water turns red or you see large blood clots</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "What happens at the GP appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at the GP appointment"
+        },
+        {
+          "level": "h3",
+          "text": "Important: Bowel cancer risk"
+        }
+      ],
+      "text": "What happens at the GP appointment\nIf you have bleeding from your bottom, a GP will check what's causing it.\nThey might:\ncheck your bottom (rectum) with a gloved finger (\nrectal examination\n)\nask for a sample of poo for testing\nrefer you to a specialist for tests\nImportant:\nBowel cancer risk\nBleeding from the bottom is sometimes a sign of bowel cancer.\nThis is easier to treat if it's found early, so it's important to get it checked.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "check your bottom (rectum) with a gloved finger (\nrectal examination\n)",
+            "ask for a sample of poo for testing",
+            "refer you to a specialist for tests"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "rectal examination",
+          "url": "https://www.nhs.uk/tests-and-treatments/rectal-examination/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at the GP appointment</h2>\n<p data-block-key=\"0sjbr\">If you have bleeding from your bottom, a GP will check what's causing it.</p><p data-block-key=\"l95hb\">They might:</p><ul><li data-block-key=\"6xtlg\">check your bottom (rectum) with a gloved finger (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>)</li><li data-block-key=\"5loen\">ask for a sample of poo for testing</li><li data-block-key=\"4kjii\">refer you to a specialist for tests</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Bowel cancer risk\n        </span>\n</h3>\n<p data-block-key=\"zzv3b\">Bleeding from the bottom is sometimes a sign of bowel cancer.</p><p data-block-key=\"rrd6a\">This is easier to treat if it's found early, so it's important to get it checked.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Common causes of bleeding from the bottom",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of bleeding from the bottom"
+        }
+      ],
+      "text": "Common causes of bleeding from the bottom\nIf you have other symptoms, this might give you an idea of the cause.\nDo not self-diagnose. See a GP if you're worried.\nBright red blood on toilet paper, streaks on poo, pink toilet water\nPossible causes of bright red rectal bleeding\nSymptoms\nPossible causes\nBright red blood and pain when pooing, itchy bottom, lumps\nPiles (haemorrhoids)\nBright red blood and pain when pooing – often after\nconstipation\nA small tear in your anus (\nanal fissure\n)\nBleeding with or without lumps, itching or pain\nSexually transmitted infections (STIs)\nlike genital warts, damage from anal sex\nBright red blood without pain\nSide effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin. Broken blood vessels in the gut (angiodysplasia)\nBlood in poo or blood with slime\nPoo can look like it's mixed with blood if you've eaten a lot of red or purple foods like tomatoes and beetroot.\nBut it's sometimes a sign of something else. A GP can check if you're worried.\nPossible causes of slime or blood in your poo\nSymptoms\nPossible causes\nBlood and yellow slime when pooing, irritated anus, non stop bottom pain\nAnal fistula\nBloody diarrhoea with clear slime, feeling and being sick\nTummy bug (gastroenteritis)\nBloody\ndiarrhoea\n, tummy cramps and pain, feeling bloated\nAn\ninflammatory bowel disease (IBD)\nlike ulcerative colitis or Crohn's disease\nBlood in poo\nBleeding in the anus, bowel or lower gut from injury or another problem\nBlood in poo, change in pooing habits (like looser poo, diarrhoea or\nconstipation\n), slime with poo\nBowel polyps\n, early signs of\nbowel cancer\nVery dark or black blood or poo\nPoo can look very dark or black if you:\ntake iron tablets\neat a lot of dark foods like liquorice and blueberries\nBut it's sometimes a sign of something else. A GP can do a test to check this if you're worried.\nPossible causes of very dark or black blood coming from your bottom\nSymptoms\nPossible causes\nDark or black poo\nBleeding in the stomach or gut – can be from injury or a side effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin\nDark blood or poo with tummy pain or cramps\nStomach ulcer\nDark blood without pain\nSide effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "take iron tablets",
+            "eat a lot of dark foods like liquorice and blueberries"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Piles (haemorrhoids)",
+          "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+        },
+        {
+          "text": "constipation",
+          "url": "https://www.nhs.uk/conditions/constipation/"
+        },
+        {
+          "text": "anal fissure",
+          "url": "https://www.nhs.uk/conditions/anal-fissure/"
+        },
+        {
+          "text": "Sexually transmitted infections (STIs)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "anticoagulants",
+          "url": "https://www.nhs.uk/medicines/anticoagulants/"
+        },
+        {
+          "text": "Anal fistula",
+          "url": "https://www.nhs.uk/conditions/anal-fistula/"
+        },
+        {
+          "text": "diarrhoea",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+        },
+        {
+          "text": "inflammatory bowel disease (IBD)",
+          "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+        },
+        {
+          "text": "constipation",
+          "url": "https://www.nhs.uk/conditions/constipation/"
+        },
+        {
+          "text": "Bowel polyps",
+          "url": "https://www.nhs.uk/conditions/bowel-polyps/"
+        },
+        {
+          "text": "bowel cancer",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer/"
+        },
+        {
+          "text": "anticoagulants",
+          "url": "https://www.nhs.uk/medicines/anticoagulants/"
+        },
+        {
+          "text": "Stomach ulcer",
+          "url": "https://www.nhs.uk/conditions/stomach-ulcer-old/"
+        },
+        {
+          "text": "anticoagulants",
+          "url": "https://www.nhs.uk/medicines/anticoagulants/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of bleeding from the bottom</h2>\n<p data-block-key=\"jtwwt\">If you have other symptoms, this might give you an idea of the cause.</p><p data-block-key=\"0stah\">Do not self-diagnose. See a GP if you're worried.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Bright red blood on toilet paper, streaks on poo, pink toilet water\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of bright red rectal bleeding</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"y7cwt\">Bright red blood and pain when pooing, itchy bottom, lumps</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"y7cwt\"><a href=\"/conditions/piles-haemorrhoids/\">Piles (haemorrhoids)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bright red blood and pain when pooing – often after <a href=\"/conditions/constipation/\">constipation</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">A small tear in your anus (<a href=\"/conditions/anal-fissure/\">anal fissure</a>)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding with or without lumps, itching or pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">Sexually transmitted infections (STIs)</a> like genital warts, damage from anal sex</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bright red blood without pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin. Broken blood vessels in the gut (angiodysplasia)</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Blood in poo or blood with slime\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"b9pnl\">Poo can look like it's mixed with blood if you've eaten a lot of red or purple foods like tomatoes and beetroot.</p><p data-block-key=\"urfu0\">But it's sometimes a sign of something else. A GP can check if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of slime or blood in your poo</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood and yellow slime when pooing, irritated anus, non stop bottom pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/anal-fistula/\">Anal fistula</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bloody diarrhoea with clear slime, feeling and being sick</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Tummy bug (gastroenteritis)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bloody <a href=\"/symptoms/diarrhoea-and-vomiting/\">diarrhoea</a>, tummy cramps and pain, feeling bloated</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">An <a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease (IBD)</a> like ulcerative colitis or Crohn's disease</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood in poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding in the anus, bowel or lower gut from injury or another problem</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood in poo, change in pooing habits (like looser poo, diarrhoea or <a href=\"/conditions/constipation/\">constipation</a>), slime with poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/bowel-polyps/\">Bowel polyps</a>, early signs of <a href=\"/conditions/bowel-cancer/\">bowel cancer</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Very dark or black blood or poo\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"w72dd\">Poo can look very dark or black if you:</p><ul><li data-block-key=\"fh55p\">take iron tablets</li><li data-block-key=\"wdkvl\">eat a lot of dark foods like liquorice and blueberries</li></ul><p data-block-key=\"9mito\">But it's sometimes a sign of something else. A GP can do a test to check this if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of very dark or black blood coming from your bottom</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark or black poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding in the stomach or gut – can be from injury or a side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark blood or poo with tummy pain or cramps</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/stomach-ulcer-old/\">Stomach ulcer</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark blood without pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "A small amount of one-off bleeding from the bottom is not usually a serious problem. But a GP can check.\nSigns of bleeding from the bottom\nYou might be bleeding from the bottom if you have:\nblood on your toilet paper\nred streaks on the outside of your poo\npink water in the toilet bowl\nblood in your poo or bloody diarrhoea\nvery dark poo (this can be blood mixed in poo)\nA small amount of one-off bleeding can often go away on its own without needing treatment.\nNon-urgent advice:\nSee a GP if:\nyour child has blood in their poo\nyou've had blood in your poo for 3 weeks\nyour poo has been softer, thinner or longer than normal for 3 weeks\nyou're in a lot of pain around the bottom\nyou have a pain or lump in your tummy\nyou've been more tired than usual\nyou've lost weight for no reason\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyour poo is black or dark red\nyou have bloody diarrhoea\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nGo to A&E or call 999 if:\nyou're bleeding non-stop\nthere's a lot of blood – for example, the toilet water turns red or you see large blood clots\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nWhat happens at the GP appointment\nIf you have bleeding from your bottom, a GP will check what's causing it.\nThey might:\ncheck your bottom (rectum) with a gloved finger (\nrectal examination\n)\nask for a sample of poo for testing\nrefer you to a specialist for tests\nImportant:\nBowel cancer risk\nBleeding from the bottom is sometimes a sign of bowel cancer.\nThis is easier to treat if it's found early, so it's important to get it checked.\nCommon causes of bleeding from the bottom\nIf you have other symptoms, this might give you an idea of the cause.\nDo not self-diagnose. See a GP if you're worried.\nBright red blood on toilet paper, streaks on poo, pink toilet water\nPossible causes of bright red rectal bleeding\nSymptoms\nPossible causes\nBright red blood and pain when pooing, itchy bottom, lumps\nPiles (haemorrhoids)\nBright red blood and pain when pooing – often after\nconstipation\nA small tear in your anus (\nanal fissure\n)\nBleeding with or without lumps, itching or pain\nSexually transmitted infections (STIs)\nlike genital warts, damage from anal sex\nBright red blood without pain\nSide effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin. Broken blood vessels in the gut (angiodysplasia)\nBlood in poo or blood with slime\nPoo can look like it's mixed with blood if you've eaten a lot of red or purple foods like tomatoes and beetroot.\nBut it's sometimes a sign of something else. A GP can check if you're worried.\nPossible causes of slime or blood in your poo\nSymptoms\nPossible causes\nBlood and yellow slime when pooing, irritated anus, non stop bottom pain\nAnal fistula\nBloody diarrhoea with clear slime, feeling and being sick\nTummy bug (gastroenteritis)\nBloody\ndiarrhoea\n, tummy cramps and pain, feeling bloated\nAn\ninflammatory bowel disease (IBD)\nlike ulcerative colitis or Crohn's disease\nBlood in poo\nBleeding in the anus, bowel or lower gut from injury or another problem\nBlood in poo, change in pooing habits (like looser poo, diarrhoea or\nconstipation\n), slime with poo\nBowel polyps\n, early signs of\nbowel cancer\nVery dark or black blood or poo\nPoo can look very dark or black if you:\ntake iron tablets\neat a lot of dark foods like liquorice and blueberries\nBut it's sometimes a sign of something else. A GP can do a test to check this if you're worried.\nPossible causes of very dark or black blood coming from your bottom\nSymptoms\nPossible causes\nDark or black poo\nBleeding in the stomach or gut – can be from injury or a side effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin\nDark blood or poo with tummy pain or cramps\nStomach ulcer\nDark blood without pain\nSide effect of medicine to help prevent blood clots like warfarin and apixaban (\nanticoagulants\n) or aspirin\nPage last reviewed: 12 April 2023\nNext review due: 12 April 2026",
+  "links": [
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "rectal examination",
+      "url": "https://www.nhs.uk/tests-and-treatments/rectal-examination/"
+    },
+    {
+      "text": "Piles (haemorrhoids)",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+    },
+    {
+      "text": "constipation",
+      "url": "https://www.nhs.uk/conditions/constipation/"
+    },
+    {
+      "text": "anal fissure",
+      "url": "https://www.nhs.uk/conditions/anal-fissure/"
+    },
+    {
+      "text": "Sexually transmitted infections (STIs)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "anticoagulants",
+      "url": "https://www.nhs.uk/medicines/anticoagulants/"
+    },
+    {
+      "text": "Anal fistula",
+      "url": "https://www.nhs.uk/conditions/anal-fistula/"
+    },
+    {
+      "text": "diarrhoea",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+    },
+    {
+      "text": "inflammatory bowel disease (IBD)",
+      "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/"
+    },
+    {
+      "text": "constipation",
+      "url": "https://www.nhs.uk/conditions/constipation/"
+    },
+    {
+      "text": "Bowel polyps",
+      "url": "https://www.nhs.uk/conditions/bowel-polyps/"
+    },
+    {
+      "text": "bowel cancer",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer/"
+    },
+    {
+      "text": "anticoagulants",
+      "url": "https://www.nhs.uk/medicines/anticoagulants/"
+    },
+    {
+      "text": "Stomach ulcer",
+      "url": "https://www.nhs.uk/conditions/stomach-ulcer-old/"
+    },
+    {
+      "text": "anticoagulants",
+      "url": "https://www.nhs.uk/medicines/anticoagulants/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"e88rk\"><b>A small amount of one-off bleeding from the bottom is not usually a serious problem. But a GP can check.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Signs of bleeding from the bottom</h2>\n<p data-block-key=\"5eq5o\">You might be bleeding from the bottom if you have:</p><ul><li data-block-key=\"09gp1\">blood on your toilet paper</li><li data-block-key=\"q0jpw\">red streaks on the outside of your poo</li><li data-block-key=\"gsmvk\">pink water in the toilet bowl</li><li data-block-key=\"6srd2\">blood in your poo or bloody diarrhoea</li><li data-block-key=\"5fn89\">very dark poo (this can be blood mixed in poo)</li></ul><p data-block-key=\"1sxc8\">A small amount of one-off bleeding can often go away on its own without needing treatment.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"e4tty\">your child has blood in their poo</li><li data-block-key=\"a71fo\">you've had blood in your poo for 3 weeks</li><li data-block-key=\"lp7c9\">your poo has been softer, thinner or longer than normal for 3 weeks</li><li data-block-key=\"zlscl\">you're in a lot of pain around the bottom</li><li data-block-key=\"ael0b\">you have a pain or lump in your tummy</li><li data-block-key=\"l2y9f\">you've been more tired than usual</li><li data-block-key=\"kf0zp\">you've lost weight for no reason</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bp4wp\">your poo is black or dark red</li><li data-block-key=\"c96qc\">you have bloody diarrhoea</li></ul><p data-block-key=\"17sq\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bp4wp\">you're bleeding non-stop</li><li data-block-key=\"9p0hf\">there's a lot of blood – for example, the toilet water turns red or you see large blood clots</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at the GP appointment</h2>\n<p data-block-key=\"0sjbr\">If you have bleeding from your bottom, a GP will check what's causing it.</p><p data-block-key=\"l95hb\">They might:</p><ul><li data-block-key=\"6xtlg\">check your bottom (rectum) with a gloved finger (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>)</li><li data-block-key=\"5loen\">ask for a sample of poo for testing</li><li data-block-key=\"4kjii\">refer you to a specialist for tests</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Bowel cancer risk\n        </span>\n</h3>\n<p data-block-key=\"zzv3b\">Bleeding from the bottom is sometimes a sign of bowel cancer.</p><p data-block-key=\"rrd6a\">This is easier to treat if it's found early, so it's important to get it checked.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of bleeding from the bottom</h2>\n<p data-block-key=\"jtwwt\">If you have other symptoms, this might give you an idea of the cause.</p><p data-block-key=\"0stah\">Do not self-diagnose. See a GP if you're worried.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Bright red blood on toilet paper, streaks on poo, pink toilet water\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of bright red rectal bleeding</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"y7cwt\">Bright red blood and pain when pooing, itchy bottom, lumps</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"y7cwt\"><a href=\"/conditions/piles-haemorrhoids/\">Piles (haemorrhoids)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bright red blood and pain when pooing – often after <a href=\"/conditions/constipation/\">constipation</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">A small tear in your anus (<a href=\"/conditions/anal-fissure/\">anal fissure</a>)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding with or without lumps, itching or pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/sexually-transmitted-infections-stis/\">Sexually transmitted infections (STIs)</a> like genital warts, damage from anal sex</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bright red blood without pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin. Broken blood vessels in the gut (angiodysplasia)</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Blood in poo or blood with slime\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"b9pnl\">Poo can look like it's mixed with blood if you've eaten a lot of red or purple foods like tomatoes and beetroot.</p><p data-block-key=\"urfu0\">But it's sometimes a sign of something else. A GP can check if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of slime or blood in your poo</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood and yellow slime when pooing, irritated anus, non stop bottom pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/anal-fistula/\">Anal fistula</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bloody diarrhoea with clear slime, feeling and being sick</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Tummy bug (gastroenteritis)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bloody <a href=\"/symptoms/diarrhoea-and-vomiting/\">diarrhoea</a>, tummy cramps and pain, feeling bloated</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">An <a href=\"/conditions/inflammatory-bowel-disease/\">inflammatory bowel disease (IBD)</a> like ulcerative colitis or Crohn's disease</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood in poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding in the anus, bowel or lower gut from injury or another problem</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Blood in poo, change in pooing habits (like looser poo, diarrhoea or <a href=\"/conditions/constipation/\">constipation</a>), slime with poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/bowel-polyps/\">Bowel polyps</a>, early signs of <a href=\"/conditions/bowel-cancer/\">bowel cancer</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Very dark or black blood or poo\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"w72dd\">Poo can look very dark or black if you:</p><ul><li data-block-key=\"fh55p\">take iron tablets</li><li data-block-key=\"wdkvl\">eat a lot of dark foods like liquorice and blueberries</li></ul><p data-block-key=\"9mito\">But it's sometimes a sign of something else. A GP can do a test to check this if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of very dark or black blood coming from your bottom</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark or black poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Bleeding in the stomach or gut – can be from injury or a side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark blood or poo with tummy pain or cramps</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\"><a href=\"/conditions/stomach-ulcer-old/\">Stomach ulcer</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Dark blood without pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"drsi3\">Side effect of medicine to help prevent blood clots like warfarin and apixaban (<a href=\"/medicines/anticoagulants/\">anticoagulants</a>) or aspirin</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 April 2023<br/>\n    Next review due: 12 April 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

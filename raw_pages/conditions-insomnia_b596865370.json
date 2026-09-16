@@ -1,0 +1,637 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/insomnia/",
+  "final_url": "https://www.nhs.uk/conditions/insomnia/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:01.752378+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "I",
+      "label": "Insomnia",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Insomnia",
+  "meta_description": "Find out about insomnia, including why it might happen and how to treat it.",
+  "review_dates": {
+    "page_last_reviewed": "19 March 2024",
+    "next_review_due": "19 March 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about insomnia, including why it might happen and how to treat it."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/insomnia/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nInsomnia\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about insomnia, including why it might happen and how to treat it."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "12 Mar 2026, 11:48 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 8:59 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Insomnia"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/insomnia/",
+              "genre": [
+                "Condition"
+              ],
+              "name": "Insomnia"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-03-12T11:48:46+00:00",
+      "description": "Find out about insomnia, including why it might happen and how to treat it.",
+      "genre": [
+        "Condition"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of insomnia include finding it hard to fall asleep, waking up several times during the night and feeling tired during the day.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You have insomnia if you regularly:</p><ul><li>find it hard to go to sleep</li><li>wake up several times during the night</li><li>lie awake at night</li><li>wake up early and cannot go back to sleep</li><li>still feel tired after waking up</li><li>find it hard to nap during the day even though you're tired</li><li>feel tired and irritable during the day</li><li>find it difficult to concentrate during the day because you're tired</li></ul><p>If you have insomnia for a short time (less than 3 months) it's called short-term insomnia. Insomnia that lasts 3 months or longer is called long-term insomnia.</p>"
+            }
+          ],
+          "headline": "Symptoms of insomnia",
+          "url": "https://www.nhs.uk/conditions/insomnia/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of insomnia include stress, anxiety, too much noise at night, your bedroom being too hot or cold and drinks containing caffeine.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The most common causes of insomnia are:</p><ul><li>stress, anxiety or depression</li><li>noise</li><li>a room that's too hot or cold</li><li>uncomfortable beds</li><li>alcohol, caffeine or nicotine</li><li>illegal drugs like cocaine or ecstasy</li><li>jet lag</li><li>shift work</li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Conditions and other things that can cause insomnia",
+              "text": "<div class=\"block-richtext\">\n<h3>Conditions and medicines that can cause insomnia:</h3><ul><li>mental health conditions, such as schizophrenia or bipolar disorder</li><li>Alzheimer's disease or Parkinson's disease</li><li><a href=\"/conditions/restless-legs-syndrome/\">restless legs syndrome</a></li><li><a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li><a href=\"/conditions/menopause/\">menopause</a></li></ul><p>Many medicines can also cause insomnia.</p><h3>Things that keep you from getting a good night's sleep:</h3><ul><li>long-term pain</li><li>sleepwalking</li><li>snoring or interrupted breathing while sleeping (<a href=\"/conditions/sleep-apnoea/\">sleep apnoea</a>)</li><li>suddenly falling asleep anywhere (<a href=\"/conditions/narcolepsy/\">narcolepsy</a>)</li><li><a href=\"/conditions/night-terrors/\">nightmares or night terrors</a> (particularly in children)</li></ul>\n</div>"
+            }
+          ],
+          "headline": "What causes insomnia",
+          "url": "https://www.nhs.uk/conditions/insomnia/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can help improve insomnia by making changes to your sleep habits, such as having a bedtime routine and not eating or drinking shortly before bed.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Insomnia usually gets better by changing your sleeping habits.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>only go to bed when you're sleepy</p></li><li><p>wake up and get out of bed at the same time every day</p></li><li><p>relax at least 1 hour before bed – for example, take a bath or read a book</p></li><li><p>make sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed</p></li><li><p>exercise regularly during the day</p></li><li><p>make sure your mattress, pillows and covers are comfortable</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed</p></li><li><p>do not eat a big meal late at night</p></li><li><p>do not exercise at least 4 hours before bed</p></li><li><p>do not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake</p></li><li><p>do not nap during the day</p></li><li><p>do not drive when you feel sleepy</p></li><li><p>do not sleep in after a bad night's sleep – stick to your regular sleeping hours instead</p></li></ul>"
+            }
+          ],
+          "headline": "How you can treat insomnia yourself",
+          "url": "https://www.nhs.uk/conditions/insomnia/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  changing your sleeping habits has not helped your insomnia\n </li>\n<li>\n  you've had trouble sleeping for months\n </li>\n<li>\n  your insomnia is affecting your daily life in a way that makes it hard for you to cope\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/insomnia/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Insomnia is sometimes treated with cognitive behavioural therapy (CBT). Sleeping pills are rarely used.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP will try to find out what's causing your insomnia so you get the right treatment.</p><p>Sometimes you'll be offered <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a>. This may be face-to-face with a therapist, or through an online self-help programme.</p><p>This can help you change the thoughts and behaviours that keep you from sleeping.</p><p>You may be referred to a sleep clinic if you have symptoms of another sleep disorder such as sleep apnoea.</p><p>GPs now rarely prescribe sleeping pills to treat insomnia. Sleeping pills can have serious side effects and you can become dependent on them.</p><p>Sleeping pills are only prescribed for a few days, or weeks at the most, if:</p><ul><li>your insomnia is very bad</li><li>other treatments have not worked</li></ul>"
+            }
+          ],
+          "headline": "Treatment from a GP for insomnia",
+          "url": "https://www.nhs.uk/conditions/insomnia/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Insomnia is difficulty falling asleep or staying asleep.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Insomnia",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Insomnia",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Insomnia",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Insomnia",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of insomnia include finding it hard to fall asleep, waking up several times during the night and feeling tired during the day.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of insomnia include stress, anxiety, too much noise at night, your bedroom being too hot or cold and drinks containing caffeine.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can help improve insomnia by making changes to your sleep habits, such as having a bedtime routine and not eating or drinking shortly before bed.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Insomnia is sometimes treated with cognitive behavioural therapy (CBT). Sleeping pills are rarely used.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/insomnia/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-03-19T12:00:00+00:00",
+        "2027-03-19T12:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Insomnia",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Insomnia",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/insomnia/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/insomnia/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of insomnia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of insomnia"
+        }
+      ],
+      "text": "Symptoms of insomnia\nYou have insomnia if you regularly:\nfind it hard to go to sleep\nwake up several times during the night\nlie awake at night\nwake up early and cannot go back to sleep\nstill feel tired after waking up\nfind it hard to nap during the day even though you're tired\nfeel tired and irritable during the day\nfind it difficult to concentrate during the day because you're tired\nIf you have insomnia for a short time (less than 3 months) it's called short-term insomnia. Insomnia that lasts 3 months or longer is called long-term insomnia.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "find it hard to go to sleep",
+            "wake up several times during the night",
+            "lie awake at night",
+            "wake up early and cannot go back to sleep",
+            "still feel tired after waking up",
+            "find it hard to nap during the day even though you're tired",
+            "feel tired and irritable during the day",
+            "find it difficult to concentrate during the day because you're tired"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of insomnia</h2>\n<p data-block-key=\"v4b4m\">You have insomnia if you regularly:</p><ul><li data-block-key=\"zsxlt\">find it hard to go to sleep</li><li data-block-key=\"9jiyu\">wake up several times during the night</li><li data-block-key=\"ngmsc\">lie awake at night</li><li data-block-key=\"hi51f\">wake up early and cannot go back to sleep</li><li data-block-key=\"f9tkr\">still feel tired after waking up</li><li data-block-key=\"uxx2y\">find it hard to nap during the day even though you're tired</li><li data-block-key=\"qg9hx\">feel tired and irritable during the day</li><li data-block-key=\"xffpp\">find it difficult to concentrate during the day because you're tired</li></ul><p data-block-key=\"xhcpo\">If you have insomnia for a short time (less than 3 months) it's called short-term insomnia. Insomnia that lasts 3 months or longer is called long-term insomnia.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How much sleep you need",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How much sleep you need"
+        }
+      ],
+      "text": "How much sleep you need\nEveryone needs different amounts of sleep.\nOn average:\nadults need 7 to 9 hours\nchildren need 9 to 13 hours\ntoddlers and babies need 12 to 17 hours\nYou probably do not get enough sleep if you're constantly tired during the day.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "adults need 7 to 9 hours",
+            "children need 9 to 13 hours",
+            "toddlers and babies need 12 to 17 hours"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2>How much sleep you need</h2>\n<p data-block-key=\"xipf3\">Everyone needs different amounts of sleep.</p><p data-block-key=\"cs8wy\">On average:</p><ul><li data-block-key=\"xexku\">adults need 7 to 9 hours</li><li data-block-key=\"dsdth\">children need 9 to 13 hours</li><li data-block-key=\"2bn0u\">toddlers and babies need 12 to 17 hours</li></ul><p data-block-key=\"jei41\">You probably do not get enough sleep if you're constantly tired during the day.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "What causes insomnia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What causes insomnia"
+        },
+        {
+          "level": "h3",
+          "text": "Conditions and medicines that can cause insomnia:"
+        },
+        {
+          "level": "h3",
+          "text": "Things that keep you from getting a good night's sleep:"
+        }
+      ],
+      "text": "What causes insomnia\nThe most common causes of insomnia are:\nstress, anxiety or depression\nnoise\na room that's too hot or cold\nuncomfortable beds\nalcohol, caffeine or nicotine\nillegal drugs like cocaine or ecstasy\njet lag\nshift work\nConditions and other things that can cause insomnia\nConditions and medicines that can cause insomnia:\nmental health conditions, such as schizophrenia or bipolar disorder\nAlzheimer's disease or Parkinson's disease\nrestless legs syndrome\noveractive thyroid\nmenopause\nMany medicines can also cause insomnia.\nThings that keep you from getting a good night's sleep:\nlong-term pain\nsleepwalking\nsnoring or interrupted breathing while sleeping (\nsleep apnoea\n)\nsuddenly falling asleep anywhere (\nnarcolepsy\n)\nnightmares or night terrors\n(particularly in children)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stress, anxiety or depression",
+            "noise",
+            "a room that's too hot or cold",
+            "uncomfortable beds",
+            "alcohol, caffeine or nicotine",
+            "illegal drugs like cocaine or ecstasy",
+            "jet lag",
+            "shift work"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "mental health conditions, such as schizophrenia or bipolar disorder",
+            "Alzheimer's disease or Parkinson's disease",
+            "restless legs syndrome",
+            "overactive thyroid",
+            "menopause"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "long-term pain",
+            "sleepwalking",
+            "snoring or interrupted breathing while sleeping (\nsleep apnoea\n)",
+            "suddenly falling asleep anywhere (\nnarcolepsy\n)",
+            "nightmares or night terrors\n(particularly in children)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "restless legs syndrome",
+          "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"
+        },
+        {
+          "text": "overactive thyroid",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        },
+        {
+          "text": "sleep apnoea",
+          "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+        },
+        {
+          "text": "narcolepsy",
+          "url": "https://www.nhs.uk/conditions/narcolepsy/"
+        },
+        {
+          "text": "nightmares or night terrors",
+          "url": "https://www.nhs.uk/conditions/night-terrors/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">What causes insomnia</h2>\n<p data-block-key=\"04qyi\">The most common causes of insomnia are:</p><ul><li data-block-key=\"60psb\">stress, anxiety or depression</li><li data-block-key=\"ena9r\">noise</li><li data-block-key=\"oqn53\">a room that's too hot or cold</li><li data-block-key=\"a6d0h\">uncomfortable beds</li><li data-block-key=\"rqn2u\">alcohol, caffeine or nicotine</li><li data-block-key=\"kgfq9\">illegal drugs like cocaine or ecstasy</li><li data-block-key=\"utcds\">jet lag</li><li data-block-key=\"kv723\">shift work</li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Conditions and other things that can cause insomnia\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<h3 data-block-key=\"307qv\">Conditions and medicines that can cause insomnia:</h3><ul><li data-block-key=\"4ktrl\">mental health conditions, such as schizophrenia or bipolar disorder</li><li data-block-key=\"81in\">Alzheimer's disease or Parkinson's disease</li><li data-block-key=\"8hnaj\"><a href=\"/conditions/restless-legs-syndrome/\">restless legs syndrome</a></li><li data-block-key=\"26h9p\"><a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li data-block-key=\"fj8dg\"><a href=\"/conditions/menopause/\">menopause</a></li></ul><p data-block-key=\"5316b\">Many medicines can also cause insomnia.</p><h3 data-block-key=\"44u7r\">Things that keep you from getting a good night's sleep:</h3><ul><li data-block-key=\"4el8m\">long-term pain</li><li data-block-key=\"3i7g8\">sleepwalking</li><li data-block-key=\"5mogm\">snoring or interrupted breathing while sleeping (<a href=\"/conditions/sleep-apnoea/\">sleep apnoea</a>)</li><li data-block-key=\"crvrr\">suddenly falling asleep anywhere (<a href=\"/conditions/narcolepsy/\">narcolepsy</a>)</li><li data-block-key=\"fl4lg\"><a href=\"/conditions/night-terrors/\">nightmares or night terrors</a> (particularly in children)</li></ul>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "How you can treat insomnia yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can treat insomnia yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How you can treat insomnia yourself\nInsomnia usually gets better by changing your sleeping habits.\nDo\nonly go to bed when you're sleepy\nwake up and get out of bed at the same time every day\nrelax at least 1 hour before bed – for example, take a bath or read a book\nmake sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed\nexercise regularly during the day\nmake sure your mattress, pillows and covers are comfortable\nDon’t\ndo not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed\ndo not eat a big meal late at night\ndo not exercise at least 4 hours before bed\ndo not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake\ndo not nap during the day\ndo not drive when you feel sleepy\ndo not sleep in after a bad night's sleep – stick to your regular sleeping hours instead",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "only go to bed when you're sleepy",
+            "wake up and get out of bed at the same time every day",
+            "relax at least 1 hour before bed – for example, take a bath or read a book",
+            "make sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed",
+            "exercise regularly during the day",
+            "make sure your mattress, pillows and covers are comfortable"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed",
+            "do not eat a big meal late at night",
+            "do not exercise at least 4 hours before bed",
+            "do not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake",
+            "do not nap during the day",
+            "do not drive when you feel sleepy",
+            "do not sleep in after a bad night's sleep – stick to your regular sleeping hours instead"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">How you can treat insomnia yourself</h2>\n<p data-block-key=\"hlaif\">Insomnia usually gets better by changing your sleeping habits.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nj32x\">only go to bed when you're sleepy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nj32x\">wake up and get out of bed at the same time every day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t55os\">relax at least 1 hour before bed – for example, take a bath or read a book</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"h4vna\">make sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mv0ox\">exercise regularly during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"56u1n\">make sure your mattress, pillows and covers are comfortable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fp360\">do not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"glhte\">do not eat a big meal late at night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"urmyl\">do not exercise at least 4 hours before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5qqpe\">do not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ntf0w\">do not nap during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"75c44\">do not drive when you feel sleepy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"38hgw\">do not sleep in after a bad night's sleep – stick to your regular sleeping hours instead</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "How a pharmacist can help with insomnia",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "How a pharmacist can help with insomnia"
+        }
+      ],
+      "text": "How a pharmacist can help with insomnia\nYou can buy tablets or liquids (sometimes called sleeping aids) from a pharmacy that may help you sleep better.\nSome contain natural ingredients such as valerian or lavender, while others contain an\nantihistamine\n.\nThey cannot cure insomnia but may help you sleep better for 1 to 2 weeks. They should not be taken for any longer.\nSome of these products can have side effects, for instance, they may make you drowsy. This could make it difficult for you to do certain things like drive.\nCheck with your doctor before taking anything for your sleep problems.",
+      "lists": [],
+      "links": [
+        {
+          "text": "antihistamine",
+          "url": "https://www.nhs.uk/medicines/antihistamines/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"rqc9d\">How a pharmacist can help with insomnia</h3><p data-block-key=\"csv6o\">You can buy tablets or liquids (sometimes called sleeping aids) from a pharmacy that may help you sleep better.</p><p data-block-key=\"558hv\">Some contain natural ingredients such as valerian or lavender, while others contain an <a href=\"/medicines/antihistamines/\">antihistamine</a>.</p><p data-block-key=\"2kga4\">They cannot cure insomnia but may help you sleep better for 1 to 2 weeks. They should not be taken for any longer.</p><p data-block-key=\"bbdh3\">Some of these products can have side effects, for instance, they may make you drowsy. This could make it difficult for you to do certain things like drive.</p><p data-block-key=\"4srer\">Check with your doctor before taking anything for your sleep problems.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nchanging your sleeping habits has not helped your insomnia\nyou've had trouble sleeping for months\nyour insomnia is affecting your daily life in a way that makes it hard for you to cope",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "changing your sleeping habits has not helped your insomnia",
+            "you've had trouble sleeping for months",
+            "your insomnia is affecting your daily life in a way that makes it hard for you to cope"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"tj2af\">changing your sleeping habits has not helped your insomnia</li><li data-block-key=\"0a4z3\">you've had trouble sleeping for months</li><li data-block-key=\"5r64y\">your insomnia is affecting your daily life in a way that makes it hard for you to cope</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Treatment from a GP for insomnia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment from a GP for insomnia"
+        }
+      ],
+      "text": "Treatment from a GP for insomnia\nA GP will try to find out what's causing your insomnia so you get the right treatment.\nSometimes you'll be offered\ncognitive behavioural therapy (CBT)\n. This may be face-to-face with a therapist, or through an online self-help programme.\nThis can help you change the thoughts and behaviours that keep you from sleeping.\nYou may be referred to a sleep clinic if you have symptoms of another sleep disorder such as sleep apnoea.\nGPs now rarely prescribe sleeping pills to treat insomnia. Sleeping pills can have serious side effects and you can become dependent on them.\nSleeping pills are only prescribed for a few days, or weeks at the most, if:\nyour insomnia is very bad\nother treatments have not worked",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your insomnia is very bad",
+            "other treatments have not worked"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment from a GP for insomnia</h2>\n<p data-block-key=\"qvrfb\">A GP will try to find out what's causing your insomnia so you get the right treatment.</p><p data-block-key=\"7yhnn\">Sometimes you'll be offered <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a>. This may be face-to-face with a therapist, or through an online self-help programme.</p><p data-block-key=\"ulhz3\">This can help you change the thoughts and behaviours that keep you from sleeping.</p><p data-block-key=\"pe6ez\">You may be referred to a sleep clinic if you have symptoms of another sleep disorder such as sleep apnoea.</p><p data-block-key=\"ddy5w\">GPs now rarely prescribe sleeping pills to treat insomnia. Sleeping pills can have serious side effects and you can become dependent on them.</p><p data-block-key=\"l57qb\">Sleeping pills are only prescribed for a few days, or weeks at the most, if:</p><ul><li data-block-key=\"sbmb4\">your insomnia is very bad</li><li data-block-key=\"6wt7p\">other treatments have not worked</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of insomnia\nYou have insomnia if you regularly:\nfind it hard to go to sleep\nwake up several times during the night\nlie awake at night\nwake up early and cannot go back to sleep\nstill feel tired after waking up\nfind it hard to nap during the day even though you're tired\nfeel tired and irritable during the day\nfind it difficult to concentrate during the day because you're tired\nIf you have insomnia for a short time (less than 3 months) it's called short-term insomnia. Insomnia that lasts 3 months or longer is called long-term insomnia.\nHow much sleep you need\nEveryone needs different amounts of sleep.\nOn average:\nadults need 7 to 9 hours\nchildren need 9 to 13 hours\ntoddlers and babies need 12 to 17 hours\nYou probably do not get enough sleep if you're constantly tired during the day.\nWhat causes insomnia\nThe most common causes of insomnia are:\nstress, anxiety or depression\nnoise\na room that's too hot or cold\nuncomfortable beds\nalcohol, caffeine or nicotine\nillegal drugs like cocaine or ecstasy\njet lag\nshift work\nConditions and other things that can cause insomnia\nConditions and medicines that can cause insomnia:\nmental health conditions, such as schizophrenia or bipolar disorder\nAlzheimer's disease or Parkinson's disease\nrestless legs syndrome\noveractive thyroid\nmenopause\nMany medicines can also cause insomnia.\nThings that keep you from getting a good night's sleep:\nlong-term pain\nsleepwalking\nsnoring or interrupted breathing while sleeping (\nsleep apnoea\n)\nsuddenly falling asleep anywhere (\nnarcolepsy\n)\nnightmares or night terrors\n(particularly in children)\nHow you can treat insomnia yourself\nInsomnia usually gets better by changing your sleeping habits.\nDo\nonly go to bed when you're sleepy\nwake up and get out of bed at the same time every day\nrelax at least 1 hour before bed – for example, take a bath or read a book\nmake sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed\nexercise regularly during the day\nmake sure your mattress, pillows and covers are comfortable\nDon’t\ndo not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed\ndo not eat a big meal late at night\ndo not exercise at least 4 hours before bed\ndo not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake\ndo not nap during the day\ndo not drive when you feel sleepy\ndo not sleep in after a bad night's sleep – stick to your regular sleeping hours instead\nHow a pharmacist can help with insomnia\nYou can buy tablets or liquids (sometimes called sleeping aids) from a pharmacy that may help you sleep better.\nSome contain natural ingredients such as valerian or lavender, while others contain an\nantihistamine\n.\nThey cannot cure insomnia but may help you sleep better for 1 to 2 weeks. They should not be taken for any longer.\nSome of these products can have side effects, for instance, they may make you drowsy. This could make it difficult for you to do certain things like drive.\nCheck with your doctor before taking anything for your sleep problems.\nNon-urgent advice:\nSee a GP if:\nchanging your sleeping habits has not helped your insomnia\nyou've had trouble sleeping for months\nyour insomnia is affecting your daily life in a way that makes it hard for you to cope\nTreatment from a GP for insomnia\nA GP will try to find out what's causing your insomnia so you get the right treatment.\nSometimes you'll be offered\ncognitive behavioural therapy (CBT)\n. This may be face-to-face with a therapist, or through an online self-help programme.\nThis can help you change the thoughts and behaviours that keep you from sleeping.\nYou may be referred to a sleep clinic if you have symptoms of another sleep disorder such as sleep apnoea.\nGPs now rarely prescribe sleeping pills to treat insomnia. Sleeping pills can have serious side effects and you can become dependent on them.\nSleeping pills are only prescribed for a few days, or weeks at the most, if:\nyour insomnia is very bad\nother treatments have not worked\nPage last reviewed: 19 March 2024\nNext review due: 19 March 2027",
+  "links": [
+    {
+      "text": "restless legs syndrome",
+      "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"
+    },
+    {
+      "text": "overactive thyroid",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "sleep apnoea",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+    },
+    {
+      "text": "narcolepsy",
+      "url": "https://www.nhs.uk/conditions/narcolepsy/"
+    },
+    {
+      "text": "nightmares or night terrors",
+      "url": "https://www.nhs.uk/conditions/night-terrors/"
+    },
+    {
+      "text": "antihistamine",
+      "url": "https://www.nhs.uk/medicines/antihistamines/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of insomnia</h2>\n<p data-block-key=\"v4b4m\">You have insomnia if you regularly:</p><ul><li data-block-key=\"zsxlt\">find it hard to go to sleep</li><li data-block-key=\"9jiyu\">wake up several times during the night</li><li data-block-key=\"ngmsc\">lie awake at night</li><li data-block-key=\"hi51f\">wake up early and cannot go back to sleep</li><li data-block-key=\"f9tkr\">still feel tired after waking up</li><li data-block-key=\"uxx2y\">find it hard to nap during the day even though you're tired</li><li data-block-key=\"qg9hx\">feel tired and irritable during the day</li><li data-block-key=\"xffpp\">find it difficult to concentrate during the day because you're tired</li></ul><p data-block-key=\"xhcpo\">If you have insomnia for a short time (less than 3 months) it's called short-term insomnia. Insomnia that lasts 3 months or longer is called long-term insomnia.</p>\n</section>\n<section>\n<h2>How much sleep you need</h2>\n<p data-block-key=\"xipf3\">Everyone needs different amounts of sleep.</p><p data-block-key=\"cs8wy\">On average:</p><ul><li data-block-key=\"xexku\">adults need 7 to 9 hours</li><li data-block-key=\"dsdth\">children need 9 to 13 hours</li><li data-block-key=\"2bn0u\">toddlers and babies need 12 to 17 hours</li></ul><p data-block-key=\"jei41\">You probably do not get enough sleep if you're constantly tired during the day.</p>\n</section>\n<section>\n<h2 id=\"causes\">What causes insomnia</h2>\n<p data-block-key=\"04qyi\">The most common causes of insomnia are:</p><ul><li data-block-key=\"60psb\">stress, anxiety or depression</li><li data-block-key=\"ena9r\">noise</li><li data-block-key=\"oqn53\">a room that's too hot or cold</li><li data-block-key=\"a6d0h\">uncomfortable beds</li><li data-block-key=\"rqn2u\">alcohol, caffeine or nicotine</li><li data-block-key=\"kgfq9\">illegal drugs like cocaine or ecstasy</li><li data-block-key=\"utcds\">jet lag</li><li data-block-key=\"kv723\">shift work</li></ul>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Conditions and other things that can cause insomnia\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<h3 data-block-key=\"307qv\">Conditions and medicines that can cause insomnia:</h3><ul><li data-block-key=\"4ktrl\">mental health conditions, such as schizophrenia or bipolar disorder</li><li data-block-key=\"81in\">Alzheimer's disease or Parkinson's disease</li><li data-block-key=\"8hnaj\"><a href=\"/conditions/restless-legs-syndrome/\">restless legs syndrome</a></li><li data-block-key=\"26h9p\"><a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a></li><li data-block-key=\"fj8dg\"><a href=\"/conditions/menopause/\">menopause</a></li></ul><p data-block-key=\"5316b\">Many medicines can also cause insomnia.</p><h3 data-block-key=\"44u7r\">Things that keep you from getting a good night's sleep:</h3><ul><li data-block-key=\"4el8m\">long-term pain</li><li data-block-key=\"3i7g8\">sleepwalking</li><li data-block-key=\"5mogm\">snoring or interrupted breathing while sleeping (<a href=\"/conditions/sleep-apnoea/\">sleep apnoea</a>)</li><li data-block-key=\"crvrr\">suddenly falling asleep anywhere (<a href=\"/conditions/narcolepsy/\">narcolepsy</a>)</li><li data-block-key=\"fl4lg\"><a href=\"/conditions/night-terrors/\">nightmares or night terrors</a> (particularly in children)</li></ul>\n</div>\n</details>\n</section>\n<section>\n<h2 id=\"self-care\">How you can treat insomnia yourself</h2>\n<p data-block-key=\"hlaif\">Insomnia usually gets better by changing your sleeping habits.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nj32x\">only go to bed when you're sleepy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nj32x\">wake up and get out of bed at the same time every day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t55os\">relax at least 1 hour before bed – for example, take a bath or read a book</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"h4vna\">make sure your bedroom is dark and quiet – use curtains, blinds, an eye mask or ear plugs if needed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"mv0ox\">exercise regularly during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"56u1n\">make sure your mattress, pillows and covers are comfortable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fp360\">do not smoke or drink alcohol, tea or coffee at least 6 hours before going to bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"glhte\">do not eat a big meal late at night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"urmyl\">do not exercise at least 4 hours before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5qqpe\">do not watch television or use devices, like smartphones, right before going to bed, because the blue light makes you more awake</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ntf0w\">do not nap during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"75c44\">do not drive when you feel sleepy</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"38hgw\">do not sleep in after a bad night's sleep – stick to your regular sleeping hours instead</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"rqc9d\">How a pharmacist can help with insomnia</h3><p data-block-key=\"csv6o\">You can buy tablets or liquids (sometimes called sleeping aids) from a pharmacy that may help you sleep better.</p><p data-block-key=\"558hv\">Some contain natural ingredients such as valerian or lavender, while others contain an <a href=\"/medicines/antihistamines/\">antihistamine</a>.</p><p data-block-key=\"2kga4\">They cannot cure insomnia but may help you sleep better for 1 to 2 weeks. They should not be taken for any longer.</p><p data-block-key=\"bbdh3\">Some of these products can have side effects, for instance, they may make you drowsy. This could make it difficult for you to do certain things like drive.</p><p data-block-key=\"4srer\">Check with your doctor before taking anything for your sleep problems.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"tj2af\">changing your sleeping habits has not helped your insomnia</li><li data-block-key=\"0a4z3\">you've had trouble sleeping for months</li><li data-block-key=\"5r64y\">your insomnia is affecting your daily life in a way that makes it hard for you to cope</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment from a GP for insomnia</h2>\n<p data-block-key=\"qvrfb\">A GP will try to find out what's causing your insomnia so you get the right treatment.</p><p data-block-key=\"7yhnn\">Sometimes you'll be offered <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a>. This may be face-to-face with a therapist, or through an online self-help programme.</p><p data-block-key=\"ulhz3\">This can help you change the thoughts and behaviours that keep you from sleeping.</p><p data-block-key=\"pe6ez\">You may be referred to a sleep clinic if you have symptoms of another sleep disorder such as sleep apnoea.</p><p data-block-key=\"ddy5w\">GPs now rarely prescribe sleeping pills to treat insomnia. Sleeping pills can have serious side effects and you can become dependent on them.</p><p data-block-key=\"l57qb\">Sleeping pills are only prescribed for a few days, or weeks at the most, if:</p><ul><li data-block-key=\"sbmb4\">your insomnia is very bad</li><li data-block-key=\"6wt7p\">other treatments have not worked</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 19 March 2024<br/>\n    Next review due: 19 March 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

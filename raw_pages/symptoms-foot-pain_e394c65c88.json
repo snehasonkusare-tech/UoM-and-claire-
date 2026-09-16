@@ -1,0 +1,272 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/foot-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/foot-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:44.997126+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Foot pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Foot pain",
+  "meta_description": "Get information and advice about different types of foot pain, including ankle pain, heel pain and toe pain.",
+  "review_dates": {
+    "page_last_reviewed": "",
+    "next_review_due": ""
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Get information and advice about different types of foot pain, including ankle pain, heel pain and toe pain."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/foot-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Foot pain"
+    },
+    {
+      "key": "og:description",
+      "content": "Get information and advice about different types of foot pain, including ankle pain, heel pain and toe pain."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:06 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 1:58 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Foot pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/foot-pain/",
+              "genre": [],
+              "name": "Foot pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:06:07+00:00",
+      "description": "Choose which area of your foot hurts most to find out about treatments, when to get medical help and possible causes.",
+      "genre": [],
+      "hasPart": [],
+      "headline": "Foot pain",
+      "keywords": "",
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Foot pain",
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Ankle pain\nHeel pain\nToe pain\nPain in the top of the foot\nPain in the bottom of the foot\nPain in the ball of the foot",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Ankle pain",
+            "Heel pain",
+            "Toe pain",
+            "Pain in the top of the foot",
+            "Pain in the bottom of the foot",
+            "Pain in the ball of the foot"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Ankle pain",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/ankle-pain/"
+        },
+        {
+          "text": "Heel pain",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/"
+        },
+        {
+          "text": "Toe pain",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/toe-pain/"
+        },
+        {
+          "text": "Pain in the top of the foot",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-top-of-the-foot/"
+        },
+        {
+          "text": "Pain in the bottom of the foot",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/"
+        },
+        {
+          "text": "Pain in the ball of the foot",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-ball-of-the-foot/"
+        }
+      ],
+      "html": "<section class=\"nhsuk-u-reading-width\">\n<ul class=\"nhsuk-hub-key-links beta-hub-key-links\">\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/ankle-pain/\">\n                Ankle pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/heel-pain/\">\n                Heel pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/toe-pain/\">\n                Toe pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-top-of-the-foot/\">\n                Pain in the top of the foot\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/\">\n                Pain in the bottom of the foot\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-ball-of-the-foot/\">\n                Pain in the ball of the foot\n              </a>\n</li>\n</ul>\n</section>"
+    }
+  ],
+  "page_text": "Ankle pain\nHeel pain\nToe pain\nPain in the top of the foot\nPain in the bottom of the foot\nPain in the ball of the foot",
+  "links": [
+    {
+      "text": "Ankle pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/ankle-pain/"
+    },
+    {
+      "text": "Heel pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/heel-pain/"
+    },
+    {
+      "text": "Toe pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/toe-pain/"
+    },
+    {
+      "text": "Pain in the top of the foot",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-top-of-the-foot/"
+    },
+    {
+      "text": "Pain in the bottom of the foot",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/"
+    },
+    {
+      "text": "Pain in the ball of the foot",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-ball-of-the-foot/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<section class=\"nhsuk-u-reading-width\">\n<ul class=\"nhsuk-hub-key-links beta-hub-key-links\">\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/ankle-pain/\">\n                Ankle pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/heel-pain/\">\n                Heel pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/toe-pain/\">\n                Toe pain\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-top-of-the-foot/\">\n                Pain in the top of the foot\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/\">\n                Pain in the bottom of the foot\n              </a>\n</li>\n<li class=\"nhsuk-hub-key-links__list-item beta-hub-key-links__list-item\">\n<a href=\"https://www.nhs.uk/symptoms/foot-pain/pain-in-the-ball-of-the-foot/\">\n                Pain in the ball of the foot\n              </a>\n</li>\n</ul>\n</section>\n<div class=\"nhsuk-u-reading-width nhsuk-u-margin-top-6 beta-hub-after-key-links\">\n</div>\n</article>"
+}

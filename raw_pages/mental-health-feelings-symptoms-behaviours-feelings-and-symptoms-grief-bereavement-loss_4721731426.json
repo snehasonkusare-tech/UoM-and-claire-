@@ -1,0 +1,716 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:46.056934+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "G",
+      "label": "Grief after bereavement or loss",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Grief after bereavement or loss",
+  "meta_description": "Find out about practical tips and advice that can help if you're struggling with bereavement, grief and loss.",
+  "review_dates": {
+    "page_last_reviewed": "14 July 2026",
+    "next_review_due": "14 July 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about practical tips and advice that can help if you're struggling with bereavement, grief and loss."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Get help with grief after bereavement or loss"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about practical tips and advice that can help if you're struggling with bereavement, grief and loss."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "15 Jul 2026, 3:18 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Feb 2021, 11:23 a.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Grief after bereavement or loss"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Grief after bereavement or loss"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-15T14:18:14+00:00",
+      "description": "Find out about practical tips and advice that can help if you're struggling with bereavement, grief and loss.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most people experience grief when they lose something or someone important to them. If these feelings are affecting your life, support is available.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Grief after bereavement or loss",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Grief after bereavement or loss",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Grief after bereavement or loss",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Grief after bereavement or loss",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Grief can cause many different symptoms like shock, numbness, sadness, exhaustion and anger. There's no right or wrong way to feel.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you are grieving, talking to others can bring some comfort. There are also bereavement support organisations, such as Cruse, who can help.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You may feel sad after a bereavement. But if you have depression or anxiety that do not go away you may need treatment.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Feelings of grief and bereavement can be triggered by many things including the end of a relationship and the death of a loved one.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Grief can cause many different symptoms like shock, numbness, sadness, exhaustion and anger. There's no right or wrong way to feel.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Bereavement, grief and loss can cause many different symptoms and they affect people in different ways. There's no right or wrong way to feel.</p><p>As well as bereavement, there are other types of loss such as the end of a relationship or losing a job or home.</p><p>Signs and symptoms of grief can include:</p><ul><li>shock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"</li><li>overwhelming sadness, with lots of crying</li><li>tiredness or exhaustion</li><li>anger – towards the person you've lost or the reason for your loss</li><li>guilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying</li></ul><p>These feelings may not be there all the time and powerful feelings may appear unexpectedly.</p><p>It's not always easy to recognise when bereavement, grief or loss are the reason you're acting or feeling differently.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<listvalue: 'body':=\"\" 'stages=\"\" 0x77dfce411d60=\"\" <streamvalue=\"\" <wagtail.rich_text.richtext=\"\" [<block=\"\" [structvalue({'title':=\"\" at=\"\" bereavement=\"\" grief',=\"\" object=\"\" of=\"\" or=\"\" richtext:=\"\">&gt;]&gt;})]&gt;</listvalue:>"
+            }
+          ],
+          "headline": "Symptoms of bereavement, grief and loss",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you are grieving, talking to others can bring some comfort. There are also bereavement support organisations, such as Cruse, who can help.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try talking about your feelings to a friend, family member, healthcare professional or counsellor</p></li><li><p>consider peer support, where people use their experiences to help each other</p></li><li><p>regular exercise can improve your mood and may help you sleep better</p></li><li><p>eat a healthy diet with regular meals to keep your energy levels stable</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets that you can easily achieve</p></li><li><p>do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p></li><li><p>try not to tell yourself that you're alone – most people feel grief after a loss and support is available</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to help with bereavement, grief and loss",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may feel sad after a bereavement. But if you have depression or anxiety that do not go away you may need treatment.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may feel sad after a bereavement and these feelings should ease gradually with time.</p><p>But if you are feeling increasingly depressed or anxious you may need medical help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you're struggling to cope with stress, anxiety or a low mood\n </li>\n<li>\n  you've had a low mood for more than 2 weeks\n </li>\n<li>\n  things you're trying yourself are not helping\n </li>\n<li>\n  you would prefer to get a referral from a GP\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Feelings of grief and bereavement can be triggered by many things including the end of a relationship and the death of a loved one.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Grief and bereavement are natural responses to loss and can be triggered by many things and not just the death of a loved one.</p><p>You can have feelings of grief after:</p><ul><li>the end of a relationship</li><li>losing a job</li><li>moving to a new place to live</li><li>someone close to you becomes seriously ill</li></ul>"
+            }
+          ],
+          "headline": "Causes of bereavement, grief and loss",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Grieving can cause feelings of sadness that do not get any easier with time. This may be a mental health condition called prolonged grief disorder.",
+          "hasHealthAspect": "http://schema.org/RisksOrComplicationsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>For most people grief after the death of a loved one becomes less intense over time. But for some people, grief after a death lasts many months or years. This is known as prolonged grief disorder or complicated grief.</p><p>Symptoms of prolonged grief disorder include:</p><ul><li>very difficult feelings such as sadness or guilt that do not get any easier as the months go by</li><li>spending a lot of time thinking about the person who's died</li><li>difficulty accepting the death</li><li>not being able to return to everyday activities</li><li>suicidal thoughts</li></ul><p>You're more likely to have prolonged grief disorder if the death was traumatic or sudden and unexpected.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have symptoms of prolonged grief disorder\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "Prolonged grief disorder",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/#complications"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-07-14T13:20:00+00:00",
+        "2029-07-14T13:20:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Grief after bereavement or loss",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Stress",
+          "position": 1,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Low mood, sadness and depression",
+          "position": 2,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feeling lonely",
+          "position": 3,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Grief after bereavement or loss",
+          "position": 4,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Anger",
+          "position": 5,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Support is also available if you're finding it hard to cope with stress, anxiety or depression.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"hj32j\">Support is also available if you're finding it hard to cope with stress, anxiety or depression.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Important: Get urgent help",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important: Get urgent help"
+        }
+      ],
+      "text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out where to get urgent help for mental health",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h3>\n<p data-block-key=\"xsuqi\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"5kbng\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Symptoms of bereavement, grief and loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of bereavement, grief and loss"
+        }
+      ],
+      "text": "Symptoms of bereavement, grief and loss\nBereavement, grief and loss can cause many different symptoms and they affect people in different ways. There's no right or wrong way to feel.\nAs well as bereavement, there are other types of loss such as the end of a relationship or losing a job or home.\nSigns and symptoms of grief can include:\nshock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"\noverwhelming sadness, with lots of crying\ntiredness or exhaustion\nanger – towards the person you've lost or the reason for your loss\nguilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying\nThese feelings may not be there all the time and powerful feelings may appear unexpectedly.\nIt's not always easy to recognise when bereavement, grief or loss are the reason you're acting or feeling differently.\nStages of bereavement or grief\nPeople often talk about grief coming in stages. You may not experience all of the stages, they may not happen in a particular order, and you may not move smoothly between them.\nThe stages of grief are:\nDenial – feelings of shock, disbelief, panic or confusion\nAnger – feelings and behaviours such as blaming yourself or blaming others\nDepression – feeling tired, hopeless or helpless – like you have lost perspective or feel isolated\nBargaining – feelings of guilt often raise questions like \"If only I had done more\"\nAcceptance – this does not mean that you like the situation, it’s about accepting your loss and being ready to move forward\nYou might also experience other feelings as well as those mentioned.\nYour grief might feel chaotic and out of control, but these feelings will eventually become less intense over time.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "shock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"",
+            "overwhelming sadness, with lots of crying",
+            "tiredness or exhaustion",
+            "anger – towards the person you've lost or the reason for your loss",
+            "guilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Denial – feelings of shock, disbelief, panic or confusion",
+            "Anger – feelings and behaviours such as blaming yourself or blaming others",
+            "Depression – feeling tired, hopeless or helpless – like you have lost perspective or feel isolated",
+            "Bargaining – feelings of guilt often raise questions like \"If only I had done more\"",
+            "Acceptance – this does not mean that you like the situation, it’s about accepting your loss and being ready to move forward"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of bereavement, grief and loss</h2>\n<p data-block-key=\"sgci0\">Bereavement, grief and loss can cause many different symptoms and they affect people in different ways. There's no right or wrong way to feel.</p><p data-block-key=\"6n0oo\">As well as bereavement, there are other types of loss such as the end of a relationship or losing a job or home.</p><p data-block-key=\"c9jds\">Signs and symptoms of grief can include:</p><ul><li data-block-key=\"1ce7r\">shock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"</li><li data-block-key=\"2ipe4\">overwhelming sadness, with lots of crying</li><li data-block-key=\"3n5ja\">tiredness or exhaustion</li><li data-block-key=\"9akf6\">anger – towards the person you've lost or the reason for your loss</li><li data-block-key=\"91ags\">guilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying</li></ul><p data-block-key=\"417kh\">These feelings may not be there all the time and powerful feelings may appear unexpectedly.</p><p data-block-key=\"cfjkf\">It's not always easy to recognise when bereavement, grief or loss are the reason you're acting or feeling differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Stages of bereavement or grief\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5e6rl\">People often talk about grief coming in stages. You may not experience all of the stages, they may not happen in a particular order, and you may not move smoothly between them.</p><p data-block-key=\"43u9s\">The stages of grief are:</p><ul><li data-block-key=\"5pa40\">Denial – feelings of shock, disbelief, panic or confusion</li><li data-block-key=\"27mok\">Anger – feelings and behaviours such as blaming yourself or blaming others</li><li data-block-key=\"1mjli\">Depression – feeling tired, hopeless or helpless – like you have lost perspective or feel isolated</li><li data-block-key=\"4oj7a\">Bargaining – feelings of guilt often raise questions like \"If only I had done more\"</li><li data-block-key=\"d76mr\">Acceptance – this does not mean that you like the situation, it’s about accepting your loss and being ready to move forward</li></ul><p data-block-key=\"3fu5k\">You might also experience other feelings as well as those mentioned.</p><p data-block-key=\"8vhr8\">Your grief might feel chaotic and out of control, but these feelings will eventually become less intense over time.</p>\n</div>\n</details>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Things you can try to help with bereavement, grief and loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help with bereavement, grief and loss"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can try to help with bereavement, grief and loss\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\nconsider peer support, where people use their experiences to help each other\nregular exercise can improve your mood and may help you sleep better\neat a healthy diet with regular meals to keep your energy levels stable\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ntry not to tell yourself that you're alone – most people feel grief after a loss and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try talking about your feelings to a friend, family member, healthcare professional or counsellor",
+            "consider peer support, where people use their experiences to help each other",
+            "regular exercise can improve your mood and may help you sleep better",
+            "eat a healthy diet with regular meals to keep your energy levels stable"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not try to do everything at once – set small targets that you can easily achieve",
+            "do not focus on the things you cannot change – focus your time and energy into helping yourself feel better",
+            "try not to tell yourself that you're alone – most people feel grief after a loss and support is available",
+            "try not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help with bereavement, grief and loss</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1qlt4\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"d7bz5\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m9d2j\">regular exercise can improve your mood and may help you sleep better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"uvssc\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4kuma\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"uog5c\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"13bv4\">try not to tell yourself that you're alone – most people feel grief after a loss and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yk82f\">try not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Further information and support",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Further information and support"
+        }
+      ],
+      "text": "Information:\nFurther information and support\nYou can find further information and support from several organisations, including:\nUnderstanding grief (Cruse Bereavement Support)\nLosing someone to suicide (Mind)\nBereavement support after the death of a baby or young child (The Lullaby Trust)\nSupport after the sudden unexplained death of a child (SUDC UK)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Understanding grief (Cruse Bereavement Support)",
+            "Losing someone to suicide (Mind)",
+            "Bereavement support after the death of a baby or young child (The Lullaby Trust)",
+            "Support after the sudden unexplained death of a child (SUDC UK)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Understanding grief (Cruse Bereavement Support)",
+          "url": "https://www.cruse.org.uk/understanding-grief/"
+        },
+        {
+          "text": "Losing someone to suicide (Mind)",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/bereavement/bereavement-by-suicide/"
+        },
+        {
+          "text": "Bereavement support after the death of a baby or young child (The Lullaby Trust)",
+          "url": "https://www.lullabytrust.org.uk/bereavement-support/"
+        },
+        {
+          "text": "Support after the sudden unexplained death of a child (SUDC UK)",
+          "url": "https://sudc.org.uk/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"d6xm8\">Further information and support</h3><p data-block-key=\"6moln\">You can find further information and support from several organisations, including:</p><ul><li data-block-key=\"939js\"><a href=\"https://www.cruse.org.uk/understanding-grief/\">Understanding grief (Cruse Bereavement Support)</a></li><li data-block-key=\"9rf99\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/bereavement/bereavement-by-suicide/\">Losing someone to suicide (Mind)</a></li><li data-block-key=\"40g4u\"><a href=\"https://www.lullabytrust.org.uk/bereavement-support/\">Bereavement support after the death of a baby or young child (The Lullaby Trust)</a></li><li data-block-key=\"7ctqe\"><a href=\"https://sudc.org.uk/\">Support after the sudden unexplained death of a child (SUDC UK)</a></li></ul>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "When and where to get medical help\nYou may feel sad after a bereavement and these feelings should ease gradually with time.\nBut if you are feeling increasingly depressed or anxious you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with stress, anxiety or a low mood\nyou've had a low mood for more than 2 weeks\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're struggling to cope with stress, anxiety or a low mood",
+            "you've had a low mood for more than 2 weeks",
+            "things you're trying yourself are not helping",
+            "you would prefer to get a referral from a GP"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"ta25s\">You may feel sad after a bereavement and these feelings should ease gradually with time.</p><p data-block-key=\"d3g02\">But if you are feeling increasingly depressed or anxious you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"moow7\">you're struggling to cope with stress, anxiety or a low mood</li><li data-block-key=\"xar3x\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"b2a6t\">things you're trying yourself are not helping</li><li data-block-key=\"872j7\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Other ways to get help",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Other ways to get help"
+        }
+      ],
+      "text": "Other ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find NHS talking therapies for anxiety and depression",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "find out more about mental health support for children and young people",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"67r0r\">Other ways to get help</h3><p data-block-key=\"2d3jf\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"67r0r\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Causes of bereavement, grief and loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of bereavement, grief and loss"
+        }
+      ],
+      "text": "Causes of bereavement, grief and loss\nGrief and bereavement are natural responses to loss and can be triggered by many things and not just the death of a loved one.\nYou can have feelings of grief after:\nthe end of a relationship\nlosing a job\nmoving to a new place to live\nsomeone close to you becomes seriously ill",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the end of a relationship",
+            "losing a job",
+            "moving to a new place to live",
+            "someone close to you becomes seriously ill"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of bereavement, grief and loss</h2>\n<p data-block-key=\"67r0r\">Grief and bereavement are natural responses to loss and can be triggered by many things and not just the death of a loved one.</p><p data-block-key=\"a99ic\">You can have feelings of grief after:</p><ul><li data-block-key=\"7cllh\">the end of a relationship</li><li data-block-key=\"2ifu5\">losing a job</li><li data-block-key=\"1qrcv\">moving to a new place to live</li><li data-block-key=\"itp5\">someone close to you becomes seriously ill</li></ul>\n</section>"
+    },
+    {
+      "position": 9,
+      "heading": "Prolonged grief disorder",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Prolonged grief disorder"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Prolonged grief disorder\nFor most people grief after the death of a loved one becomes less intense over time. But for some people, grief after a death lasts many months or years. This is known as prolonged grief disorder or complicated grief.\nSymptoms of prolonged grief disorder include:\nvery difficult feelings such as sadness or guilt that do not get any easier as the months go by\nspending a lot of time thinking about the person who's died\ndifficulty accepting the death\nnot being able to return to everyday activities\nsuicidal thoughts\nYou're more likely to have prolonged grief disorder if the death was traumatic or sudden and unexpected.\nNon-urgent advice:\nSee a GP if:\nyou have symptoms of prolonged grief disorder",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "very difficult feelings such as sadness or guilt that do not get any easier as the months go by",
+            "spending a lot of time thinking about the person who's died",
+            "difficulty accepting the death",
+            "not being able to return to everyday activities",
+            "suicidal thoughts"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "you have symptoms of prolonged grief disorder"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"complications\">Prolonged grief disorder</h2>\n<p data-block-key=\"6x07r\">For most people grief after the death of a loved one becomes less intense over time. But for some people, grief after a death lasts many months or years. This is known as prolonged grief disorder or complicated grief.</p><p data-block-key=\"7l9s\">Symptoms of prolonged grief disorder include:</p><ul><li data-block-key=\"90u5h\">very difficult feelings such as sadness or guilt that do not get any easier as the months go by</li><li data-block-key=\"3nagj\">spending a lot of time thinking about the person who's died</li><li data-block-key=\"bntqe\">difficulty accepting the death</li><li data-block-key=\"3fi5b\">not being able to return to everyday activities</li><li data-block-key=\"9l2a5\">suicidal thoughts</li></ul><p data-block-key=\"fneur\">You're more likely to have prolonged grief disorder if the death was traumatic or sudden and unexpected.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"3iei3\">you have symptoms of prolonged grief disorder</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 10,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nFind out more about prolonged grief disorder on the Cruse website",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out more about prolonged grief disorder on the Cruse website",
+          "url": "https://www.cruse.org.uk/understanding-grief/effects-of-grief/complicated-grief/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"im7jr\"><a href=\"https://www.cruse.org.uk/understanding-grief/effects-of-grief/complicated-grief/\">Find out more about prolonged grief disorder on the Cruse website</a></p>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Support is also available if you're finding it hard to cope with stress, anxiety or depression.\nImportant:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health\nSymptoms of bereavement, grief and loss\nBereavement, grief and loss can cause many different symptoms and they affect people in different ways. There's no right or wrong way to feel.\nAs well as bereavement, there are other types of loss such as the end of a relationship or losing a job or home.\nSigns and symptoms of grief can include:\nshock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"\noverwhelming sadness, with lots of crying\ntiredness or exhaustion\nanger – towards the person you've lost or the reason for your loss\nguilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying\nThese feelings may not be there all the time and powerful feelings may appear unexpectedly.\nIt's not always easy to recognise when bereavement, grief or loss are the reason you're acting or feeling differently.\nStages of bereavement or grief\nPeople often talk about grief coming in stages. You may not experience all of the stages, they may not happen in a particular order, and you may not move smoothly between them.\nThe stages of grief are:\nDenial – feelings of shock, disbelief, panic or confusion\nAnger – feelings and behaviours such as blaming yourself or blaming others\nDepression – feeling tired, hopeless or helpless – like you have lost perspective or feel isolated\nBargaining – feelings of guilt often raise questions like \"If only I had done more\"\nAcceptance – this does not mean that you like the situation, it’s about accepting your loss and being ready to move forward\nYou might also experience other feelings as well as those mentioned.\nYour grief might feel chaotic and out of control, but these feelings will eventually become less intense over time.\nThings you can try to help with bereavement, grief and loss\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\nconsider peer support, where people use their experiences to help each other\nregular exercise can improve your mood and may help you sleep better\neat a healthy diet with regular meals to keep your energy levels stable\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy into helping yourself feel better\ntry not to tell yourself that you're alone – most people feel grief after a loss and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health\nInformation:\nFurther information and support\nYou can find further information and support from several organisations, including:\nUnderstanding grief (Cruse Bereavement Support)\nLosing someone to suicide (Mind)\nBereavement support after the death of a baby or young child (The Lullaby Trust)\nSupport after the sudden unexplained death of a child (SUDC UK)\nWhen and where to get medical help\nYou may feel sad after a bereavement and these feelings should ease gradually with time.\nBut if you are feeling increasingly depressed or anxious you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou're struggling to cope with stress, anxiety or a low mood\nyou've had a low mood for more than 2 weeks\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP\nOther ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.\nCauses of bereavement, grief and loss\nGrief and bereavement are natural responses to loss and can be triggered by many things and not just the death of a loved one.\nYou can have feelings of grief after:\nthe end of a relationship\nlosing a job\nmoving to a new place to live\nsomeone close to you becomes seriously ill\nProlonged grief disorder\nFor most people grief after the death of a loved one becomes less intense over time. But for some people, grief after a death lasts many months or years. This is known as prolonged grief disorder or complicated grief.\nSymptoms of prolonged grief disorder include:\nvery difficult feelings such as sadness or guilt that do not get any easier as the months go by\nspending a lot of time thinking about the person who's died\ndifficulty accepting the death\nnot being able to return to everyday activities\nsuicidal thoughts\nYou're more likely to have prolonged grief disorder if the death was traumatic or sudden and unexpected.\nNon-urgent advice:\nSee a GP if:\nyou have symptoms of prolonged grief disorder\nInformation:\nFind out more about prolonged grief disorder on the Cruse website",
+  "links": [
+    {
+      "text": "Find out where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+    },
+    {
+      "text": "Understanding grief (Cruse Bereavement Support)",
+      "url": "https://www.cruse.org.uk/understanding-grief/"
+    },
+    {
+      "text": "Losing someone to suicide (Mind)",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/bereavement/bereavement-by-suicide/"
+    },
+    {
+      "text": "Bereavement support after the death of a baby or young child (The Lullaby Trust)",
+      "url": "https://www.lullabytrust.org.uk/bereavement-support/"
+    },
+    {
+      "text": "Support after the sudden unexplained death of a child (SUDC UK)",
+      "url": "https://sudc.org.uk/"
+    },
+    {
+      "text": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "find out more about mental health support for children and young people",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+    },
+    {
+      "text": "Find out more about prolonged grief disorder on the Cruse website",
+      "url": "https://www.cruse.org.uk/understanding-grief/effects-of-grief/complicated-grief/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"hj32j\">Support is also available if you're finding it hard to cope with stress, anxiety or depression.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h3>\n<p data-block-key=\"xsuqi\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"5kbng\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of bereavement, grief and loss</h2>\n<p data-block-key=\"sgci0\">Bereavement, grief and loss can cause many different symptoms and they affect people in different ways. There's no right or wrong way to feel.</p><p data-block-key=\"6n0oo\">As well as bereavement, there are other types of loss such as the end of a relationship or losing a job or home.</p><p data-block-key=\"c9jds\">Signs and symptoms of grief can include:</p><ul><li data-block-key=\"1ce7r\">shock and numbness – this is usually the first reaction to loss, and people often talk about \"being in a daze\"</li><li data-block-key=\"2ipe4\">overwhelming sadness, with lots of crying</li><li data-block-key=\"3n5ja\">tiredness or exhaustion</li><li data-block-key=\"9akf6\">anger – towards the person you've lost or the reason for your loss</li><li data-block-key=\"91ags\">guilt – for example, guilt about feeling angry, about something you said or did not say, or not being able to stop your loved one dying</li></ul><p data-block-key=\"417kh\">These feelings may not be there all the time and powerful feelings may appear unexpectedly.</p><p data-block-key=\"cfjkf\">It's not always easy to recognise when bereavement, grief or loss are the reason you're acting or feeling differently.</p>\n<div class=\"nhsuk-expander-group\">\n<details class=\"nhsuk-details nhsuk-expander\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Stages of bereavement or grief\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"5e6rl\">People often talk about grief coming in stages. You may not experience all of the stages, they may not happen in a particular order, and you may not move smoothly between them.</p><p data-block-key=\"43u9s\">The stages of grief are:</p><ul><li data-block-key=\"5pa40\">Denial – feelings of shock, disbelief, panic or confusion</li><li data-block-key=\"27mok\">Anger – feelings and behaviours such as blaming yourself or blaming others</li><li data-block-key=\"1mjli\">Depression – feeling tired, hopeless or helpless – like you have lost perspective or feel isolated</li><li data-block-key=\"4oj7a\">Bargaining – feelings of guilt often raise questions like \"If only I had done more\"</li><li data-block-key=\"d76mr\">Acceptance – this does not mean that you like the situation, it’s about accepting your loss and being ready to move forward</li></ul><p data-block-key=\"3fu5k\">You might also experience other feelings as well as those mentioned.</p><p data-block-key=\"8vhr8\">Your grief might feel chaotic and out of control, but these feelings will eventually become less intense over time.</p>\n</div>\n</details>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help with bereavement, grief and loss</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1qlt4\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"d7bz5\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"m9d2j\">regular exercise can improve your mood and may help you sleep better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"uvssc\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4kuma\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"uog5c\">do not focus on the things you cannot change – focus your time and energy into helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"13bv4\">try not to tell yourself that you're alone – most people feel grief after a loss and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yk82f\">try not to use alcohol, cigarettes, gambling or drugs to relieve grief – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"d6xm8\">Further information and support</h3><p data-block-key=\"6moln\">You can find further information and support from several organisations, including:</p><ul><li data-block-key=\"939js\"><a href=\"https://www.cruse.org.uk/understanding-grief/\">Understanding grief (Cruse Bereavement Support)</a></li><li data-block-key=\"9rf99\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/bereavement/bereavement-by-suicide/\">Losing someone to suicide (Mind)</a></li><li data-block-key=\"40g4u\"><a href=\"https://www.lullabytrust.org.uk/bereavement-support/\">Bereavement support after the death of a baby or young child (The Lullaby Trust)</a></li><li data-block-key=\"7ctqe\"><a href=\"https://sudc.org.uk/\">Support after the sudden unexplained death of a child (SUDC UK)</a></li></ul>\n</div>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"ta25s\">You may feel sad after a bereavement and these feelings should ease gradually with time.</p><p data-block-key=\"d3g02\">But if you are feeling increasingly depressed or anxious you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"moow7\">you're struggling to cope with stress, anxiety or a low mood</li><li data-block-key=\"xar3x\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"b2a6t\">things you're trying yourself are not helping</li><li data-block-key=\"872j7\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"67r0r\">Other ways to get help</h3><p data-block-key=\"2d3jf\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"67r0r\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of bereavement, grief and loss</h2>\n<p data-block-key=\"67r0r\">Grief and bereavement are natural responses to loss and can be triggered by many things and not just the death of a loved one.</p><p data-block-key=\"a99ic\">You can have feelings of grief after:</p><ul><li data-block-key=\"7cllh\">the end of a relationship</li><li data-block-key=\"2ifu5\">losing a job</li><li data-block-key=\"1qrcv\">moving to a new place to live</li><li data-block-key=\"itp5\">someone close to you becomes seriously ill</li></ul>\n</section>\n<section>\n<h2 id=\"complications\">Prolonged grief disorder</h2>\n<p data-block-key=\"6x07r\">For most people grief after the death of a loved one becomes less intense over time. But for some people, grief after a death lasts many months or years. This is known as prolonged grief disorder or complicated grief.</p><p data-block-key=\"7l9s\">Symptoms of prolonged grief disorder include:</p><ul><li data-block-key=\"90u5h\">very difficult feelings such as sadness or guilt that do not get any easier as the months go by</li><li data-block-key=\"3nagj\">spending a lot of time thinking about the person who's died</li><li data-block-key=\"bntqe\">difficulty accepting the death</li><li data-block-key=\"3fi5b\">not being able to return to everyday activities</li><li data-block-key=\"9l2a5\">suicidal thoughts</li></ul><p data-block-key=\"fneur\">You're more likely to have prolonged grief disorder if the death was traumatic or sudden and unexpected.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"3iei3\">you have symptoms of prolonged grief disorder</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"im7jr\"><a href=\"https://www.cruse.org.uk/understanding-grief/effects-of-grief/complicated-grief/\">Find out more about prolonged grief disorder on the Cruse website</a></p>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

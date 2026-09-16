@@ -1,0 +1,691 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:10.364609+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "L",
+      "label": "Low mood, sadness and depression",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Low mood, sadness and depression",
+  "meta_description": "Practical tips and advice about what to do if you're struggling with a low mood, sadness or depression.",
+  "review_dates": {
+    "page_last_reviewed": "29 July 2026",
+    "next_review_due": "29 July 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Practical tips and advice about what to do if you're struggling with a low mood, sadness or depression."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Get help with low mood, sadness or depression"
+    },
+    {
+      "key": "og:description",
+      "content": "Practical tips and advice about what to do if you're struggling with a low mood, sadness or depression."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "10 Aug 2026, 11:30 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "2 Feb 2021, 4:44 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Low mood, sadness and depression"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Low mood, sadness and depression"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-10T10:30:29+00:00",
+      "description": "Practical tips and advice about what to do if you're struggling with a low mood, sadness or depression.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most people feel low sometimes, but if it's affecting your life, there are things you can try to help. Support is also available.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Low mood, sadness and depression",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Low mood, sadness and depression",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Low mood, sadness and depression",
+              "text": "Medical help"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Low mood, sadness and depression",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Signs of a low mood include feeling sad, anxious and more tired than usual. A low mood that lasts more than 2 weeks could be depression.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>If you have a low mood, it can help to talk to other people, take regular exercise and try to avoid focusing on things you cannot change.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You may need medical help if your low mood does not go away and nothing you are trying seems to help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Signs of a low mood include feeling sad, anxious and more tired than usual. A low mood that lasts more than 2 weeks could be depression.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A general low mood can make you feel sad, anxious or panicky, angry or frustrated and low on confidence and self-esteem. It can also make you feel tired, or cause problems sleeping.</p><p>A low mood often gets better after a few days or weeks.</p><p>It's usually possible to improve a low mood by making small changes in your life. For example, resolving something that's bothering you or getting more sleep.</p><h3>Symptoms of depression</h3><p>If you have a low mood that lasts 2 weeks or more, it could be a sign of <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a>.</p><p>Other symptoms of depression may include:</p><ul><li>not getting any enjoyment out of life</li><li>feeling hopeless</li><li>not being able to concentrate on everyday things</li><li>having <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/\">suicidal thoughts</a> or thoughts about <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/\">harming yourself</a></li></ul>"
+            }
+          ],
+          "headline": "Signs of a low mood",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have a low mood, it can help to talk to other people, take regular exercise and try to avoid focusing on things you cannot change.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try talking about your feelings to a friend, family member, healthcare professional or counsellor</p></li><li><p>consider peer support, where people use their experiences to help each other</p></li><li><p>get regular exercise – this may improve your mood and help you sleep better</p></li><li><p>eat a healthy diet with regular meals to keep your energy levels stable</p></li><li><p>try mindfulness techniques, where you focus on the present moment</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not try to do everything at once – set small targets that you can easily achieve</p></li><li><p>do not focus on the things you cannot change – focus your time and energy on helping yourself feel better</p></li><li><p>try not to tell yourself that you're alone – most people feel low sometimes and support is available</p></li><li><p>try not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can try to help with a low mood",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may need medical help if your low mood does not go away and nothing you are trying seems to help.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If your low mood does not go away and the things you’re doing are not helping, then you may need medical help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you've had a low mood for more than 2 weeks\n </li>\n<li>\n  you're struggling to cope with a low mood\n </li>\n<li>\n  things you're trying yourself are not helping\n </li>\n<li>\n  you would prefer to get a referral from a GP\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/#medical-help"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-07-29T16:34:00+00:00",
+        "2029-07-29T16:34:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Low mood, sadness and depression",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Stress",
+          "position": 1,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Low mood, sadness and depression",
+          "position": 2,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feeling lonely",
+          "position": 3,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/feeling-lonely/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Grief after bereavement or loss",
+          "position": 4,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Anger",
+          "position": 5,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Important: Get urgent help",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important: Get urgent help"
+        }
+      ],
+      "text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out where to get urgent help for mental health",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h3>\n<p data-block-key=\"a9mtq\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"dr04t\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Signs of a low mood",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Signs of a low mood"
+        },
+        {
+          "level": "h3",
+          "text": "Symptoms of depression"
+        }
+      ],
+      "text": "Signs of a low mood\nA general low mood can make you feel sad, anxious or panicky, angry or frustrated and low on confidence and self-esteem. It can also make you feel tired, or cause problems sleeping.\nA low mood often gets better after a few days or weeks.\nIt's usually possible to improve a low mood by making small changes in your life. For example, resolving something that's bothering you or getting more sleep.\nSymptoms of depression\nIf you have a low mood that lasts 2 weeks or more, it could be a sign of\ndepression\n.\nOther symptoms of depression may include:\nnot getting any enjoyment out of life\nfeeling hopeless\nnot being able to concentrate on everyday things\nhaving\nsuicidal thoughts\nor thoughts about\nharming yourself",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "not getting any enjoyment out of life",
+            "feeling hopeless",
+            "not being able to concentrate on everyday things",
+            "having\nsuicidal thoughts\nor thoughts about\nharming yourself"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+        },
+        {
+          "text": "suicidal thoughts",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/"
+        },
+        {
+          "text": "harming yourself",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Signs of a low mood</h2>\n<p data-block-key=\"rt400\">A general low mood can make you feel sad, anxious or panicky, angry or frustrated and low on confidence and self-esteem. It can also make you feel tired, or cause problems sleeping.</p><p data-block-key=\"3fbsb\">A low mood often gets better after a few days or weeks.</p><p data-block-key=\"1aq0q\">It's usually possible to improve a low mood by making small changes in your life. For example, resolving something that's bothering you or getting more sleep.</p><h3 data-block-key=\"5826a\">Symptoms of depression</h3><p data-block-key=\"wj9x1\">If you have a low mood that lasts 2 weeks or more, it could be a sign of <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a>.</p><p data-block-key=\"arqh3\">Other symptoms of depression may include:</p><ul><li data-block-key=\"um5g8\">not getting any enjoyment out of life</li><li data-block-key=\"znbcm\">feeling hopeless</li><li data-block-key=\"a7tja\">not being able to concentrate on everyday things</li><li data-block-key=\"858q2\">having <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/\">suicidal thoughts</a> or thoughts about <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/\">harming yourself</a></li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Things you can try to help with a low mood",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help with a low mood"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can try to help with a low mood\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\nconsider peer support, where people use their experiences to help each other\nget regular exercise – this may improve your mood and help you sleep better\neat a healthy diet with regular meals to keep your energy levels stable\ntry mindfulness techniques, where you focus on the present moment\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy on helping yourself feel better\ntry not to tell yourself that you're alone – most people feel low sometimes and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try talking about your feelings to a friend, family member, healthcare professional or counsellor",
+            "consider peer support, where people use their experiences to help each other",
+            "get regular exercise – this may improve your mood and help you sleep better",
+            "eat a healthy diet with regular meals to keep your energy levels stable",
+            "try mindfulness techniques, where you focus on the present moment"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not try to do everything at once – set small targets that you can easily achieve",
+            "do not focus on the things you cannot change – focus your time and energy on helping yourself feel better",
+            "try not to tell yourself that you're alone – most people feel low sometimes and support is available",
+            "try not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help with a low mood</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"g6eoa\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ajsfp\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c65zs\">get regular exercise – this may improve your mood and help you sleep better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"805ug\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hng5z\">try mindfulness techniques, where you focus on the present moment</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ouiuf\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"otkz0\">do not focus on the things you cannot change – focus your time and energy on helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4oqw2\">try not to tell yourself that you're alone – most people feel low sometimes and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"7mex1\">try not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Audio: Self-help for low mood and depression",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Audio: Self-help for low mood and depression"
+        },
+        {
+          "level": "h3",
+          "text": "Further information and support"
+        }
+      ],
+      "text": "Audio: Self-help for low mood and depression\nIn this audio guide, a doctor explains what you can do to help yourself cope with low mood and depression.\nMedia last reviewed: 2 March 2024\nMedia review due: 2 March 2027\nFurther information and support\nMental health tips and support\n– self-help advice including mindfulness, raising low self-esteem and coping with depression\nYou can contact\nSamaritans\nby calling\n116 123\nif you need someone to talk to\nHow to improve your mental wellbeing (Mind)\nManaging stress and building resilience (Mind)\nHow to find a support group (Mind)\nAdvice about low mood (Health for Teens)\nMental wellbeing tips (Every Mind Matters)\n, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free personalised advice to your email inbox",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Mental health tips and support\n– self-help advice including mindfulness, raising low self-esteem and coping with depression",
+            "You can contact\nSamaritans\nby calling\n116 123\nif you need someone to talk to",
+            "How to improve your mental wellbeing (Mind)",
+            "Managing stress and building resilience (Mind)",
+            "How to find a support group (Mind)",
+            "Advice about low mood (Health for Teens)",
+            "Mental wellbeing tips (Every Mind Matters)\n, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free personalised advice to your email inbox"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Mental health tips and support",
+          "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/"
+        },
+        {
+          "text": "Samaritans",
+          "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+        },
+        {
+          "text": "116 123",
+          "url": "Tel: 116 123"
+        },
+        {
+          "text": "How to improve your mental wellbeing (Mind)",
+          "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/wellbeing/"
+        },
+        {
+          "text": "Managing stress and building resilience (Mind)",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/"
+        },
+        {
+          "text": "How to find a support group (Mind)",
+          "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+        },
+        {
+          "text": "Advice about low mood (Health for Teens)",
+          "url": "https://www.healthforteens.co.uk/feelings/low-mood/"
+        },
+        {
+          "text": "Mental wellbeing tips (Every Mind Matters)",
+          "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/"
+        }
+      ],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Audio: Self-help for low mood and depression</h3>\n<p>In this audio guide, a doctor explains what you can do to help yourself cope with low mood and depression.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2164923552001\" id=\"2164923552001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 2 March 2024<br/>\n    Media review due: 2 March 2027\n  </div>\n</div>\n<h3 data-block-key=\"6gfcy\">Further information and support</h3><ul><li data-block-key=\"bpl35\"><a href=\"/mental-health/self-help/tips-and-support/\">Mental health tips and support</a> – self-help advice including mindfulness, raising low self-esteem and coping with depression</li><li data-block-key=\"cpuva\">You can contact <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Samaritans</a> by calling <a href=\"Tel: 116 123\">116 123</a> if you need someone to talk to</li><li data-block-key=\"cr3q8\"><a href=\"https://www.mind.org.uk/information-support/tips-for-everyday-living/wellbeing/\">How to improve your mental wellbeing (Mind)</a></li><li data-block-key=\"2i1jb\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/\">Managing stress and building resilience (Mind)</a></li><li data-block-key=\"f5k9p\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group (Mind)</a></li><li data-block-key=\"3rdon\"><a href=\"https://www.healthforteens.co.uk/feelings/low-mood/\">Advice about low mood (Health for Teens)</a></li><li data-block-key=\"ck2r5\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/\">Mental wellbeing tips (Every Mind Matters)</a>, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free personalised advice to your email inbox</li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "When and where to get medical help\nIf your low mood does not go away and the things you’re doing are not helping, then you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou've had a low mood for more than 2 weeks\nyou're struggling to cope with a low mood\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you've had a low mood for more than 2 weeks",
+            "you're struggling to cope with a low mood",
+            "things you're trying yourself are not helping",
+            "you would prefer to get a referral from a GP"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"8tvli\">If your low mood does not go away and the things you’re doing are not helping, then you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"g62b3\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"rgtlw\">you're struggling to cope with a low mood</li><li data-block-key=\"y0ci2\">things you're trying yourself are not helping</li><li data-block-key=\"2kai7\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Other ways to get help",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Other ways to get help"
+        }
+      ],
+      "text": "Other ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find NHS talking therapies for anxiety and depression",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+        },
+        {
+          "text": "find out more about mental health support for children and young people",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"fb5bg\">Other ways to get help</h3><p data-block-key=\"3ojmf\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"fb5bg\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Causes of a low mood",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of a low mood"
+        },
+        {
+          "level": "h3",
+          "text": "Identifying the cause"
+        }
+      ],
+      "text": "Causes of a low mood\nThere are many reasons why you might feel low at some point in your life.\nAny sort of difficult event or experience could lead to sadness or low self-esteem. Sometimes it's possible to feel low without there being an obvious reason.\nIdentifying the cause\nIf you know what's causing your low mood it might be easier to find ways to manage it.\nSome examples of things that may cause a low mood include:\nwork – feeling pressure at work, unemployment or retirement\nfamily – relationship difficulties, divorce or\ncaring for someone\nfinancial problems – unexpected bills or borrowing money\nhealth – illness or injury\nbereavement\n(losing someone or something)\nEven significant life events, such as buying a house, having a baby or planning a wedding, could lead to feelings of sadness.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "work – feeling pressure at work, unemployment or retirement",
+            "family – relationship difficulties, divorce or\ncaring for someone",
+            "financial problems – unexpected bills or borrowing money",
+            "health – illness or injury",
+            "bereavement\n(losing someone or something)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "caring for someone",
+          "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/"
+        },
+        {
+          "text": "bereavement",
+          "url": "https://www.nhs.uk/mental-health/advice-for-life-situations-and-events/bereavement/"
+        }
+      ],
+      "html": "<section>\n<h2>Causes of a low mood</h2>\n<p data-block-key=\"3q0qr\">There are many reasons why you might feel low at some point in your life.</p><p data-block-key=\"ddj11\">Any sort of difficult event or experience could lead to sadness or low self-esteem. Sometimes it's possible to feel low without there being an obvious reason.</p><h3 data-block-key=\"jb304\">Identifying the cause</h3><p data-block-key=\"zsfd1\">If you know what's causing your low mood it might be easier to find ways to manage it.</p><p data-block-key=\"7ppex\">Some examples of things that may cause a low mood include:</p><ul><li data-block-key=\"cqszp\">work – feeling pressure at work, unemployment or retirement</li><li data-block-key=\"dv75w\">family – relationship difficulties, divorce or <a href=\"/social-care-and-support/support-and-benefits-for-carers/\">caring for someone</a></li><li data-block-key=\"key8h\">financial problems – unexpected bills or borrowing money</li><li data-block-key=\"1x5p7\">health – illness or injury</li><li data-block-key=\"4m6b7\"><a href=\"/mental-health/advice-for-life-situations-and-events/bereavement/\">bereavement</a> (losing someone or something)</li></ul><p data-block-key=\"es358\">Even significant life events, such as buying a house, having a baby or planning a wedding, could lead to feelings of sadness.</p><p data-block-key=\"1mus4\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p>\n</section>"
+    }
+  ],
+  "page_text": "Important:\nGet urgent help\nSupport is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.\nFind out where to get urgent help for mental health\nSigns of a low mood\nA general low mood can make you feel sad, anxious or panicky, angry or frustrated and low on confidence and self-esteem. It can also make you feel tired, or cause problems sleeping.\nA low mood often gets better after a few days or weeks.\nIt's usually possible to improve a low mood by making small changes in your life. For example, resolving something that's bothering you or getting more sleep.\nSymptoms of depression\nIf you have a low mood that lasts 2 weeks or more, it could be a sign of\ndepression\n.\nOther symptoms of depression may include:\nnot getting any enjoyment out of life\nfeeling hopeless\nnot being able to concentrate on everyday things\nhaving\nsuicidal thoughts\nor thoughts about\nharming yourself\nThings you can try to help with a low mood\nDo\ntry talking about your feelings to a friend, family member, healthcare professional or counsellor\nconsider peer support, where people use their experiences to help each other\nget regular exercise – this may improve your mood and help you sleep better\neat a healthy diet with regular meals to keep your energy levels stable\ntry mindfulness techniques, where you focus on the present moment\nDon’t\ndo not try to do everything at once – set small targets that you can easily achieve\ndo not focus on the things you cannot change – focus your time and energy on helping yourself feel better\ntry not to tell yourself that you're alone – most people feel low sometimes and support is available\ntry not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health\nAudio: Self-help for low mood and depression\nIn this audio guide, a doctor explains what you can do to help yourself cope with low mood and depression.\nMedia last reviewed: 2 March 2024\nMedia review due: 2 March 2027\nFurther information and support\nMental health tips and support\n– self-help advice including mindfulness, raising low self-esteem and coping with depression\nYou can contact\nSamaritans\nby calling\n116 123\nif you need someone to talk to\nHow to improve your mental wellbeing (Mind)\nManaging stress and building resilience (Mind)\nHow to find a support group (Mind)\nAdvice about low mood (Health for Teens)\nMental wellbeing tips (Every Mind Matters)\n, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free personalised advice to your email inbox\nWhen and where to get medical help\nIf your low mood does not go away and the things you’re doing are not helping, then you may need medical help.\nNon-urgent advice:\nSee a GP if:\nyou've had a low mood for more than 2 weeks\nyou're struggling to cope with a low mood\nthings you're trying yourself are not helping\nyou would prefer to get a referral from a GP\nOther ways to get help\nIf you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.\nFind NHS talking therapies for anxiety and depression\nIf you're under 18,\nfind out more about mental health support for children and young people\n.\nCauses of a low mood\nThere are many reasons why you might feel low at some point in your life.\nAny sort of difficult event or experience could lead to sadness or low self-esteem. Sometimes it's possible to feel low without there being an obvious reason.\nIdentifying the cause\nIf you know what's causing your low mood it might be easier to find ways to manage it.\nSome examples of things that may cause a low mood include:\nwork – feeling pressure at work, unemployment or retirement\nfamily – relationship difficulties, divorce or\ncaring for someone\nfinancial problems – unexpected bills or borrowing money\nhealth – illness or injury\nbereavement\n(losing someone or something)\nEven significant life events, such as buying a house, having a baby or planning a wedding, could lead to feelings of sadness.\nYou might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.",
+  "links": [
+    {
+      "text": "Find out where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+    },
+    {
+      "text": "suicidal thoughts",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/"
+    },
+    {
+      "text": "harming yourself",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/"
+    },
+    {
+      "text": "Mental health tips and support",
+      "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/"
+    },
+    {
+      "text": "Samaritans",
+      "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    },
+    {
+      "text": "116 123",
+      "url": "Tel: 116 123"
+    },
+    {
+      "text": "How to improve your mental wellbeing (Mind)",
+      "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/wellbeing/"
+    },
+    {
+      "text": "Managing stress and building resilience (Mind)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/"
+    },
+    {
+      "text": "How to find a support group (Mind)",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/"
+    },
+    {
+      "text": "Advice about low mood (Health for Teens)",
+      "url": "https://www.healthforteens.co.uk/feelings/low-mood/"
+    },
+    {
+      "text": "Mental wellbeing tips (Every Mind Matters)",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/"
+    },
+    {
+      "text": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/"
+    },
+    {
+      "text": "find out more about mental health support for children and young people",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/"
+    },
+    {
+      "text": "caring for someone",
+      "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/"
+    },
+    {
+      "text": "bereavement",
+      "url": "https://www.nhs.uk/mental-health/advice-for-life-situations-and-events/bereavement/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Get urgent help\n        </span>\n</h3>\n<p data-block-key=\"a9mtq\">Support is available if you or someone you know is having a mental health crisis or emergency, no matter what you're going through.</p><p data-block-key=\"dr04t\"><a href=\"/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">Find out where to get urgent help for mental health</a></p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"symptoms\">Signs of a low mood</h2>\n<p data-block-key=\"rt400\">A general low mood can make you feel sad, anxious or panicky, angry or frustrated and low on confidence and self-esteem. It can also make you feel tired, or cause problems sleeping.</p><p data-block-key=\"3fbsb\">A low mood often gets better after a few days or weeks.</p><p data-block-key=\"1aq0q\">It's usually possible to improve a low mood by making small changes in your life. For example, resolving something that's bothering you or getting more sleep.</p><h3 data-block-key=\"5826a\">Symptoms of depression</h3><p data-block-key=\"wj9x1\">If you have a low mood that lasts 2 weeks or more, it could be a sign of <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a>.</p><p data-block-key=\"arqh3\">Other symptoms of depression may include:</p><ul><li data-block-key=\"um5g8\">not getting any enjoyment out of life</li><li data-block-key=\"znbcm\">feeling hopeless</li><li data-block-key=\"a7tja\">not being able to concentrate on everyday things</li><li data-block-key=\"858q2\">having <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/\">suicidal thoughts</a> or thoughts about <a href=\"/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/\">harming yourself</a></li></ul>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help with a low mood</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"g6eoa\">try talking about your feelings to a friend, family member, healthcare professional or counsellor</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ajsfp\">consider peer support, where people use their experiences to help each other</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c65zs\">get regular exercise – this may improve your mood and help you sleep better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"805ug\">eat a healthy diet with regular meals to keep your energy levels stable</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hng5z\">try mindfulness techniques, where you focus on the present moment</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ouiuf\">do not try to do everything at once – set small targets that you can easily achieve</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"otkz0\">do not focus on the things you cannot change – focus your time and energy on helping yourself feel better</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4oqw2\">try not to tell yourself that you're alone – most people feel low sometimes and support is available</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"7mex1\">try not to use alcohol, cigarettes, gambling or drugs to relieve a low mood – these can all contribute to poor mental health</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Audio: Self-help for low mood and depression</h3>\n<p>In this audio guide, a doctor explains what you can do to help yourself cope with low mood and depression.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"2164923552001\" id=\"2164923552001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 2 March 2024<br/>\n    Media review due: 2 March 2027\n  </div>\n</div>\n<h3 data-block-key=\"6gfcy\">Further information and support</h3><ul><li data-block-key=\"bpl35\"><a href=\"/mental-health/self-help/tips-and-support/\">Mental health tips and support</a> – self-help advice including mindfulness, raising low self-esteem and coping with depression</li><li data-block-key=\"cpuva\">You can contact <a href=\"https://www.samaritans.org/how-we-can-help/contact-samaritan/\">Samaritans</a> by calling <a href=\"Tel: 116 123\">116 123</a> if you need someone to talk to</li><li data-block-key=\"cr3q8\"><a href=\"https://www.mind.org.uk/information-support/tips-for-everyday-living/wellbeing/\">How to improve your mental wellbeing (Mind)</a></li><li data-block-key=\"2i1jb\"><a href=\"https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/\">Managing stress and building resilience (Mind)</a></li><li data-block-key=\"f5k9p\"><a href=\"https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support-groups/how-to-find-a-support-group/\">How to find a support group (Mind)</a></li><li data-block-key=\"3rdon\"><a href=\"https://www.healthforteens.co.uk/feelings/low-mood/\">Advice about low mood (Health for Teens)</a></li><li data-block-key=\"ck2r5\"><a href=\"https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/\">Mental wellbeing tips (Every Mind Matters)</a>, including mindfulness, self-help cognitive behavioural therapy (CBT) techniques and free personalised advice to your email inbox</li></ul>\n</section>\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"8tvli\">If your low mood does not go away and the things you’re doing are not helping, then you may need medical help.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"g62b3\">you've had a low mood for more than 2 weeks</li><li data-block-key=\"rgtlw\">you're struggling to cope with a low mood</li><li data-block-key=\"y0ci2\">things you're trying yourself are not helping</li><li data-block-key=\"2kai7\">you would prefer to get a referral from a GP</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"fb5bg\">Other ways to get help</h3><p data-block-key=\"3ojmf\">If you're 18 or over (or 16 or over in some areas), you can refer yourself directly to an NHS talking therapies service without talking to a GP.</p>\n<a class=\"nhsuk-action-link\" href=\"/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find NHS talking therapies for anxiety and depression</span>\n</a>\n<p data-block-key=\"fb5bg\">If you're under 18, <a href=\"/mental-health/children-and-young-adults/mental-health-support/\">find out more about mental health support for children and young people</a>.</p>\n</section>\n<section>\n<h2>Causes of a low mood</h2>\n<p data-block-key=\"3q0qr\">There are many reasons why you might feel low at some point in your life.</p><p data-block-key=\"ddj11\">Any sort of difficult event or experience could lead to sadness or low self-esteem. Sometimes it's possible to feel low without there being an obvious reason.</p><h3 data-block-key=\"jb304\">Identifying the cause</h3><p data-block-key=\"zsfd1\">If you know what's causing your low mood it might be easier to find ways to manage it.</p><p data-block-key=\"7ppex\">Some examples of things that may cause a low mood include:</p><ul><li data-block-key=\"cqszp\">work – feeling pressure at work, unemployment or retirement</li><li data-block-key=\"dv75w\">family – relationship difficulties, divorce or <a href=\"/social-care-and-support/support-and-benefits-for-carers/\">caring for someone</a></li><li data-block-key=\"key8h\">financial problems – unexpected bills or borrowing money</li><li data-block-key=\"1x5p7\">health – illness or injury</li><li data-block-key=\"4m6b7\"><a href=\"/mental-health/advice-for-life-situations-and-events/bereavement/\">bereavement</a> (losing someone or something)</li></ul><p data-block-key=\"es358\">Even significant life events, such as buying a house, having a baby or planning a wedding, could lead to feelings of sadness.</p><p data-block-key=\"1mus4\">You might find it hard to explain to people why you feel this way, but talking to someone could help you find a solution.</p>\n</section>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,532 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+  "final_url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:16.886292+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "M",
+      "label": "Missed or late periods",
+      "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "P",
+      "label": "Periods (missed or late), see Missed or late periods",
+      "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Missed or late periods",
+  "meta_description": "Find out about the causes of missed or late periods and when to seek medical help.",
+  "review_dates": {
+    "page_last_reviewed": "12 June 2026",
+    "next_review_due": "12 June 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about the causes of missed or late periods and when to seek medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nMissed or late periods\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about the causes of missed or late periods and when to seek medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "3 Jul 2026, 2:30 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 4:46 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Periods (missed or late)"
+        ],
+        "name": "Missed or late periods"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Missed or late periods"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-03T13:30:17+00:00",
+      "description": "Find out about the causes of missed or late periods and when to seek medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of missed or late periods include pregnancy, the start of menopause, stress, PMOS and some types of contraception.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Many women will have missed or late periods at some time. Missed or late periods can affect anyone who has periods.</p><p>Common causes of a missed or late period include:</p><ul><li>being pregnant</li><li>stress</li><li>the start of <a href=\"/conditions/menopause/\">menopause</a> (perimenopause), usually between the ages of 45 and 55</li><li><a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> – which used to be called polycystic ovary syndrome (PCOS)</li><li>sudden weight loss</li><li>being overweight</li><li>doing too much exercise</li><li>using certain hormonal <a href=\"/contraception/methods-of-contraception/\">methods of contraception</a>, such as the <a href=\"/contraception/methods-of-contraception/combined-pill/\">contraceptive pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> or <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">IUS (intrauterine system)</a></li><li>breastfeeding</li></ul><p>Sometimes the gap between your periods may just vary each time. Your periods might come early or late. This is known as having <a href=\"/symptoms/irregular-periods/\">irregular periods</a>.</p><p>Periods can also sometimes stop as a result of a medical condition, such as <a href=\"/conditions/coronary-heart-disease/\">heart disease</a>, <a href=\"/conditions/diabetes/\">diabetes</a>, or an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a>.</p>"
+            }
+          ],
+          "headline": "Causes of missed or late periods",
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you've missed your period 3 times in a row\n </li>\n<li>\n  your periods have not started by the time you're 15\n </li>\n<li>\n  you've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin\n </li>\n<li>\n  your periods have become irregular\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for missed or late periods depends on the cause. Treatments include the combined contraceptive pill, hormone therapy and lifestyle changes.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for late or missed period depends on what is causing it.</p><p>A GP will ask about your health and may do some blood tests to find out the cause of your missed or late periods.</p><p>They may refer you to a specialist (gynaecologist or endocrinologist) if you need more tests or scans to find out what's causing you to miss your periods.</p><p>Examples of treatments include:</p><ul><li>the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a> to help make your periods more regular if you have a condition like <a href=\"/conditions/polycystic-ovary-syndrome-pcos/\">polycystic ovary syndrome (PCOS)</a>, now known as polyendocrine metabolic ovarian syndrome (PMOS)</li><li><a href=\"/medicines/hormone-replacement-therapy-hrt/\">hormone replacement therapy (HRT)</a> if you are starting <a href=\"/conditions/menopause/\">menopause</a> (perimenopause)</li></ul><p>A GP can also provide advice or therapy to help you reduce stress and help you to maintain a healthy weight.</p>"
+            }
+          ],
+          "headline": "Treatment for missed or late periods",
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Late or missed periods can be caused by many things. Most of the time it's nothing to worry about, but see a doctor about them just in case.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Missed or late periods",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Missed or late periods",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of missed or late periods include pregnancy, the start of menopause, stress, PMOS and some types of contraception.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for missed or late periods depends on the cause. Treatments include the combined contraceptive pill, hormone therapy and lifestyle changes.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-06-12T00:00:00+00:00",
+        "2029-06-12T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Missed or late periods",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Missed or late periods",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of missed or late periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of missed or late periods"
+        }
+      ],
+      "text": "Causes of missed or late periods\nMany women will have missed or late periods at some time. Missed or late periods can affect anyone who has periods.\nCommon causes of a missed or late period include:\nbeing pregnant\nstress\nthe start of\nmenopause\n(perimenopause), usually between the ages of 45 and 55\npolyendocrine metabolic ovarian syndrome (PMOS)\n– which used to be called polycystic ovary syndrome (PCOS)\nsudden weight loss\nbeing overweight\ndoing too much exercise\nusing certain hormonal\nmethods of contraception\n, such as the\ncontraceptive pill\n,\ncontraceptive injection\nor\nIUS (intrauterine system)\nbreastfeeding\nSometimes the gap between your periods may just vary each time. Your periods might come early or late. This is known as having\nirregular periods\n.\nPeriods can also sometimes stop as a result of a medical condition, such as\nheart disease\n,\ndiabetes\n, or an\noveractive thyroid\nor\nunderactive thyroid\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "being pregnant",
+            "stress",
+            "the start of\nmenopause\n(perimenopause), usually between the ages of 45 and 55",
+            "polyendocrine metabolic ovarian syndrome (PMOS)\n– which used to be called polycystic ovary syndrome (PCOS)",
+            "sudden weight loss",
+            "being overweight",
+            "doing too much exercise",
+            "using certain hormonal\nmethods of contraception\n, such as the\ncontraceptive pill\n,\ncontraceptive injection\nor\nIUS (intrauterine system)",
+            "breastfeeding"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        },
+        {
+          "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+          "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+        },
+        {
+          "text": "methods of contraception",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/"
+        },
+        {
+          "text": "contraceptive pill",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+        },
+        {
+          "text": "contraceptive injection",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/"
+        },
+        {
+          "text": "IUS (intrauterine system)",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+        },
+        {
+          "text": "irregular periods",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/"
+        },
+        {
+          "text": "heart disease",
+          "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+        },
+        {
+          "text": "diabetes",
+          "url": "https://www.nhs.uk/conditions/diabetes/"
+        },
+        {
+          "text": "overactive thyroid",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "underactive thyroid",
+          "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of missed or late periods</h2>\n<p data-block-key=\"b5cgg\">Many women will have missed or late periods at some time. Missed or late periods can affect anyone who has periods.</p><p data-block-key=\"rvc4\">Common causes of a missed or late period include:</p><ul><li data-block-key=\"4v6ro\">being pregnant</li><li data-block-key=\"28oc6\">stress</li><li data-block-key=\"3248m\">the start of <a href=\"/conditions/menopause/\">menopause</a> (perimenopause), usually between the ages of 45 and 55</li><li data-block-key=\"vd6k\"><a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> – which used to be called polycystic ovary syndrome (PCOS)</li><li data-block-key=\"4ps30\">sudden weight loss</li><li data-block-key=\"1nfni\">being overweight</li><li data-block-key=\"6j4m0\">doing too much exercise</li><li data-block-key=\"bodjt\">using certain hormonal <a href=\"/contraception/methods-of-contraception/\">methods of contraception</a>, such as the <a href=\"/contraception/methods-of-contraception/combined-pill/\">contraceptive pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> or <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">IUS (intrauterine system)</a></li><li data-block-key=\"fbtcg\">breastfeeding</li></ul><p data-block-key=\"fd3ho\">Sometimes the gap between your periods may just vary each time. Your periods might come early or late. This is known as having <a href=\"/symptoms/irregular-periods/\">irregular periods</a>.</p><p data-block-key=\"5kqao\">Periods can also sometimes stop as a result of a medical condition, such as <a href=\"/conditions/coronary-heart-disease/\">heart disease</a>, <a href=\"/conditions/diabetes/\">diabetes</a>, or an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a>.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou've missed your period 3 times in a row\nyour periods have not started by the time you're 15\nyou've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin\nyour periods have become irregular",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you've missed your period 3 times in a row",
+            "your periods have not started by the time you're 15",
+            "you've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin",
+            "your periods have become irregular"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bcjba\">you've missed your period 3 times in a row</li><li data-block-key=\"3pr5u\">your periods have not started by the time you're 15</li><li data-block-key=\"bmkvc\">you've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin</li><li data-block-key=\"49lrg\">your periods have become irregular</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Treatment for missed or late periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for missed or late periods"
+        }
+      ],
+      "text": "Treatment for missed or late periods\nTreatment for late or missed period depends on what is causing it.\nA GP will ask about your health and may do some blood tests to find out the cause of your missed or late periods.\nThey may refer you to a specialist (gynaecologist or endocrinologist) if you need more tests or scans to find out what's causing you to miss your periods.\nExamples of treatments include:\nthe\ncombined contraceptive pill\nto help make your periods more regular if you have a condition like\npolycystic ovary syndrome (PCOS)\n, now known as polyendocrine metabolic ovarian syndrome (PMOS)\nhormone replacement therapy (HRT)\nif you are starting\nmenopause\n(perimenopause)\nA GP can also provide advice or therapy to help you reduce stress and help you to maintain a healthy weight.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the\ncombined contraceptive pill\nto help make your periods more regular if you have a condition like\npolycystic ovary syndrome (PCOS)\n, now known as polyendocrine metabolic ovarian syndrome (PMOS)",
+            "hormone replacement therapy (HRT)\nif you are starting\nmenopause\n(perimenopause)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "combined contraceptive pill",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+        },
+        {
+          "text": "polycystic ovary syndrome (PCOS)",
+          "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/"
+        },
+        {
+          "text": "hormone replacement therapy (HRT)",
+          "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/"
+        },
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for missed or late periods</h2>\n<p data-block-key=\"fkhd6\">Treatment for late or missed period depends on what is causing it.</p><p data-block-key=\"7ksni\">A GP will ask about your health and may do some blood tests to find out the cause of your missed or late periods.</p><p data-block-key=\"9r7ke\">They may refer you to a specialist (gynaecologist or endocrinologist) if you need more tests or scans to find out what's causing you to miss your periods.</p><p data-block-key=\"75n22\">Examples of treatments include:</p><ul><li data-block-key=\"ag006\">the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a> to help make your periods more regular if you have a condition like <a href=\"/conditions/polycystic-ovary-syndrome-pcos/\">polycystic ovary syndrome (PCOS)</a>, now known as polyendocrine metabolic ovarian syndrome (PMOS)</li><li data-block-key=\"3sigt\"><a href=\"/medicines/hormone-replacement-therapy-hrt/\">hormone replacement therapy (HRT)</a> if you are starting <a href=\"/conditions/menopause/\">menopause</a> (perimenopause)</li></ul><p data-block-key=\"5aehu\">A GP can also provide advice or therapy to help you reduce stress and help you to maintain a healthy weight.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Find out more",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Find out more"
+        }
+      ],
+      "text": "Information:\nFind out more\nWellbeing of Women: periods information hub",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Wellbeing of Women: periods information hub"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Wellbeing of Women: periods information hub",
+          "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"skxgr\">Find out more</h2><ul><li data-block-key=\"eghjd\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Causes of missed or late periods\nMany women will have missed or late periods at some time. Missed or late periods can affect anyone who has periods.\nCommon causes of a missed or late period include:\nbeing pregnant\nstress\nthe start of\nmenopause\n(perimenopause), usually between the ages of 45 and 55\npolyendocrine metabolic ovarian syndrome (PMOS)\n– which used to be called polycystic ovary syndrome (PCOS)\nsudden weight loss\nbeing overweight\ndoing too much exercise\nusing certain hormonal\nmethods of contraception\n, such as the\ncontraceptive pill\n,\ncontraceptive injection\nor\nIUS (intrauterine system)\nbreastfeeding\nSometimes the gap between your periods may just vary each time. Your periods might come early or late. This is known as having\nirregular periods\n.\nPeriods can also sometimes stop as a result of a medical condition, such as\nheart disease\n,\ndiabetes\n, or an\noveractive thyroid\nor\nunderactive thyroid\n.\nNon-urgent advice:\nSee a GP if:\nyou've missed your period 3 times in a row\nyour periods have not started by the time you're 15\nyou've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin\nyour periods have become irregular\nTreatment for missed or late periods\nTreatment for late or missed period depends on what is causing it.\nA GP will ask about your health and may do some blood tests to find out the cause of your missed or late periods.\nThey may refer you to a specialist (gynaecologist or endocrinologist) if you need more tests or scans to find out what's causing you to miss your periods.\nExamples of treatments include:\nthe\ncombined contraceptive pill\nto help make your periods more regular if you have a condition like\npolycystic ovary syndrome (PCOS)\n, now known as polyendocrine metabolic ovarian syndrome (PMOS)\nhormone replacement therapy (HRT)\nif you are starting\nmenopause\n(perimenopause)\nA GP can also provide advice or therapy to help you reduce stress and help you to maintain a healthy weight.\nInformation:\nFind out more\nWellbeing of Women: periods information hub\nPage last reviewed: 12 June 2026\nNext review due: 12 June 2029",
+  "links": [
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+      "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+    },
+    {
+      "text": "methods of contraception",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/"
+    },
+    {
+      "text": "contraceptive pill",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+    },
+    {
+      "text": "contraceptive injection",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/"
+    },
+    {
+      "text": "IUS (intrauterine system)",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+    },
+    {
+      "text": "irregular periods",
+      "url": "https://www.nhs.uk/symptoms/irregular-periods/"
+    },
+    {
+      "text": "heart disease",
+      "url": "https://www.nhs.uk/conditions/coronary-heart-disease/"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/"
+    },
+    {
+      "text": "overactive thyroid",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "underactive thyroid",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    },
+    {
+      "text": "combined contraceptive pill",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+    },
+    {
+      "text": "polycystic ovary syndrome (PCOS)",
+      "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/"
+    },
+    {
+      "text": "hormone replacement therapy (HRT)",
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/"
+    },
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "Wellbeing of Women: periods information hub",
+      "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of missed or late periods</h2>\n<p data-block-key=\"b5cgg\">Many women will have missed or late periods at some time. Missed or late periods can affect anyone who has periods.</p><p data-block-key=\"rvc4\">Common causes of a missed or late period include:</p><ul><li data-block-key=\"4v6ro\">being pregnant</li><li data-block-key=\"28oc6\">stress</li><li data-block-key=\"3248m\">the start of <a href=\"/conditions/menopause/\">menopause</a> (perimenopause), usually between the ages of 45 and 55</li><li data-block-key=\"vd6k\"><a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> – which used to be called polycystic ovary syndrome (PCOS)</li><li data-block-key=\"4ps30\">sudden weight loss</li><li data-block-key=\"1nfni\">being overweight</li><li data-block-key=\"6j4m0\">doing too much exercise</li><li data-block-key=\"bodjt\">using certain hormonal <a href=\"/contraception/methods-of-contraception/\">methods of contraception</a>, such as the <a href=\"/contraception/methods-of-contraception/combined-pill/\">contraceptive pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> or <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">IUS (intrauterine system)</a></li><li data-block-key=\"fbtcg\">breastfeeding</li></ul><p data-block-key=\"fd3ho\">Sometimes the gap between your periods may just vary each time. Your periods might come early or late. This is known as having <a href=\"/symptoms/irregular-periods/\">irregular periods</a>.</p><p data-block-key=\"5kqao\">Periods can also sometimes stop as a result of a medical condition, such as <a href=\"/conditions/coronary-heart-disease/\">heart disease</a>, <a href=\"/conditions/diabetes/\">diabetes</a>, or an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"bcjba\">you've missed your period 3 times in a row</li><li data-block-key=\"3pr5u\">your periods have not started by the time you're 15</li><li data-block-key=\"bmkvc\">you've missed your period and have other symptoms like weight gain or weight loss, tiredness, hair growth on your face, and dry or oily skin</li><li data-block-key=\"49lrg\">your periods have become irregular</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for missed or late periods</h2>\n<p data-block-key=\"fkhd6\">Treatment for late or missed period depends on what is causing it.</p><p data-block-key=\"7ksni\">A GP will ask about your health and may do some blood tests to find out the cause of your missed or late periods.</p><p data-block-key=\"9r7ke\">They may refer you to a specialist (gynaecologist or endocrinologist) if you need more tests or scans to find out what's causing you to miss your periods.</p><p data-block-key=\"75n22\">Examples of treatments include:</p><ul><li data-block-key=\"ag006\">the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined contraceptive pill</a> to help make your periods more regular if you have a condition like <a href=\"/conditions/polycystic-ovary-syndrome-pcos/\">polycystic ovary syndrome (PCOS)</a>, now known as polyendocrine metabolic ovarian syndrome (PMOS)</li><li data-block-key=\"3sigt\"><a href=\"/medicines/hormone-replacement-therapy-hrt/\">hormone replacement therapy (HRT)</a> if you are starting <a href=\"/conditions/menopause/\">menopause</a> (perimenopause)</li></ul><p data-block-key=\"5aehu\">A GP can also provide advice or therapy to help you reduce stress and help you to maintain a healthy weight.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"skxgr\">Find out more</h2><ul><li data-block-key=\"eghjd\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 12 June 2026<br/>\n    Next review due: 12 June 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

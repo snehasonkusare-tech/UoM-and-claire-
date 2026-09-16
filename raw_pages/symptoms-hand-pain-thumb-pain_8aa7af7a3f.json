@@ -1,0 +1,575 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:52.156201+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "T",
+      "label": "Thumb pain",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Thumb pain",
+  "meta_description": "Find out more about what to do about thumb pain, when to get help and the common causes.",
+  "review_dates": {
+    "page_last_reviewed": "6 June 2025",
+    "next_review_due": "6 June 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    },
+    {
+      "text": "Hand pain",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out more about what to do about thumb pain, when to get help and the common causes."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Thumb pain"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out more about what to do about thumb pain, when to get help and the common causes."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 4:17 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 4:05 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Thumb pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/",
+              "genre": [],
+              "name": "Hand pain"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Thumb pain"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T15:17:14+00:00",
+      "description": "Find out more about what to do about thumb pain, when to get help and the common causes.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many causes of thumb pain. You can often ease the pain yourself. But see a GP if the pain does not improve.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Thumb pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Thumb pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of thumb pain include a sprain, carpel tunnel syndrome, arthritis or a broken thumb.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can ease thumb pain by taking painkillers, using a splint for support and reducing activities that put pressure on the thumb.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can ease thumb pain by taking painkillers, using a splint for support and reducing activities that put pressure on the thumb.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you see a GP about pain in your thumb, they'll usually suggest you try these things:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>rest your thumb when you can</p></li><li><p>put an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours</p></li><li><p>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems</p></li><li><p>take off any jewellery if your thumb looks swollen</p></li><li><p>stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p></li><li><p>wear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p></li><li><p>consider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint</p></li><li><p>consider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p></li><li><p>keep your thumb moving with gentle exercises</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse</p></li><li><p>do not lift heavy objects or grip anything too tightly</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with thumb pain",
+              "text": "<p>You can ask a pharmacist about:</p><ul><li>the best painkiller to take</li><li>the best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How you can ease thumb pain yourself",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  the pain in your thumb is stopping you doing normal activities\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you have any tingling or loss of sensation in your hand\n </li>\n<li>\n  you have diabetes – hand problems can be more serious if you have diabetes\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to an urgent treatment centre or A&E if you:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  have severe pain\n </li>\n<li>\n  feel faint, dizzy or sick from the pain\n </li>\n<li>\n  heard a snap, grinding or popping noise at the time of the injury\n </li>\n<li>\n  are not able to move your thumb or hold things\n </li>\n<li>\n  have a thumb that's changed shape or colour\n </li>\n<li>\n  have lost the feeling in part or all of your hand\n </li>\n</ul>\n<p>\n These might be signs of a broken thumb.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>\n<div class=\"block-common_content\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n   </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Severe pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there and so bad it's hard to think or talk\n       </li>\n<li>\n        you cannot sleep\n       </li>\n<li>\n        it's very hard to move, get out of bed, go to the bathroom, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Moderate pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there\n       </li>\n<li>\n        makes it hard to concentrate or sleep\n       </li>\n<li>\n        you can manage to get up, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Mild pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        comes and goes\n       </li>\n<li>\n        is annoying but does not stop you doing daily activities\n       </li>\n</ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of thumb pain include a sprain, carpel tunnel syndrome, arthritis or a broken thumb.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Thumb pain is often caused by bruising or injuring your thumb.</p><p>Your symptoms might also give you an idea of what's causing the pain in your thumb.</p>"
+            }
+          ],
+          "headline": "Common causes of thumb pain",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/#causes"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-06-06T08:00:00+00:00",
+        "2028-06-06T08:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Thumb pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hand pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hand-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/thumb-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How you can ease thumb pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease thumb pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with thumb pain"
+        }
+      ],
+      "text": "How you can ease thumb pain yourself\nIf you see a GP about pain in your thumb, they'll usually suggest you try these things:\nDo\nrest your thumb when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems\ntake off any jewellery if your thumb looks swollen\nstop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument\nwear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets\nconsider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint\nconsider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables\nkeep your thumb moving with gentle exercises\nDon’t\ndo not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse\ndo not lift heavy objects or grip anything too tightly\nA pharmacist can help with thumb pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nthe best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest your thumb when you can",
+            "put an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours",
+            "use painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems",
+            "take off any jewellery if your thumb looks swollen",
+            "stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument",
+            "wear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets",
+            "consider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint",
+            "consider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables",
+            "keep your thumb moving with gentle exercises"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse",
+            "do not lift heavy objects or grip anything too tightly"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller to take",
+            "the best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen gel",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease thumb pain yourself</h2>\n<p data-block-key=\"zqn0z\">If you see a GP about pain in your thumb, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c10cz\">rest your thumb when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">put an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">take off any jewellery if your thumb looks swollen</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">wear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">consider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">consider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">keep your thumb moving with gentle exercises</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpx9j\">do not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpx9j\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"zqn0z\">A pharmacist can help with thumb pain</h2><p data-block-key=\"dh64p\">You can ask a pharmacist about:</p><ul><li data-block-key=\"8lsm9\">the best painkiller to take</li><li data-block-key=\"93pen\">the best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb</li><li data-block-key=\"e1ou1\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nthe pain in your thumb is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your hand\nyou have diabetes – hand problems can be more serious if you have diabetes",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the pain in your thumb is stopping you doing normal activities",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you have any tingling or loss of sensation in your hand",
+            "you have diabetes – hand problems can be more serious if you have diabetes"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mjc8\">the pain in your thumb is stopping you doing normal activities</li><li data-block-key=\"63u57\">the pain is getting worse or keeps coming back</li><li data-block-key=\"95rn9\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"39rqb\">you have any tingling or loss of sensation in your hand</li><li data-block-key=\"4e1dd\">you have diabetes – hand problems can be more serious if you have diabetes</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Go to an urgent treatment centre or A&E if you:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to an urgent treatment centre or A&E if you:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to an urgent treatment centre or A&E if you:\nhave severe pain\nfeel faint, dizzy or sick from the pain\nheard a snap, grinding or popping noise at the time of the injury\nare not able to move your thumb or hold things\nhave a thumb that's changed shape or colour\nhave lost the feeling in part or all of your hand\nThese might be signs of a broken thumb.\nFind your nearest A&E\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "have severe pain",
+            "feel faint, dizzy or sick from the pain",
+            "heard a snap, grinding or popping noise at the time of the injury",
+            "are not able to move your thumb or hold things",
+            "have a thumb that's changed shape or colour",
+            "have lost the feeling in part or all of your hand"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there and so bad it's hard to think or talk",
+            "you cannot sleep",
+            "it's very hard to move, get out of bed, go to the bathroom, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there",
+            "makes it hard to concentrate or sleep",
+            "you can manage to get up, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "comes and goes",
+            "is annoying but does not stop you doing daily activities"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to an urgent treatment centre or A&amp;E if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mjc8\">have severe pain</li><li data-block-key=\"1m3lv\">feel faint, dizzy or sick from the pain</li><li data-block-key=\"5so3v\">heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"do35v\">are not able to move your thumb or hold things</li><li data-block-key=\"c1dcg\">have a thumb that's changed shape or colour</li><li data-block-key=\"ffaf9\">have lost the feeling in part or all of your hand</li></ul><p data-block-key=\"5k6ml\">These might be signs of a broken thumb.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Common causes of thumb pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of thumb pain"
+        }
+      ],
+      "text": "Common causes of thumb pain\nThumb pain is often caused by bruising or injuring your thumb.\nYour symptoms might also give you an idea of what's causing the pain in your thumb.\nCommon causes of thumb pain and related symptoms.\nSymptoms\nPossible cause\nPain, swelling, bruising after an injury\nSprained thumb\nPain, swelling and stiffness at the base of the thumb that lasts a long time, may be hard to move your thumb, may have a lump\nTendonitis\n(de Quervain's disease) or\narthritis\nAching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping\nCarpal tunnel syndrome\nPain or tenderness in your palm at the base of your thumb, stiffness, clicking when you move your finger or thumb\nTrigger finger\nSudden, sharp pain, swelling, a popping or snapping sound during the injury\nBroken thumb",
+      "lists": [],
+      "links": [
+        {
+          "text": "Sprained thumb",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "Tendonitis",
+          "url": "https://www.nhs.uk/conditions/tendonitis/"
+        },
+        {
+          "text": "arthritis",
+          "url": "https://www.nhs.uk/conditions/arthritis/"
+        },
+        {
+          "text": "Carpal tunnel syndrome",
+          "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/"
+        },
+        {
+          "text": "Trigger finger",
+          "url": "https://www.nhs.uk/conditions/trigger-finger/"
+        },
+        {
+          "text": "Broken thumb",
+          "url": "https://www.nhs.uk/conditions/broken-finger/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of thumb pain</h2>\n<p data-block-key=\"zqn0z\">Thumb pain is often caused by bruising or injuring your thumb.</p><p data-block-key=\"2ln4g\">Your symptoms might also give you an idea of what's causing the pain in your thumb.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of thumb pain and related symptoms.</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain, swelling, bruising after an injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/sprains-and-strains/\">Sprained thumb</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain, swelling and stiffness at the base of the thumb that lasts a long time, may be hard to move your thumb, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/tendonitis/\">Tendonitis</a> (de Quervain's disease) or <a href=\"/conditions/arthritis/\">arthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Aching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/carpal-tunnel-syndrome/\">Carpal tunnel syndrome</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain or tenderness in your palm at the base of your thumb, stiffness, clicking when you move your finger or thumb</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/trigger-finger/\">Trigger finger</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Sudden, sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/broken-finger/\">Broken thumb</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nDo not worry if you're not sure what the problem is.\nFollow the advice on this page and see a GP if the pain does not get better in 2 weeks.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"nofdk\">Do not worry if you're not sure what the problem is.</p><p data-block-key=\"ec6oh\">Follow the advice on this page and see a GP if the pain does not get better in 2 weeks.</p>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "How you can ease thumb pain yourself\nIf you see a GP about pain in your thumb, they'll usually suggest you try these things:\nDo\nrest your thumb when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems\ntake off any jewellery if your thumb looks swollen\nstop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument\nwear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets\nconsider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint\nconsider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables\nkeep your thumb moving with gentle exercises\nDon’t\ndo not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse\ndo not lift heavy objects or grip anything too tightly\nA pharmacist can help with thumb pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nthe best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb\nif you need to see a GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nthe pain in your thumb is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your hand\nyou have diabetes – hand problems can be more serious if you have diabetes\nImmediate action required:\nGo to an urgent treatment centre or A&E if you:\nhave severe pain\nfeel faint, dizzy or sick from the pain\nheard a snap, grinding or popping noise at the time of the injury\nare not able to move your thumb or hold things\nhave a thumb that's changed shape or colour\nhave lost the feeling in part or all of your hand\nThese might be signs of a broken thumb.\nFind your nearest A&E\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities\nCommon causes of thumb pain\nThumb pain is often caused by bruising or injuring your thumb.\nYour symptoms might also give you an idea of what's causing the pain in your thumb.\nCommon causes of thumb pain and related symptoms.\nSymptoms\nPossible cause\nPain, swelling, bruising after an injury\nSprained thumb\nPain, swelling and stiffness at the base of the thumb that lasts a long time, may be hard to move your thumb, may have a lump\nTendonitis\n(de Quervain's disease) or\narthritis\nAching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping\nCarpal tunnel syndrome\nPain or tenderness in your palm at the base of your thumb, stiffness, clicking when you move your finger or thumb\nTrigger finger\nSudden, sharp pain, swelling, a popping or snapping sound during the injury\nBroken thumb\nInformation:\nDo not worry if you're not sure what the problem is.\nFollow the advice on this page and see a GP if the pain does not get better in 2 weeks.",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen gel",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "Sprained thumb",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "Tendonitis",
+      "url": "https://www.nhs.uk/conditions/tendonitis/"
+    },
+    {
+      "text": "arthritis",
+      "url": "https://www.nhs.uk/conditions/arthritis/"
+    },
+    {
+      "text": "Carpal tunnel syndrome",
+      "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/"
+    },
+    {
+      "text": "Trigger finger",
+      "url": "https://www.nhs.uk/conditions/trigger-finger/"
+    },
+    {
+      "text": "Broken thumb",
+      "url": "https://www.nhs.uk/conditions/broken-finger/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"self-care\">How you can ease thumb pain yourself</h2>\n<p data-block-key=\"zqn0z\">If you see a GP about pain in your thumb, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c10cz\">rest your thumb when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">put an ice pack (or a bag of frozen peas) in a towel and place it on your thumb for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed) – ibuprofen is not suitable for everyone, such as older people who have a higher chance of getting stomach ulcers and kidney problems</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">take off any jewellery if your thumb looks swollen</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">wear a splint to support your thumb and ease pain, especially at night – you can get these at most pharmacies and supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">consider taping something like a lollipop stick to your thumb – this will keep it in place until you can get a splint</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">consider using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ygsys\">keep your thumb moving with gentle exercises</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpx9j\">do not use heat packs or have hot baths for a few days after an injury or if your thumb is swollen – this can make it worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"lpx9j\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"zqn0z\">A pharmacist can help with thumb pain</h2><p data-block-key=\"dh64p\">You can ask a pharmacist about:</p><ul><li data-block-key=\"8lsm9\">the best painkiller to take</li><li data-block-key=\"93pen\">the best splint to support your thumb and ease pain – flexible rubber splints are available if you still need to use your thumb</li><li data-block-key=\"e1ou1\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mjc8\">the pain in your thumb is stopping you doing normal activities</li><li data-block-key=\"63u57\">the pain is getting worse or keeps coming back</li><li data-block-key=\"95rn9\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"39rqb\">you have any tingling or loss of sensation in your hand</li><li data-block-key=\"4e1dd\">you have diabetes – hand problems can be more serious if you have diabetes</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to an urgent treatment centre or A&amp;E if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mjc8\">have severe pain</li><li data-block-key=\"1m3lv\">feel faint, dizzy or sick from the pain</li><li data-block-key=\"5so3v\">heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"do35v\">are not able to move your thumb or hold things</li><li data-block-key=\"c1dcg\">have a thumb that's changed shape or colour</li><li data-block-key=\"ffaf9\">have lost the feeling in part or all of your hand</li></ul><p data-block-key=\"5k6ml\">These might be signs of a broken thumb.</p>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of thumb pain</h2>\n<p data-block-key=\"zqn0z\">Thumb pain is often caused by bruising or injuring your thumb.</p><p data-block-key=\"2ln4g\">Your symptoms might also give you an idea of what's causing the pain in your thumb.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of thumb pain and related symptoms.</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain, swelling, bruising after an injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/sprains-and-strains/\">Sprained thumb</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain, swelling and stiffness at the base of the thumb that lasts a long time, may be hard to move your thumb, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/tendonitis/\">Tendonitis</a> (de Quervain's disease) or <a href=\"/conditions/arthritis/\">arthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Aching pain that's worse at night, numbness or pins and needles, a weak thumb or difficulty gripping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/carpal-tunnel-syndrome/\">Carpal tunnel syndrome</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Pain or tenderness in your palm at the base of your thumb, stiffness, clicking when you move your finger or thumb</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/trigger-finger/\">Trigger finger</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\">Sudden, sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qs8f4\"><a href=\"/conditions/broken-finger/\">Broken thumb</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"nofdk\">Do not worry if you're not sure what the problem is.</p><p data-block-key=\"ec6oh\">Follow the advice on this page and see a GP if the pain does not get better in 2 weeks.</p>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

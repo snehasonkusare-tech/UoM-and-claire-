@@ -1,0 +1,571 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/anal-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/anal-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:35.493464+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Anal pain",
+      "url": "https://www.nhs.uk/symptoms/anal-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Anal pain",
+  "meta_description": "Find out what causes anal pain, what you can do to ease the pain and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "27 October 2025",
+    "next_review_due": "27 October 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what causes anal pain, what you can do to ease the pain and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/anal-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nAnal pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what causes anal pain, what you can do to ease the pain and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "13 Apr 2026, 10:10 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "17 Oct 2017, 4:49 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Anal pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/anal-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Anal pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-13T09:10:11+00:00",
+      "description": "Find out what causes anal pain, what you can do to ease the pain and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lots of things can cause anal pain. Common causes include constipation, piles, and anal fissures.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Anal pain has many different causes including constipation and piles but there are lots of possible causes.</p><p>Do not try to diagnose the cause of pain yourself.</p>"
+            }
+          ],
+          "headline": "Common causes of anal pain",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To ease anal pain, it can help to eat plenty of fibre, take paracetamol and exercise regularly. Ask a pharmacist about medicines you can buy.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>drink lots of fluid and <a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">get more fibre into your diet</a> to keep your poo soft</p></li><li><p>exercise regularly</p></li><li><p>wipe your bottom with damp toilet paper</p></li><li><p>take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a></p></li><li><p>take a warm bath to ease itching and pain</p></li><li><p>put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not scratch around your anus</p></li><li><p>do not ignore the urge to poo</p></li><li><p>do not push too hard when pooing</p></li><li><p>do not use fragranced products, such as shower gels or soaps around your anus</p></li><li><p>do not eat spicy food or drink alcohol and caffeine</p></li><li><p>do not lift or carry anything heavy</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with anal pain",
+              "text": "<p>A pharmacist can recommend medicines to reduce constipation and anal pain such as:</p><ul><li>painkillers like ibuprofen or paracetamol</li><li>creams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling</li><li>medicines that help make it easier to poo (laxatives)</li></ul><p>Many pharmacies have private areas if you do not want to be overheard.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How you can ease or prevent anal pain",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your anal pain is severe\n </li>\n<li>\n  the pain does not improve after a few days\n </li>\n<li>\n  you have blood in your poo or bleeding from your bottom\n </li>\n</ul>\n<p>\n Do not feel embarrassed to see a GP. Anal pain is a common problem that they're used to treating.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have severe anal pain and you have a high temperature, or feel hot, cold or shivery\n </li>\n<li>\n  your poo is black or dark red\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E or call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you're bleeding non-stop from your bottom\n </li>\n<li>\n  there is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for anal pain depends on the cause. The main treatments are medicines, creams, or laxatives that help ease the pain.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for anal pain depends on what's causing it.</p><p>A GP will examine you and may prescribe:</p><ul><li>a cream or ointment to ease your pain</li><li>laxatives to help you poo more easily</li><li>antibiotics if you have an infection</li></ul><p>The GP may also recommend changes to your diet or arrange for tests to look for a cause of the anal pain.</p><p>Sometimes surgery or other treatments may be needed if the pain is caused by severe anal fissures, piles or fistulas.</p>"
+            }
+          ],
+          "headline": "Treatment for anal pain",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Anal pain is common. There are things you can do to ease the pain, but get medical help if the pain around or in your anus does not get better.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Anal pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anal pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Anal pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Lots of things can cause anal pain. Common causes include constipation, piles, and anal fissures.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To ease anal pain, it can help to eat plenty of fibre, take paracetamol and exercise regularly. Ask a pharmacist about medicines you can buy.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for anal pain depends on the cause. The main treatments are medicines, creams, or laxatives that help ease the pain.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/anal-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-10-27T01:00:00+00:00",
+        "2028-10-27T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Anal pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Anal pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/anal-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/anal-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of anal pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of anal pain"
+        }
+      ],
+      "text": "Common causes of anal pain\nAnal pain has many different causes including constipation and piles but there are lots of possible causes.\nDo not try to diagnose the cause of pain yourself.\nPossible causes of anal pain\nSymptoms\nPossible cause\nPooing less than normal for you, or feeling like you have not fully emptied your bowels. Hard poo and pain when pooing.\nConstipation\nItchy anus, feeling a lump around the anus, blood on the paper after wiping\nPiles (haemorrhoids)\nSharp pain when pooing, burning pain after doing a poo and blood on the paper after wiping\nAnal fissures\nConstant throbbing pain, pus and blood on the paper after wiping, high temperature\nAnal fistulas and abscesses",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of anal pain</h2>\n<p data-block-key=\"j9se2\">Anal pain has many different causes including constipation and piles but there are lots of possible causes.</p><p data-block-key=\"eiegn\">Do not try to diagnose the cause of pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of anal pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Pooing less than normal for you, or feeling like you have not fully emptied your bowels. Hard poo and pain when pooing.</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Constipation</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Itchy anus, feeling a lump around the anus, blood on the paper after wiping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Piles (haemorrhoids)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Sharp pain when pooing, burning pain after doing a poo and blood on the paper after wiping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Anal fissures</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Constant throbbing pain, pus and blood on the paper after wiping, high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Anal fistulas and abscesses</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How you can ease or prevent anal pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease or prevent anal pain"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with anal pain"
+        }
+      ],
+      "text": "How you can ease or prevent anal pain\nDo\ndrink lots of fluid and\nget more fibre into your diet\nto keep your poo soft\nexercise regularly\nwipe your bottom with damp toilet paper\ntake\nparacetamol\ntake a warm bath to ease itching and pain\nput an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours\nDon’t\ndo not scratch around your anus\ndo not ignore the urge to poo\ndo not push too hard when pooing\ndo not use fragranced products, such as shower gels or soaps around your anus\ndo not eat spicy food or drink alcohol and caffeine\ndo not lift or carry anything heavy\nA pharmacist can help with anal pain\nA pharmacist can recommend medicines to reduce constipation and anal pain such as:\npainkillers like ibuprofen or paracetamol\ncreams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling\nmedicines that help make it easier to poo (laxatives)\nMany pharmacies have private areas if you do not want to be overheard.\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "drink lots of fluid and\nget more fibre into your diet\nto keep your poo soft",
+            "exercise regularly",
+            "wipe your bottom with damp toilet paper",
+            "take\nparacetamol",
+            "take a warm bath to ease itching and pain",
+            "put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not scratch around your anus",
+            "do not ignore the urge to poo",
+            "do not push too hard when pooing",
+            "do not use fragranced products, such as shower gels or soaps around your anus",
+            "do not eat spicy food or drink alcohol and caffeine",
+            "do not lift or carry anything heavy"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "painkillers like ibuprofen or paracetamol",
+            "creams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling",
+            "medicines that help make it easier to poo (laxatives)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get more fibre into your diet",
+          "url": "https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/"
+        },
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease or prevent anal pain</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3q00p\">drink lots of fluid and <a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">get more fibre into your diet</a> to keep your poo soft</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">exercise regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">wipe your bottom with damp toilet paper</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">take a warm bath to ease itching and pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"dsgs8\">do not scratch around your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not ignore the urge to poo</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not push too hard when pooing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not use fragranced products, such as shower gels or soaps around your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not eat spicy food or drink alcohol and caffeine</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not lift or carry anything heavy</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"j9se2\">A pharmacist can help with anal pain</h3><p data-block-key=\"7jtq0\">A pharmacist can recommend medicines to reduce constipation and anal pain such as:</p><ul><li data-block-key=\"36g81\">painkillers like ibuprofen or paracetamol</li><li data-block-key=\"6chl8\">creams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling</li><li data-block-key=\"322d0\">medicines that help make it easier to poo (laxatives)</li></ul><p data-block-key=\"6dbio\">Many pharmacies have private areas if you do not want to be overheard.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour anal pain is severe\nthe pain does not improve after a few days\nyou have blood in your poo or bleeding from your bottom\nDo not feel embarrassed to see a GP. Anal pain is a common problem that they're used to treating.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your anal pain is severe",
+            "the pain does not improve after a few days",
+            "you have blood in your poo or bleeding from your bottom"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">your anal pain is severe</li><li data-block-key=\"d72f7\">the pain does not improve after a few days</li><li data-block-key=\"2g42p\">you have blood in your poo or bleeding from your bottom</li></ul><p data-block-key=\"6r69p\">Do not feel embarrassed to see a GP. Anal pain is a common problem that they're used to treating.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have severe anal pain and you have a high temperature, or feel hot, cold or shivery\nyour poo is black or dark red\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe anal pain and you have a high temperature, or feel hot, cold or shivery",
+            "your poo is black or dark red"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">you have severe anal pain and you have a high temperature, or feel hot, cold or shivery</li><li data-block-key=\"81s4o\">your poo is black or dark red</li></ul><p data-block-key=\"85j5f\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Immediate action required: Go to A&E or call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E or call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E or call 999 if:\nyou're bleeding non-stop from your bottom\nthere is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots\nFind your nearest A&E",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you're bleeding non-stop from your bottom",
+            "there is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">you're bleeding non-stop from your bottom</li><li data-block-key=\"hb8u\">there is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatment for anal pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for anal pain"
+        }
+      ],
+      "text": "Treatment for anal pain\nTreatment for anal pain depends on what's causing it.\nA GP will examine you and may prescribe:\na cream or ointment to ease your pain\nlaxatives to help you poo more easily\nantibiotics if you have an infection\nThe GP may also recommend changes to your diet or arrange for tests to look for a cause of the anal pain.\nSometimes surgery or other treatments may be needed if the pain is caused by severe anal fissures, piles or fistulas.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a cream or ointment to ease your pain",
+            "laxatives to help you poo more easily",
+            "antibiotics if you have an infection"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for anal pain</h2>\n<p data-block-key=\"j9se2\">Treatment for anal pain depends on what's causing it.</p><p data-block-key=\"9psld\">A GP will examine you and may prescribe:</p><ul><li data-block-key=\"7g0fh\">a cream or ointment to ease your pain</li><li data-block-key=\"al8jq\">laxatives to help you poo more easily</li><li data-block-key=\"u9gn\">antibiotics if you have an infection</li></ul><p data-block-key=\"9st8t\">The GP may also recommend changes to your diet or arrange for tests to look for a cause of the anal pain.</p><p data-block-key=\"cpgi8\">Sometimes surgery or other treatments may be needed if the pain is caused by severe anal fissures, piles or fistulas.</p>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of anal pain\nAnal pain has many different causes including constipation and piles but there are lots of possible causes.\nDo not try to diagnose the cause of pain yourself.\nPossible causes of anal pain\nSymptoms\nPossible cause\nPooing less than normal for you, or feeling like you have not fully emptied your bowels. Hard poo and pain when pooing.\nConstipation\nItchy anus, feeling a lump around the anus, blood on the paper after wiping\nPiles (haemorrhoids)\nSharp pain when pooing, burning pain after doing a poo and blood on the paper after wiping\nAnal fissures\nConstant throbbing pain, pus and blood on the paper after wiping, high temperature\nAnal fistulas and abscesses\nHow you can ease or prevent anal pain\nDo\ndrink lots of fluid and\nget more fibre into your diet\nto keep your poo soft\nexercise regularly\nwipe your bottom with damp toilet paper\ntake\nparacetamol\ntake a warm bath to ease itching and pain\nput an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours\nDon’t\ndo not scratch around your anus\ndo not ignore the urge to poo\ndo not push too hard when pooing\ndo not use fragranced products, such as shower gels or soaps around your anus\ndo not eat spicy food or drink alcohol and caffeine\ndo not lift or carry anything heavy\nA pharmacist can help with anal pain\nA pharmacist can recommend medicines to reduce constipation and anal pain such as:\npainkillers like ibuprofen or paracetamol\ncreams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling\nmedicines that help make it easier to poo (laxatives)\nMany pharmacies have private areas if you do not want to be overheard.\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nyour anal pain is severe\nthe pain does not improve after a few days\nyou have blood in your poo or bleeding from your bottom\nDo not feel embarrassed to see a GP. Anal pain is a common problem that they're used to treating.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have severe anal pain and you have a high temperature, or feel hot, cold or shivery\nyour poo is black or dark red\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nGo to A&E or call 999 if:\nyou're bleeding non-stop from your bottom\nthere is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots\nFind your nearest A&E\nTreatment for anal pain\nTreatment for anal pain depends on what's causing it.\nA GP will examine you and may prescribe:\na cream or ointment to ease your pain\nlaxatives to help you poo more easily\nantibiotics if you have an infection\nThe GP may also recommend changes to your diet or arrange for tests to look for a cause of the anal pain.\nSometimes surgery or other treatments may be needed if the pain is caused by severe anal fissures, piles or fistulas.\nPage last reviewed: 27 October 2025\nNext review due: 27 October 2028",
+  "links": [
+    {
+      "text": "get more fibre into your diet",
+      "url": "https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of anal pain</h2>\n<p data-block-key=\"j9se2\">Anal pain has many different causes including constipation and piles but there are lots of possible causes.</p><p data-block-key=\"eiegn\">Do not try to diagnose the cause of pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of anal pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Pooing less than normal for you, or feeling like you have not fully emptied your bowels. Hard poo and pain when pooing.</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Constipation</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Itchy anus, feeling a lump around the anus, blood on the paper after wiping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Piles (haemorrhoids)</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Sharp pain when pooing, burning pain after doing a poo and blood on the paper after wiping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Anal fissures</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Constant throbbing pain, pus and blood on the paper after wiping, high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"mg9ir\">Anal fistulas and abscesses</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease or prevent anal pain</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"3q00p\">drink lots of fluid and <a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">get more fibre into your diet</a> to keep your poo soft</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">exercise regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">wipe your bottom with damp toilet paper</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">take <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a></p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">take a warm bath to ease itching and pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"at1q1\">put an ice pack (or bag of frozen peas) in a towel on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"dsgs8\">do not scratch around your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not ignore the urge to poo</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not push too hard when pooing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not use fragranced products, such as shower gels or soaps around your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not eat spicy food or drink alcohol and caffeine</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qd94v\">do not lift or carry anything heavy</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"j9se2\">A pharmacist can help with anal pain</h3><p data-block-key=\"7jtq0\">A pharmacist can recommend medicines to reduce constipation and anal pain such as:</p><ul><li data-block-key=\"36g81\">painkillers like ibuprofen or paracetamol</li><li data-block-key=\"6chl8\">creams or suppositories (medicines you put into your bottom) to ease itching, pain and swelling</li><li data-block-key=\"322d0\">medicines that help make it easier to poo (laxatives)</li></ul><p data-block-key=\"6dbio\">Many pharmacies have private areas if you do not want to be overheard.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">your anal pain is severe</li><li data-block-key=\"d72f7\">the pain does not improve after a few days</li><li data-block-key=\"2g42p\">you have blood in your poo or bleeding from your bottom</li></ul><p data-block-key=\"6r69p\">Do not feel embarrassed to see a GP. Anal pain is a common problem that they're used to treating.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">you have severe anal pain and you have a high temperature, or feel hot, cold or shivery</li><li data-block-key=\"81s4o\">your poo is black or dark red</li></ul><p data-block-key=\"85j5f\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"in7h1\">you're bleeding non-stop from your bottom</li><li data-block-key=\"hb8u\">there is a lot of blood coming from your bottom – for example, the toilet water turns red or you see large blood clots</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for anal pain</h2>\n<p data-block-key=\"j9se2\">Treatment for anal pain depends on what's causing it.</p><p data-block-key=\"9psld\">A GP will examine you and may prescribe:</p><ul><li data-block-key=\"7g0fh\">a cream or ointment to ease your pain</li><li data-block-key=\"al8jq\">laxatives to help you poo more easily</li><li data-block-key=\"u9gn\">antibiotics if you have an infection</li></ul><p data-block-key=\"9st8t\">The GP may also recommend changes to your diet or arrange for tests to look for a cause of the anal pain.</p><p data-block-key=\"cpgi8\">Sometimes surgery or other treatments may be needed if the pain is caused by severe anal fissures, piles or fistulas.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 27 October 2025<br/>\n    Next review due: 27 October 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

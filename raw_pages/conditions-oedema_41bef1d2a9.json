@@ -1,0 +1,710 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/oedema/",
+  "final_url": "https://www.nhs.uk/conditions/oedema/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:38.804182+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Ankles (swollen), see Swollen ankles, feet and legs (oedema)",
+      "url": "https://www.nhs.uk/conditions/oedema/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "S",
+      "label": "Swollen ankles, feet and legs (oedema)",
+      "url": "https://www.nhs.uk/conditions/oedema/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Swollen ankles, feet and legs (oedema)",
+  "meta_description": "Find out about swelling in the ankles, feet and legs (oedema), including what it looks like, common causes and what to do about it.",
+  "review_dates": {
+    "page_last_reviewed": "26 February 2026",
+    "next_review_due": "26 February 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about swelling in the ankles, feet and legs (oedema), including what it looks like, common causes and what to do about it."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/oedema/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nSwollen ankles, feet and legs (oedema)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about swelling in the ankles, feet and legs (oedema), including what it looks like, common causes and what to do about it."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "10 Mar 2026, 11:53 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 2:28 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Ankles (swollen)"
+        ],
+        "name": "Swollen ankles, feet and legs (oedema)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/oedema/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Swollen ankles, feet and legs (oedema)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-03-10T11:53:03+00:00",
+      "description": "Find out about swelling in the ankles, feet and legs (oedema), including what it looks like, common causes and what to do about it.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of swollen ankles, feet and legs include being overweight, pregnancy, eating too much salty food and standing or sitting for too long.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Swelling in the ankles, feet and legs is often caused by a build-up of fluid in these areas, called oedema.</p><p>Oedema is usually caused by:</p><ul><li>standing or sitting in the same position for too long</li><li>eating too much salty food</li><li>being overweight</li><li>being pregnant</li><li>taking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids</li><li>varicose veins</li><li>thyroid problems</li></ul><p>Oedema can also be caused by:</p><ul><li>an injury – such as a <a href=\"/conditions/sprains-and-strains/\">strain or sprain</a></li><li>an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a></li><li>problems with your kidneys, liver or heart</li><li>a blood clot</li><li>an infection</li></ul>"
+            }
+          ],
+          "headline": "Common causes of swollen ankles, feet and legs",
+          "url": "https://www.nhs.uk/conditions/oedema/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of oedema include swollen, shiny or stretched skin around your ankles, feet or legs.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Symptoms of oedema in the ankles, feet and legs can affect 1 or both legs and may include:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Swollen or puffy ankles, feet or legs.",
+                  "datePublished": "2018-11-15T16:51:04+00:00",
+                  "keywords": [
+                    "swelling",
+                    "Oedema",
+                    "swollen",
+                    "swollen feet",
+                    "swollen ankles",
+                    "swollen legs"
+                  ],
+                  "license": "<p data-block-key=\"uxp4h\">CaptureIt / Alamy Stock Photo https://www.alamy.com/stock-photo-swollen-puffy-feet-toes-and-ankles-of-adult-female-woman-after-an-16909905.html?pv=1&amp;stamp=2&amp;imageid=BDF21AF8-3C21-44B4-996A-B05115785B6B&amp;p=61997&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAXT1NP%26qt_raw%3DAXT1NP%26qn%3D%26lic%3D3%26edrf%3D1%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D32846%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>",
+                  "name": "Swollen ankles in someone with white skin. Both ankles look bigger than usual.",
+                  "provider": "Alamy Stock Photo",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Swollen or puffy ankles, feet or legs.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Shiny or stretched skin.",
+                  "datePublished": "2017-06-15T08:28:14+00:00",
+                  "keywords": [
+                    "Foot",
+                    "Oedema",
+                    "feet",
+                    "swollen",
+                    "hands or feet",
+                    "Swollen legs,"
+                  ],
+                  "license": "<p data-block-key=\"xaf0a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/260060/view</p>",
+                  "name": "A swollen foot in someone with white skin, where the skin on top of the foot looks tight, stretched, smooth and slightly red.",
+                  "provider": "Science Photo Library",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Shiny or stretched skin.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Changes in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.",
+                  "datePublished": "2021-12-20T16:40:48+00:00",
+                  "keywords": [
+                    "Foot",
+                    "Legs and feet",
+                    "swelling",
+                    "Ankle",
+                    "Oedema",
+                    "feet",
+                    "swollen",
+                    "Swollen legs,",
+                    "leg",
+                    "legs"
+                  ],
+                  "license": "",
+                  "name": "A swollen ankle in someone with black skin. The ankle looks bigger than usual and is a darker colour than the skin surrounding it.",
+                  "provider": "Shutterstock",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Changes in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.</p>"
+            }
+          ],
+          "headline": "Symptoms of oedema",
+          "url": "https://www.nhs.uk/conditions/oedema/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n Both of your ankles, feet or legs are swollen and:\n</p>\n<ul>\n<li>\n  it has not improved after treating it at home for a few days\n </li>\n<li>\n  it gets worse\n </li>\n<li>\n  you have been diagnosed with a condition that affects your heart, kidneys or leg veins\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/oedema/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have swelling in 1 ankle, foot or leg and you don't know what's causing it\n </li>\n<li>\n  you have a lot of swelling following an injury or the swelling is getting worse\n </li>\n<li>\n  the swelling is severe, painful or starts very suddenly\n </li>\n<li>\n  you also have swelling in other areas of your body such as your face or tummy\n </li>\n<li>\n  the swollen area is red or feels hot to the touch\n </li>\n<li>\n  your temperature is very high, or you feel hot, cold or shivery\n </li>\n<li>\n  you have diabetes and your feet, ankles or legs are swollen\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/oedema/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  you feel short of breath or are struggling to breathe\n </li>\n<li>\n  your chest feels tight, heavy or painful\n </li>\n<li>\n  you're coughing up blood\n </li>\n<li>\n  your heartbeat is more noticeable (palpitations)\n </li>\n<li>\n  you're feeling lightheaded, faint, confused, sick or clammy\n </li>\n</ul>\n<p>\n You could have a blood clot in your lungs, which needs immediate treatment in hospital.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging (for 999 only)",
+              "text": "<p>Do not drive yourself to A&amp;E. </p><p>The person you speak to at 999 will give you advice about what to do.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/oedema/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To reduce swelling in your ankles, feet or legs, raise them up on a chair or pillows when sitting and avoid standing or sitting for long periods.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Swelling in your ankles, feet or legs should go away on its own, but there are some things you can try to help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>raise your legs or the swollen area on a chair or pillows when you can</p></li><li><p>get some gentle exercise, like walking, to improve your blood flow</p></li><li><p>wear wide, comfortable shoes with a low heel and soft sole</p></li><li><p>wash, dry and moisturise your feet to avoid infections</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not stand or sit for long periods of time</p></li><li><p>do not wear clothes, socks or shoes that are too tight</p></li></ul>"
+            }
+          ],
+          "headline": "Things that may ease swelling",
+          "url": "https://www.nhs.uk/conditions/oedema/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for swollen ankles, feet and legs depends on the cause. It might include changing your diet or losing weight.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for swelling or oedema that does not go away on its own will depend on the cause. Your GP can help you with the right treatment.</p><p>Speak to your GP about whether making lifestyle changes could help.</p>"
+            }
+          ],
+          "headline": "Treatment for swelling and oedema",
+          "url": "https://www.nhs.uk/conditions/oedema/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Swollen ankles, feet and legs are often caused by a build-up of fluid called oedema. It often goes away on its own but see a GP if it does not.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen ankles, feet and legs (oedema)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen ankles, feet and legs (oedema)",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen ankles, feet and legs (oedema)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Swollen ankles, feet and legs (oedema)",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of oedema include swollen, shiny or stretched skin around your ankles, feet or legs.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To reduce swelling in your ankles, feet or legs, raise them up on a chair or pillows when sitting and avoid standing or sitting for long periods.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of swollen ankles, feet and legs include being overweight, pregnancy, eating too much salty food and standing or sitting for too long.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for swollen ankles, feet and legs depends on the cause. It might include changing your diet or losing weight.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/oedema/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-02-26T00:00:00+00:00",
+        "2029-02-26T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Swollen ankles, feet and legs (oedema)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Swollen ankles, feet and legs (oedema)",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/oedema/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/oedema/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of swollen ankles, feet and legs",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of swollen ankles, feet and legs"
+        }
+      ],
+      "text": "Common causes of swollen ankles, feet and legs\nSwelling in the ankles, feet and legs is often caused by a build-up of fluid in these areas, called oedema.\nOedema is usually caused by:\nstanding or sitting in the same position for too long\neating too much salty food\nbeing overweight\nbeing pregnant\ntaking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids\nvaricose veins\nthyroid problems\nOedema can also be caused by:\nan injury – such as a\nstrain or sprain\nan\ninsect bite or sting\nproblems with your kidneys, liver or heart\na blood clot\nan infection",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "standing or sitting in the same position for too long",
+            "eating too much salty food",
+            "being overweight",
+            "being pregnant",
+            "taking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids",
+            "varicose veins",
+            "thyroid problems"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "an injury – such as a\nstrain or sprain",
+            "an\ninsect bite or sting",
+            "problems with your kidneys, liver or heart",
+            "a blood clot",
+            "an infection"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "strain or sprain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "insect bite or sting",
+          "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of swollen ankles, feet and legs</h2>\n<p data-block-key=\"bbi88\">Swelling in the ankles, feet and legs is often caused by a build-up of fluid in these areas, called oedema.</p><p data-block-key=\"o7xj0\">Oedema is usually caused by:</p><ul><li data-block-key=\"ncbno\">standing or sitting in the same position for too long</li><li data-block-key=\"eeue0\">eating too much salty food</li><li data-block-key=\"8q8aj\">being overweight</li><li data-block-key=\"v1ype\">being pregnant</li><li data-block-key=\"l3yv3\">taking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids</li><li data-block-key=\"ujkl\">varicose veins</li><li data-block-key=\"edi9\">thyroid problems</li></ul><p data-block-key=\"g6mtq\">Oedema can also be caused by:</p><ul><li data-block-key=\"yipnx\">an injury – such as a <a href=\"/conditions/sprains-and-strains/\">strain or sprain</a></li><li data-block-key=\"z3m3p\">an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a></li><li data-block-key=\"wgiv7\">problems with your kidneys, liver or heart</li><li data-block-key=\"fe1i8\">a blood clot</li><li data-block-key=\"t83lm\">an infection</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nFind out more about swollen ankles, feet and fingers in pregnancy",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out more about swollen ankles, feet and fingers in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"gxih7\"><a href=\"/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/\">Find out more about swollen ankles, feet and fingers in pregnancy</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Symptoms of oedema",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of oedema"
+        }
+      ],
+      "text": "Symptoms of oedema\nSymptoms of oedema in the ankles, feet and legs can affect 1 or both legs and may include:\nSwollen or puffy ankles, feet or legs.\nCredit:\nCaptureIt / Alamy Stock Photo https://www.alamy.com/stock-photo-swollen-puffy-feet-toes-and-ankles-of-adult-female-woman-after-an-16909905.html?pv=1&stamp=2&imageid=BDF21AF8-3C21-44B4-996A-B05115785B6B&p=61997&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAXT1NP%26qt_raw%3DAXT1NP%26qn%3D%26lic%3D3%26edrf%3D1%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D32846%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nShiny or stretched skin.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/260060/view\nChanges in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of oedema</h2>\n<p data-block-key=\"d0la2\">Symptoms of oedema in the ankles, feet and legs can affect 1 or both legs and may include:</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"Swollen ankles in someone with white skin. Both ankles look bigger than usual.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Swollen or puffy ankles, feet or legs.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"uxp4h\">CaptureIt / Alamy Stock Photo https://www.alamy.com/stock-photo-swollen-puffy-feet-toes-and-ankles-of-adult-female-woman-after-an-16909905.html?pv=1&amp;stamp=2&amp;imageid=BDF21AF8-3C21-44B4-996A-B05115785B6B&amp;p=61997&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAXT1NP%26qt_raw%3DAXT1NP%26qn%3D%26lic%3D3%26edrf%3D1%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D32846%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen foot in someone with white skin, where the skin on top of the foot looks tight, stretched, smooth and slightly red.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Shiny or stretched skin.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"xaf0a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/260060/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen ankle in someone with black skin. The ankle looks bigger than usual and is a darker colour than the skin surrounding it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Changes in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.\n  </figcaption>\n</figure>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nBoth of your ankles, feet or legs are swollen and:\nit has not improved after treating it at home for a few days\nit gets worse\nyou have been diagnosed with a condition that affects your heart, kidneys or leg veins",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it has not improved after treating it at home for a few days",
+            "it gets worse",
+            "you have been diagnosed with a condition that affects your heart, kidneys or leg veins"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"qr5qg\">Both of your ankles, feet or legs are swollen and:</p><ul><li data-block-key=\"3sa0k\">it has not improved after treating it at home for a few days</li><li data-block-key=\"xnz75\">it gets worse</li><li data-block-key=\"2dr8d\">you have been diagnosed with a condition that affects your heart, kidneys or leg veins</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have swelling in 1 ankle, foot or leg and you don't know what's causing it\nyou have a lot of swelling following an injury or the swelling is getting worse\nthe swelling is severe, painful or starts very suddenly\nyou also have swelling in other areas of your body such as your face or tummy\nthe swollen area is red or feels hot to the touch\nyour temperature is very high, or you feel hot, cold or shivery\nyou have diabetes and your feet, ankles or legs are swollen\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have swelling in 1 ankle, foot or leg and you don't know what's causing it",
+            "you have a lot of swelling following an injury or the swelling is getting worse",
+            "the swelling is severe, painful or starts very suddenly",
+            "you also have swelling in other areas of your body such as your face or tummy",
+            "the swollen area is red or feels hot to the touch",
+            "your temperature is very high, or you feel hot, cold or shivery",
+            "you have diabetes and your feet, ankles or legs are swollen"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"8dhg4\">you have swelling in 1 ankle, foot or leg and you don't know what's causing it</li><li data-block-key=\"4703j\">you have a lot of swelling following an injury or the swelling is getting worse</li><li data-block-key=\"2278n\">the swelling is severe, painful or starts very suddenly</li><li data-block-key=\"c0jk0\">you also have swelling in other areas of your body such as your face or tummy</li><li data-block-key=\"49kq2\">the swollen area is red or feels hot to the touch</li><li data-block-key=\"eunfa\">your temperature is very high, or you feel hot, cold or shivery</li><li data-block-key=\"a0cup\">you have diabetes and your feet, ankles or legs are swollen</li></ul><p data-block-key=\"ad585\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nyou feel short of breath or are struggling to breathe\nyour chest feels tight, heavy or painful\nyou're coughing up blood\nyour heartbeat is more noticeable (palpitations)\nyou're feeling lightheaded, faint, confused, sick or clammy\nYou could have a blood clot in your lungs, which needs immediate treatment in hospital.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you feel short of breath or are struggling to breathe",
+            "your chest feels tight, heavy or painful",
+            "you're coughing up blood",
+            "your heartbeat is more noticeable (palpitations)",
+            "you're feeling lightheaded, faint, confused, sick or clammy"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2vc1f\">you feel short of breath or are struggling to breathe</li><li data-block-key=\"6j166\">your chest feels tight, heavy or painful</li><li data-block-key=\"3es2h\">you're coughing up blood</li><li data-block-key=\"665ib\">your heartbeat is more noticeable (palpitations)</li><li data-block-key=\"b476s\">you're feeling lightheaded, faint, confused, sick or clammy</li></ul><p data-block-key=\"brimu\">You could have a blood clot in your lungs, which needs immediate treatment in hospital.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Things that may ease swelling",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things that may ease swelling"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things that may ease swelling\nSwelling in your ankles, feet or legs should go away on its own, but there are some things you can try to help.\nDo\nraise your legs or the swollen area on a chair or pillows when you can\nget some gentle exercise, like walking, to improve your blood flow\nwear wide, comfortable shoes with a low heel and soft sole\nwash, dry and moisturise your feet to avoid infections\nDon’t\ndo not stand or sit for long periods of time\ndo not wear clothes, socks or shoes that are too tight",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "raise your legs or the swollen area on a chair or pillows when you can",
+            "get some gentle exercise, like walking, to improve your blood flow",
+            "wear wide, comfortable shoes with a low heel and soft sole",
+            "wash, dry and moisturise your feet to avoid infections"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not stand or sit for long periods of time",
+            "do not wear clothes, socks or shoes that are too tight"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things that may ease swelling</h2>\n<p data-block-key=\"po68r\">Swelling in your ankles, feet or legs should go away on its own, but there are some things you can try to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"61w98\">raise your legs or the swollen area on a chair or pillows when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n2k9d\">get some gentle exercise, like walking, to improve your blood flow</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nsi5p\">wear wide, comfortable shoes with a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jbqjy\">wash, dry and moisturise your feet to avoid infections</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pawcj\">do not stand or sit for long periods of time</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jdr1j\">do not wear clothes, socks or shoes that are too tight</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Treatment for swelling and oedema",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for swelling and oedema"
+        }
+      ],
+      "text": "Treatment for swelling and oedema\nTreatment for swelling or oedema that does not go away on its own will depend on the cause. Your GP can help you with the right treatment.\nSpeak to your GP about whether making lifestyle changes could help.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for swelling and oedema</h2>\n<p data-block-key=\"fjvbe\">Treatment for swelling or oedema that does not go away on its own will depend on the cause. Your GP can help you with the right treatment.</p><p data-block-key=\"pqk2x\">Speak to your GP about whether making lifestyle changes could help.</p>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of swollen ankles, feet and legs\nSwelling in the ankles, feet and legs is often caused by a build-up of fluid in these areas, called oedema.\nOedema is usually caused by:\nstanding or sitting in the same position for too long\neating too much salty food\nbeing overweight\nbeing pregnant\ntaking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids\nvaricose veins\nthyroid problems\nOedema can also be caused by:\nan injury – such as a\nstrain or sprain\nan\ninsect bite or sting\nproblems with your kidneys, liver or heart\na blood clot\nan infection\nInformation:\nFind out more about swollen ankles, feet and fingers in pregnancy\nSymptoms of oedema\nSymptoms of oedema in the ankles, feet and legs can affect 1 or both legs and may include:\nSwollen or puffy ankles, feet or legs.\nCredit:\nCaptureIt / Alamy Stock Photo https://www.alamy.com/stock-photo-swollen-puffy-feet-toes-and-ankles-of-adult-female-woman-after-an-16909905.html?pv=1&stamp=2&imageid=BDF21AF8-3C21-44B4-996A-B05115785B6B&p=61997&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAXT1NP%26qt_raw%3DAXT1NP%26qn%3D%26lic%3D3%26edrf%3D1%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D32846%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nShiny or stretched skin.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/260060/view\nChanges in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.\nNon-urgent advice:\nSee a GP if:\nBoth of your ankles, feet or legs are swollen and:\nit has not improved after treating it at home for a few days\nit gets worse\nyou have been diagnosed with a condition that affects your heart, kidneys or leg veins\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have swelling in 1 ankle, foot or leg and you don't know what's causing it\nyou have a lot of swelling following an injury or the swelling is getting worse\nthe swelling is severe, painful or starts very suddenly\nyou also have swelling in other areas of your body such as your face or tummy\nthe swollen area is red or feels hot to the touch\nyour temperature is very high, or you feel hot, cold or shivery\nyou have diabetes and your feet, ankles or legs are swollen\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 if:\nyou feel short of breath or are struggling to breathe\nyour chest feels tight, heavy or painful\nyou're coughing up blood\nyour heartbeat is more noticeable (palpitations)\nyou're feeling lightheaded, faint, confused, sick or clammy\nYou could have a blood clot in your lungs, which needs immediate treatment in hospital.\nInformation:\nDo not drive yourself to A&E.\nThe person you speak to at 999 will give you advice about what to do.\nThings that may ease swelling\nSwelling in your ankles, feet or legs should go away on its own, but there are some things you can try to help.\nDo\nraise your legs or the swollen area on a chair or pillows when you can\nget some gentle exercise, like walking, to improve your blood flow\nwear wide, comfortable shoes with a low heel and soft sole\nwash, dry and moisturise your feet to avoid infections\nDon’t\ndo not stand or sit for long periods of time\ndo not wear clothes, socks or shoes that are too tight\nTreatment for swelling and oedema\nTreatment for swelling or oedema that does not go away on its own will depend on the cause. Your GP can help you with the right treatment.\nSpeak to your GP about whether making lifestyle changes could help.\nPage last reviewed: 26 February 2026\nNext review due: 26 February 2029",
+  "links": [
+    {
+      "text": "strain or sprain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "insect bite or sting",
+      "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/"
+    },
+    {
+      "text": "Find out more about swollen ankles, feet and fingers in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-320.jpg",
+      "alt": "Swollen ankles in someone with white skin. Both ankles look bigger than usual.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-320.jpg",
+      "alt": "A swollen foot in someone with white skin, where the skin on top of the foot looks tight, stretched, smooth and slightly red.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-320.jpg",
+      "alt": "A swollen ankle in someone with black skin. The ankle looks bigger than usual and is a darker colour than the skin surrounding it.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of swollen ankles, feet and legs</h2>\n<p data-block-key=\"bbi88\">Swelling in the ankles, feet and legs is often caused by a build-up of fluid in these areas, called oedema.</p><p data-block-key=\"o7xj0\">Oedema is usually caused by:</p><ul><li data-block-key=\"ncbno\">standing or sitting in the same position for too long</li><li data-block-key=\"eeue0\">eating too much salty food</li><li data-block-key=\"8q8aj\">being overweight</li><li data-block-key=\"v1ype\">being pregnant</li><li data-block-key=\"l3yv3\">taking certain medicines – such as some blood pressure medicines, contraceptive pills, hormone therapy, antidepressants or steroids</li><li data-block-key=\"ujkl\">varicose veins</li><li data-block-key=\"edi9\">thyroid problems</li></ul><p data-block-key=\"g6mtq\">Oedema can also be caused by:</p><ul><li data-block-key=\"yipnx\">an injury – such as a <a href=\"/conditions/sprains-and-strains/\">strain or sprain</a></li><li data-block-key=\"z3m3p\">an <a href=\"/conditions/insect-bites-and-stings/\">insect bite or sting</a></li><li data-block-key=\"wgiv7\">problems with your kidneys, liver or heart</li><li data-block-key=\"fe1i8\">a blood clot</li><li data-block-key=\"t83lm\">an infection</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"gxih7\"><a href=\"/pregnancy/common-symptoms/swollen-ankles-feet-and-fingers/\">Find out more about swollen ankles, feet and fingers in pregnancy</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of oedema</h2>\n<p data-block-key=\"d0la2\">Symptoms of oedema in the ankles, feet and legs can affect 1 or both legs and may include:</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"Swollen ankles in someone with white skin. Both ankles look bigger than usual.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1118_oedema_AXT1NP.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Swollen or puffy ankles, feet or legs.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"uxp4h\">CaptureIt / Alamy Stock Photo https://www.alamy.com/stock-photo-swollen-puffy-feet-toes-and-ankles-of-adult-female-woman-after-an-16909905.html?pv=1&amp;stamp=2&amp;imageid=BDF21AF8-3C21-44B4-996A-B05115785B6B&amp;p=61997&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DAXT1NP%26qt_raw%3DAXT1NP%26qn%3D%26lic%3D3%26edrf%3D1%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D32846%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen foot in someone with white skin, where the skin on top of the foot looks tight, stretched, smooth and slightly red.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_O.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/M2300016-A_swollen_foot_in_a_case_of_pitting_.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Shiny or stretched skin.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"xaf0a\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/260060/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A swollen ankle in someone with black skin. The ankle looks bigger than usual and is a darker colour than the skin surrounding it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/Sh_1221_Oedema_2000968937.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Changes in skin colour, dry skin, discomfort, stiffness and dents when you press on the skin.\n  </figcaption>\n</figure>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"qr5qg\">Both of your ankles, feet or legs are swollen and:</p><ul><li data-block-key=\"3sa0k\">it has not improved after treating it at home for a few days</li><li data-block-key=\"xnz75\">it gets worse</li><li data-block-key=\"2dr8d\">you have been diagnosed with a condition that affects your heart, kidneys or leg veins</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"8dhg4\">you have swelling in 1 ankle, foot or leg and you don't know what's causing it</li><li data-block-key=\"4703j\">you have a lot of swelling following an injury or the swelling is getting worse</li><li data-block-key=\"2278n\">the swelling is severe, painful or starts very suddenly</li><li data-block-key=\"c0jk0\">you also have swelling in other areas of your body such as your face or tummy</li><li data-block-key=\"49kq2\">the swollen area is red or feels hot to the touch</li><li data-block-key=\"eunfa\">your temperature is very high, or you feel hot, cold or shivery</li><li data-block-key=\"a0cup\">you have diabetes and your feet, ankles or legs are swollen</li></ul><p data-block-key=\"ad585\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2vc1f\">you feel short of breath or are struggling to breathe</li><li data-block-key=\"6j166\">your chest feels tight, heavy or painful</li><li data-block-key=\"3es2h\">you're coughing up blood</li><li data-block-key=\"665ib\">your heartbeat is more noticeable (palpitations)</li><li data-block-key=\"b476s\">you're feeling lightheaded, faint, confused, sick or clammy</li></ul><p data-block-key=\"brimu\">You could have a blood clot in your lungs, which needs immediate treatment in hospital.</p>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"41znz\">Do not drive yourself to A&amp;E. </p><p data-block-key=\"egkrj\">The person you speak to at 999 will give you advice about what to do.</p>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">Things that may ease swelling</h2>\n<p data-block-key=\"po68r\">Swelling in your ankles, feet or legs should go away on its own, but there are some things you can try to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"61w98\">raise your legs or the swollen area on a chair or pillows when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n2k9d\">get some gentle exercise, like walking, to improve your blood flow</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nsi5p\">wear wide, comfortable shoes with a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jbqjy\">wash, dry and moisturise your feet to avoid infections</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pawcj\">do not stand or sit for long periods of time</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"jdr1j\">do not wear clothes, socks or shoes that are too tight</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for swelling and oedema</h2>\n<p data-block-key=\"fjvbe\">Treatment for swelling or oedema that does not go away on its own will depend on the cause. Your GP can help you with the right treatment.</p><p data-block-key=\"pqk2x\">Speak to your GP about whether making lifestyle changes could help.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 26 February 2026<br/>\n    Next review due: 26 February 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

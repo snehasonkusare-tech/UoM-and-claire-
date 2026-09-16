@@ -1,0 +1,548 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/",
+  "final_url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:25.737710+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "P",
+      "label": "Pain in the bottom of the foot",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Pain in the bottom of the foot",
+  "meta_description": "Find out about common causes of pain in the bottom of your foot (ball, arch or sole) and how you might treat it.",
+  "review_dates": {
+    "page_last_reviewed": "11 September 2025",
+    "next_review_due": "11 September 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    },
+    {
+      "text": "Foot pain",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about common causes of pain in the bottom of your foot (ball, arch or sole) and how you might treat it."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Pain in the bottom of the foot"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about common causes of pain in the bottom of your foot (ball, arch or sole) and how you might treat it."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 4:02 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 1:58 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Pain in the bottom of the foot"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/foot-pain/",
+              "genre": [],
+              "name": "Foot pain"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Pain in the bottom of the foot"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T15:02:17+00:00",
+      "description": "Find out about common causes of pain in the bottom of your foot (ball, arch or sole) and how you might treat it.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Pain in the bottom of your foot (ball, arch or sole) often gets better in weeks. See a GP if it does not improve or go to A&E if the pain is severe.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Pain in the bottom of the foot",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Pain in the bottom of the foot",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can usually ease pain in the bottom of your foot by resting and raising your foot, using an ice pack and taking painkillers.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of pain in the bottom of your foot include exercising a lot, wearing tight shoes and conditions such as Morton's neuroma.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of pain in the bottom of your foot include exercising a lot, wearing tight shoes and conditions such as Morton's neuroma.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Pain in the bottom of your foot is often caused by exercise such as running, wearing shoes that are too tight.</p><p>It can also be caused by a lack of vitamin D or calcium, especially in children. Some people also have a foot shape that puts extra pressure on the bottom of the foot.</p><p>Do not self-diagnose the cause of the pain yourself.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>If you think you may have broken your foot or any toes, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>"
+            }
+          ],
+          "headline": "Common causes of pain in the bottom of the foot",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can usually ease pain in the bottom of your foot by resting and raising your foot, using an ice pack and taking painkillers.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are things you can do to help pain in the bottom of your foot:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>rest and raise your foot when you can</p></li><li><p>put an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours</p></li><li><p>wear shoes with plenty of room for your feet that have a low heel and soft sole</p></li><li><p>use soft insoles or pads you put in your shoes</p></li><li><p>try to lose weight if you need to</p></li><li><p>try regular gentle stretching exercises for your foot and ankle</p></li><li><p>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults-old/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not do any sports or other activity that you think is causing the pain</p></li><li><p>do not walk or stand for long periods</p></li><li><p>do not wear high heels or tight pointy shoes</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with foot pain",
+              "text": "<p>You can ask a pharmacist about:</p><ul><li>the best painkiller to take</li><li>insoles and pads for your shoes</li><li>treatments for common skin problems, such as hard skin or a verruca</li><li>whether you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How you can ease pain in the bottom of the foot",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  the pain in the bottom of your foot is stopping you doing normal activities\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you have any tingling or loss of sensation in your foot, or your feet feel weak\n </li>\n<li>\n  you have diabetes and foot pain – foot problems can be more serious if you have diabetes\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Contact NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have severe pain in the bottom of your foot\n </li>\n<li>\n  you're not able to walk\n </li>\n<li>\n  your foot has changed shape or is at an odd angle\n </li>\n<li>\n  you heard a snap, grinding or popping noise at the time of injury\n </li>\n<li>\n  you feel faint, dizzy or sick from the pain\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n<p>\n You could also go to an urgent treatment centre.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/#emergency-medical-help-old"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-09-11T08:03:00+00:00",
+        "2028-09-11T08:03:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Pain in the bottom of the foot",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Foot pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/foot-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/foot-pain/pain-in-the-bottom-of-the-foot/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of pain in the bottom of the foot",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of pain in the bottom of the foot"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Common causes of pain in the bottom of the foot\nPain in the bottom of your foot is often caused by exercise such as running, wearing shoes that are too tight.\nIt can also be caused by a lack of vitamin D or calcium, especially in children. Some people also have a foot shape that puts extra pressure on the bottom of the foot.\nDo not self-diagnose the cause of the pain yourself.\nSome of the possible causes of pain in the bottom of the foot\nSymptoms\nPossible cause\nPain, swelling, bruising, started after intense or repetitive exercise\nSprained foot\nSharp, burning or shooting pain near your toes (ball of your foot), feels like a lump or small stone under your foot\nMorton's neuroma\nHard lumps or patches of rough, thick skin which can be painful to the touch or when you walk\nCorns or calluses\nHard skin with a black dot under it that is painful when pressed on\nVerruca\nSharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor\nPlantar fasciitis\nNo gap (arch) under your foot when you stand up, your foot presses flat on the floor\nFlat feet (fallen arches)\nImportant\nIf you think you may have broken your foot or any toes, do not try to treat it yourself. Contact NHS 111 to find out what to do.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of pain in the bottom of the foot</h2>\n<p data-block-key=\"zp4nd\">Pain in the bottom of your foot is often caused by exercise such as running, wearing shoes that are too tight.</p><p data-block-key=\"bd7rj\">It can also be caused by a lack of vitamin D or calcium, especially in children. Some people also have a foot shape that puts extra pressure on the bottom of the foot.</p><p data-block-key=\"b9fm2\">Do not self-diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Some of the possible causes of pain in the bottom of the foot</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Pain, swelling, bruising, started after intense or repetitive exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sprained foot</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sharp, burning or shooting pain near your toes (ball of your foot), feels like a lump or small stone under your foot</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Morton's neuroma</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Hard lumps or patches of rough, thick skin which can be painful to the touch or when you walk</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Corns or calluses</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Hard skin with a black dot under it that is painful when pressed on</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Verruca</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Plantar fasciitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">No gap (arch) under your foot when you stand up, your foot presses flat on the floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Flat feet (fallen arches)</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xtc99\">If you think you may have broken your foot or any toes, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How you can ease pain in the bottom of the foot",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease pain in the bottom of the foot"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with foot pain"
+        }
+      ],
+      "text": "How you can ease pain in the bottom of the foot\nThere are things you can do to help pain in the bottom of your foot:\nDo\nrest and raise your foot when you can\nput an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours\nwear shoes with plenty of room for your feet that have a low heel and soft sole\nuse soft insoles or pads you put in your shoes\ntry to lose weight if you need to\ntry regular gentle stretching exercises for your foot and ankle\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nDon’t\ndo not do any sports or other activity that you think is causing the pain\ndo not walk or stand for long periods\ndo not wear high heels or tight pointy shoes\nA pharmacist can help with foot pain\nYou can ask a pharmacist about:\nthe best painkiller to take\ninsoles and pads for your shoes\ntreatments for common skin problems, such as hard skin or a verruca\nwhether you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest and raise your foot when you can",
+            "put an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours",
+            "wear shoes with plenty of room for your feet that have a low heel and soft sole",
+            "use soft insoles or pads you put in your shoes",
+            "try to lose weight if you need to",
+            "try regular gentle stretching exercises for your foot and ankle",
+            "use painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not do any sports or other activity that you think is causing the pain",
+            "do not walk or stand for long periods",
+            "do not wear high heels or tight pointy shoes"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller to take",
+            "insoles and pads for your shoes",
+            "treatments for common skin problems, such as hard skin or a verruca",
+            "whether you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen gel",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults-old/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease pain in the bottom of the foot</h2>\n<p data-block-key=\"knynr\">There are things you can do to help pain in the bottom of your foot:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"e59xq\">rest and raise your foot when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">put an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">wear shoes with plenty of room for your feet that have a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">use soft insoles or pads you put in your shoes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">try to lose weight if you need to</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">try regular gentle stretching exercises for your foot and ankle</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults-old/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not do any sports or other activity that you think is causing the pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not walk or stand for long periods</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not wear high heels or tight pointy shoes</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"knynr\">A pharmacist can help with foot pain</h3><p data-block-key=\"c15cr\">You can ask a pharmacist about:</p><ul><li data-block-key=\"4hua1\">the best painkiller to take</li><li data-block-key=\"9frsk\">insoles and pads for your shoes</li><li data-block-key=\"6h40r\">treatments for common skin problems, such as hard skin or a verruca</li><li data-block-key=\"2786l\">whether you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Video: exercises to reduce pain in the bottom of the foot",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Video: exercises to reduce pain in the bottom of the foot"
+        }
+      ],
+      "text": "Video: exercises to reduce pain in the bottom of the foot\nThis video shows exercises that can help with pain in the bottom of the foot.\nMedia last reviewed: 17 April 2025\nMedia review due: 17 April 2028\nSee exercise video safety information\nThe exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.\nUnless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.\nGet advice from a healthcare professional (such as a GP) before trying them if:\nyou are not sure if the exercises are suitable for your current level of fitness\nyou have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation\nyou have any other concerns about your health\nyou are pregnant or have recently given birth\nStop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away,\nget help from 111 online\nor call 111 for advice.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you are not sure if the exercises are suitable for your current level of fitness",
+            "you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation",
+            "you have any other concerns about your health",
+            "you are pregnant or have recently given birth"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: exercises to reduce pain in the bottom of the foot</h3>\n<p>This video shows exercises that can help with pain in the bottom of the foot.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6027126659001\" id=\"6027126659001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 17 April 2025<br/>\n    Media review due: 17 April 2028\n  </div>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See exercise video safety information\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"qnbgw\">The exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.</p><p data-block-key=\"e7cie\">Unless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.</p><p data-block-key=\"d7l6r\">Get advice from a healthcare professional (such as a GP) before trying them if:</p><ul><li data-block-key=\"a7enh\">you are not sure if the exercises are suitable for your current level of fitness</li><li data-block-key=\"4k76c\">you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation</li><li data-block-key=\"3gk4l\">you have any other concerns about your health</li><li data-block-key=\"8njuf\">you are pregnant or have recently given birth</li></ul><p data-block-key=\"emhn6\">Stop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away, <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a> or call 111 for advice.</p>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nthe pain in the bottom of your foot is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your foot, or your feet feel weak\nyou have diabetes and foot pain – foot problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the pain in the bottom of your foot is stopping you doing normal activities",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you have any tingling or loss of sensation in your foot, or your feet feel weak",
+            "you have diabetes and foot pain – foot problems can be more serious if you have diabetes"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"uoqkj\">the pain in the bottom of your foot is stopping you doing normal activities</li><li data-block-key=\"76g2l\">the pain is getting worse or keeps coming back</li><li data-block-key=\"bjmbs\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"2h37n\">you have any tingling or loss of sensation in your foot, or your feet feel weak</li><li data-block-key=\"60cp2\">you have diabetes and foot pain – foot problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Contact NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Contact NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nContact NHS 111 if:\nyou have severe pain in the bottom of your foot\nyou're not able to walk\nyour foot has changed shape or is at an odd angle\nyou heard a snap, grinding or popping noise at the time of injury\nyou feel faint, dizzy or sick from the pain\nYou can call 111 or\nget help from 111 online\n.\nYou could also go to an urgent treatment centre.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe pain in the bottom of your foot",
+            "you're not able to walk",
+            "your foot has changed shape or is at an odd angle",
+            "you heard a snap, grinding or popping noise at the time of injury",
+            "you feel faint, dizzy or sick from the pain"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"uoqkj\">you have severe pain in the bottom of your foot</li><li data-block-key=\"21d1e\">you're not able to walk</li><li data-block-key=\"4qq7l\">your foot has changed shape or is at an odd angle</li><li data-block-key=\"ff2fl\">you heard a snap, grinding or popping noise at the time of injury</li><li data-block-key=\"etcrq\">you feel faint, dizzy or sick from the pain</li></ul><p data-block-key=\"bi5ao\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p><p data-block-key=\"fi3u9\">You could also go to an urgent treatment centre.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of pain in the bottom of the foot\nPain in the bottom of your foot is often caused by exercise such as running, wearing shoes that are too tight.\nIt can also be caused by a lack of vitamin D or calcium, especially in children. Some people also have a foot shape that puts extra pressure on the bottom of the foot.\nDo not self-diagnose the cause of the pain yourself.\nSome of the possible causes of pain in the bottom of the foot\nSymptoms\nPossible cause\nPain, swelling, bruising, started after intense or repetitive exercise\nSprained foot\nSharp, burning or shooting pain near your toes (ball of your foot), feels like a lump or small stone under your foot\nMorton's neuroma\nHard lumps or patches of rough, thick skin which can be painful to the touch or when you walk\nCorns or calluses\nHard skin with a black dot under it that is painful when pressed on\nVerruca\nSharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor\nPlantar fasciitis\nNo gap (arch) under your foot when you stand up, your foot presses flat on the floor\nFlat feet (fallen arches)\nImportant\nIf you think you may have broken your foot or any toes, do not try to treat it yourself. Contact NHS 111 to find out what to do.\nHow you can ease pain in the bottom of the foot\nThere are things you can do to help pain in the bottom of your foot:\nDo\nrest and raise your foot when you can\nput an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours\nwear shoes with plenty of room for your feet that have a low heel and soft sole\nuse soft insoles or pads you put in your shoes\ntry to lose weight if you need to\ntry regular gentle stretching exercises for your foot and ankle\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nDon’t\ndo not do any sports or other activity that you think is causing the pain\ndo not walk or stand for long periods\ndo not wear high heels or tight pointy shoes\nA pharmacist can help with foot pain\nYou can ask a pharmacist about:\nthe best painkiller to take\ninsoles and pads for your shoes\ntreatments for common skin problems, such as hard skin or a verruca\nwhether you need to see a GP\nFind a pharmacy\nVideo: exercises to reduce pain in the bottom of the foot\nThis video shows exercises that can help with pain in the bottom of the foot.\nMedia last reviewed: 17 April 2025\nMedia review due: 17 April 2028\nSee exercise video safety information\nThe exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.\nUnless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.\nGet advice from a healthcare professional (such as a GP) before trying them if:\nyou are not sure if the exercises are suitable for your current level of fitness\nyou have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation\nyou have any other concerns about your health\nyou are pregnant or have recently given birth\nStop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away,\nget help from 111 online\nor call 111 for advice.\nNon-urgent advice:\nSee a GP if:\nthe pain in the bottom of your foot is stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou have any tingling or loss of sensation in your foot, or your feet feel weak\nyou have diabetes and foot pain – foot problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nContact NHS 111 if:\nyou have severe pain in the bottom of your foot\nyou're not able to walk\nyour foot has changed shape or is at an odd angle\nyou heard a snap, grinding or popping noise at the time of injury\nyou feel faint, dizzy or sick from the pain\nYou can call 111 or\nget help from 111 online\n.\nYou could also go to an urgent treatment centre.",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen gel",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults-old/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of pain in the bottom of the foot</h2>\n<p data-block-key=\"zp4nd\">Pain in the bottom of your foot is often caused by exercise such as running, wearing shoes that are too tight.</p><p data-block-key=\"bd7rj\">It can also be caused by a lack of vitamin D or calcium, especially in children. Some people also have a foot shape that puts extra pressure on the bottom of the foot.</p><p data-block-key=\"b9fm2\">Do not self-diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Some of the possible causes of pain in the bottom of the foot</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Pain, swelling, bruising, started after intense or repetitive exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sprained foot</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sharp, burning or shooting pain near your toes (ball of your foot), feels like a lump or small stone under your foot</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Morton's neuroma</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Hard lumps or patches of rough, thick skin which can be painful to the touch or when you walk</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Corns or calluses</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Hard skin with a black dot under it that is painful when pressed on</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"qke93\">Verruca</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Sharp pain between your arch and heel, feels worse when you start walking and better when resting, difficulty raising toes off floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Plantar fasciitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">No gap (arch) under your foot when you stand up, your foot presses flat on the floor</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"25kly\">Flat feet (fallen arches)</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"xtc99\">If you think you may have broken your foot or any toes, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease pain in the bottom of the foot</h2>\n<p data-block-key=\"knynr\">There are things you can do to help pain in the bottom of your foot:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"e59xq\">rest and raise your foot when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">put an ice pack (or bag of frozen peas in a towel) on the painful area for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">wear shoes with plenty of room for your feet that have a low heel and soft sole</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">use soft insoles or pads you put in your shoes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">try to lose weight if you need to</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">try regular gentle stretching exercises for your foot and ankle</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"awjhy\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults-old/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not do any sports or other activity that you think is causing the pain</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not walk or stand for long periods</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"m94ql\">do not wear high heels or tight pointy shoes</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"knynr\">A pharmacist can help with foot pain</h3><p data-block-key=\"c15cr\">You can ask a pharmacist about:</p><ul><li data-block-key=\"4hua1\">the best painkiller to take</li><li data-block-key=\"9frsk\">insoles and pads for your shoes</li><li data-block-key=\"6h40r\">treatments for common skin problems, such as hard skin or a verruca</li><li data-block-key=\"2786l\">whether you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: exercises to reduce pain in the bottom of the foot</h3>\n<p>This video shows exercises that can help with pain in the bottom of the foot.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6027126659001\" id=\"6027126659001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 17 April 2025<br/>\n    Media review due: 17 April 2028\n  </div>\n</div>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See exercise video safety information\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"qnbgw\">The exercises in this series of videos are suitable for most people in good health with a reasonable level of fitness.</p><p data-block-key=\"e7cie\">Unless stated otherwise, they are general exercises only and are not aimed at treating any specific cause of pain or condition. Video titles and descriptions can give more information on how difficult the exercises are and who they are for.</p><p data-block-key=\"d7l6r\">Get advice from a healthcare professional (such as a GP) before trying them if:</p><ul><li data-block-key=\"a7enh\">you are not sure if the exercises are suitable for your current level of fitness</li><li data-block-key=\"4k76c\">you have a health problem, an injury, any symptoms, are feeling unwell, or you have had a recent health event such as a heart attack or operation</li><li data-block-key=\"3gk4l\">you have any other concerns about your health</li><li data-block-key=\"8njuf\">you are pregnant or have recently given birth</li></ul><p data-block-key=\"emhn6\">Stop the exercise immediately if you feel any pain or become unwell. If you are concerned about any symptoms, or they do not go away, <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a> or call 111 for advice.</p>\n</div>\n</details>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"uoqkj\">the pain in the bottom of your foot is stopping you doing normal activities</li><li data-block-key=\"76g2l\">the pain is getting worse or keeps coming back</li><li data-block-key=\"bjmbs\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"2h37n\">you have any tingling or loss of sensation in your foot, or your feet feel weak</li><li data-block-key=\"60cp2\">you have diabetes and foot pain – foot problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"uoqkj\">you have severe pain in the bottom of your foot</li><li data-block-key=\"21d1e\">you're not able to walk</li><li data-block-key=\"4qq7l\">your foot has changed shape or is at an odd angle</li><li data-block-key=\"ff2fl\">you heard a snap, grinding or popping noise at the time of injury</li><li data-block-key=\"etcrq\">you feel faint, dizzy or sick from the pain</li></ul><p data-block-key=\"bi5ao\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p><p data-block-key=\"fi3u9\">You could also go to an urgent treatment centre.</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

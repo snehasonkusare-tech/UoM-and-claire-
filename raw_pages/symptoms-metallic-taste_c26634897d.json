@@ -1,0 +1,434 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/metallic-taste/",
+  "final_url": "https://www.nhs.uk/symptoms/metallic-taste/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:14.700655+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "M",
+      "label": "Metallic taste",
+      "url": "https://www.nhs.uk/symptoms/metallic-taste/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Metallic taste",
+  "meta_description": "Find out about metallic taste in the mouth. It can have lots of possible causes and how you get rid of it depends on the cause.",
+  "review_dates": {
+    "page_last_reviewed": "04 August 2023",
+    "next_review_due": "04 August 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about metallic taste in the mouth. It can have lots of possible causes and how you get rid of it depends on the cause."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/metallic-taste/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nMetallic taste\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about metallic taste in the mouth. It can have lots of possible causes and how you get rid of it depends on the cause."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "26 Jun 2026, 9:20 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Dec 2017, 10:25 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Metallic taste"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/metallic-taste/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Metallic taste"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-06-26T08:20:26+00:00",
+      "description": "Find out about metallic taste in the mouth. It can have lots of possible causes and how you get rid of it depends on the cause.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of metallic taste include gum disease, certain medicines, cancer treatments, and colds, sinus infections and other airway problems.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are lots of possible causes of a metallic taste in the mouth.</p><p>Common causes include:</p><ul><li>gum disease</li><li>taking certain medicines, like <a href=\"/medicines/metronidazole/\">metronidazole</a> or <a href=\"/medicines/zopiclone/\">zopiclone</a></li><li>cancer treatments, like chemotherapy and radiotherapy</li><li>colds, sinus infections and other airway problems</li><li>indigestion</li><li>being pregnant</li></ul><p>Sometimes, a <a href=\"/symptoms/lost-or-changed-sense-smell/\">lost or changed sense of smell</a> can cause a metallic taste in your mouth.</p>"
+            }
+          ],
+          "headline": "Common causes of a metallic taste",
+          "url": "https://www.nhs.uk/symptoms/metallic-taste/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "How you get rid of a metallic taste depends on the cause. For example, if taking a certain medicine is causing it, changing medicine may help.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have a metallic taste in your mouth, what you can do to get rid of it depends on what's causing it. It will sometimes go away by itself.</p>"
+            }
+          ],
+          "headline": "How to get rid of a metallic taste",
+          "url": "https://www.nhs.uk/symptoms/metallic-taste/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have a metallic taste that does not go away\n </li>\n<li>\n  the metallic taste has no obvious cause\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/metallic-taste/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A metallic taste is not usually serious. It can have a number of possible causes, and how you get rid of it will depend on the cause.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Metallic taste",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Metallic taste",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of metallic taste include gum disease, certain medicines, cancer treatments, and colds, sinus infections and other airway problems.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>How you get rid of a metallic taste depends on the cause. For example, if taking a certain medicine is causing it, changing medicine may help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/metallic-taste/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-08-04T00:00:00+00:00",
+        "2026-08-04T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Metallic taste",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Metallic taste",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/metallic-taste/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/metallic-taste/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "A metallic taste is not usually serious. What you can do to get rid of it will depend on the cause.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"jwzkv\"><b>A metallic taste is not usually serious. What you can do to get rid of it will depend on the cause.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Common causes of a metallic taste",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of a metallic taste"
+        }
+      ],
+      "text": "Common causes of a metallic taste\nThere are lots of possible causes of a metallic taste in the mouth.\nCommon causes include:\ngum disease\ntaking certain medicines, like\nmetronidazole\nor\nzopiclone\ncancer treatments, like chemotherapy and radiotherapy\ncolds, sinus infections and other airway problems\nindigestion\nbeing pregnant\nSometimes, a\nlost or changed sense of smell\ncan cause a metallic taste in your mouth.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "gum disease",
+            "taking certain medicines, like\nmetronidazole\nor\nzopiclone",
+            "cancer treatments, like chemotherapy and radiotherapy",
+            "colds, sinus infections and other airway problems",
+            "indigestion",
+            "being pregnant"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "metronidazole",
+          "url": "https://www.nhs.uk/medicines/metronidazole/"
+        },
+        {
+          "text": "zopiclone",
+          "url": "https://www.nhs.uk/medicines/zopiclone/"
+        },
+        {
+          "text": "lost or changed sense of smell",
+          "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of a metallic taste</h2>\n<p data-block-key=\"w3ydy\">There are lots of possible causes of a metallic taste in the mouth.</p><p data-block-key=\"799li\">Common causes include:</p><ul><li data-block-key=\"2al5f\">gum disease</li><li data-block-key=\"9vdmh\">taking certain medicines, like <a href=\"/medicines/metronidazole/\">metronidazole</a> or <a href=\"/medicines/zopiclone/\">zopiclone</a></li><li data-block-key=\"akjhg\">cancer treatments, like chemotherapy and radiotherapy</li><li data-block-key=\"40eo0\">colds, sinus infections and other airway problems</li><li data-block-key=\"7vitl\">indigestion</li><li data-block-key=\"3f2uu\">being pregnant</li></ul><p data-block-key=\"9bt1l\">Sometimes, a <a href=\"/symptoms/lost-or-changed-sense-smell/\">lost or changed sense of smell</a> can cause a metallic taste in your mouth.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How to get rid of a metallic taste",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to get rid of a metallic taste"
+        }
+      ],
+      "text": "How to get rid of a metallic taste\nIf you have a metallic taste in your mouth, what you can do to get rid of it depends on what's causing it. It will sometimes go away by itself.\nCommon causes of metallic taste and what to do\nCause\nWhat you can do\nGum disease\nRegularly brush your teeth, use dental floss, have a dental check-up every 6 months\nTaking certain medicines\nSpeak to a pharmacist for advice – do not stop taking prescribed medicine without medical advice\nChemotherapy\nor\nradiotherapy\nEat stronger tasting food like ginger and spices, and suck on boiled sweets\nColds\nand other problems with your airways\nThe taste should go away once the problem has cleared up\nIndigestion\nThe taste should go away after treating indigestion\nBeing pregnant\nThe taste is usually temporary and clears up by itself",
+      "lists": [],
+      "links": [
+        {
+          "text": "Gum disease",
+          "url": "https://www.nhs.uk/conditions/gum-disease/"
+        },
+        {
+          "text": "Chemotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/chemotherapy/"
+        },
+        {
+          "text": "radiotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/radiotherapy/"
+        },
+        {
+          "text": "Colds",
+          "url": "https://www.nhs.uk/conditions/common-cold/"
+        },
+        {
+          "text": "Indigestion",
+          "url": "https://www.nhs.uk/conditions/indigestion/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to get rid of a metallic taste</h2>\n<p data-block-key=\"4jtma\">If you have a metallic taste in your mouth, what you can do to get rid of it depends on what's causing it. It will sometimes go away by itself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of metallic taste and what to do</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Cause\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            What you can do\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/gum-disease/\">Gum disease</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Regularly brush your teeth, use dental floss, have a dental check-up every 6 months</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Taking certain medicines</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Speak to a pharmacist for advice – do not stop taking prescribed medicine without medical advice</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/tests-and-treatments/chemotherapy/\">Chemotherapy</a> or <a href=\"/tests-and-treatments/radiotherapy/\">radiotherapy</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Eat stronger tasting food like ginger and spices, and suck on boiled sweets</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/common-cold/\">Colds</a> and other problems with your airways</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste should go away once the problem has cleared up</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/indigestion/\">Indigestion</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste should go away after treating indigestion</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Being pregnant</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste is usually temporary and clears up by itself</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have a metallic taste that does not go away\nthe metallic taste has no obvious cause",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have a metallic taste that does not go away",
+            "the metallic taste has no obvious cause"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9ei5j\">you have a metallic taste that does not go away</li><li data-block-key=\"z8m0r\">the metallic taste has no obvious cause</li></ul>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "A metallic taste is not usually serious. What you can do to get rid of it will depend on the cause.\nCommon causes of a metallic taste\nThere are lots of possible causes of a metallic taste in the mouth.\nCommon causes include:\ngum disease\ntaking certain medicines, like\nmetronidazole\nor\nzopiclone\ncancer treatments, like chemotherapy and radiotherapy\ncolds, sinus infections and other airway problems\nindigestion\nbeing pregnant\nSometimes, a\nlost or changed sense of smell\ncan cause a metallic taste in your mouth.\nHow to get rid of a metallic taste\nIf you have a metallic taste in your mouth, what you can do to get rid of it depends on what's causing it. It will sometimes go away by itself.\nCommon causes of metallic taste and what to do\nCause\nWhat you can do\nGum disease\nRegularly brush your teeth, use dental floss, have a dental check-up every 6 months\nTaking certain medicines\nSpeak to a pharmacist for advice – do not stop taking prescribed medicine without medical advice\nChemotherapy\nor\nradiotherapy\nEat stronger tasting food like ginger and spices, and suck on boiled sweets\nColds\nand other problems with your airways\nThe taste should go away once the problem has cleared up\nIndigestion\nThe taste should go away after treating indigestion\nBeing pregnant\nThe taste is usually temporary and clears up by itself\nNon-urgent advice:\nSee a GP if:\nyou have a metallic taste that does not go away\nthe metallic taste has no obvious cause\nPage last reviewed: 04 August 2023\nNext review due: 04 August 2026",
+  "links": [
+    {
+      "text": "metronidazole",
+      "url": "https://www.nhs.uk/medicines/metronidazole/"
+    },
+    {
+      "text": "zopiclone",
+      "url": "https://www.nhs.uk/medicines/zopiclone/"
+    },
+    {
+      "text": "lost or changed sense of smell",
+      "url": "https://www.nhs.uk/symptoms/lost-or-changed-sense-smell/"
+    },
+    {
+      "text": "Gum disease",
+      "url": "https://www.nhs.uk/conditions/gum-disease/"
+    },
+    {
+      "text": "Chemotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/chemotherapy/"
+    },
+    {
+      "text": "radiotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/radiotherapy/"
+    },
+    {
+      "text": "Colds",
+      "url": "https://www.nhs.uk/conditions/common-cold/"
+    },
+    {
+      "text": "Indigestion",
+      "url": "https://www.nhs.uk/conditions/indigestion/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"jwzkv\"><b>A metallic taste is not usually serious. What you can do to get rid of it will depend on the cause.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of a metallic taste</h2>\n<p data-block-key=\"w3ydy\">There are lots of possible causes of a metallic taste in the mouth.</p><p data-block-key=\"799li\">Common causes include:</p><ul><li data-block-key=\"2al5f\">gum disease</li><li data-block-key=\"9vdmh\">taking certain medicines, like <a href=\"/medicines/metronidazole/\">metronidazole</a> or <a href=\"/medicines/zopiclone/\">zopiclone</a></li><li data-block-key=\"akjhg\">cancer treatments, like chemotherapy and radiotherapy</li><li data-block-key=\"40eo0\">colds, sinus infections and other airway problems</li><li data-block-key=\"7vitl\">indigestion</li><li data-block-key=\"3f2uu\">being pregnant</li></ul><p data-block-key=\"9bt1l\">Sometimes, a <a href=\"/symptoms/lost-or-changed-sense-smell/\">lost or changed sense of smell</a> can cause a metallic taste in your mouth.</p>\n</section>\n<section>\n<h2 id=\"self-care\">How to get rid of a metallic taste</h2>\n<p data-block-key=\"4jtma\">If you have a metallic taste in your mouth, what you can do to get rid of it depends on what's causing it. It will sometimes go away by itself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of metallic taste and what to do</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Cause\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            What you can do\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/gum-disease/\">Gum disease</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Regularly brush your teeth, use dental floss, have a dental check-up every 6 months</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Taking certain medicines</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Speak to a pharmacist for advice – do not stop taking prescribed medicine without medical advice</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/tests-and-treatments/chemotherapy/\">Chemotherapy</a> or <a href=\"/tests-and-treatments/radiotherapy/\">radiotherapy</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Eat stronger tasting food like ginger and spices, and suck on boiled sweets</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/common-cold/\">Colds</a> and other problems with your airways</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste should go away once the problem has cleared up</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\"><a href=\"/conditions/indigestion/\">Indigestion</a></p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste should go away after treating indigestion</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">Being pregnant</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wii36\">The taste is usually temporary and clears up by itself</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9ei5j\">you have a metallic taste that does not go away</li><li data-block-key=\"z8m0r\">the metallic taste has no obvious cause</li></ul>\n</div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 04 August 2023<br/>\n    Next review due: 04 August 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

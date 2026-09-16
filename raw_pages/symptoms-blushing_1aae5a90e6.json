@@ -1,0 +1,466 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/blushing/",
+  "final_url": "https://www.nhs.uk/symptoms/blushing/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:58.621914+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Blushing",
+      "url": "https://www.nhs.uk/symptoms/blushing/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Blushing",
+  "meta_description": "Find out how to stop yourself blushing and read about the possible causes and treatments.",
+  "review_dates": {
+    "page_last_reviewed": "25 July 2025",
+    "next_review_due": "25 July 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to stop yourself blushing and read about the possible causes and treatments."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/blushing/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBlushing\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to stop yourself blushing and read about the possible causes and treatments."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "11 Nov 2025, 4:30 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Oct 2018, 9 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Blushing"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/blushing/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Blushing"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-11-11T16:30:39+00:00",
+      "description": "Find out how to stop yourself blushing and read about the possible causes and treatments.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Depending on what's causing your blushing, it may help to keep cool by removing a layer of clothing and drinking water.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>keep cool by removing a layer of clothing and drinking water</p></li><li><p>wear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not eat spicy foods or drink alcohol or hot drinks if they make you blush</p></li></ul>"
+            }
+          ],
+          "headline": "How to help stop yourself blushing",
+          "url": "https://www.nhs.uk/symptoms/blushing/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Blushing is often caused by feeling embarrassed, hot or anxious. Sometimes conditions like the menopause and excessive sweating can cause it.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Lots of different things can cause blushing. It's often caused by feeling embarrassed, hot or anxious.</p><p>Sometimes other symptoms you have might give you an idea of what's causing it.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Some medicines can also cause blushing. Check the side effects of any medicine you're taking to see if blushing or flushing is listed.</p>"
+            }
+          ],
+          "headline": "Common causes of blushing",
+          "url": "https://www.nhs.uk/symptoms/blushing/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your blushing is affecting your everyday life\n </li>\n<li>\n  you think your blushing might be caused by a medical condition or a medicine you're taking\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/blushing/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for blushing depends on the cause. For example, if your blushing is caused by stress or anxiety, medicines or a talking therapy may help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for blushing will depend on the cause.</p><p>For example, your GP may suggest:</p><ul><li>a talking therapy like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> if your blushing is caused by stress or anxiety</li><li>medicines to help reduce anxiety, stop blushing or treat an underlying condition</li></ul><p>Surgery may be an option if blushing is very severe and other treatments have not helped. But it can cause serious and long-lasting side effects.</p>"
+            }
+          ],
+          "headline": "Treatments from a GP",
+          "url": "https://www.nhs.uk/symptoms/blushing/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Blushing is a common problem that can be embarrassing and affect your day-to-day life. There are things you can do to help stop it.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Blushing",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blushing",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blushing",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Blushing is often caused by feeling embarrassed, hot or anxious. Sometimes conditions like the menopause and excessive sweating can cause it.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Depending on what's causing your blushing, it may help to keep cool by removing a layer of clothing and drinking water.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for blushing depends on the cause. For example, if your blushing is caused by stress or anxiety, medicines or a talking therapy may help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/blushing/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-07-25T14:00:00+00:00",
+        "2028-07-25T14:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Blushing",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Blushing",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/blushing/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/blushing/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "How to help stop yourself blushing",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to help stop yourself blushing"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How to help stop yourself blushing\nDo\nkeep cool by removing a layer of clothing and drinking water\nwear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation\nDon’t\ndo not eat spicy foods or drink alcohol or hot drinks if they make you blush",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "keep cool by removing a layer of clothing and drinking water",
+            "wear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not eat spicy foods or drink alcohol or hot drinks if they make you blush"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">How to help stop yourself blushing</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0qlhc\">keep cool by removing a layer of clothing and drinking water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jku7a\">wear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0zm9j\">do not eat spicy foods or drink alcohol or hot drinks if they make you blush</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Common causes of blushing",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of blushing"
+        }
+      ],
+      "text": "Common causes of blushing\nLots of different things can cause blushing. It's often caused by feeling embarrassed, hot or anxious.\nSometimes other symptoms you have might give you an idea of what's causing it.\nSymptoms and possible causes of blushing\nSymptoms\nPossible causes\nA red face most of the time, small blood vessels can be seen under your skin, spots\nRosacea\nHot flushes, night sweats, vaginal dryness, low mood, reduced sex drive\nMenopause\nSweating a lot, particularly in your armpits, hands, feet, face and groin\nExcessive sweating (hyperhidrosis)\nSwelling in your neck, anxiety and irritability, mood swings, difficulty sleeping, tiredness\nOveractive thyroid (hyperthyroidism)\nSome medicines can also cause blushing. Check the side effects of any medicine you're taking to see if blushing or flushing is listed.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Rosacea",
+          "url": "https://www.nhs.uk/conditions/rosacea/"
+        },
+        {
+          "text": "Menopause",
+          "url": "https://www.nhs.uk/womens-health/menopause/"
+        },
+        {
+          "text": "Excessive sweating (hyperhidrosis)",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+        },
+        {
+          "text": "Overactive thyroid (hyperthyroidism)",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of blushing</h2>\n<p data-block-key=\"7r74s\">Lots of different things can cause blushing. It's often caused by feeling embarrassed, hot or anxious.</p><p data-block-key=\"9bl0j\">Sometimes other symptoms you have might give you an idea of what's causing it.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes of blushing</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">A red face most of the time, small blood vessels can be seen under your skin, spots</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/rosacea/\">Rosacea</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Hot flushes, night sweats, vaginal dryness, low mood, reduced sex drive</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/womens-health/menopause/\">Menopause</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Sweating a lot, particularly in your armpits, hands, feet, face and groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/excessive-sweating-hyperhidrosis/\">Excessive sweating (hyperhidrosis)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Swelling in your neck, anxiety and irritability, mood swings, difficulty sleeping, tiredness</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">Overactive thyroid (hyperthyroidism)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"k8m0m\">Some medicines can also cause blushing. Check the side effects of any medicine you're taking to see if blushing or flushing is listed.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour blushing is affecting your everyday life\nyou think your blushing might be caused by a medical condition or a medicine you're taking",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your blushing is affecting your everyday life",
+            "you think your blushing might be caused by a medical condition or a medicine you're taking"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"fgqsv\">your blushing is affecting your everyday life</li><li data-block-key=\"jiccy\">you think your blushing might be caused by a medical condition or a medicine you're taking</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatments from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments from a GP"
+        }
+      ],
+      "text": "Treatments from a GP\nTreatment for blushing will depend on the cause.\nFor example, your GP may suggest:\na talking therapy like\ncognitive behavioural therapy (CBT)\nif your blushing is caused by stress or anxiety\nmedicines to help reduce anxiety, stop blushing or treat an underlying condition\nSurgery may be an option if blushing is very severe and other treatments have not helped. But it can cause serious and long-lasting side effects.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a talking therapy like\ncognitive behavioural therapy (CBT)\nif your blushing is caused by stress or anxiety",
+            "medicines to help reduce anxiety, stop blushing or treat an underlying condition"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"48vnj\">Treatment for blushing will depend on the cause.</p><p data-block-key=\"s9aub\">For example, your GP may suggest:</p><ul><li data-block-key=\"rqvei\">a talking therapy like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> if your blushing is caused by stress or anxiety</li><li data-block-key=\"d2392\">medicines to help reduce anxiety, stop blushing or treat an underlying condition</li></ul><p data-block-key=\"2r8d7\">Surgery may be an option if blushing is very severe and other treatments have not helped. But it can cause serious and long-lasting side effects.</p>\n</section>"
+    }
+  ],
+  "page_text": "How to help stop yourself blushing\nDo\nkeep cool by removing a layer of clothing and drinking water\nwear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation\nDon’t\ndo not eat spicy foods or drink alcohol or hot drinks if they make you blush\nCommon causes of blushing\nLots of different things can cause blushing. It's often caused by feeling embarrassed, hot or anxious.\nSometimes other symptoms you have might give you an idea of what's causing it.\nSymptoms and possible causes of blushing\nSymptoms\nPossible causes\nA red face most of the time, small blood vessels can be seen under your skin, spots\nRosacea\nHot flushes, night sweats, vaginal dryness, low mood, reduced sex drive\nMenopause\nSweating a lot, particularly in your armpits, hands, feet, face and groin\nExcessive sweating (hyperhidrosis)\nSwelling in your neck, anxiety and irritability, mood swings, difficulty sleeping, tiredness\nOveractive thyroid (hyperthyroidism)\nSome medicines can also cause blushing. Check the side effects of any medicine you're taking to see if blushing or flushing is listed.\nNon-urgent advice:\nSee a GP if:\nyour blushing is affecting your everyday life\nyou think your blushing might be caused by a medical condition or a medicine you're taking\nTreatments from a GP\nTreatment for blushing will depend on the cause.\nFor example, your GP may suggest:\na talking therapy like\ncognitive behavioural therapy (CBT)\nif your blushing is caused by stress or anxiety\nmedicines to help reduce anxiety, stop blushing or treat an underlying condition\nSurgery may be an option if blushing is very severe and other treatments have not helped. But it can cause serious and long-lasting side effects.\nPage last reviewed: 25 July 2025\nNext review due: 25 July 2028",
+  "links": [
+    {
+      "text": "Rosacea",
+      "url": "https://www.nhs.uk/conditions/rosacea/"
+    },
+    {
+      "text": "Menopause",
+      "url": "https://www.nhs.uk/womens-health/menopause/"
+    },
+    {
+      "text": "Excessive sweating (hyperhidrosis)",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+    },
+    {
+      "text": "Overactive thyroid (hyperthyroidism)",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"self-care\">How to help stop yourself blushing</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"0qlhc\">keep cool by removing a layer of clothing and drinking water</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"jku7a\">wear make-up that reduces the redness of your skin in stressful situations, like an interview or when giving a presentation</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"0zm9j\">do not eat spicy foods or drink alcohol or hot drinks if they make you blush</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of blushing</h2>\n<p data-block-key=\"7r74s\">Lots of different things can cause blushing. It's often caused by feeling embarrassed, hot or anxious.</p><p data-block-key=\"9bl0j\">Sometimes other symptoms you have might give you an idea of what's causing it.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes of blushing</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">A red face most of the time, small blood vessels can be seen under your skin, spots</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/rosacea/\">Rosacea</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Hot flushes, night sweats, vaginal dryness, low mood, reduced sex drive</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/womens-health/menopause/\">Menopause</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Sweating a lot, particularly in your armpits, hands, feet, face and groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/excessive-sweating-hyperhidrosis/\">Excessive sweating (hyperhidrosis)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\">Swelling in your neck, anxiety and irritability, mood swings, difficulty sleeping, tiredness</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5j53y\"><a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">Overactive thyroid (hyperthyroidism)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"k8m0m\">Some medicines can also cause blushing. Check the side effects of any medicine you're taking to see if blushing or flushing is listed.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"fgqsv\">your blushing is affecting your everyday life</li><li data-block-key=\"jiccy\">you think your blushing might be caused by a medical condition or a medicine you're taking</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"48vnj\">Treatment for blushing will depend on the cause.</p><p data-block-key=\"s9aub\">For example, your GP may suggest:</p><ul><li data-block-key=\"rqvei\">a talking therapy like <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> if your blushing is caused by stress or anxiety</li><li data-block-key=\"d2392\">medicines to help reduce anxiety, stop blushing or treat an underlying condition</li></ul><p data-block-key=\"2r8d7\">Surgery may be an option if blushing is very severe and other treatments have not helped. But it can cause serious and long-lasting side effects.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 25 July 2025<br/>\n    Next review due: 25 July 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

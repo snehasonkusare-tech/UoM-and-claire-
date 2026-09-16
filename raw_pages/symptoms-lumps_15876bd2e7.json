@@ -1,0 +1,571 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/lumps/",
+  "final_url": "https://www.nhs.uk/symptoms/lumps/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:12.577753+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "L",
+      "label": "Lumps",
+      "url": "https://www.nhs.uk/symptoms/lumps/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Lumps",
+  "meta_description": "NHS information about lumps and swellings. Find out about different types of lumps and what causes them, and when to get medical advice.",
+  "review_dates": {
+    "page_last_reviewed": "05 February 2024",
+    "next_review_due": "05 February 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about lumps and swellings. Find out about different types of lumps and what causes them, and when to get medical advice."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/lumps/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nLumps\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about lumps and swellings. Find out about different types of lumps and what causes them, and when to get medical advice."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "13 May 2026, 11:13 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 1:51 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Lumps"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/lumps/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Lumps"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-13T10:13:50+00:00",
+      "description": "NHS information about lumps and swellings. Find out about different types of lumps and what causes them, and when to get medical advice.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Lumps and growths on the skin can be soft or hard to touch. Some can move around and they can vary in size.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It's common for people to get lumps and growths on their skin. They can be caused by many things.</p><p>They can:</p><ul><li>be soft or hard to touch</li><li>move around</li><li>be very small or up to the size of a golf ball</li><li>be a lump under the skin or a growth that hangs off your skin</li></ul>"
+            }
+          ],
+          "headline": "Most lumps are normal",
+          "url": "https://www.nhs.uk/symptoms/lumps/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your lump gets bigger\n </li>\n<li>\n  your lump is painful, red or hot\n </li>\n<li>\n  your lump is hard and does not move\n </li>\n<li>\n  your lump lasts more than 2 weeks\n </li>\n<li>\n  a lump grows back after it's been removed\n </li>\n<li>\n  you have a lump in the breast or testicles\n </li>\n<li>\n  you have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/lumps/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A GP may be able to tell what's causing your lump. You might need an ultrasound scan or a biopsy (where a small sample of the lump is tested).",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The GP will look at your lump. They may be able to tell you what's causing it.</p><p>If they're unsure, they might refer you to hospital for tests, such as a <a href=\"/tests-and-treatments/biopsy/\">biopsy</a> (where a very small sample of the lump is removed and tested) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/lumps/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are lots of possible causes of lumps and growths, including skin tags, lipomas, cysts and abscesses.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are lots of possible causes of lumps and growths.</p><p>Your symptoms might give you an idea of what's causing it, but do not self-diagnose.</p><p>See a GP if you're worried or the lump is still there after 2 weeks.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lumps anywhere on the body",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Lump\n          : \nSmall, fleshy growth on the skin\n<br/>\n            Possible cause\n          : \nSkin tags\n</p><p>\n            Lump\n          : \nSoft, squashy lump that moves\n<br/>\n            Possible cause\n          : \nLipoma\n</p><p>\n            Lump\n          : \nSmooth lump under the skin\n<br/>\n            Possible cause\n          : \nSkin cyst\n</p><p>\n            Lump\n          : \nSwollen, painful lump with a high temperature\n<br/>\n            Possible cause\n          : \nSkin abscess\n</p><p>\n            Lump\n          : \nLump that’s painless at first, then gets bigger and becomes painful\n<br/>\n            Possible cause\n          : \nSoft tissue sarcoma\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lumps on the armpit, neck or groin",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Lump\n          : \nSwelling on the side of the neck, armpit or groin\n<br/>\n            Possible cause\n          : \nSwollen glands\n</p><p>\n            Lump\n          : \nLump in the groin\n<br/>\n            Possible cause\n          : \nHernia\n</p><p>\n            Lump\n          : \nLump on the front of the neck\n<br/>\n            Possible cause\n          : \nGoitre\n</p><p>\n            Lump\n          : \nFleshy growths around the groin\n<br/>\n            Possible cause\n          : \nGenital warts\n</p><p>\n            Lump\n          : \nSwelling on the side of the neck, armpit or groin that does not go down\n<br/>\n            Possible cause\n          : \nNon-Hodgkin lymphoma\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lumps around the bottom",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Lump\n          : \nLump or lumps around the bottom (anus), often with itching or pain\n<br/>\n            Possible cause\n          : \nPiles\n</p><p>\n            Lump\n          : \nLump on the bottom (anus) and not being able to control when you poo\n<br/>\n            Possible cause\n          : \nRectal prolapse\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lump on the breast or testicle",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Lump\n          : \nLump or swelling on the breasts\n<br/>\n            Find out more\n          : \nBreast lumps\n</p><p>\n            Lump\n          : \nLump or swelling on the testicles\n<br/>\n            Find out more\n          : \nTesticle lumps and swellings\n</p>\n</div></div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lump on the hands",
+              "text": "<div class=\"block-table_new\">\n<div class=\"nhsuk-table-container\">\n<p>\n            Lump\n          : \nSmooth lump on the hand, wrist or finger\n<br/>\n            Possible cause\n          : \nGanglion cyst\n</p><p>\n            Lump\n          : \nRough growth on the hand or finger\n<br/>\n            Possible cause\n          : \nWarts\n</p>\n</div></div>"
+            }
+          ],
+          "headline": "Possible causes of lumps",
+          "url": "https://www.nhs.uk/symptoms/lumps/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most lumps are harmless but it's important to see a GP if you're worried or the lump is still there after 2 weeks.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Lumps",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Lumps",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are lots of possible causes of lumps and growths, including skin tags, lipomas, cysts and abscesses.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Lumps and growths on the skin can be soft or hard to touch. Some can move around and they can vary in size.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/lumps/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-02-05T00:00:00+00:00",
+        "2027-02-05T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Lumps",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Lumps",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/lumps/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/lumps/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Lumps can appear anywhere on your body. Most lumps are harmless but it's important to see a GP if you're worried or the lump is still there after 2 weeks.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"izvqv\"><b>Lumps can appear anywhere on your body. Most lumps are harmless but it's important to see a GP if you're worried or the lump is still there after 2 weeks.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Most lumps are normal",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Most lumps are normal"
+        }
+      ],
+      "text": "Most lumps are normal\nIt's common for people to get lumps and growths on their skin. They can be caused by many things.\nThey can:\nbe soft or hard to touch\nmove around\nbe very small or up to the size of a golf ball\nbe a lump under the skin or a growth that hangs off your skin",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "be soft or hard to touch",
+            "move around",
+            "be very small or up to the size of a golf ball",
+            "be a lump under the skin or a growth that hangs off your skin"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Most lumps are normal</h2>\n<p data-block-key=\"jtnv3\">It's common for people to get lumps and growths on their skin. They can be caused by many things.</p><p data-block-key=\"l7pyf\">They can:</p><ul><li data-block-key=\"0frzi\">be soft or hard to touch</li><li data-block-key=\"wbcio\">move around</li><li data-block-key=\"9tv7z\">be very small or up to the size of a golf ball</li><li data-block-key=\"4f9st\">be a lump under the skin or a growth that hangs off your skin</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour lump gets bigger\nyour lump is painful, red or hot\nyour lump is hard and does not move\nyour lump lasts more than 2 weeks\na lump grows back after it's been removed\nyou have a lump in the breast or testicles\nyou have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your lump gets bigger",
+            "your lump is painful, red or hot",
+            "your lump is hard and does not move",
+            "your lump lasts more than 2 weeks",
+            "a lump grows back after it's been removed",
+            "you have a lump in the breast or testicles",
+            "you have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mnrt\">your lump gets bigger</li><li data-block-key=\"z13tp\">your lump is painful, red or hot</li><li data-block-key=\"gcclo\">your lump is hard and does not move</li><li data-block-key=\"zpaoa\">your lump lasts more than 2 weeks</li><li data-block-key=\"sr20d\">a lump grows back after it's been removed</li><li data-block-key=\"xwaao\">you have a lump in the breast or testicles</li><li data-block-key=\"e3vjl\">you have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nThe GP will look at your lump. They may be able to tell you what's causing it.\nIf they're unsure, they might refer you to hospital for tests, such as a\nbiopsy\n(where a very small sample of the lump is removed and tested) or an\nultrasound scan\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "biopsy",
+          "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+        },
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"yhyb6\">The GP will look at your lump. They may be able to tell you what's causing it.</p><p data-block-key=\"n1315\">If they're unsure, they might refer you to hospital for tests, such as a <a href=\"/tests-and-treatments/biopsy/\">biopsy</a> (where a very small sample of the lump is removed and tested) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Possible causes of lumps",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Possible causes of lumps"
+        }
+      ],
+      "text": "Possible causes of lumps\nThere are lots of possible causes of lumps and growths.\nYour symptoms might give you an idea of what's causing it, but do not self-diagnose.\nSee a GP if you're worried or the lump is still there after 2 weeks.\nLumps anywhere on the body\nPossible causes of lumps on your body\nLump\nPossible cause\nSmall, fleshy growth on the skin\nSkin tags\nSoft, squashy lump that moves\nLipoma\nSmooth lump under the skin\nSkin cyst\nSwollen, painful lump with a high temperature\nSkin abscess\nLump that’s painless at first, then gets bigger and becomes painful\nSoft tissue sarcoma\nLumps on the armpit, neck or groin\nPossible causes of lumps on your armpit, neck or groin\nLump\nPossible cause\nSwelling on the side of the neck, armpit or groin\nSwollen glands\nLump in the groin\nHernia\nLump on the front of the neck\nGoitre\nFleshy growths around the groin\nGenital warts\nSwelling on the side of the neck, armpit or groin that does not go down\nNon-Hodgkin lymphoma\nLumps around the bottom\nPossible causes of lumps around the bottom\nLump\nPossible cause\nLump or lumps around the bottom (anus), often with itching or pain\nPiles\nLump on the bottom (anus) and not being able to control when you poo\nRectal prolapse\nLump on the breast or testicle\nPossible causes of lump on the breast or testicle\nLump\nFind out more\nLump or swelling on the breasts\nBreast lumps\nLump or swelling on the testicles\nTesticle lumps and swellings\nLump on the hands\nPossible causes of lumps on the hands\nLump\nPossible cause\nSmooth lump on the hand, wrist or finger\nGanglion cyst\nRough growth on the hand or finger\nWarts",
+      "lists": [],
+      "links": [
+        {
+          "text": "Skin tags",
+          "url": "https://www.nhs.uk/conditions/skin-tags/"
+        },
+        {
+          "text": "Lipoma",
+          "url": "https://www.nhs.uk/conditions/lipoma/"
+        },
+        {
+          "text": "Skin cyst",
+          "url": "https://www.nhs.uk/conditions/skin-cyst/"
+        },
+        {
+          "text": "Skin abscess",
+          "url": "https://www.nhs.uk/conditions/skin-abscess/"
+        },
+        {
+          "text": "Soft tissue sarcoma",
+          "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+        },
+        {
+          "text": "Swollen glands",
+          "url": "https://www.nhs.uk/symptoms/swollen-glands/"
+        },
+        {
+          "text": "Hernia",
+          "url": "https://www.nhs.uk/conditions/hernia/"
+        },
+        {
+          "text": "Goitre",
+          "url": "https://www.nhs.uk/conditions/goitre/"
+        },
+        {
+          "text": "Genital warts",
+          "url": "https://www.nhs.uk/conditions/genital-warts/"
+        },
+        {
+          "text": "Non-Hodgkin lymphoma",
+          "url": "https://www.nhs.uk/conditions/non-hodgkin-lymphoma/"
+        },
+        {
+          "text": "Piles",
+          "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+        },
+        {
+          "text": "Breast lumps",
+          "url": "https://www.nhs.uk/symptoms/breast-lump/"
+        },
+        {
+          "text": "Testicle lumps and swellings",
+          "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+        },
+        {
+          "text": "Ganglion cyst",
+          "url": "https://www.nhs.uk/conditions/ganglion-cyst/"
+        },
+        {
+          "text": "Warts",
+          "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Possible causes of lumps</h2>\n<p data-block-key=\"pcbtn\">There are lots of possible causes of lumps and growths.</p><p data-block-key=\"urecv\">Your symptoms might give you an idea of what's causing it, but do not self-diagnose.</p><p data-block-key=\"12k8a\">See a GP if you're worried or the lump is still there after 2 weeks.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps anywhere on the body\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on your body</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Small, fleshy growth on the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-tags/\">Skin tags</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Soft, squashy lump that moves</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/lipoma/\">Lipoma</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Smooth lump under the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-cyst/\">Skin cyst</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Swollen, painful lump with a high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-abscess/\">Skin abscess</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"9cs3p\">Lump that’s painless at first, then gets bigger and becomes painful</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"9cs3p\"><a href=\"/conditions/soft-tissue-sarcoma/\">Soft tissue sarcoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps on the armpit, neck or groin\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on your armpit, neck or groin</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Swelling on the side of the neck, armpit or groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/symptoms/swollen-glands/\">Swollen glands</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Lump in the groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/hernia/\">Hernia</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Lump on the front of the neck</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/goitre/\">Goitre</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Fleshy growths around the groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/genital-warts/\">Genital warts</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Swelling on the side of the neck, armpit or groin that does not go down</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/non-hodgkin-lymphoma/\">Non-Hodgkin lymphoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps around the bottom\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps around the bottom</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or lumps around the bottom (anus), often with itching or pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/piles-haemorrhoids/\">Piles</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump on the bottom (anus) and not being able to control when you poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Rectal prolapse</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lump on the breast or testicle\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lump on the breast or testicle</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Find out more\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or swelling on the breasts</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/symptoms/breast-lump/\">Breast lumps</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or swelling on the testicles</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/symptoms/testicle-lumps-and-swellings/\">Testicle lumps and swellings</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lump on the hands\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on the hands</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Smooth lump on the hand, wrist or finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/ganglion-cyst/\">Ganglion cyst</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Rough growth on the hand or finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/warts-and-verrucas/\">Warts</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Lumps can appear anywhere on your body. Most lumps are harmless but it's important to see a GP if you're worried or the lump is still there after 2 weeks.\nMost lumps are normal\nIt's common for people to get lumps and growths on their skin. They can be caused by many things.\nThey can:\nbe soft or hard to touch\nmove around\nbe very small or up to the size of a golf ball\nbe a lump under the skin or a growth that hangs off your skin\nNon-urgent advice:\nSee a GP if:\nyour lump gets bigger\nyour lump is painful, red or hot\nyour lump is hard and does not move\nyour lump lasts more than 2 weeks\na lump grows back after it's been removed\nyou have a lump in the breast or testicles\nyou have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks\nWhat happens at your appointment\nThe GP will look at your lump. They may be able to tell you what's causing it.\nIf they're unsure, they might refer you to hospital for tests, such as a\nbiopsy\n(where a very small sample of the lump is removed and tested) or an\nultrasound scan\n.\nPossible causes of lumps\nThere are lots of possible causes of lumps and growths.\nYour symptoms might give you an idea of what's causing it, but do not self-diagnose.\nSee a GP if you're worried or the lump is still there after 2 weeks.\nLumps anywhere on the body\nPossible causes of lumps on your body\nLump\nPossible cause\nSmall, fleshy growth on the skin\nSkin tags\nSoft, squashy lump that moves\nLipoma\nSmooth lump under the skin\nSkin cyst\nSwollen, painful lump with a high temperature\nSkin abscess\nLump that’s painless at first, then gets bigger and becomes painful\nSoft tissue sarcoma\nLumps on the armpit, neck or groin\nPossible causes of lumps on your armpit, neck or groin\nLump\nPossible cause\nSwelling on the side of the neck, armpit or groin\nSwollen glands\nLump in the groin\nHernia\nLump on the front of the neck\nGoitre\nFleshy growths around the groin\nGenital warts\nSwelling on the side of the neck, armpit or groin that does not go down\nNon-Hodgkin lymphoma\nLumps around the bottom\nPossible causes of lumps around the bottom\nLump\nPossible cause\nLump or lumps around the bottom (anus), often with itching or pain\nPiles\nLump on the bottom (anus) and not being able to control when you poo\nRectal prolapse\nLump on the breast or testicle\nPossible causes of lump on the breast or testicle\nLump\nFind out more\nLump or swelling on the breasts\nBreast lumps\nLump or swelling on the testicles\nTesticle lumps and swellings\nLump on the hands\nPossible causes of lumps on the hands\nLump\nPossible cause\nSmooth lump on the hand, wrist or finger\nGanglion cyst\nRough growth on the hand or finger\nWarts\nPage last reviewed: 05 February 2024\nNext review due: 05 February 2027",
+  "links": [
+    {
+      "text": "biopsy",
+      "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+    },
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "Skin tags",
+      "url": "https://www.nhs.uk/conditions/skin-tags/"
+    },
+    {
+      "text": "Lipoma",
+      "url": "https://www.nhs.uk/conditions/lipoma/"
+    },
+    {
+      "text": "Skin cyst",
+      "url": "https://www.nhs.uk/conditions/skin-cyst/"
+    },
+    {
+      "text": "Skin abscess",
+      "url": "https://www.nhs.uk/conditions/skin-abscess/"
+    },
+    {
+      "text": "Soft tissue sarcoma",
+      "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+    },
+    {
+      "text": "Swollen glands",
+      "url": "https://www.nhs.uk/symptoms/swollen-glands/"
+    },
+    {
+      "text": "Hernia",
+      "url": "https://www.nhs.uk/conditions/hernia/"
+    },
+    {
+      "text": "Goitre",
+      "url": "https://www.nhs.uk/conditions/goitre/"
+    },
+    {
+      "text": "Genital warts",
+      "url": "https://www.nhs.uk/conditions/genital-warts/"
+    },
+    {
+      "text": "Non-Hodgkin lymphoma",
+      "url": "https://www.nhs.uk/conditions/non-hodgkin-lymphoma/"
+    },
+    {
+      "text": "Piles",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+    },
+    {
+      "text": "Breast lumps",
+      "url": "https://www.nhs.uk/symptoms/breast-lump/"
+    },
+    {
+      "text": "Testicle lumps and swellings",
+      "url": "https://www.nhs.uk/symptoms/testicle-lumps-and-swellings/"
+    },
+    {
+      "text": "Ganglion cyst",
+      "url": "https://www.nhs.uk/conditions/ganglion-cyst/"
+    },
+    {
+      "text": "Warts",
+      "url": "https://www.nhs.uk/conditions/warts-and-verrucas/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"izvqv\"><b>Lumps can appear anywhere on your body. Most lumps are harmless but it's important to see a GP if you're worried or the lump is still there after 2 weeks.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Most lumps are normal</h2>\n<p data-block-key=\"jtnv3\">It's common for people to get lumps and growths on their skin. They can be caused by many things.</p><p data-block-key=\"l7pyf\">They can:</p><ul><li data-block-key=\"0frzi\">be soft or hard to touch</li><li data-block-key=\"wbcio\">move around</li><li data-block-key=\"9tv7z\">be very small or up to the size of a golf ball</li><li data-block-key=\"4f9st\">be a lump under the skin or a growth that hangs off your skin</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"2mnrt\">your lump gets bigger</li><li data-block-key=\"z13tp\">your lump is painful, red or hot</li><li data-block-key=\"gcclo\">your lump is hard and does not move</li><li data-block-key=\"zpaoa\">your lump lasts more than 2 weeks</li><li data-block-key=\"sr20d\">a lump grows back after it's been removed</li><li data-block-key=\"xwaao\">you have a lump in the breast or testicles</li><li data-block-key=\"e3vjl\">you have a swelling on the side of your neck, armpit or groin that does not go down within 2 weeks</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"yhyb6\">The GP will look at your lump. They may be able to tell you what's causing it.</p><p data-block-key=\"n1315\">If they're unsure, they might refer you to hospital for tests, such as a <a href=\"/tests-and-treatments/biopsy/\">biopsy</a> (where a very small sample of the lump is removed and tested) or an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a>.</p>\n</section>\n<section>\n<h2 id=\"causes\">Possible causes of lumps</h2>\n<p data-block-key=\"pcbtn\">There are lots of possible causes of lumps and growths.</p><p data-block-key=\"urecv\">Your symptoms might give you an idea of what's causing it, but do not self-diagnose.</p><p data-block-key=\"12k8a\">See a GP if you're worried or the lump is still there after 2 weeks.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps anywhere on the body\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on your body</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Small, fleshy growth on the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-tags/\">Skin tags</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Soft, squashy lump that moves</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/lipoma/\">Lipoma</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Smooth lump under the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-cyst/\">Skin cyst</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\">Swollen, painful lump with a high temperature</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"7840z\"><a href=\"/conditions/skin-abscess/\">Skin abscess</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"9cs3p\">Lump that’s painless at first, then gets bigger and becomes painful</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"9cs3p\"><a href=\"/conditions/soft-tissue-sarcoma/\">Soft tissue sarcoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps on the armpit, neck or groin\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on your armpit, neck or groin</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Swelling on the side of the neck, armpit or groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/symptoms/swollen-glands/\">Swollen glands</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Lump in the groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/hernia/\">Hernia</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Lump on the front of the neck</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/goitre/\">Goitre</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Fleshy growths around the groin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/genital-warts/\">Genital warts</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\">Swelling on the side of the neck, armpit or groin that does not go down</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"3w3vt\"><a href=\"/conditions/non-hodgkin-lymphoma/\">Non-Hodgkin lymphoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lumps around the bottom\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps around the bottom</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or lumps around the bottom (anus), often with itching or pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/piles-haemorrhoids/\">Piles</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump on the bottom (anus) and not being able to control when you poo</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Rectal prolapse</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lump on the breast or testicle\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lump on the breast or testicle</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Find out more\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or swelling on the breasts</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/symptoms/breast-lump/\">Breast lumps</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Lump or swelling on the testicles</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/symptoms/testicle-lumps-and-swellings/\">Testicle lumps and swellings</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Lump on the hands\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of lumps on the hands</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Lump\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Smooth lump on the hand, wrist or finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/ganglion-cyst/\">Ganglion cyst</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\">Rough growth on the hand or finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"leowu\"><a href=\"/conditions/warts-and-verrucas/\">Warts</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</details>\n</section>\n<section>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 05 February 2024<br/>\n    Next review due: 05 February 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

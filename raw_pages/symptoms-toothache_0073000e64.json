@@ -1,0 +1,694 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/toothache/",
+  "final_url": "https://www.nhs.uk/symptoms/toothache/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:15.196450+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "D",
+      "label": "Dental pain, see Toothache",
+      "url": "https://www.nhs.uk/symptoms/toothache/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "T",
+      "label": "Toothache",
+      "url": "https://www.nhs.uk/symptoms/toothache/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Toothache",
+  "meta_description": "NHS information about the causes of toothache, when to see a dentist, and how toothache can be relieved and prevented.",
+  "review_dates": {
+    "page_last_reviewed": "01 July 2024",
+    "next_review_due": "01 July 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about the causes of toothache, when to see a dentist, and how toothache can be relieved and prevented."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/toothache/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nToothache\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about the causes of toothache, when to see a dentist, and how toothache can be relieved and prevented."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "12 May 2026, 11:50 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 3:53 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Dental pain"
+        ],
+        "name": "Toothache"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/toothache/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Toothache"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-12T10:50:37+00:00",
+      "description": "NHS information about the causes of toothache, when to see a dentist, and how toothache can be relieved and prevented.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a dentist if you have toothache:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  that lasts more than 2 days\n </li>\n<li>\n  that does not go away when you take painkillers\n </li>\n<li>\n  with a high temperature, pain when you bite, red gums, or a bad taste in your mouth\n </li>\n<li>\n  and your cheek or jaw is swollen\n </li>\n</ul>\n<p>\n Do not go to your GP as they will not be able to give you dental treatment.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/toothache/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E if you have toothache and:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  the area around your eye or your neck is swollen\n </li>\n<li>\n  swelling in your mouth or neck is making it difficult for you to breathe, swallow or speak\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/toothache/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Painkillers and pain-relieving gels for your mouth can help ease toothache until you see a dentist.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>take painkillers, like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> or <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> (children under 16 should not take aspirin) – a pharmacist can advise you</p></li><li><p>use a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets</p></li><li><p>try rinsing your mouth with salt water (children should not try this)</p></li><li><p>eat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth</p></li><li><p>use a soft toothbrush and avoid flossing around the sore tooth</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not eat foods that are sweet, very hot or very cold</p></li><li><p>do not smoke – it can make some dental problems worse</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "How to rinse with salt water",
+              "text": "<ol><li>Dissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.</li><li>Rinse your mouth with the solution, then spit it out – do not swallow it.</li><li>Repeat as often as you like</li></ol><p>Children should not try rinsing their mouth with salt water in case they swallow it.</p>"
+            }
+          ],
+          "headline": "How to ease toothache while waiting for an appointment",
+          "url": "https://www.nhs.uk/symptoms/toothache/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things that can cause toothache include tooth decay, a dental abscess, a damaged tooth and a loose or broken filling.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Toothache can be caused by:</p><ul><li><a href=\"/conditions/tooth-decay/\">tooth decay</a></li><li>a <a href=\"/conditions/dental-abscess/\">dental abscess</a></li><li><a href=\"/conditions/chipped-broken-or-cracked-tooth/\">a cracked or damaged tooth</a></li><li>a loose or broken filling</li><li>an infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through</li><li>problems with your braces</li><li><a href=\"/conditions/gum-disease/\">gum disease</a></li><li><a href=\"/symptoms/teeth-grinding/\">grinding your teeth</a></li></ul><p>Tooth pain can also be caused by having sensitive teeth.</p>"
+            }
+          ],
+          "headline": "Causes of toothache",
+          "url": "https://www.nhs.uk/symptoms/toothache/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can reduce your risk of getting toothache by cutting down on sugary food and drink, and by brushing your teeth twice a day.",
+          "hasHealthAspect": "http://schema.org/PreventionHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The best way to prevent toothache is to keep your teeth and gums as healthy as possible.</p><p>To do this:</p><ul><li>have <a href=\"/using-the-nhs/nhs-services/dentists/what-happens-when-you-visit-the-dentist/\">regular dental check-ups</a></li><li>cut down on sugary foods and drinks – only have them as an occasional treat at mealtimes</li><li>brush your teeth twice a day for about 2 minutes with a fluoride toothpaste</li><li>clean between your teeth using floss or an interdental brush every day to remove food, debris and plaque</li></ul>"
+            }
+          ],
+          "headline": "How to prevent toothache",
+          "url": "https://www.nhs.uk/symptoms/toothache/#prevention"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "See a dentist if you have toothache that lasts more than 2 days. They can treat the cause of the pain and stop any problems getting worse.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Toothache",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Toothache",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Toothache",
+              "text": "Prevention"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Painkillers and pain-relieving gels for your mouth can help ease toothache until you see a dentist.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things that can cause toothache include tooth decay, a dental abscess, a damaged tooth and a loose or broken filling.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can reduce your risk of getting toothache by cutting down on sugary food and drink, and by brushing your teeth twice a day.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/toothache/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-07-01T00:00:00+00:00",
+        "2027-07-01T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Toothache",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Toothache",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/toothache/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/toothache/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Non-urgent advice: See a dentist if you have toothache:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a dentist if you have toothache:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a dentist if you have toothache:\nthat lasts more than 2 days\nthat does not go away when you take painkillers\nwith a high temperature, pain when you bite, red gums, or a bad taste in your mouth\nand your cheek or jaw is swollen\nDo not go to your GP as they will not be able to give you dental treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "that lasts more than 2 days",
+            "that does not go away when you take painkillers",
+            "with a high temperature, pain when you bite, red gums, or a bad taste in your mouth",
+            "and your cheek or jaw is swollen"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a dentist if you have toothache:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"cnj71\">that lasts more than 2 days</li><li data-block-key=\"5nqah\">that does not go away when you take painkillers</li><li data-block-key=\"dav19\">with a high temperature, pain when you bite, red gums, or a bad taste in your mouth</li><li data-block-key=\"64gyl\">and your cheek or jaw is swollen</li></ul><p data-block-key=\"d1rgs\">Do not go to your GP as they will not be able to give you dental treatment.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Immediate action required: Go to A&E if you have toothache and:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E if you have toothache and:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E if you have toothache and:\nthe area around your eye or your neck is swollen\nswelling in your mouth or neck is making it difficult for you to breathe, swallow or speak\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the area around your eye or your neck is swollen",
+            "swelling in your mouth or neck is making it difficult for you to breathe, swallow or speak"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E if you have toothache and:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9o1vd\">the area around your eye or your neck is swollen</li><li data-block-key=\"gyt30\">swelling in your mouth or neck is making it difficult for you to breathe, swallow or speak</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "If you need to see a dentist",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "If you need to see a dentist"
+        }
+      ],
+      "text": "If you need to see a dentist\nTo see a dentist in an emergency or out of hours:\ncall your dentist – if they're closed, their answerphone may tell you what to do\nIf you do not have a dentist or cannot get an emergency appointment:\ncall 111 or visit\n111 online\n– they can advise you what to do\nfind a dentist near you\n– ask if you can have an emergency appointment\nYou may have to pay for your appointment.\nFind out more about\nNHS dental charges\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "call your dentist – if they're closed, their answerphone may tell you what to do"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "call 111 or visit\n111 online\n– they can advise you what to do",
+            "find a dentist near you\n– ask if you can have an emergency appointment"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "111 online",
+          "url": "https://111.nhs.uk/"
+        },
+        {
+          "text": "find a dentist near you",
+          "url": "https://www.nhs.uk/service-search/find-a-dentist"
+        },
+        {
+          "text": "NHS dental charges",
+          "url": "https://www.nhs.uk/nhs-services/dentists/how-much-nhs-dental-treatment-costs/"
+        }
+      ],
+      "html": "<section>\n<h2>If you need to see a dentist</h2>\n<p data-block-key=\"flm14\">To see a dentist in an emergency or out of hours:</p><ul><li data-block-key=\"c2eu4\">call your dentist – if they're closed, their answerphone may tell you what to do</li></ul><p data-block-key=\"1g4cr\">If you do not have a dentist or cannot get an emergency appointment:</p><ul><li data-block-key=\"dmf9e\">call 111 or visit <a href=\"https://111.nhs.uk/\">111 online</a> – they can advise you what to do</li><li data-block-key=\"91qbc\"><a href=\"https://www.nhs.uk/service-search/find-a-dentist\">find a dentist near you</a> – ask if you can have an emergency appointment</li></ul><p data-block-key=\"2t6dk\">You may have to pay for your appointment.</p><p data-block-key=\"20h0d\">Find out more about <a href=\"/nhs-services/dentists/how-much-nhs-dental-treatment-costs/\">NHS dental charges</a>.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "How to ease toothache while waiting for an appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease toothache while waiting for an appointment"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "How to rinse with salt water"
+        }
+      ],
+      "text": "How to ease toothache while waiting for an appointment\nDo\ntake painkillers, like\nibuprofen\nor\nparacetamol\n(children under 16 should not take aspirin) – a pharmacist can advise you\nuse a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets\ntry rinsing your mouth with salt water (children should not try this)\neat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth\nuse a soft toothbrush and avoid flossing around the sore tooth\nDon’t\ndo not eat foods that are sweet, very hot or very cold\ndo not smoke – it can make some dental problems worse\nHow to rinse with salt water\nDissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.\nRinse your mouth with the solution, then spit it out – do not swallow it.\nRepeat as often as you like\nChildren should not try rinsing their mouth with salt water in case they swallow it.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "take painkillers, like\nibuprofen\nor\nparacetamol\n(children under 16 should not take aspirin) – a pharmacist can advise you",
+            "use a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets",
+            "try rinsing your mouth with salt water (children should not try this)",
+            "eat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth",
+            "use a soft toothbrush and avoid flossing around the sore tooth"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not eat foods that are sweet, very hot or very cold",
+            "do not smoke – it can make some dental problems worse"
+          ]
+        },
+        {
+          "type": "ordered",
+          "items": [
+            "Dissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.",
+            "Rinse your mouth with the solution, then spit it out – do not swallow it.",
+            "Repeat as often as you like"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease toothache while waiting for an appointment</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"84zho\">take painkillers, like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> or <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> (children under 16 should not take aspirin) – a pharmacist can advise you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1qo13\">use a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9e52u\">try rinsing your mouth with salt water (children should not try this)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hqd7o\">eat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nn8iq\">use a soft toothbrush and avoid flossing around the sore tooth</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9go73\">do not eat foods that are sweet, very hot or very cold</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"oh94o\">do not smoke – it can make some dental problems worse</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"2m756\">How to rinse with salt water</h3><ol><li data-block-key=\"9l2v9\">Dissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.</li><li data-block-key=\"788v3\">Rinse your mouth with the solution, then spit it out – do not swallow it.</li><li data-block-key=\"9i279\">Repeat as often as you like</li></ol><p data-block-key=\"b4967\">Children should not try rinsing their mouth with salt water in case they swallow it.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of toothache",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of toothache"
+        }
+      ],
+      "text": "Causes of toothache\nToothache can be caused by:\ntooth decay\na\ndental abscess\na cracked or damaged tooth\na loose or broken filling\nan infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through\nproblems with your braces\ngum disease\ngrinding your teeth\nTooth pain can also be caused by having sensitive teeth.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "tooth decay",
+            "a\ndental abscess",
+            "a cracked or damaged tooth",
+            "a loose or broken filling",
+            "an infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through",
+            "problems with your braces",
+            "gum disease",
+            "grinding your teeth"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "tooth decay",
+          "url": "https://www.nhs.uk/conditions/tooth-decay/"
+        },
+        {
+          "text": "dental abscess",
+          "url": "https://www.nhs.uk/conditions/dental-abscess/"
+        },
+        {
+          "text": "a cracked or damaged tooth",
+          "url": "https://www.nhs.uk/conditions/chipped-broken-or-cracked-tooth/"
+        },
+        {
+          "text": "gum disease",
+          "url": "https://www.nhs.uk/conditions/gum-disease/"
+        },
+        {
+          "text": "grinding your teeth",
+          "url": "https://www.nhs.uk/symptoms/teeth-grinding/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of toothache</h2>\n<p data-block-key=\"pxgft\">Toothache can be caused by:</p><ul><li data-block-key=\"ty97j\"><a href=\"/conditions/tooth-decay/\">tooth decay</a></li><li data-block-key=\"k6f7w\">a <a href=\"/conditions/dental-abscess/\">dental abscess</a></li><li data-block-key=\"vac1z\"><a href=\"/conditions/chipped-broken-or-cracked-tooth/\">a cracked or damaged tooth</a></li><li data-block-key=\"xdo03\">a loose or broken filling</li><li data-block-key=\"4t0hk\">an infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through</li><li data-block-key=\"yukyz\">problems with your braces</li><li data-block-key=\"4nn8e\"><a href=\"/conditions/gum-disease/\">gum disease</a></li><li data-block-key=\"1vubk\"><a href=\"/symptoms/teeth-grinding/\">grinding your teeth</a></li></ul><p data-block-key=\"a3f43\">Tooth pain can also be caused by having sensitive teeth.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "The Oral Health Foundation has more information about sensitive teeth.",
+      "lists": [],
+      "links": [
+        {
+          "text": "The Oral Health Foundation has more information about sensitive teeth.",
+          "url": "https://www.dentalhealth.org/sensitive-teeth"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"5sjv5\"><a href=\"https://www.dentalhealth.org/sensitive-teeth\">The Oral Health Foundation has more information about sensitive teeth.</a></p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "How to prevent toothache",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to prevent toothache"
+        }
+      ],
+      "text": "How to prevent toothache\nThe best way to prevent toothache is to keep your teeth and gums as healthy as possible.\nTo do this:\nhave\nregular dental check-ups\ncut down on sugary foods and drinks – only have them as an occasional treat at mealtimes\nbrush your teeth twice a day for about 2 minutes with a fluoride toothpaste\nclean between your teeth using floss or an interdental brush every day to remove food, debris and plaque",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "have\nregular dental check-ups",
+            "cut down on sugary foods and drinks – only have them as an occasional treat at mealtimes",
+            "brush your teeth twice a day for about 2 minutes with a fluoride toothpaste",
+            "clean between your teeth using floss or an interdental brush every day to remove food, debris and plaque"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "regular dental check-ups",
+          "url": "https://www.nhs.uk/using-the-nhs/nhs-services/dentists/what-happens-when-you-visit-the-dentist/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"prevention\">How to prevent toothache</h2>\n<p data-block-key=\"o2plm\">The best way to prevent toothache is to keep your teeth and gums as healthy as possible.</p><p data-block-key=\"ieo65\">To do this:</p><ul><li data-block-key=\"q9h7j\">have <a href=\"/using-the-nhs/nhs-services/dentists/what-happens-when-you-visit-the-dentist/\">regular dental check-ups</a></li><li data-block-key=\"ipcn3\">cut down on sugary foods and drinks – only have them as an occasional treat at mealtimes</li><li data-block-key=\"0qaj7\">brush your teeth twice a day for about 2 minutes with a fluoride toothpaste</li><li data-block-key=\"t56af\">clean between your teeth using floss or an interdental brush every day to remove food, debris and plaque</li></ul>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "More information",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "More information"
+        }
+      ],
+      "text": "Information:\nMore information\nTaking care of your teeth and gums\nLooking after your children's teeth\nLooking after your baby's teeth",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Taking care of your teeth and gums",
+            "Looking after your children's teeth",
+            "Looking after your baby's teeth"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Taking care of your teeth and gums",
+          "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/take-care-of-your-teeth-and-gums/"
+        },
+        {
+          "text": "Looking after your children's teeth",
+          "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
+        },
+        {
+          "text": "Looking after your baby's teeth",
+          "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"bouk0\">More information</h2><ul><li data-block-key=\"jmsj2\"><a href=\"/live-well/healthy-teeth-and-gums/take-care-of-your-teeth-and-gums/\">Taking care of your teeth and gums</a></li><li data-block-key=\"sg9qs\"><a href=\"/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/\">Looking after your children's teeth</a></li><li data-block-key=\"kcu3t\"><a href=\"/baby/babys-development/teething/looking-after-your-babys-teeth/\">Looking after your baby's teeth</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Non-urgent advice:\nSee a dentist if you have toothache:\nthat lasts more than 2 days\nthat does not go away when you take painkillers\nwith a high temperature, pain when you bite, red gums, or a bad taste in your mouth\nand your cheek or jaw is swollen\nDo not go to your GP as they will not be able to give you dental treatment.\nImmediate action required:\nGo to A&E if you have toothache and:\nthe area around your eye or your neck is swollen\nswelling in your mouth or neck is making it difficult for you to breathe, swallow or speak\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nIf you need to see a dentist\nTo see a dentist in an emergency or out of hours:\ncall your dentist – if they're closed, their answerphone may tell you what to do\nIf you do not have a dentist or cannot get an emergency appointment:\ncall 111 or visit\n111 online\n– they can advise you what to do\nfind a dentist near you\n– ask if you can have an emergency appointment\nYou may have to pay for your appointment.\nFind out more about\nNHS dental charges\n.\nHow to ease toothache while waiting for an appointment\nDo\ntake painkillers, like\nibuprofen\nor\nparacetamol\n(children under 16 should not take aspirin) – a pharmacist can advise you\nuse a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets\ntry rinsing your mouth with salt water (children should not try this)\neat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth\nuse a soft toothbrush and avoid flossing around the sore tooth\nDon’t\ndo not eat foods that are sweet, very hot or very cold\ndo not smoke – it can make some dental problems worse\nHow to rinse with salt water\nDissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.\nRinse your mouth with the solution, then spit it out – do not swallow it.\nRepeat as often as you like\nChildren should not try rinsing their mouth with salt water in case they swallow it.\nCauses of toothache\nToothache can be caused by:\ntooth decay\na\ndental abscess\na cracked or damaged tooth\na loose or broken filling\nan infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through\nproblems with your braces\ngum disease\ngrinding your teeth\nTooth pain can also be caused by having sensitive teeth.\nThe Oral Health Foundation has more information about sensitive teeth.\nHow to prevent toothache\nThe best way to prevent toothache is to keep your teeth and gums as healthy as possible.\nTo do this:\nhave\nregular dental check-ups\ncut down on sugary foods and drinks – only have them as an occasional treat at mealtimes\nbrush your teeth twice a day for about 2 minutes with a fluoride toothpaste\nclean between your teeth using floss or an interdental brush every day to remove food, debris and plaque\nInformation:\nMore information\nTaking care of your teeth and gums\nLooking after your children's teeth\nLooking after your baby's teeth\nPage last reviewed: 01 July 2024\nNext review due: 01 July 2027",
+  "links": [
+    {
+      "text": "111 online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "text": "find a dentist near you",
+      "url": "https://www.nhs.uk/service-search/find-a-dentist"
+    },
+    {
+      "text": "NHS dental charges",
+      "url": "https://www.nhs.uk/nhs-services/dentists/how-much-nhs-dental-treatment-costs/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "tooth decay",
+      "url": "https://www.nhs.uk/conditions/tooth-decay/"
+    },
+    {
+      "text": "dental abscess",
+      "url": "https://www.nhs.uk/conditions/dental-abscess/"
+    },
+    {
+      "text": "a cracked or damaged tooth",
+      "url": "https://www.nhs.uk/conditions/chipped-broken-or-cracked-tooth/"
+    },
+    {
+      "text": "gum disease",
+      "url": "https://www.nhs.uk/conditions/gum-disease/"
+    },
+    {
+      "text": "grinding your teeth",
+      "url": "https://www.nhs.uk/symptoms/teeth-grinding/"
+    },
+    {
+      "text": "The Oral Health Foundation has more information about sensitive teeth.",
+      "url": "https://www.dentalhealth.org/sensitive-teeth"
+    },
+    {
+      "text": "regular dental check-ups",
+      "url": "https://www.nhs.uk/using-the-nhs/nhs-services/dentists/what-happens-when-you-visit-the-dentist/"
+    },
+    {
+      "text": "Taking care of your teeth and gums",
+      "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/take-care-of-your-teeth-and-gums/"
+    },
+    {
+      "text": "Looking after your children's teeth",
+      "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
+    },
+    {
+      "text": "Looking after your baby's teeth",
+      "url": "https://www.nhs.uk/baby/babys-development/teething/looking-after-your-babys-teeth/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a dentist if you have toothache:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"cnj71\">that lasts more than 2 days</li><li data-block-key=\"5nqah\">that does not go away when you take painkillers</li><li data-block-key=\"dav19\">with a high temperature, pain when you bite, red gums, or a bad taste in your mouth</li><li data-block-key=\"64gyl\">and your cheek or jaw is swollen</li></ul><p data-block-key=\"d1rgs\">Do not go to your GP as they will not be able to give you dental treatment.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E if you have toothache and:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"9o1vd\">the area around your eye or your neck is swollen</li><li data-block-key=\"gyt30\">swelling in your mouth or neck is making it difficult for you to breathe, swallow or speak</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2>If you need to see a dentist</h2>\n<p data-block-key=\"flm14\">To see a dentist in an emergency or out of hours:</p><ul><li data-block-key=\"c2eu4\">call your dentist – if they're closed, their answerphone may tell you what to do</li></ul><p data-block-key=\"1g4cr\">If you do not have a dentist or cannot get an emergency appointment:</p><ul><li data-block-key=\"dmf9e\">call 111 or visit <a href=\"https://111.nhs.uk/\">111 online</a> – they can advise you what to do</li><li data-block-key=\"91qbc\"><a href=\"https://www.nhs.uk/service-search/find-a-dentist\">find a dentist near you</a> – ask if you can have an emergency appointment</li></ul><p data-block-key=\"2t6dk\">You may have to pay for your appointment.</p><p data-block-key=\"20h0d\">Find out more about <a href=\"/nhs-services/dentists/how-much-nhs-dental-treatment-costs/\">NHS dental charges</a>.</p>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease toothache while waiting for an appointment</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"84zho\">take painkillers, like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> or <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> (children under 16 should not take aspirin) – a pharmacist can advise you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"1qo13\">use a pain-relieving gel for your mouth – this can be bought from pharmacies or supermarkets</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"9e52u\">try rinsing your mouth with salt water (children should not try this)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"hqd7o\">eat soft foods, like yoghurt or scrambled eggs, and try to avoid chewing with the sore tooth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nn8iq\">use a soft toothbrush and avoid flossing around the sore tooth</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9go73\">do not eat foods that are sweet, very hot or very cold</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"oh94o\">do not smoke – it can make some dental problems worse</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"2m756\">How to rinse with salt water</h3><ol><li data-block-key=\"9l2v9\">Dissolve half a teaspoon of salt in a glass of warm water – warm water helps salt dissolve.</li><li data-block-key=\"788v3\">Rinse your mouth with the solution, then spit it out – do not swallow it.</li><li data-block-key=\"9i279\">Repeat as often as you like</li></ol><p data-block-key=\"b4967\">Children should not try rinsing their mouth with salt water in case they swallow it.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of toothache</h2>\n<p data-block-key=\"pxgft\">Toothache can be caused by:</p><ul><li data-block-key=\"ty97j\"><a href=\"/conditions/tooth-decay/\">tooth decay</a></li><li data-block-key=\"k6f7w\">a <a href=\"/conditions/dental-abscess/\">dental abscess</a></li><li data-block-key=\"vac1z\"><a href=\"/conditions/chipped-broken-or-cracked-tooth/\">a cracked or damaged tooth</a></li><li data-block-key=\"xdo03\">a loose or broken filling</li><li data-block-key=\"4t0hk\">an infection – this often happens when a tooth (such as a wisdom tooth) has broken the skin, but does not have enough room to fully come through</li><li data-block-key=\"yukyz\">problems with your braces</li><li data-block-key=\"4nn8e\"><a href=\"/conditions/gum-disease/\">gum disease</a></li><li data-block-key=\"1vubk\"><a href=\"/symptoms/teeth-grinding/\">grinding your teeth</a></li></ul><p data-block-key=\"a3f43\">Tooth pain can also be caused by having sensitive teeth.</p>\n</section>\n<section>\n<p data-block-key=\"5sjv5\"><a href=\"https://www.dentalhealth.org/sensitive-teeth\">The Oral Health Foundation has more information about sensitive teeth.</a></p>\n</section>\n<section>\n<h2 id=\"prevention\">How to prevent toothache</h2>\n<p data-block-key=\"o2plm\">The best way to prevent toothache is to keep your teeth and gums as healthy as possible.</p><p data-block-key=\"ieo65\">To do this:</p><ul><li data-block-key=\"q9h7j\">have <a href=\"/using-the-nhs/nhs-services/dentists/what-happens-when-you-visit-the-dentist/\">regular dental check-ups</a></li><li data-block-key=\"ipcn3\">cut down on sugary foods and drinks – only have them as an occasional treat at mealtimes</li><li data-block-key=\"0qaj7\">brush your teeth twice a day for about 2 minutes with a fluoride toothpaste</li><li data-block-key=\"t56af\">clean between your teeth using floss or an interdental brush every day to remove food, debris and plaque</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"bouk0\">More information</h2><ul><li data-block-key=\"jmsj2\"><a href=\"/live-well/healthy-teeth-and-gums/take-care-of-your-teeth-and-gums/\">Taking care of your teeth and gums</a></li><li data-block-key=\"sg9qs\"><a href=\"/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/\">Looking after your children's teeth</a></li><li data-block-key=\"kcu3t\"><a href=\"/baby/babys-development/teething/looking-after-your-babys-teeth/\">Looking after your baby's teeth</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 01 July 2024<br/>\n    Next review due: 01 July 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

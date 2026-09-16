@@ -1,0 +1,512 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/stretch-marks/",
+  "final_url": "https://www.nhs.uk/conditions/stretch-marks/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:47.718199+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "S",
+      "label": "Stretch marks",
+      "url": "https://www.nhs.uk/conditions/stretch-marks/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Stretch marks",
+  "meta_description": "Find out about stretch marks, including where, when and how you get them, what causes them, and how they can be treated and prevented.",
+  "review_dates": {
+    "page_last_reviewed": "30 April 2024",
+    "next_review_due": "30 April 2027"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about stretch marks, including where, when and how you get them, what causes them, and how they can be treated and prevented."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/stretch-marks/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nStretch marks\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about stretch marks, including where, when and how you get them, what causes them, and how they can be treated and prevented."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2025, 9:09 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 4:12 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Stretch marks"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/stretch-marks/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Stretch marks"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-09T08:09:13+00:00",
+      "description": "Find out about stretch marks, including where, when and how you get them, what causes them, and how they can be treated and prevented.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Stretch marks look like pink, red, brown, black, silver or purple lines across the skin. They usually start off darker and fade over time.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Stretch marks look like lines or streaks across the skin.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Stretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.",
+                  "datePublished": "2019-01-21T14:06:10+00:00",
+                  "keywords": [
+                    "Skin",
+                    "stretch marks",
+                    "dermatology",
+                    "dermatological"
+                  ],
+                  "license": "<p data-block-key=\"aa47t\">Michael Heim / Alamy Stock Photo https://www.alamy.com/stock-photo-woman-displaying-stretch-marks-on-her-abdomen-after-pregnancy-caused-90328374.html?pv=1&amp;stamp=2&amp;imageid=8CD2F7A0-4F23-46C7-B795-6746E63CD78D&amp;p=278143&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dF6XPNA%26qt_raw%3dF6XPNA%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d32846%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d1%26ispremium%3d1%26flip%3d0%26pl%3d</p>",
+                  "name": "Purple streaks on white skin, covering the lower tummy. Each streak is about 1cm wide and several centimetres long.",
+                  "provider": "Alamy",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_U.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Stretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Stretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.",
+                  "datePublished": "2019-01-21T14:06:07+00:00",
+                  "keywords": [
+                    "Skin",
+                    "stretch marks",
+                    "dermatology",
+                    "dermatological",
+                    "striae"
+                  ],
+                  "license": "<p data-block-key=\"atul1\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/481108/view</p>",
+                  "name": "Dark, shiny streaks on brown skin, covering the upper arm. Each streak is about 1cm wide and several centimetres long.",
+                  "provider": "Science Photo library",
+                  "url": "https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.max-600x600.jpg"
+                }
+              ],
+              "text": "<p>Stretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.</p>"
+            }
+          ],
+          "headline": "Signs of stretch marks",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Stretch marks are usually due to growing or gaining weight quickly. Common causes include pregnancy and growth during puberty.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Stretch marks are often caused by sudden growth or weight gain.</p><p>You may be more likely to get them if you:</p><ul><li>are pregnant</li><li>are going through puberty</li><li>lose or gain weight quickly</li><li>are female</li><li>are overweight</li><li>use some kinds of <a href=\"/medicines/steroids/\">steroid creams or tablets</a></li><li>have a family member with stretch marks</li></ul><p>Rarely, stretch marks can be due to a condition called <a href=\"/conditions/cushings-syndrome/\">Cushing's syndrome</a>.</p>"
+            }
+          ],
+          "headline": "Common causes of stretch marks",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Stretch marks often fade over time without treatment. There's little evidence that many creams and lotions claiming to improve stretch marks help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Stretch marks usually fade over time but may not disappear completely.</p><p>Many creams and lotions claim to prevent, reduce or remove stretch marks. But there's very little evidence these work.</p><p>There are some treatments that may help make stretch marks look better, but they will not get rid of them.</p><p>They include:</p><ul><li>retinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby</li><li>light or laser treatments</li><li>microdermabrasion, which removes a thin layer of skin</li></ul><p>You would need to pay for these treatments as they're not available on the NHS.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<p>It's not always possible to prevent stretch marks. The best way to reduce your chance of getting them is by maintaining a healthy weight.</p>"
+            }
+          ],
+          "headline": "What to do about stretch marks",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n You have large stretch marks and:\n</p>\n<ul>\n<li>\n  more fat on your chest and tummy, but slim arms and legs\n </li>\n<li>\n  a build-up of fat on the back of your neck and shoulders\n </li>\n<li>\n  a red, puffy, rounded face\n </li>\n</ul>\n<p>\n These could be symptoms of\n <a href=\"/conditions/cushings-syndrome/\">\n  Cushing's syndrome\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Stretch marks are lines or streaks across the skin caused by the skin being stretched. They're harmless and often get less visible over time.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Stretch marks",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Stretch marks",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Stretch marks",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Stretch marks look like pink, red, brown, black, silver or purple lines across the skin. They usually start off darker and fade over time.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Stretch marks are usually due to growing or gaining weight quickly. Common causes include pregnancy and growth during puberty.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Stretch marks often fade over time without treatment. There's little evidence that many creams and lotions claiming to improve stretch marks help.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2024-04-29T23:00:00+00:00",
+        "2027-04-29T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Stretch marks",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Stretch marks",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/stretch-marks/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/stretch-marks/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Signs of stretch marks",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Signs of stretch marks"
+        }
+      ],
+      "text": "Signs of stretch marks\nStretch marks look like lines or streaks across the skin.\nStretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.\nCredit:\nMichael Heim / Alamy Stock Photo https://www.alamy.com/stock-photo-woman-displaying-stretch-marks-on-her-abdomen-after-pregnancy-caused-90328374.html?pv=1&stamp=2&imageid=8CD2F7A0-4F23-46C7-B795-6746E63CD78D&p=278143&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dF6XPNA%26qt_raw%3dF6XPNA%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d32846%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d1%26ispremium%3d1%26flip%3d0%26pl%3d\nStretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/481108/view",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Signs of stretch marks</h2>\n<p data-block-key=\"yo0zt\">Stretch marks look like lines or streaks across the skin.</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"Purple streaks on white skin, covering the lower tummy. Each streak is about 1cm wide and several centimetres long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Stretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"aa47t\">Michael Heim / Alamy Stock Photo https://www.alamy.com/stock-photo-woman-displaying-stretch-marks-on-her-abdomen-after-pregnancy-caused-90328374.html?pv=1&amp;stamp=2&amp;imageid=8CD2F7A0-4F23-46C7-B795-6746E63CD78D&amp;p=278143&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dF6XPNA%26qt_raw%3dF6XPNA%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d32846%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d1%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"Dark, shiny streaks on brown skin, covering the upper arm. Each streak is about 1cm wide and several centimetres long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Stretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"atul1\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/481108/view</p>\n</div>\n</figure>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Common causes of stretch marks",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of stretch marks"
+        }
+      ],
+      "text": "Common causes of stretch marks\nStretch marks are often caused by sudden growth or weight gain.\nYou may be more likely to get them if you:\nare pregnant\nare going through puberty\nlose or gain weight quickly\nare female\nare overweight\nuse some kinds of\nsteroid creams or tablets\nhave a family member with stretch marks\nRarely, stretch marks can be due to a condition called\nCushing's syndrome\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "are pregnant",
+            "are going through puberty",
+            "lose or gain weight quickly",
+            "are female",
+            "are overweight",
+            "use some kinds of\nsteroid creams or tablets",
+            "have a family member with stretch marks"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "steroid creams or tablets",
+          "url": "https://www.nhs.uk/medicines/steroids/"
+        },
+        {
+          "text": "Cushing's syndrome",
+          "url": "https://www.nhs.uk/conditions/cushings-syndrome/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of stretch marks</h2>\n<p data-block-key=\"htyuu\">Stretch marks are often caused by sudden growth or weight gain.</p><p data-block-key=\"araj7\">You may be more likely to get them if you:</p><ul><li data-block-key=\"3y5as\">are pregnant</li><li data-block-key=\"26wqq\">are going through puberty</li><li data-block-key=\"xetrv\">lose or gain weight quickly</li><li data-block-key=\"ycadu\">are female</li><li data-block-key=\"pya5e\">are overweight</li><li data-block-key=\"xybt5\">use some kinds of <a href=\"/medicines/steroids/\">steroid creams or tablets</a></li><li data-block-key=\"85viv\">have a family member with stretch marks</li></ul><p data-block-key=\"88gg9\">Rarely, stretch marks can be due to a condition called <a href=\"/conditions/cushings-syndrome/\">Cushing's syndrome</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nFind out more about stretch marks in pregnancy",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out more about stretch marks in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/stretch-marks/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"d0s7s\"><a href=\"/pregnancy/common-symptoms/stretch-marks/\">Find out more about stretch marks in pregnancy</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What to do about stretch marks",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What to do about stretch marks"
+        }
+      ],
+      "text": "What to do about stretch marks\nStretch marks usually fade over time but may not disappear completely.\nMany creams and lotions claim to prevent, reduce or remove stretch marks. But there's very little evidence these work.\nThere are some treatments that may help make stretch marks look better, but they will not get rid of them.\nThey include:\nretinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby\nlight or laser treatments\nmicrodermabrasion, which removes a thin layer of skin\nYou would need to pay for these treatments as they're not available on the NHS.\nInformation:\nIt's not always possible to prevent stretch marks. The best way to reduce your chance of getting them is by maintaining a healthy weight.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "retinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby",
+            "light or laser treatments",
+            "microdermabrasion, which removes a thin layer of skin"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">What to do about stretch marks</h2>\n<p data-block-key=\"tych5\">Stretch marks usually fade over time but may not disappear completely.</p><p data-block-key=\"3glkq\">Many creams and lotions claim to prevent, reduce or remove stretch marks. But there's very little evidence these work.</p><p data-block-key=\"cji9p\">There are some treatments that may help make stretch marks look better, but they will not get rid of them.</p><p data-block-key=\"6p3r5\">They include:</p><ul><li data-block-key=\"1l95f\">retinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby</li><li data-block-key=\"ftg1d\">light or laser treatments</li><li data-block-key=\"dq2ne\">microdermabrasion, which removes a thin layer of skin</li></ul><p data-block-key=\"948j1\">You would need to pay for these treatments as they're not available on the NHS.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"d0s7s\">It's not always possible to prevent stretch marks. The best way to reduce your chance of getting them is by maintaining a healthy weight.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nYou have large stretch marks and:\nmore fat on your chest and tummy, but slim arms and legs\na build-up of fat on the back of your neck and shoulders\na red, puffy, rounded face\nThese could be symptoms of\nCushing's syndrome\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "more fat on your chest and tummy, but slim arms and legs",
+            "a build-up of fat on the back of your neck and shoulders",
+            "a red, puffy, rounded face"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Cushing's syndrome",
+          "url": "https://www.nhs.uk/conditions/cushings-syndrome/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"wej2e\">You have large stretch marks and:</p><ul><li data-block-key=\"f03uo\">more fat on your chest and tummy, but slim arms and legs</li><li data-block-key=\"ihtgf\">a build-up of fat on the back of your neck and shoulders</li><li data-block-key=\"bjw46\">a red, puffy, rounded face</li></ul><p data-block-key=\"oerv9\">These could be symptoms of <a href=\"/conditions/cushings-syndrome/\">Cushing's syndrome</a>.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Signs of stretch marks\nStretch marks look like lines or streaks across the skin.\nStretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.\nCredit:\nMichael Heim / Alamy Stock Photo https://www.alamy.com/stock-photo-woman-displaying-stretch-marks-on-her-abdomen-after-pregnancy-caused-90328374.html?pv=1&stamp=2&imageid=8CD2F7A0-4F23-46C7-B795-6746E63CD78D&p=278143&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dF6XPNA%26qt_raw%3dF6XPNA%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d32846%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d1%26ispremium%3d1%26flip%3d0%26pl%3d\nStretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.\nCredit:\nSCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/481108/view\nCommon causes of stretch marks\nStretch marks are often caused by sudden growth or weight gain.\nYou may be more likely to get them if you:\nare pregnant\nare going through puberty\nlose or gain weight quickly\nare female\nare overweight\nuse some kinds of\nsteroid creams or tablets\nhave a family member with stretch marks\nRarely, stretch marks can be due to a condition called\nCushing's syndrome\n.\nInformation:\nFind out more about stretch marks in pregnancy\nWhat to do about stretch marks\nStretch marks usually fade over time but may not disappear completely.\nMany creams and lotions claim to prevent, reduce or remove stretch marks. But there's very little evidence these work.\nThere are some treatments that may help make stretch marks look better, but they will not get rid of them.\nThey include:\nretinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby\nlight or laser treatments\nmicrodermabrasion, which removes a thin layer of skin\nYou would need to pay for these treatments as they're not available on the NHS.\nInformation:\nIt's not always possible to prevent stretch marks. The best way to reduce your chance of getting them is by maintaining a healthy weight.\nNon-urgent advice:\nSee a GP if:\nYou have large stretch marks and:\nmore fat on your chest and tummy, but slim arms and legs\na build-up of fat on the back of your neck and shoulders\na red, puffy, rounded face\nThese could be symptoms of\nCushing's syndrome\n.\nPage last reviewed: 30 April 2024\nNext review due: 30 April 2027",
+  "links": [
+    {
+      "text": "steroid creams or tablets",
+      "url": "https://www.nhs.uk/medicines/steroids/"
+    },
+    {
+      "text": "Cushing's syndrome",
+      "url": "https://www.nhs.uk/conditions/cushings-syndrome/"
+    },
+    {
+      "text": "Find out more about stretch marks in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/stretch-marks/"
+    },
+    {
+      "text": "Cushing's syndrome",
+      "url": "https://www.nhs.uk/conditions/cushings-syndrome/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-320.jpg",
+      "alt": "Purple streaks on white skin, covering the lower tummy. Each streak is about 1cm wide and several centimetres long.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-320.jpg",
+      "alt": "Dark, shiny streaks on brown skin, covering the upper arm. Each streak is about 1cm wide and several centimetres long.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Signs of stretch marks</h2>\n<p data-block-key=\"yo0zt\">Stretch marks look like lines or streaks across the skin.</p>\n<figure class=\"nhsuk-image\">\n<img alt=\"Purple streaks on white skin, covering the lower tummy. Each streak is about 1cm wide and several centimetres long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_ULb.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_0119_stretch_mark_white_skin_abdo_F6XPNA_UL.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Stretch marks can be pink, red, brown, black, silver or purple. They usually start off darker and fade over time.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"aa47t\">Michael Heim / Alamy Stock Photo https://www.alamy.com/stock-photo-woman-displaying-stretch-marks-on-her-abdomen-after-pregnancy-caused-90328374.html?pv=1&amp;stamp=2&amp;imageid=8CD2F7A0-4F23-46C7-B795-6746E63CD78D&amp;p=278143&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbyPopular%26npgs%3d0%26qt%3dF6XPNA%26qt_raw%3dF6XPNA%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d32846%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d1%26ispremium%3d1%26flip%3d0%26pl%3d</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"Dark, shiny streaks on brown skin, covering the upper arm. Each streak is about 1cm wide and several centimetres long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_0120_Skin_Striae-C0145893_copy.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Stretch marks are most common on the tummy, breasts, chest, upper arms, legs, bottom, hips or back.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"atul1\">SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/481108/view</p>\n</div>\n</figure>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of stretch marks</h2>\n<p data-block-key=\"htyuu\">Stretch marks are often caused by sudden growth or weight gain.</p><p data-block-key=\"araj7\">You may be more likely to get them if you:</p><ul><li data-block-key=\"3y5as\">are pregnant</li><li data-block-key=\"26wqq\">are going through puberty</li><li data-block-key=\"xetrv\">lose or gain weight quickly</li><li data-block-key=\"ycadu\">are female</li><li data-block-key=\"pya5e\">are overweight</li><li data-block-key=\"xybt5\">use some kinds of <a href=\"/medicines/steroids/\">steroid creams or tablets</a></li><li data-block-key=\"85viv\">have a family member with stretch marks</li></ul><p data-block-key=\"88gg9\">Rarely, stretch marks can be due to a condition called <a href=\"/conditions/cushings-syndrome/\">Cushing's syndrome</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"d0s7s\"><a href=\"/pregnancy/common-symptoms/stretch-marks/\">Find out more about stretch marks in pregnancy</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">What to do about stretch marks</h2>\n<p data-block-key=\"tych5\">Stretch marks usually fade over time but may not disappear completely.</p><p data-block-key=\"3glkq\">Many creams and lotions claim to prevent, reduce or remove stretch marks. But there's very little evidence these work.</p><p data-block-key=\"cji9p\">There are some treatments that may help make stretch marks look better, but they will not get rid of them.</p><p data-block-key=\"6p3r5\">They include:</p><ul><li data-block-key=\"1l95f\">retinoid (often called tretinoin) creams or hyaluronic acid – these may help if used on new stretch marks, but you should not use retinoid creams if you're pregnant as they may harm your baby</li><li data-block-key=\"ftg1d\">light or laser treatments</li><li data-block-key=\"dq2ne\">microdermabrasion, which removes a thin layer of skin</li></ul><p data-block-key=\"948j1\">You would need to pay for these treatments as they're not available on the NHS.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"d0s7s\">It's not always possible to prevent stretch marks. The best way to reduce your chance of getting them is by maintaining a healthy weight.</p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"wej2e\">You have large stretch marks and:</p><ul><li data-block-key=\"f03uo\">more fat on your chest and tummy, but slim arms and legs</li><li data-block-key=\"ihtgf\">a build-up of fat on the back of your neck and shoulders</li><li data-block-key=\"bjw46\">a red, puffy, rounded face</li></ul><p data-block-key=\"oerv9\">These could be symptoms of <a href=\"/conditions/cushings-syndrome/\">Cushing's syndrome</a>.</p>\n</div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 30 April 2024<br/>\n    Next review due: 30 April 2027\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

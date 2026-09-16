@@ -1,0 +1,658 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+  "final_url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:20.754896+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Acid reflux, see Heartburn and acid reflux",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "G",
+      "label": "Gastro-oesophageal reflux disease (GORD), see Heartburn and acid reflux",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "H",
+      "label": "Heartburn and acid reflux",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Heartburn and acid reflux",
+  "meta_description": "Find out more about heartburn, a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be gastro-oesophageal reflux disease (GORD).",
+  "review_dates": {
+    "page_last_reviewed": "20 November 2023",
+    "next_review_due": "20 November 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out more about heartburn, a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be gastro-oesophageal reflux disease (GORD)."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nHeartburn and acid reflux\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out more about heartburn, a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be gastro-oesophageal reflux disease (GORD)."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "17 Aug 2026, 4 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 12:10 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Gastro-oesophageal reflux disease (GORD)",
+          "Acid reflux"
+        ],
+        "name": "Heartburn and acid reflux"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Heartburn and acid reflux"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-17T15:00:55+00:00",
+      "description": "Find out more about heartburn, a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be gastro-oesophageal reflux disease (GORD).",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptoms of acid reflux are a burning feeling in the middle of your chest (heartburn) and an unpleasant sour taste in your mouth.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The main symptoms of acid reflux are:</p><ul><li>heartburn – a burning sensation in the middle of your chest</li><li>an unpleasant sour taste in your mouth, caused by stomach acid</li></ul><p>You may also have:</p><ul><li>a cough or hiccups that keep coming back</li><li>a hoarse voice</li><li>bad breath</li><li>bloating and feeling sick</li></ul><p>Symptoms are often worse after eating, when lying down and when bending over.</p>"
+            }
+          ],
+          "headline": "Symptoms of acid reflux",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "The cause of heartburn and acid reflux is not always clear, but things like spicy food, smoking or being overweight can make it worse.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Lots of people get heartburn from time to time. There's often no obvious reason why.</p><p>Sometimes it's caused or made worse by:</p><ul><li>certain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods</li><li>being overweight</li><li>smoking</li><li>pregnancy - find out more about <a href=\"/pregnancy/common-symptoms/indigestion-and-heartburn/\">indigestion and heartburn in pregnancy</a></li><li>stress and anxiety</li><li>an increase in some types of hormones, such as progesterone and oestrogen</li><li>some medicines, such as anti-inflammatory painkillers (like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>)</li><li>a <a href=\"/conditions/hiatus-hernia/\">hiatus hernia</a> – when part of your stomach moves up into your chest</li><li>a <a href=\"/conditions/stomach-ulcer/\">stomach ulcer</a></li><li>a bacterial infection in your stomach</li></ul>"
+            }
+          ],
+          "headline": "Causes of heartburn and acid reflux",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can ease heartburn and acid reflux by making lifestyle changes, such as eating smaller meals, losing weight and not eating before going to bed.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Simple lifestyle changes can help stop or reduce heartburn.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>eat smaller, more frequent meals</p></li><li><p>try to lose weight if you're overweight</p></li><li><p>try to find ways to relax</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not have food or drink that triggers your symptoms</p></li><li><p>do not eat within 3 or 4 hours before bed</p></li><li><p>do not wear clothes that are tight around your waist</p></li><li><p>do not smoke</p></li><li><p>do not drink too much alcohol</p></li><li><p>do not stop taking any prescribed medicine without speaking to a doctor first</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may find that using wood, bricks or books to raise the head of your bed by around 10 to 20cm, so your chest and head are above your waist, helps relieve symptoms. This can help stop stomach acid travelling up towards your throat.</p><p>But do not try to achieve the same effect by using additional pillows, as this can increase pressure on your belly and make your symptoms worse.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with heartburn and acid reflux",
+              "text": "<p>Speak to a pharmacist for advice if you keep getting heartburn.</p><p>They may recommend medicines called <a href=\"/medicines/antacids/\">antacids</a> or alginates that can help ease your symptoms.</p><p>It's best to take these with food or soon after eating, as this is when you're most likely to get heartburn. They may also work for longer if taken with food.</p><p>Although antacids and alginates help symptoms in the short term, they will not cure the problem and should not be taken regularly for long periods.</p><p>If you're pregnant, a pharmacist can advise you about medicines you can take.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+              }
+            }
+          ],
+          "headline": "How you can ease heartburn and acid reflux yourself",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  lifestyle changes and pharmacy medicines are not helping your heartburn\n </li>\n<li>\n  you have heartburn most days\n </li>\n<li>\n  you also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason\n </li>\n</ul>\n<p>\n A GP can provide alternative or stronger treatments and help rule out any more serious causes of your symptoms.\n</p>\n<p>\n If at any time you feel your symptoms are getting worse, contact a GP, go to\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  111.nhs.uk\n </a>\n or call 111.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main treatments for heartburn and acid reflux are medicines that reduce how much acid your stomach makes. Rarely, surgery is needed.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have acid reflux, a GP may prescribe a medicine called a proton pump inhibitor (PPI) that reduces how much acid your stomach makes.</p><p>PPIs include:</p><ul><li><a href=\"/medicines/omeprazole/\">omeprazole</a></li><li><a href=\"/medicines/lansoprazole/\">lansoprazole</a></li></ul><p>You'll usually need to take this type of medicine for 4 or 8 weeks, depending on how serious your acid reflux is.</p><p>Go back to the GP if your symptoms return after stopping your medicine. You may need a long-term prescription.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>If a PPI does not help, your doctor may suggest trying a different type of medicine called an H2 receptor antagonist, such as famotidine.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Tests and treatments for severe heartburn and acid reflux",
+              "text": "<p>If medicines do not help or your symptoms are severe, a GP may refer you to a specialist for:</p><ul><li>tests to find out what's causing your symptoms, such as a <a href=\"/tests-and-treatments/gastroscopy/\">gastroscopy</a> (where a thin tube with a camera inside it is passed down your throat and into your stomach)</li><li>tests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs</li><li>surgery on your stomach or food pipe (oesophagus) to stop acid reflux</li></ul>"
+            }
+          ],
+          "headline": "Treatment for heartburn and acid reflux from a GP",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Heartburn is a burning feeling in the chest. It’s caused by stomach acid travelling up towards the throat (acid reflux).",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Heartburn and acid reflux",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heartburn and acid reflux",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heartburn and acid reflux",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Heartburn and acid reflux",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptoms of acid reflux are a burning feeling in the middle of your chest (heartburn) and an unpleasant sour taste in your mouth.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The cause of heartburn and acid reflux is not always clear, but things like spicy food, smoking or being overweight can make it worse.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can ease heartburn and acid reflux by making lifestyle changes, such as eating smaller meals, losing weight and not eating before going to bed.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main treatments for heartburn and acid reflux are medicines that reduce how much acid your stomach makes. Rarely, surgery is needed.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-11-20T01:00:00+00:00",
+        "2026-11-20T01:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Heartburn and acid reflux",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Heartburn and acid reflux",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be called gastro-oesophageal reflux disease (GORD).",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"wnob2\"><b>Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be called gastro-oesophageal reflux disease (GORD).</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of acid reflux",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of acid reflux"
+        }
+      ],
+      "text": "Symptoms of acid reflux\nThe main symptoms of acid reflux are:\nheartburn – a burning sensation in the middle of your chest\nan unpleasant sour taste in your mouth, caused by stomach acid\nYou may also have:\na cough or hiccups that keep coming back\na hoarse voice\nbad breath\nbloating and feeling sick\nSymptoms are often worse after eating, when lying down and when bending over.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "heartburn – a burning sensation in the middle of your chest",
+            "an unpleasant sour taste in your mouth, caused by stomach acid"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "a cough or hiccups that keep coming back",
+            "a hoarse voice",
+            "bad breath",
+            "bloating and feeling sick"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of acid reflux</h2>\n<p data-block-key=\"x1ulg\">The main symptoms of acid reflux are:</p><ul><li data-block-key=\"y63l6\">heartburn – a burning sensation in the middle of your chest</li><li data-block-key=\"aco19\">an unpleasant sour taste in your mouth, caused by stomach acid</li></ul><p data-block-key=\"zzn4r\">You may also have:</p><ul><li data-block-key=\"vuys8\">a cough or hiccups that keep coming back</li><li data-block-key=\"03j0z\">a hoarse voice</li><li data-block-key=\"pynh3\">bad breath</li><li data-block-key=\"mq8wy\">bloating and feeling sick</li></ul><p data-block-key=\"03g5d\">Symptoms are often worse after eating, when lying down and when bending over.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Causes of heartburn and acid reflux",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of heartburn and acid reflux"
+        }
+      ],
+      "text": "Causes of heartburn and acid reflux\nLots of people get heartburn from time to time. There's often no obvious reason why.\nSometimes it's caused or made worse by:\ncertain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods\nbeing overweight\nsmoking\npregnancy - find out more about\nindigestion and heartburn in pregnancy\nstress and anxiety\nan increase in some types of hormones, such as progesterone and oestrogen\nsome medicines, such as anti-inflammatory painkillers (like\nibuprofen\n)\na\nhiatus hernia\n– when part of your stomach moves up into your chest\na\nstomach ulcer\na bacterial infection in your stomach",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "certain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods",
+            "being overweight",
+            "smoking",
+            "pregnancy - find out more about\nindigestion and heartburn in pregnancy",
+            "stress and anxiety",
+            "an increase in some types of hormones, such as progesterone and oestrogen",
+            "some medicines, such as anti-inflammatory painkillers (like\nibuprofen\n)",
+            "a\nhiatus hernia\n– when part of your stomach moves up into your chest",
+            "a\nstomach ulcer",
+            "a bacterial infection in your stomach"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "indigestion and heartburn in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/indigestion-and-heartburn/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "hiatus hernia",
+          "url": "https://www.nhs.uk/conditions/hiatus-hernia/"
+        },
+        {
+          "text": "stomach ulcer",
+          "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of heartburn and acid reflux</h2>\n<p data-block-key=\"pfk09\">Lots of people get heartburn from time to time. There's often no obvious reason why.</p><p data-block-key=\"dru7f\">Sometimes it's caused or made worse by:</p><ul><li data-block-key=\"frt8v\">certain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods</li><li data-block-key=\"286qo\">being overweight</li><li data-block-key=\"1q4gb\">smoking</li><li data-block-key=\"4rkqm\">pregnancy - find out more about <a href=\"/pregnancy/common-symptoms/indigestion-and-heartburn/\">indigestion and heartburn in pregnancy</a></li><li data-block-key=\"1okn2\">stress and anxiety</li><li data-block-key=\"fk6r3\">an increase in some types of hormones, such as progesterone and oestrogen</li><li data-block-key=\"3j63\">some medicines, such as anti-inflammatory painkillers (like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>)</li><li data-block-key=\"7eean\">a <a href=\"/conditions/hiatus-hernia/\">hiatus hernia</a> – when part of your stomach moves up into your chest</li><li data-block-key=\"5tn2i\">a <a href=\"/conditions/stomach-ulcer/\">stomach ulcer</a></li><li data-block-key=\"8ir07\">a bacterial infection in your stomach</li></ul>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "How you can ease heartburn and acid reflux yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease heartburn and acid reflux yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with heartburn and acid reflux"
+        }
+      ],
+      "text": "How you can ease heartburn and acid reflux yourself\nSimple lifestyle changes can help stop or reduce heartburn.\nDo\neat smaller, more frequent meals\ntry to lose weight if you're overweight\ntry to find ways to relax\nDon’t\ndo not have food or drink that triggers your symptoms\ndo not eat within 3 or 4 hours before bed\ndo not wear clothes that are tight around your waist\ndo not smoke\ndo not drink too much alcohol\ndo not stop taking any prescribed medicine without speaking to a doctor first\nYou may find that using wood, bricks or books to raise the head of your bed by around 10 to 20cm, so your chest and head are above your waist, helps relieve symptoms. This can help stop stomach acid travelling up towards your throat.\nBut do not try to achieve the same effect by using additional pillows, as this can increase pressure on your belly and make your symptoms worse.\nA pharmacist can help with heartburn and acid reflux\nSpeak to a pharmacist for advice if you keep getting heartburn.\nThey may recommend medicines called\nantacids\nor alginates that can help ease your symptoms.\nIt's best to take these with food or soon after eating, as this is when you're most likely to get heartburn. They may also work for longer if taken with food.\nAlthough antacids and alginates help symptoms in the short term, they will not cure the problem and should not be taken regularly for long periods.\nIf you're pregnant, a pharmacist can advise you about medicines you can take.\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "eat smaller, more frequent meals",
+            "try to lose weight if you're overweight",
+            "try to find ways to relax"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not have food or drink that triggers your symptoms",
+            "do not eat within 3 or 4 hours before bed",
+            "do not wear clothes that are tight around your waist",
+            "do not smoke",
+            "do not drink too much alcohol",
+            "do not stop taking any prescribed medicine without speaking to a doctor first"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "antacids",
+          "url": "https://www.nhs.uk/medicines/antacids/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease heartburn and acid reflux yourself</h2>\n<p data-block-key=\"bil62\">Simple lifestyle changes can help stop or reduce heartburn.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ctho2\">eat smaller, more frequent meals</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vsl2s\">try to lose weight if you're overweight</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ffhg1\">try to find ways to relax</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8wsbr\">do not have food or drink that triggers your symptoms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fz814\">do not eat within 3 or 4 hours before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fwter\">do not wear clothes that are tight around your waist</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"7afot\">do not smoke</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9zi5u\">do not drink too much alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"kfdwb\">do not stop taking any prescribed medicine without speaking to a doctor first</p>\n</li>\n</ul>\n</div>\n<p data-block-key=\"6idzu\">You may find that using wood, bricks or books to raise the head of your bed by around 10 to 20cm, so your chest and head are above your waist, helps relieve symptoms. This can help stop stomach acid travelling up towards your throat.</p><p data-block-key=\"1qlo2\">But do not try to achieve the same effect by using additional pillows, as this can increase pressure on your belly and make your symptoms worse.</p>\n<h3 data-block-key=\"c8ihm\">A pharmacist can help with heartburn and acid reflux</h3><p data-block-key=\"9qt9l\">Speak to a pharmacist for advice if you keep getting heartburn.</p><p data-block-key=\"bf5b4\">They may recommend medicines called <a href=\"/medicines/antacids/\">antacids</a> or alginates that can help ease your symptoms.</p><p data-block-key=\"df1lf\">It's best to take these with food or soon after eating, as this is when you're most likely to get heartburn. They may also work for longer if taken with food.</p><p data-block-key=\"5cn2m\">Although antacids and alginates help symptoms in the short term, they will not cure the problem and should not be taken regularly for long periods.</p><p data-block-key=\"8baq5\">If you're pregnant, a pharmacist can advise you about medicines you can take.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nlifestyle changes and pharmacy medicines are not helping your heartburn\nyou have heartburn most days\nyou also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason\nA GP can provide alternative or stronger treatments and help rule out any more serious causes of your symptoms.\nIf at any time you feel your symptoms are getting worse, contact a GP, go to\n111.nhs.uk\nor call 111.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "lifestyle changes and pharmacy medicines are not helping your heartburn",
+            "you have heartburn most days",
+            "you also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "111.nhs.uk",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yejgf\">lifestyle changes and pharmacy medicines are not helping your heartburn</li><li data-block-key=\"m8hs9\">you have heartburn most days</li><li data-block-key=\"utlmf\">you also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason</li></ul><p data-block-key=\"ov33s\">A GP can provide alternative or stronger treatments and help rule out any more serious causes of your symptoms.</p><p data-block-key=\"60qu7\">If at any time you feel your symptoms are getting worse, contact a GP, go to <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">111.nhs.uk</a> or call 111.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatment for heartburn and acid reflux from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for heartburn and acid reflux from a GP"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        },
+        {
+          "level": "h3",
+          "text": "Tests and treatments for severe heartburn and acid reflux"
+        }
+      ],
+      "text": "Treatment for heartburn and acid reflux from a GP\nIf you have acid reflux, a GP may prescribe a medicine called a proton pump inhibitor (PPI) that reduces how much acid your stomach makes.\nPPIs include:\nomeprazole\nlansoprazole\nYou'll usually need to take this type of medicine for 4 or 8 weeks, depending on how serious your acid reflux is.\nGo back to the GP if your symptoms return after stopping your medicine. You may need a long-term prescription.\nImportant\nIf a PPI does not help, your doctor may suggest trying a different type of medicine called an H2 receptor antagonist, such as famotidine.\nTests and treatments for severe heartburn and acid reflux\nIf medicines do not help or your symptoms are severe, a GP may refer you to a specialist for:\ntests to find out what's causing your symptoms, such as a\ngastroscopy\n(where a thin tube with a camera inside it is passed down your throat and into your stomach)\ntests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs\nsurgery on your stomach or food pipe (oesophagus) to stop acid reflux",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "omeprazole",
+            "lansoprazole"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "tests to find out what's causing your symptoms, such as a\ngastroscopy\n(where a thin tube with a camera inside it is passed down your throat and into your stomach)",
+            "tests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs",
+            "surgery on your stomach or food pipe (oesophagus) to stop acid reflux"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "omeprazole",
+          "url": "https://www.nhs.uk/medicines/omeprazole/"
+        },
+        {
+          "text": "lansoprazole",
+          "url": "https://www.nhs.uk/medicines/lansoprazole/"
+        },
+        {
+          "text": "gastroscopy",
+          "url": "https://www.nhs.uk/tests-and-treatments/gastroscopy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for heartburn and acid reflux from a GP</h2>\n<p data-block-key=\"1j9w7\">If you have acid reflux, a GP may prescribe a medicine called a proton pump inhibitor (PPI) that reduces how much acid your stomach makes.</p><p data-block-key=\"e1501\">PPIs include:</p><ul><li data-block-key=\"4axqq\"><a href=\"/medicines/omeprazole/\">omeprazole</a></li><li data-block-key=\"2jljr\"><a href=\"/medicines/lansoprazole/\">lansoprazole</a></li></ul><p data-block-key=\"wy1iu\">You'll usually need to take this type of medicine for 4 or 8 weeks, depending on how serious your acid reflux is.</p><p data-block-key=\"7m2fk\">Go back to the GP if your symptoms return after stopping your medicine. You may need a long-term prescription.</p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"36ldb\">If a PPI does not help, your doctor may suggest trying a different type of medicine called an H2 receptor antagonist, such as famotidine.</p>\n</div>\n</div>\n<h3 data-block-key=\"u7l04\">Tests and treatments for severe heartburn and acid reflux</h3><p data-block-key=\"8r4as\">If medicines do not help or your symptoms are severe, a GP may refer you to a specialist for:</p><ul><li data-block-key=\"65m41\">tests to find out what's causing your symptoms, such as a <a href=\"/tests-and-treatments/gastroscopy/\">gastroscopy</a> (where a thin tube with a camera inside it is passed down your throat and into your stomach)</li><li data-block-key=\"becm7\">tests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs</li><li data-block-key=\"f9uu8\">surgery on your stomach or food pipe (oesophagus) to stop acid reflux</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be called gastro-oesophageal reflux disease (GORD).\nSymptoms of acid reflux\nThe main symptoms of acid reflux are:\nheartburn – a burning sensation in the middle of your chest\nan unpleasant sour taste in your mouth, caused by stomach acid\nYou may also have:\na cough or hiccups that keep coming back\na hoarse voice\nbad breath\nbloating and feeling sick\nSymptoms are often worse after eating, when lying down and when bending over.\nCauses of heartburn and acid reflux\nLots of people get heartburn from time to time. There's often no obvious reason why.\nSometimes it's caused or made worse by:\ncertain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods\nbeing overweight\nsmoking\npregnancy - find out more about\nindigestion and heartburn in pregnancy\nstress and anxiety\nan increase in some types of hormones, such as progesterone and oestrogen\nsome medicines, such as anti-inflammatory painkillers (like\nibuprofen\n)\na\nhiatus hernia\n– when part of your stomach moves up into your chest\na\nstomach ulcer\na bacterial infection in your stomach\nHow you can ease heartburn and acid reflux yourself\nSimple lifestyle changes can help stop or reduce heartburn.\nDo\neat smaller, more frequent meals\ntry to lose weight if you're overweight\ntry to find ways to relax\nDon’t\ndo not have food or drink that triggers your symptoms\ndo not eat within 3 or 4 hours before bed\ndo not wear clothes that are tight around your waist\ndo not smoke\ndo not drink too much alcohol\ndo not stop taking any prescribed medicine without speaking to a doctor first\nYou may find that using wood, bricks or books to raise the head of your bed by around 10 to 20cm, so your chest and head are above your waist, helps relieve symptoms. This can help stop stomach acid travelling up towards your throat.\nBut do not try to achieve the same effect by using additional pillows, as this can increase pressure on your belly and make your symptoms worse.\nA pharmacist can help with heartburn and acid reflux\nSpeak to a pharmacist for advice if you keep getting heartburn.\nThey may recommend medicines called\nantacids\nor alginates that can help ease your symptoms.\nIt's best to take these with food or soon after eating, as this is when you're most likely to get heartburn. They may also work for longer if taken with food.\nAlthough antacids and alginates help symptoms in the short term, they will not cure the problem and should not be taken regularly for long periods.\nIf you're pregnant, a pharmacist can advise you about medicines you can take.\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nlifestyle changes and pharmacy medicines are not helping your heartburn\nyou have heartburn most days\nyou also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason\nA GP can provide alternative or stronger treatments and help rule out any more serious causes of your symptoms.\nIf at any time you feel your symptoms are getting worse, contact a GP, go to\n111.nhs.uk\nor call 111.\nTreatment for heartburn and acid reflux from a GP\nIf you have acid reflux, a GP may prescribe a medicine called a proton pump inhibitor (PPI) that reduces how much acid your stomach makes.\nPPIs include:\nomeprazole\nlansoprazole\nYou'll usually need to take this type of medicine for 4 or 8 weeks, depending on how serious your acid reflux is.\nGo back to the GP if your symptoms return after stopping your medicine. You may need a long-term prescription.\nImportant\nIf a PPI does not help, your doctor may suggest trying a different type of medicine called an H2 receptor antagonist, such as famotidine.\nTests and treatments for severe heartburn and acid reflux\nIf medicines do not help or your symptoms are severe, a GP may refer you to a specialist for:\ntests to find out what's causing your symptoms, such as a\ngastroscopy\n(where a thin tube with a camera inside it is passed down your throat and into your stomach)\ntests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs\nsurgery on your stomach or food pipe (oesophagus) to stop acid reflux\nPage last reviewed: 20 November 2023\nNext review due: 20 November 2026",
+  "links": [
+    {
+      "text": "indigestion and heartburn in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/indigestion-and-heartburn/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "hiatus hernia",
+      "url": "https://www.nhs.uk/conditions/hiatus-hernia/"
+    },
+    {
+      "text": "stomach ulcer",
+      "url": "https://www.nhs.uk/conditions/stomach-ulcer/"
+    },
+    {
+      "text": "antacids",
+      "url": "https://www.nhs.uk/medicines/antacids/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+    },
+    {
+      "text": "111.nhs.uk",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "omeprazole",
+      "url": "https://www.nhs.uk/medicines/omeprazole/"
+    },
+    {
+      "text": "lansoprazole",
+      "url": "https://www.nhs.uk/medicines/lansoprazole/"
+    },
+    {
+      "text": "gastroscopy",
+      "url": "https://www.nhs.uk/tests-and-treatments/gastroscopy/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"wnob2\"><b>Heartburn is a burning feeling in the chest caused by stomach acid travelling up towards the throat (acid reflux). If it keeps happening, it may be called gastro-oesophageal reflux disease (GORD).</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of acid reflux</h2>\n<p data-block-key=\"x1ulg\">The main symptoms of acid reflux are:</p><ul><li data-block-key=\"y63l6\">heartburn – a burning sensation in the middle of your chest</li><li data-block-key=\"aco19\">an unpleasant sour taste in your mouth, caused by stomach acid</li></ul><p data-block-key=\"zzn4r\">You may also have:</p><ul><li data-block-key=\"vuys8\">a cough or hiccups that keep coming back</li><li data-block-key=\"03j0z\">a hoarse voice</li><li data-block-key=\"pynh3\">bad breath</li><li data-block-key=\"mq8wy\">bloating and feeling sick</li></ul><p data-block-key=\"03g5d\">Symptoms are often worse after eating, when lying down and when bending over.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of heartburn and acid reflux</h2>\n<p data-block-key=\"pfk09\">Lots of people get heartburn from time to time. There's often no obvious reason why.</p><p data-block-key=\"dru7f\">Sometimes it's caused or made worse by:</p><ul><li data-block-key=\"frt8v\">certain food and drink – such as coffee, tomatoes, alcohol, chocolate and fatty or spicy foods</li><li data-block-key=\"286qo\">being overweight</li><li data-block-key=\"1q4gb\">smoking</li><li data-block-key=\"4rkqm\">pregnancy - find out more about <a href=\"/pregnancy/common-symptoms/indigestion-and-heartburn/\">indigestion and heartburn in pregnancy</a></li><li data-block-key=\"1okn2\">stress and anxiety</li><li data-block-key=\"fk6r3\">an increase in some types of hormones, such as progesterone and oestrogen</li><li data-block-key=\"3j63\">some medicines, such as anti-inflammatory painkillers (like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a>)</li><li data-block-key=\"7eean\">a <a href=\"/conditions/hiatus-hernia/\">hiatus hernia</a> – when part of your stomach moves up into your chest</li><li data-block-key=\"5tn2i\">a <a href=\"/conditions/stomach-ulcer/\">stomach ulcer</a></li><li data-block-key=\"8ir07\">a bacterial infection in your stomach</li></ul>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease heartburn and acid reflux yourself</h2>\n<p data-block-key=\"bil62\">Simple lifestyle changes can help stop or reduce heartburn.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ctho2\">eat smaller, more frequent meals</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vsl2s\">try to lose weight if you're overweight</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ffhg1\">try to find ways to relax</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8wsbr\">do not have food or drink that triggers your symptoms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fz814\">do not eat within 3 or 4 hours before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"fwter\">do not wear clothes that are tight around your waist</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"7afot\">do not smoke</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"9zi5u\">do not drink too much alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"kfdwb\">do not stop taking any prescribed medicine without speaking to a doctor first</p>\n</li>\n</ul>\n</div>\n<p data-block-key=\"6idzu\">You may find that using wood, bricks or books to raise the head of your bed by around 10 to 20cm, so your chest and head are above your waist, helps relieve symptoms. This can help stop stomach acid travelling up towards your throat.</p><p data-block-key=\"1qlo2\">But do not try to achieve the same effect by using additional pillows, as this can increase pressure on your belly and make your symptoms worse.</p>\n<h3 data-block-key=\"c8ihm\">A pharmacist can help with heartburn and acid reflux</h3><p data-block-key=\"9qt9l\">Speak to a pharmacist for advice if you keep getting heartburn.</p><p data-block-key=\"bf5b4\">They may recommend medicines called <a href=\"/medicines/antacids/\">antacids</a> or alginates that can help ease your symptoms.</p><p data-block-key=\"df1lf\">It's best to take these with food or soon after eating, as this is when you're most likely to get heartburn. They may also work for longer if taken with food.</p><p data-block-key=\"5cn2m\">Although antacids and alginates help symptoms in the short term, they will not cure the problem and should not be taken regularly for long periods.</p><p data-block-key=\"8baq5\">If you're pregnant, a pharmacist can advise you about medicines you can take.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"yejgf\">lifestyle changes and pharmacy medicines are not helping your heartburn</li><li data-block-key=\"m8hs9\">you have heartburn most days</li><li data-block-key=\"utlmf\">you also have other symptoms, like food getting stuck in your throat, frequently being sick, or losing weight for no reason</li></ul><p data-block-key=\"ov33s\">A GP can provide alternative or stronger treatments and help rule out any more serious causes of your symptoms.</p><p data-block-key=\"60qu7\">If at any time you feel your symptoms are getting worse, contact a GP, go to <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">111.nhs.uk</a> or call 111.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for heartburn and acid reflux from a GP</h2>\n<p data-block-key=\"1j9w7\">If you have acid reflux, a GP may prescribe a medicine called a proton pump inhibitor (PPI) that reduces how much acid your stomach makes.</p><p data-block-key=\"e1501\">PPIs include:</p><ul><li data-block-key=\"4axqq\"><a href=\"/medicines/omeprazole/\">omeprazole</a></li><li data-block-key=\"2jljr\"><a href=\"/medicines/lansoprazole/\">lansoprazole</a></li></ul><p data-block-key=\"wy1iu\">You'll usually need to take this type of medicine for 4 or 8 weeks, depending on how serious your acid reflux is.</p><p data-block-key=\"7m2fk\">Go back to the GP if your symptoms return after stopping your medicine. You may need a long-term prescription.</p>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"36ldb\">If a PPI does not help, your doctor may suggest trying a different type of medicine called an H2 receptor antagonist, such as famotidine.</p>\n</div>\n</div>\n<h3 data-block-key=\"u7l04\">Tests and treatments for severe heartburn and acid reflux</h3><p data-block-key=\"8r4as\">If medicines do not help or your symptoms are severe, a GP may refer you to a specialist for:</p><ul><li data-block-key=\"65m41\">tests to find out what's causing your symptoms, such as a <a href=\"/tests-and-treatments/gastroscopy/\">gastroscopy</a> (where a thin tube with a camera inside it is passed down your throat and into your stomach)</li><li data-block-key=\"becm7\">tests to check for bacteria that can cause heartburn – this can be treated with a combination of antibiotics and PPIs</li><li data-block-key=\"f9uu8\">surgery on your stomach or food pipe (oesophagus) to stop acid reflux</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 20 November 2023<br/>\n    Next review due: 20 November 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

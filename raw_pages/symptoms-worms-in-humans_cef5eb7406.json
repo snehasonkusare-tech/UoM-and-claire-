@@ -1,0 +1,566 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+  "final_url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:58.175936+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hookworm, see Worms in humans",
+      "url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "R",
+      "label": "Roundworm, see Worms in humans",
+      "url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "T",
+      "label": "Tapeworm, see Worms in humans",
+      "url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "W",
+      "label": "Worms in humans",
+      "url": "https://www.nhs.uk/symptoms/worms-in-humans/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Worms in humans",
+  "meta_description": "Find out about worm infections in humans, including what different types of worms look like, when to get medical help, and how to treat and prevent infections.",
+  "review_dates": {
+    "page_last_reviewed": "20 November 2023",
+    "next_review_due": "20 November 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about worm infections in humans, including what different types of worms look like, when to get medical help, and how to treat and prevent infections."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/worms-in-humans/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nWorms in humans\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about worm infections in humans, including what different types of worms look like, when to get medical help, and how to treat and prevent infections."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "11 Apr 2025, 5:37 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Dec 2017, 4:26 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Roundworm",
+          "Hookworm",
+          "Tapeworm"
+        ],
+        "name": "Worms in humans"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/worms-in-humans/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Worms in humans"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-11T16:37:51+00:00",
+      "description": "Find out about worm infections in humans, including what different types of worms look like, when to get medical help, and how to treat and prevent infections.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "A pharmacist can help if you have small, white worms called threadworms. They're common in the UK and can be treated with medicine from a pharmacy.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A pharmacist can help if you have:</p><ul><li>small, white worms in your poo that look like pieces of thread</li><li>extreme itching around your anus, particularly at night</li></ul><p>This is probably <a href=\"/conditions/threadworms/\">threadworms</a>.</p><p>They're common in the UK and can be treated with medicine from a pharmacy.</p>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "A pharmacist can help with worm infections",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if you:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  find a large worm, a piece of worm or worm eggs in your poo\n </li>\n<li>\n  have a red, itchy worm-shaped rash on your skin\n </li>\n<li>\n  have sickness, diarrhoea or a stomach ache for longer than 2 weeks\n </li>\n<li>\n  are losing weight for no reason\n </li>\n</ul>\n<p>\n These could be symptoms of something like roundworm, hookworm or tapeworm.\n</p>\n<p>\n These infections are usually caught while travelling. They can take a long time to cause symptoms, so tell the GP if you have been abroad in the last 2 years.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Worm infections are treated with medicine that you take for 1 to 3 days. The people you live with may also need to be treated.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>It does not matter which type of worm you have – all worm infections are treated in a similar way.</p><p>You might be asked to provide a sample of poo so it can be tested for worm eggs.</p><p>If you have worms, a GP will prescribe medicine to kill them. You take this for 1 to 3 days. The people you live with may also need to be treated.</p><p>Any worms in your gut will eventually pass out in your poo. You may not notice this.</p><p>To avoid becoming infected again or infecting others, it's very important during the weeks after starting treatment to wash your hands:</p><ul><li>after going to the toilet</li><li>before eating or preparing food</li><li>regularly during the day</li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>Go back to the GP if your symptoms do not get better in 2 weeks or you keep passing live worms in your poo.</p>"
+            }
+          ],
+          "headline": "Treatment to get rid of worms",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can get a worm infection by touching objects or surfaces with worm eggs on them, or swallowing water or food containing worm eggs.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Worms are mainly spread in small bits of poo from people with a worm infection. Some are caught from food.</p><p>You can get infected by:</p><ul><li>touching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands</li><li>touching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems</li><li>walking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems</li><li>eating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards</li></ul><p>You can catch some worms from pets, but this is rare.</p>"
+            }
+          ],
+          "headline": "How you catch worms",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To prevent worm infections, wash your hands before preparing food or eating, and after going to the toilet. Drink bottled water in high-risk areas.",
+          "hasHealthAspect": "http://schema.org/PreventionHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are some things you can do to help prevent worm infections.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>wash your hands before eating or preparing food, and after touching soil or using the toilet</p></li><li><p>only drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)</p></li><li><p>thoroughly wash garden-grown fruit and vegetables</p></li><li><p>deworm pet dogs and cats regularly</p></li><li><p>dispose of dog and cat poo in a bin as soon as possible</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not let children play in areas where there's dog or cat poo</p></li><li><p>do not eat raw fruit and vegetables in high-risk areas</p></li><li><p>do not walk barefoot in high-risk areas</p></li><li><p>do not eat raw or undercooked pork, beef or freshwater fish</p></li></ul>"
+            }
+          ],
+          "headline": "How to prevent worm infections",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#prevention"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Some worm infections can be caught in the UK and others are only caught abroad. Most worm infections are not serious and can be treated with medicine.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Worms in humans",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Worms in humans",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Worms in humans",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Worms in humans",
+              "text": "Prevention"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-11-20T00:00:00+00:00",
+        "2026-11-20T09:24:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Worms in humans",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Worms in humans",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/worms-in-humans/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/worms-in-humans/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Some types of worms can infect people. Some can be caught in the UK and others are only caught abroad. Most worm infections are not serious and can be easily treated with medicine.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"x9had\"><b>Some types of worms can infect people. Some can be caught in the UK and others are only caught abroad. Most worm infections are not serious and can be easily treated with medicine.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "A pharmacist can help with worm infections",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with worm infections"
+        }
+      ],
+      "text": "A pharmacist can help with worm infections\nA pharmacist can help if you have:\nsmall, white worms in your poo that look like pieces of thread\nextreme itching around your anus, particularly at night\nThis is probably\nthreadworms\n.\nThey're common in the UK and can be treated with medicine from a pharmacy.\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "small, white worms in your poo that look like pieces of thread",
+            "extreme itching around your anus, particularly at night"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "threadworms",
+          "url": "https://www.nhs.uk/conditions/threadworms/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">A pharmacist can help with worm infections</h2>\n<p data-block-key=\"c5rvb\">A pharmacist can help if you have:</p><ul><li data-block-key=\"9bi1s\">small, white worms in your poo that look like pieces of thread</li><li data-block-key=\"9ic62\">extreme itching around your anus, particularly at night</li></ul><p data-block-key=\"ju93l\">This is probably <a href=\"/conditions/threadworms/\">threadworms</a>.</p><p data-block-key=\"hibfs\">They're common in the UK and can be treated with medicine from a pharmacy.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if you:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if you:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if you:\nfind a large worm, a piece of worm or worm eggs in your poo\nhave a red, itchy worm-shaped rash on your skin\nhave sickness, diarrhoea or a stomach ache for longer than 2 weeks\nare losing weight for no reason\nThese could be symptoms of something like roundworm, hookworm or tapeworm.\nThese infections are usually caught while travelling. They can take a long time to cause symptoms, so tell the GP if you have been abroad in the last 2 years.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "find a large worm, a piece of worm or worm eggs in your poo",
+            "have a red, itchy worm-shaped rash on your skin",
+            "have sickness, diarrhoea or a stomach ache for longer than 2 weeks",
+            "are losing weight for no reason"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"txuxa\">find a large worm, a piece of worm or worm eggs in your poo</li><li data-block-key=\"6rib2\">have a red, itchy worm-shaped rash on your skin</li><li data-block-key=\"appmd\">have sickness, diarrhoea or a stomach ache for longer than 2 weeks</li><li data-block-key=\"2je4t\">are losing weight for no reason</li></ul><p data-block-key=\"c3qf8\">These could be symptoms of something like roundworm, hookworm or tapeworm.</p><p data-block-key=\"f65q4\">These infections are usually caught while travelling. They can take a long time to cause symptoms, so tell the GP if you have been abroad in the last 2 years.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "See what different worms look like\nThreadworms look like tiny pieces of white cotton.\nCredit:\nVaio1488 https://creativecommons.org/licenses/by/3.0/deed.en\nRoundworms look more like earthworms.\nCredit:\nCLOUDS HILL IMAGING LTD/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/366515/view\nHookworms can cause a red worm-shaped rash. The twisted shape of the worm is raised and easy to see.\nCredit:\nADAM HART-DAVIS/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/757999/view\nTapeworms are long, pale yellow and flat.\nCredit:\nPaulo Oliveira / Alamy Stock Photo https://www.alamy.com/stock-photo-tapeworm-taenia-solium-portugal-115386554.html?pv=1&stamp=2&imageid=83E1F10E-6F9A-4708-9A48-E9F11713A7AA&p=332878&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DGKM8MA%26qt_raw%3DGKM8MA%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D788068%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See what different worms look like\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<figure class=\"nhsuk-image\">\n<img alt=\"A piece of brown poo on a paper towel. There are 2 small and narrow white worms in it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Threadworms look like tiny pieces of white cotton.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"kjy2q\">Vaio1488 https://creativecommons.org/licenses/by/3.0/deed.en</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A large, light brown roundworm is lying curled on a person's gloved hand. It is approximately 20cm long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Roundworms look more like earthworms.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"faykz\">CLOUDS HILL IMAGING LTD/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/366515/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A large, dark pink hookworm underneath a person's skin.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Hookworms can cause a red worm-shaped rash. The twisted shape of the worm is raised and easy to see.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"yd0wj\">ADAM HART-DAVIS/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/757999/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A flat, pale yellow tapeworm is lying in loops on a dark background. The body of the tapeworm is made up of narrow ridged sections.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Tapeworms are long, pale yellow and flat.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"cgcxs\">Paulo Oliveira / Alamy Stock Photo https://www.alamy.com/stock-photo-tapeworm-taenia-solium-portugal-115386554.html?pv=1&amp;stamp=2&amp;imageid=83E1F10E-6F9A-4708-9A48-E9F11713A7AA&amp;p=332878&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DGKM8MA%26qt_raw%3DGKM8MA%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D788068%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n</figure>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment to get rid of worms",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment to get rid of worms"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Treatment to get rid of worms\nIt does not matter which type of worm you have – all worm infections are treated in a similar way.\nYou might be asked to provide a sample of poo so it can be tested for worm eggs.\nIf you have worms, a GP will prescribe medicine to kill them. You take this for 1 to 3 days. The people you live with may also need to be treated.\nAny worms in your gut will eventually pass out in your poo. You may not notice this.\nTo avoid becoming infected again or infecting others, it's very important during the weeks after starting treatment to wash your hands:\nafter going to the toilet\nbefore eating or preparing food\nregularly during the day\nImportant\nGo back to the GP if your symptoms do not get better in 2 weeks or you keep passing live worms in your poo.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "after going to the toilet",
+            "before eating or preparing food",
+            "regularly during the day"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment to get rid of worms</h2>\n<p data-block-key=\"8qyk1\">It does not matter which type of worm you have – all worm infections are treated in a similar way.</p><p data-block-key=\"ex80e\">You might be asked to provide a sample of poo so it can be tested for worm eggs.</p><p data-block-key=\"jbsqh\">If you have worms, a GP will prescribe medicine to kill them. You take this for 1 to 3 days. The people you live with may also need to be treated.</p><p data-block-key=\"ebcpy\">Any worms in your gut will eventually pass out in your poo. You may not notice this.</p><p data-block-key=\"dpfu3\">To avoid becoming infected again or infecting others, it's very important during the weeks after starting treatment to wash your hands:</p><ul><li data-block-key=\"s5q03\">after going to the toilet</li><li data-block-key=\"2uf6f\">before eating or preparing food</li><li data-block-key=\"jr157\">regularly during the day</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"b4dsm\">Go back to the GP if your symptoms do not get better in 2 weeks or you keep passing live worms in your poo.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "How you catch worms",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you catch worms"
+        }
+      ],
+      "text": "How you catch worms\nWorms are mainly spread in small bits of poo from people with a worm infection. Some are caught from food.\nYou can get infected by:\ntouching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands\ntouching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems\nwalking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems\neating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards\nYou can catch some worms from pets, but this is rare.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "touching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands",
+            "touching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems",
+            "walking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems",
+            "eating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">How you catch worms</h2>\n<p data-block-key=\"wkogh\">Worms are mainly spread in small bits of poo from people with a worm infection. Some are caught from food.</p><p data-block-key=\"ydc6s\">You can get infected by:</p><ul><li data-block-key=\"coith\">touching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands</li><li data-block-key=\"2wj3d\">touching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems</li><li data-block-key=\"7o5kz\">walking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems</li><li data-block-key=\"6wvwm\">eating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards</li></ul><p data-block-key=\"zbxim\">You can catch some worms from pets, but this is rare.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "How to prevent worm infections",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to prevent worm infections"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How to prevent worm infections\nThere are some things you can do to help prevent worm infections.\nDo\nwash your hands before eating or preparing food, and after touching soil or using the toilet\nonly drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)\nthoroughly wash garden-grown fruit and vegetables\ndeworm pet dogs and cats regularly\ndispose of dog and cat poo in a bin as soon as possible\nDon’t\ndo not let children play in areas where there's dog or cat poo\ndo not eat raw fruit and vegetables in high-risk areas\ndo not walk barefoot in high-risk areas\ndo not eat raw or undercooked pork, beef or freshwater fish",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "wash your hands before eating or preparing food, and after touching soil or using the toilet",
+            "only drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)",
+            "thoroughly wash garden-grown fruit and vegetables",
+            "deworm pet dogs and cats regularly",
+            "dispose of dog and cat poo in a bin as soon as possible"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not let children play in areas where there's dog or cat poo",
+            "do not eat raw fruit and vegetables in high-risk areas",
+            "do not walk barefoot in high-risk areas",
+            "do not eat raw or undercooked pork, beef or freshwater fish"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"prevention\">How to prevent worm infections</h2>\n<p data-block-key=\"vnwcy\">There are some things you can do to help prevent worm infections.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bjav9\">wash your hands before eating or preparing food, and after touching soil or using the toilet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"tdi4i\">only drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lqury\">thoroughly wash garden-grown fruit and vegetables</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"tyeih\">deworm pet dogs and cats regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4slg3\">dispose of dog and cat poo in a bin as soon as possible</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"w5tcg\">do not let children play in areas where there's dog or cat poo</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"tla6o\">do not eat raw fruit and vegetables in high-risk areas</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"e1k9a\">do not walk barefoot in high-risk areas</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"p0pjk\">do not eat raw or undercooked pork, beef or freshwater fish</p>\n</li>\n</ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Some types of worms can infect people. Some can be caught in the UK and others are only caught abroad. Most worm infections are not serious and can be easily treated with medicine.\nA pharmacist can help with worm infections\nA pharmacist can help if you have:\nsmall, white worms in your poo that look like pieces of thread\nextreme itching around your anus, particularly at night\nThis is probably\nthreadworms\n.\nThey're common in the UK and can be treated with medicine from a pharmacy.\nFind a pharmacy\nNon-urgent advice:\nSee a GP if you:\nfind a large worm, a piece of worm or worm eggs in your poo\nhave a red, itchy worm-shaped rash on your skin\nhave sickness, diarrhoea or a stomach ache for longer than 2 weeks\nare losing weight for no reason\nThese could be symptoms of something like roundworm, hookworm or tapeworm.\nThese infections are usually caught while travelling. They can take a long time to cause symptoms, so tell the GP if you have been abroad in the last 2 years.\nSee what different worms look like\nThreadworms look like tiny pieces of white cotton.\nCredit:\nVaio1488 https://creativecommons.org/licenses/by/3.0/deed.en\nRoundworms look more like earthworms.\nCredit:\nCLOUDS HILL IMAGING LTD/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/366515/view\nHookworms can cause a red worm-shaped rash. The twisted shape of the worm is raised and easy to see.\nCredit:\nADAM HART-DAVIS/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/757999/view\nTapeworms are long, pale yellow and flat.\nCredit:\nPaulo Oliveira / Alamy Stock Photo https://www.alamy.com/stock-photo-tapeworm-taenia-solium-portugal-115386554.html?pv=1&stamp=2&imageid=83E1F10E-6F9A-4708-9A48-E9F11713A7AA&p=332878&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DGKM8MA%26qt_raw%3DGKM8MA%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D788068%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D\nTreatment to get rid of worms\nIt does not matter which type of worm you have – all worm infections are treated in a similar way.\nYou might be asked to provide a sample of poo so it can be tested for worm eggs.\nIf you have worms, a GP will prescribe medicine to kill them. You take this for 1 to 3 days. The people you live with may also need to be treated.\nAny worms in your gut will eventually pass out in your poo. You may not notice this.\nTo avoid becoming infected again or infecting others, it's very important during the weeks after starting treatment to wash your hands:\nafter going to the toilet\nbefore eating or preparing food\nregularly during the day\nImportant\nGo back to the GP if your symptoms do not get better in 2 weeks or you keep passing live worms in your poo.\nHow you catch worms\nWorms are mainly spread in small bits of poo from people with a worm infection. Some are caught from food.\nYou can get infected by:\ntouching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands\ntouching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems\nwalking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems\neating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards\nYou can catch some worms from pets, but this is rare.\nHow to prevent worm infections\nThere are some things you can do to help prevent worm infections.\nDo\nwash your hands before eating or preparing food, and after touching soil or using the toilet\nonly drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)\nthoroughly wash garden-grown fruit and vegetables\ndeworm pet dogs and cats regularly\ndispose of dog and cat poo in a bin as soon as possible\nDon’t\ndo not let children play in areas where there's dog or cat poo\ndo not eat raw fruit and vegetables in high-risk areas\ndo not walk barefoot in high-risk areas\ndo not eat raw or undercooked pork, beef or freshwater fish\nPage last reviewed: 20 November 2023\nNext review due: 20 November 2026",
+  "links": [
+    {
+      "text": "threadworms",
+      "url": "https://www.nhs.uk/conditions/threadworms/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-320.jpg",
+      "alt": "A piece of brown poo on a paper towel. There are 2 small and narrow white worms in it.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-320.jpg",
+      "alt": "A large, light brown roundworm is lying curled on a person's gloved hand. It is approximately 20cm long.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-320.jpg",
+      "alt": "A large, dark pink hookworm underneath a person's skin.",
+      "title": ""
+    },
+    {
+      "src": "https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-320.jpg",
+      "alt": "A flat, pale yellow tapeworm is lying in loops on a dark background. The body of the tapeworm is made up of narrow ridged sections.",
+      "title": ""
+    }
+  ],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"x9had\"><b>Some types of worms can infect people. Some can be caught in the UK and others are only caught abroad. Most worm infections are not serious and can be easily treated with medicine.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">A pharmacist can help with worm infections</h2>\n<p data-block-key=\"c5rvb\">A pharmacist can help if you have:</p><ul><li data-block-key=\"9bi1s\">small, white worms in your poo that look like pieces of thread</li><li data-block-key=\"9ic62\">extreme itching around your anus, particularly at night</li></ul><p data-block-key=\"ju93l\">This is probably <a href=\"/conditions/threadworms/\">threadworms</a>.</p><p data-block-key=\"hibfs\">They're common in the UK and can be treated with medicine from a pharmacy.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"txuxa\">find a large worm, a piece of worm or worm eggs in your poo</li><li data-block-key=\"6rib2\">have a red, itchy worm-shaped rash on your skin</li><li data-block-key=\"appmd\">have sickness, diarrhoea or a stomach ache for longer than 2 weeks</li><li data-block-key=\"2je4t\">are losing weight for no reason</li></ul><p data-block-key=\"c3qf8\">These could be symptoms of something like roundworm, hookworm or tapeworm.</p><p data-block-key=\"f65q4\">These infections are usually caught while travelling. They can take a long time to cause symptoms, so tell the GP if you have been abroad in the last 2 years.</p>\n</div>\n</div>\n</section>\n<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    See what different worms look like\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<figure class=\"nhsuk-image\">\n<img alt=\"A piece of brown poo on a paper towel. There are 2 small and narrow white worms in it.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/Threadworms.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Threadworms look like tiny pieces of white cotton.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"kjy2q\">Vaio1488 https://creativecommons.org/licenses/by/3.0/deed.en</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A large, light brown roundworm is lying curled on a person's gloved hand. It is approximately 20cm long.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_roundworm_Z1800263_mWHW1AW.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Roundworms look more like earthworms.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"faykz\">CLOUDS HILL IMAGING LTD/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/366515/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A large, dark pink hookworm underneath a person's skin.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/S_1017_hookworm_C0298985.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Hookworms can cause a red worm-shaped rash. The twisted shape of the worm is raised and easy to see.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"yd0wj\">ADAM HART-DAVIS/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/757999/view</p>\n</div>\n</figure>\n<figure class=\"nhsuk-image\">\n<img alt=\"A flat, pale yellow tapeworm is lying in loops on a dark background. The body of the tapeworm is made up of narrow ridged sections.\" class=\"nhsuk-image__img\" sizes=\"\n      (min-width: 1020px) 320px\n      (min-width: 768px) 50vw\n      100vw\n    \" src=\"https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-320.jpg\" srcset=\"\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-320.jpg 320w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-510.jpg 510w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-640.jpg 640w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-767.jpg 767w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1019.jpg 1019w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1125.jpg 1125w,\n      https://assets.nhs.uk/nhsuk-cms/images/A_1017_tapeworm_GKM8MA.original.width-1534.jpg 1534w,\n    \"/>\n<figcaption class=\"nhsuk-image__caption\">\n    Tapeworms are long, pale yellow and flat.\n  </figcaption>\n<div aria-hidden=\"true\" class=\"nhsuk-u-visually-hidden\">\n    Credit: <p data-block-key=\"cgcxs\">Paulo Oliveira / Alamy Stock Photo https://www.alamy.com/stock-photo-tapeworm-taenia-solium-portugal-115386554.html?pv=1&amp;stamp=2&amp;imageid=83E1F10E-6F9A-4708-9A48-E9F11713A7AA&amp;p=332878&amp;n=0&amp;orientation=0&amp;pn=1&amp;searchtype=0&amp;IsFromSearch=1&amp;srch=foo%3Dbar%26st%3D0%26sortby%3D2%26qt%3DGKM8MA%26qt_raw%3DGKM8MA%26qn%3D%26lic%3D3%26edrf%3D0%26mr%3D0%26pr%3D0%26aoa%3D1%26creative%3D%26videos%3D%26nu%3D%26ccc%3D%26bespoke%3D%26apalib%3D%26ag%3D0%26hc%3D0%26et%3D0x000000000000000000000%26vp%3D0%26loc%3D0%26ot%3D0%26imgt%3D0%26dtfr%3D%26dtto%3D%26size%3D0xFF%26blackwhite%3D%26cutout%3D%26archive%3D1%26name%3D%26groupid%3D%26pseudoid%3D788068%26userid%3D%26id%3D%26a%3D%26xstx%3D0%26cbstore%3D1%26resultview%3DsortbyPopular%26lightbox%3D%26gname%3D%26gtype%3D%26apalic%3D%26tbar%3D1%26pc%3D%26simid%3D%26cap%3D1%26customgeoip%3D%26vd%3D0%26cid%3D%26pe%3D%26so%3D%26lb%3D%26pl%3D0%26plno%3D%26fi%3D0%26langcode%3Den%26upl%3D0%26cufr%3D%26cuto%3D%26howler%3D%26cvrem%3D0%26cvtype%3D0%26cvloc%3D0%26cl%3D0%26upfr%3D%26upto%3D%26primcat%3D%26seccat%3D%26cvcategory%3D*%26restriction%3D%26random%3D%26ispremium%3D1%26flip%3D0%26contributorqt%3D%26plgalleryno%3D%26plpublic%3D0%26viewaspublic%3D0%26isplcurate%3D0%26imageurl%3D%26saveQry%3D%26editorial%3D1%26t%3D0%26edoptin%3D</p>\n</div>\n</figure>\n</div>\n</details>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment to get rid of worms</h2>\n<p data-block-key=\"8qyk1\">It does not matter which type of worm you have – all worm infections are treated in a similar way.</p><p data-block-key=\"ex80e\">You might be asked to provide a sample of poo so it can be tested for worm eggs.</p><p data-block-key=\"jbsqh\">If you have worms, a GP will prescribe medicine to kill them. You take this for 1 to 3 days. The people you live with may also need to be treated.</p><p data-block-key=\"ebcpy\">Any worms in your gut will eventually pass out in your poo. You may not notice this.</p><p data-block-key=\"dpfu3\">To avoid becoming infected again or infecting others, it's very important during the weeks after starting treatment to wash your hands:</p><ul><li data-block-key=\"s5q03\">after going to the toilet</li><li data-block-key=\"2uf6f\">before eating or preparing food</li><li data-block-key=\"jr157\">regularly during the day</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"b4dsm\">Go back to the GP if your symptoms do not get better in 2 weeks or you keep passing live worms in your poo.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">How you catch worms</h2>\n<p data-block-key=\"wkogh\">Worms are mainly spread in small bits of poo from people with a worm infection. Some are caught from food.</p><p data-block-key=\"ydc6s\">You can get infected by:</p><ul><li data-block-key=\"coith\">touching objects or surfaces with worm eggs on them – if someone with worms does not wash their hands</li><li data-block-key=\"2wj3d\">touching soil or swallowing water or food with worm eggs in it – mainly a risk in parts of the world without modern toilets or sewage systems</li><li data-block-key=\"7o5kz\">walking barefoot on soil containing worms – only a risk in parts of the world without modern toilets or sewage systems</li><li data-block-key=\"6wvwm\">eating raw or undercooked beef, pork or freshwater fish (like salmon or trout) containing baby worms – more common in parts of the world with poor food hygiene standards</li></ul><p data-block-key=\"zbxim\">You can catch some worms from pets, but this is rare.</p>\n</section>\n<section>\n<h2 id=\"prevention\">How to prevent worm infections</h2>\n<p data-block-key=\"vnwcy\">There are some things you can do to help prevent worm infections.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"bjav9\">wash your hands before eating or preparing food, and after touching soil or using the toilet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"tdi4i\">only drink bottled or boiled water in high-risk areas (places without modern toilets or sewage systems)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"lqury\">thoroughly wash garden-grown fruit and vegetables</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"tyeih\">deworm pet dogs and cats regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"4slg3\">dispose of dog and cat poo in a bin as soon as possible</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"w5tcg\">do not let children play in areas where there's dog or cat poo</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"tla6o\">do not eat raw fruit and vegetables in high-risk areas</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"e1k9a\">do not walk barefoot in high-risk areas</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"p0pjk\">do not eat raw or undercooked pork, beef or freshwater fish</p>\n</li>\n</ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 20 November 2023<br/>\n    Next review due: 20 November 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

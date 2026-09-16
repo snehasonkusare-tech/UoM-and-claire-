@@ -1,0 +1,539 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/irregular-periods/",
+  "final_url": "https://www.nhs.uk/symptoms/irregular-periods/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:03.663213+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "I",
+      "label": "Irregular periods",
+      "url": "https://www.nhs.uk/symptoms/irregular-periods/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "P",
+      "label": "Periods (irregular), see Irregular periods",
+      "url": "https://www.nhs.uk/symptoms/irregular-periods/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Irregular periods",
+  "meta_description": "Find out how to check if your periods are irregular, what can cause irregular periods, when to see a GP and how irregular periods can be treated.",
+  "review_dates": {
+    "page_last_reviewed": "26 June 2026",
+    "next_review_due": "26 June 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to check if your periods are irregular, what can cause irregular periods, when to see a GP and how irregular periods can be treated."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/irregular-periods/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nIrregular periods\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to check if your periods are irregular, what can cause irregular periods, when to see a GP and how irregular periods can be treated."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "6 Jul 2026, 12:33 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "24 Oct 2017, 4:29 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Periods (irregular)"
+        ],
+        "name": "Irregular periods"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/irregular-periods/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Irregular periods"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-06T11:33:31+00:00",
+      "description": "Find out how to check if your periods are irregular, what can cause irregular periods, when to see a GP and how irregular periods can be treated.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Your periods are irregular if you have them more often than every 21 days or less often than every 35 days.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The average gap between periods starting (the menstrual cycle) is around 28 days. It can sometimes be a bit shorter or longer.</p><p>A woman's periods are irregular if the gap between them is less than 21 days or more than 35 days.</p><p>Irregular periods can affect anyone who has periods.</p><p>It's more likely for your periods to be irregular when they first start during puberty and when you're nearing menopause.</p><h3>Keeping track of your periods</h3><p>Using an app or a diary to keep track of your periods can help you see if they're irregular.</p><p>Day 1 of your menstrual cycle is the first day of your period. The last day of your cycle is the day before your next period.</p>"
+            }
+          ],
+          "headline": "What are irregular periods?",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Causes of irregular periods include puberty, the start of menopause, pregnancy and some types of hormonal contraception.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Common causes of irregular periods include:</p><ul><li>puberty, when you start your periods</li><li>the start of <a href=\"/conditions/menopause/\">menopause</a> (usually between the ages of 45 and 55)</li><li>pregnancy – a <a href=\"/symptoms/missed-or-late-periods/\">missed period</a> is often an early sign of pregnancy</li><li>hormonal contraception like the <a href=\"/contraception/methods-of-contraception/progestogen-only-pill/\">progestogen-only pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> and <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a></li><li>losing or gaining a lot of weight</li><li>stress and anxiety</li><li>exercising too much</li></ul><p>Sometimes, conditions like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> (which used to be called polycystic ovary syndrome PCOS) or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">thyroid problems</a>, can cause irregular periods.</p>"
+            }
+          ],
+          "headline": "Causes of irregular periods",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your periods are irregular\n </li>\n<li>\n  your periods last longer than 7 days\n </li>\n<li>\n  you have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin\n </li>\n<li>\n  you have bleeding between periods\n </li>\n<li>\n  your periods are irregular and you're struggling to get pregnant\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment is not always needed for irregular periods. If treatment is needed, it will depend on the cause.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment is not always needed for irregular periods.</p><p>The GP may refer you to a specialist if you need tests to find out what's causing your irregular periods. If treatment is needed it will depend on the cause.</p><p>For example, if a condition like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> is causing irregular periods, the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined pill</a> may help make your periods more regular.</p><p>If irregular periods are caused by other hormone problems, such as thyroid problems, medicines can help treat it.</p>"
+            }
+          ],
+          "headline": "Treatments for irregular periods",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Irregular periods are not usually a sign of a problem. But speak to a GP if your periods are irregular or your normal pattern of periods change.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Irregular periods",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Irregular periods",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Irregular periods",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Your periods are irregular if you have them more often than every 21 days or less often than every 35 days.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Causes of irregular periods include puberty, the start of menopause, pregnancy and some types of hormonal contraception.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment is not always needed for irregular periods. If treatment is needed, it will depend on the cause.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-06-26T00:00:00+00:00",
+        "2029-06-26T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Irregular periods",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Irregular periods",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/irregular-periods/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/irregular-periods/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "What are irregular periods?",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What are irregular periods?"
+        },
+        {
+          "level": "h3",
+          "text": "Keeping track of your periods"
+        }
+      ],
+      "text": "What are irregular periods?\nThe average gap between periods starting (the menstrual cycle) is around 28 days. It can sometimes be a bit shorter or longer.\nA woman's periods are irregular if the gap between them is less than 21 days or more than 35 days.\nIrregular periods can affect anyone who has periods.\nIt's more likely for your periods to be irregular when they first start during puberty and when you're nearing menopause.\nKeeping track of your periods\nUsing an app or a diary to keep track of your periods can help you see if they're irregular.\nDay 1 of your menstrual cycle is the first day of your period. The last day of your cycle is the day before your next period.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">What are irregular periods?</h2>\n<p data-block-key=\"97fz5\">The average gap between periods starting (the menstrual cycle) is around 28 days. It can sometimes be a bit shorter or longer.</p><p data-block-key=\"1e25p\">A woman's periods are irregular if the gap between them is less than 21 days or more than 35 days.</p><p data-block-key=\"8u4j6\">Irregular periods can affect anyone who has periods.</p><p data-block-key=\"fd9uk\">It's more likely for your periods to be irregular when they first start during puberty and when you're nearing menopause.</p><h3 data-block-key=\"7r81v\">Keeping track of your periods</h3><p data-block-key=\"7m09b\">Using an app or a diary to keep track of your periods can help you see if they're irregular.</p><p data-block-key=\"83ftn\">Day 1 of your menstrual cycle is the first day of your period. The last day of your cycle is the day before your next period.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of irregular periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of irregular periods"
+        }
+      ],
+      "text": "Causes of irregular periods\nCommon causes of irregular periods include:\npuberty, when you start your periods\nthe start of\nmenopause\n(usually between the ages of 45 and 55)\npregnancy – a\nmissed period\nis often an early sign of pregnancy\nhormonal contraception like the\nprogestogen-only pill\n,\ncontraceptive injection\nand\nintrauterine system (IUS)\nlosing or gaining a lot of weight\nstress and anxiety\nexercising too much\nSometimes, conditions like\npolyendocrine metabolic ovarian syndrome (PMOS)\n(which used to be called polycystic ovary syndrome PCOS) or\nthyroid problems\n, can cause irregular periods.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "puberty, when you start your periods",
+            "the start of\nmenopause\n(usually between the ages of 45 and 55)",
+            "pregnancy – a\nmissed period\nis often an early sign of pregnancy",
+            "hormonal contraception like the\nprogestogen-only pill\n,\ncontraceptive injection\nand\nintrauterine system (IUS)",
+            "losing or gaining a lot of weight",
+            "stress and anxiety",
+            "exercising too much"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        },
+        {
+          "text": "missed period",
+          "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+        },
+        {
+          "text": "progestogen-only pill",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/"
+        },
+        {
+          "text": "contraceptive injection",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/"
+        },
+        {
+          "text": "intrauterine system (IUS)",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+        },
+        {
+          "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+          "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+        },
+        {
+          "text": "thyroid problems",
+          "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of irregular periods</h2>\n<p data-block-key=\"1oe04\">Common causes of irregular periods include:</p><ul><li data-block-key=\"bhfeb\">puberty, when you start your periods</li><li data-block-key=\"1niuo\">the start of <a href=\"/conditions/menopause/\">menopause</a> (usually between the ages of 45 and 55)</li><li data-block-key=\"ck36m\">pregnancy – a <a href=\"/symptoms/missed-or-late-periods/\">missed period</a> is often an early sign of pregnancy</li><li data-block-key=\"2pe7r\">hormonal contraception like the <a href=\"/contraception/methods-of-contraception/progestogen-only-pill/\">progestogen-only pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> and <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a></li><li data-block-key=\"fc72m\">losing or gaining a lot of weight</li><li data-block-key=\"a749i\">stress and anxiety</li><li data-block-key=\"fmasp\">exercising too much</li></ul><p data-block-key=\"c8fot\">Sometimes, conditions like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> (which used to be called polycystic ovary syndrome PCOS) or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">thyroid problems</a>, can cause irregular periods.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour periods are irregular\nyour periods last longer than 7 days\nyou have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin\nyou have bleeding between periods\nyour periods are irregular and you're struggling to get pregnant",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your periods are irregular",
+            "your periods last longer than 7 days",
+            "you have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin",
+            "you have bleeding between periods",
+            "your periods are irregular and you're struggling to get pregnant"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"hi58y\">your periods are irregular</li><li data-block-key=\"c8ivi\">your periods last longer than 7 days</li><li data-block-key=\"45fb2\">you have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin</li><li data-block-key=\"erjvd\">you have bleeding between periods</li><li data-block-key=\"6ioja\">your periods are irregular and you're struggling to get pregnant</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatments for irregular periods",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for irregular periods"
+        }
+      ],
+      "text": "Treatments for irregular periods\nTreatment is not always needed for irregular periods.\nThe GP may refer you to a specialist if you need tests to find out what's causing your irregular periods. If treatment is needed it will depend on the cause.\nFor example, if a condition like\npolyendocrine metabolic ovarian syndrome (PMOS)\nis causing irregular periods, the\ncombined pill\nmay help make your periods more regular.\nIf irregular periods are caused by other hormone problems, such as thyroid problems, medicines can help treat it.",
+      "lists": [],
+      "links": [
+        {
+          "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+          "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+        },
+        {
+          "text": "combined pill",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for irregular periods</h2>\n<p data-block-key=\"rkdzw\">Treatment is not always needed for irregular periods.</p><p data-block-key=\"bcdcv\">The GP may refer you to a specialist if you need tests to find out what's causing your irregular periods. If treatment is needed it will depend on the cause.</p><p data-block-key=\"dg3mp\">For example, if a condition like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> is causing irregular periods, the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined pill</a> may help make your periods more regular.</p><p data-block-key=\"kke1\">If irregular periods are caused by other hormone problems, such as thyroid problems, medicines can help treat it.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Trying for a baby",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Trying for a baby"
+        }
+      ],
+      "text": "Trying for a baby\nGetting pregnant can be more difficult if you have irregular periods because you might not release an egg (ovulate) regularly.\nIt can help to have sex every 2 or 3 days throughout your cycle without using contraception.\nIf you're struggling to get pregnant, you may be referred for further tests. Hormone medicine or fertility treatment may be recommended.\nRead more about trying to get pregnant",
+      "lists": [],
+      "links": [
+        {
+          "text": "Read more about trying to get pregnant",
+          "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
+        }
+      ],
+      "html": "<section>\n<h2>Trying for a baby</h2>\n<p data-block-key=\"q8cc3\">Getting pregnant can be more difficult if you have irregular periods because you might not release an egg (ovulate) regularly.</p><p data-block-key=\"6oqpr\">It can help to have sex every 2 or 3 days throughout your cycle without using contraception.</p><p data-block-key=\"6b51f\">If you're struggling to get pregnant, you may be referred for further tests. Hormone medicine or fertility treatment may be recommended.</p><p data-block-key=\"bt1kv\"><a href=\"/pregnancy/trying-for-a-baby/trying-to-get-pregnant/\">Read more about trying to get pregnant</a></p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Find out more",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Find out more"
+        }
+      ],
+      "text": "Information:\nFind out more\nWellbeing of Women: periods information hub",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Wellbeing of Women: periods information hub"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Wellbeing of Women: periods information hub",
+          "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"ca36c\">Find out more</h2><ul><li data-block-key=\"60vo0\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "What are irregular periods?\nThe average gap between periods starting (the menstrual cycle) is around 28 days. It can sometimes be a bit shorter or longer.\nA woman's periods are irregular if the gap between them is less than 21 days or more than 35 days.\nIrregular periods can affect anyone who has periods.\nIt's more likely for your periods to be irregular when they first start during puberty and when you're nearing menopause.\nKeeping track of your periods\nUsing an app or a diary to keep track of your periods can help you see if they're irregular.\nDay 1 of your menstrual cycle is the first day of your period. The last day of your cycle is the day before your next period.\nCauses of irregular periods\nCommon causes of irregular periods include:\npuberty, when you start your periods\nthe start of\nmenopause\n(usually between the ages of 45 and 55)\npregnancy – a\nmissed period\nis often an early sign of pregnancy\nhormonal contraception like the\nprogestogen-only pill\n,\ncontraceptive injection\nand\nintrauterine system (IUS)\nlosing or gaining a lot of weight\nstress and anxiety\nexercising too much\nSometimes, conditions like\npolyendocrine metabolic ovarian syndrome (PMOS)\n(which used to be called polycystic ovary syndrome PCOS) or\nthyroid problems\n, can cause irregular periods.\nNon-urgent advice:\nSee a GP if:\nyour periods are irregular\nyour periods last longer than 7 days\nyou have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin\nyou have bleeding between periods\nyour periods are irregular and you're struggling to get pregnant\nTreatments for irregular periods\nTreatment is not always needed for irregular periods.\nThe GP may refer you to a specialist if you need tests to find out what's causing your irregular periods. If treatment is needed it will depend on the cause.\nFor example, if a condition like\npolyendocrine metabolic ovarian syndrome (PMOS)\nis causing irregular periods, the\ncombined pill\nmay help make your periods more regular.\nIf irregular periods are caused by other hormone problems, such as thyroid problems, medicines can help treat it.\nTrying for a baby\nGetting pregnant can be more difficult if you have irregular periods because you might not release an egg (ovulate) regularly.\nIt can help to have sex every 2 or 3 days throughout your cycle without using contraception.\nIf you're struggling to get pregnant, you may be referred for further tests. Hormone medicine or fertility treatment may be recommended.\nRead more about trying to get pregnant\nInformation:\nFind out more\nWellbeing of Women: periods information hub\nPage last reviewed: 26 June 2026\nNext review due: 26 June 2029",
+  "links": [
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    },
+    {
+      "text": "missed period",
+      "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/"
+    },
+    {
+      "text": "progestogen-only pill",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/"
+    },
+    {
+      "text": "contraceptive injection",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/"
+    },
+    {
+      "text": "intrauterine system (IUS)",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/"
+    },
+    {
+      "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+      "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+    },
+    {
+      "text": "thyroid problems",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    },
+    {
+      "text": "polyendocrine metabolic ovarian syndrome (PMOS)",
+      "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/"
+    },
+    {
+      "text": "combined pill",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/"
+    },
+    {
+      "text": "Read more about trying to get pregnant",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
+    },
+    {
+      "text": "Wellbeing of Women: periods information hub",
+      "url": "https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">What are irregular periods?</h2>\n<p data-block-key=\"97fz5\">The average gap between periods starting (the menstrual cycle) is around 28 days. It can sometimes be a bit shorter or longer.</p><p data-block-key=\"1e25p\">A woman's periods are irregular if the gap between them is less than 21 days or more than 35 days.</p><p data-block-key=\"8u4j6\">Irregular periods can affect anyone who has periods.</p><p data-block-key=\"fd9uk\">It's more likely for your periods to be irregular when they first start during puberty and when you're nearing menopause.</p><h3 data-block-key=\"7r81v\">Keeping track of your periods</h3><p data-block-key=\"7m09b\">Using an app or a diary to keep track of your periods can help you see if they're irregular.</p><p data-block-key=\"83ftn\">Day 1 of your menstrual cycle is the first day of your period. The last day of your cycle is the day before your next period.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of irregular periods</h2>\n<p data-block-key=\"1oe04\">Common causes of irregular periods include:</p><ul><li data-block-key=\"bhfeb\">puberty, when you start your periods</li><li data-block-key=\"1niuo\">the start of <a href=\"/conditions/menopause/\">menopause</a> (usually between the ages of 45 and 55)</li><li data-block-key=\"ck36m\">pregnancy – a <a href=\"/symptoms/missed-or-late-periods/\">missed period</a> is often an early sign of pregnancy</li><li data-block-key=\"2pe7r\">hormonal contraception like the <a href=\"/contraception/methods-of-contraception/progestogen-only-pill/\">progestogen-only pill</a>, <a href=\"/contraception/methods-of-contraception/contraceptive-injection/\">contraceptive injection</a> and <a href=\"/contraception/methods-of-contraception/ius-hormonal-coil/\">intrauterine system (IUS)</a></li><li data-block-key=\"fc72m\">losing or gaining a lot of weight</li><li data-block-key=\"a749i\">stress and anxiety</li><li data-block-key=\"fmasp\">exercising too much</li></ul><p data-block-key=\"c8fot\">Sometimes, conditions like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> (which used to be called polycystic ovary syndrome PCOS) or <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">thyroid problems</a>, can cause irregular periods.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"hi58y\">your periods are irregular</li><li data-block-key=\"c8ivi\">your periods last longer than 7 days</li><li data-block-key=\"45fb2\">you have irregular periods and other symptoms like weight gain, tiredness, hair growth on your face, and dry or oily skin</li><li data-block-key=\"erjvd\">you have bleeding between periods</li><li data-block-key=\"6ioja\">your periods are irregular and you're struggling to get pregnant</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for irregular periods</h2>\n<p data-block-key=\"rkdzw\">Treatment is not always needed for irregular periods.</p><p data-block-key=\"bcdcv\">The GP may refer you to a specialist if you need tests to find out what's causing your irregular periods. If treatment is needed it will depend on the cause.</p><p data-block-key=\"dg3mp\">For example, if a condition like <a href=\"/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/\">polyendocrine metabolic ovarian syndrome (PMOS)</a> is causing irregular periods, the <a href=\"/contraception/methods-of-contraception/combined-pill/\">combined pill</a> may help make your periods more regular.</p><p data-block-key=\"kke1\">If irregular periods are caused by other hormone problems, such as thyroid problems, medicines can help treat it.</p>\n</section>\n<section>\n<h2>Trying for a baby</h2>\n<p data-block-key=\"q8cc3\">Getting pregnant can be more difficult if you have irregular periods because you might not release an egg (ovulate) regularly.</p><p data-block-key=\"6oqpr\">It can help to have sex every 2 or 3 days throughout your cycle without using contraception.</p><p data-block-key=\"6b51f\">If you're struggling to get pregnant, you may be referred for further tests. Hormone medicine or fertility treatment may be recommended.</p><p data-block-key=\"bt1kv\"><a href=\"/pregnancy/trying-for-a-baby/trying-to-get-pregnant/\">Read more about trying to get pregnant</a></p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"ca36c\">Find out more</h2><ul><li data-block-key=\"60vo0\"><a href=\"https://www.wellbeingofwomen.org.uk/what-we-do/campaigns/just-a-period/periods-information-hub/\">Wellbeing of Women: periods information hub</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 26 June 2026<br/>\n    Next review due: 26 June 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

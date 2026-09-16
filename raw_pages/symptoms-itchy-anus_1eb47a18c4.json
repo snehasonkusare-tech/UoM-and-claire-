@@ -1,0 +1,591 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/itchy-anus/",
+  "final_url": "https://www.nhs.uk/symptoms/itchy-anus/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:40.991628+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Anus (itchy), see Itchy bottom",
+      "url": "https://www.nhs.uk/symptoms/itchy-anus/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "I",
+      "label": "Itchy bottom",
+      "url": "https://www.nhs.uk/symptoms/itchy-anus/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Itchy bottom",
+  "meta_description": "Read about itchy bottom, which is a strong urge to scratch the skin around your anus. Find out how to ease itching and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "03 October 2023",
+    "next_review_due": "03 October 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about itchy bottom, which is a strong urge to scratch the skin around your anus. Find out how to ease itching and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/itchy-anus/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nItchy bottom\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about itchy bottom, which is a strong urge to scratch the skin around your anus. Find out how to ease itching and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:13 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 1:40 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Anus (itchy)"
+        ],
+        "name": "Itchy bottom"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/itchy-anus/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Itchy bottom"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:13:21+00:00",
+      "description": "Read about itchy bottom, which is a strong urge to scratch the skin around your anus. Find out how to ease itching and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "To ease an itchy bottom, it may help to have cool showers or baths, wash and dry your bottom (anus) after pooing and wear loose cotton underwear.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>gently wash and dry your anus after pooing and before bed</p></li><li><p>wash with water only, or use unscented soap when washing</p></li><li><p>wear loose-fitting cotton underwear</p></li><li><p>keep cool – avoid clothing and bedding that makes you overheat</p></li><li><p><a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">eat plenty of fibre</a> – such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid <a href=\"/conditions/constipation/\">constipation</a></p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool</p></li><li><p>avoid wiping or rubbing your bottom too much with wet wipes</p></li><li><p>do not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night</p></li><li><p>do not strain when you go to the toilet</p></li><li><p>do not use scented soaps, bubble bath or bath oil</p></li><li><p>do not use perfumes or powders near your anus</p></li><li><p>do not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with an itchy bottom",
+              "text": "<p>You can ask the pharmacist if they have a private area where you can speak.</p><p>They can suggest:</p><ul><li>creams and ointments you can buy to help ease itching, such as steroid creams</li><li>medicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<h4>Using steroid creams and ointments for an itchy bottom</h4><p>Do not use steroid creams or ointments for longer than 1 week because they can irritate your skin and make things worse.</p><p>Get medical advice if the itching is not going away after using a steroid cream or ointment for 1 week.</p>"
+            }
+          ],
+          "headline": "How to ease an itchy bottom yourself",
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have an itchy bottom that is not going away\n </li>\n<li>\n  the itch keeps coming back\n </li>\n<li>\n  you have pain in your bottom\n </li>\n<li>\n  you have blood in your poo, which might be dark red or black\n </li>\n<li>\n  you're bleeding or leaking liquid from your bottom\n </li>\n<li>\n  you've noticed a change in your bowel habits\n </li>\n<li>\n  you have an itchy bottom and feel itchy on other parts of your body\n </li>\n<li>\n  you notice a change around your anus that is not usual for you\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for an itchy bottom depends on the cause. A GP can prescribe medicines, creams or ointments that may help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP will try to work out the cause of your itching. They may need to check your bottom (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>).</p><p>Depending on the cause, the GP might:</p><ul><li>suggest trying things to ease it yourself</li><li>prescribe medicine, such as stronger steroid creams, or ointments</li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>Tell the GP immediately if a cream, ointment or other medicine makes the itching worse.</p>"
+            }
+          ],
+          "headline": "Treatment from a GP",
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "An itchy bottom does not always have a clear cause. Possible causes include sweating a lot in hot weather, threadworms, piles or diarrhoea.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There's not always a clear cause of an itchy bottom. If it gets better quickly, it might have been caused by something that does not need treatment, like sweating a lot in hot weather.</p><p>If it lasts longer, you might be able to get an idea of the cause from any other symptoms you have. See a GP if you're worried or if your symptoms keep coming back.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Important",
+              "text": "<p>It's unusual for an itchy bottom to be caused by something serious. But rarely, it may be a sign of conditions like diabetes or anal cancer, so it's important to get it checked by a GP.</p>"
+            }
+          ],
+          "headline": "Causes of an itchy bottom",
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "An itchy bottom is not usually a sign of anything serious. But get medical help if it does not get better in a few days.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy bottom",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy bottom",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy bottom",
+              "text": "Causes"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-10-03T00:00:00+00:00",
+        "2026-10-03T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Itchy bottom",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Itchy bottom",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/itchy-anus/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/itchy-anus/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "You can often do simple things yourself to ease an itchy bottom (anus). Get medical help if the itching does not stop.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"5lqn1\"><b>You can often do simple things yourself to ease an itchy bottom (anus). Get medical help if the itching does not stop.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How to ease an itchy bottom yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease an itchy bottom yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with an itchy bottom"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        },
+        {
+          "level": "h4",
+          "text": "Using steroid creams and ointments for an itchy bottom"
+        }
+      ],
+      "text": "How to ease an itchy bottom yourself\nDo\ngently wash and dry your anus after pooing and before bed\nwash with water only, or use unscented soap when washing\nwear loose-fitting cotton underwear\nkeep cool – avoid clothing and bedding that makes you overheat\neat plenty of fibre\n– such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid\nconstipation\nDon’t\ndo not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool\navoid wiping or rubbing your bottom too much with wet wipes\ndo not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night\ndo not strain when you go to the toilet\ndo not use scented soaps, bubble bath or bath oil\ndo not use perfumes or powders near your anus\ndo not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods\nA pharmacist can help with an itchy bottom\nYou can ask the pharmacist if they have a private area where you can speak.\nThey can suggest:\ncreams and ointments you can buy to help ease itching, such as steroid creams\nmedicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead\nFind a pharmacy\nImportant\nUsing steroid creams and ointments for an itchy bottom\nDo not use steroid creams or ointments for longer than 1 week because they can irritate your skin and make things worse.\nGet medical advice if the itching is not going away after using a steroid cream or ointment for 1 week.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "gently wash and dry your anus after pooing and before bed",
+            "wash with water only, or use unscented soap when washing",
+            "wear loose-fitting cotton underwear",
+            "keep cool – avoid clothing and bedding that makes you overheat",
+            "eat plenty of fibre\n– such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid\nconstipation"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool",
+            "avoid wiping or rubbing your bottom too much with wet wipes",
+            "do not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night",
+            "do not strain when you go to the toilet",
+            "do not use scented soaps, bubble bath or bath oil",
+            "do not use perfumes or powders near your anus",
+            "do not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "creams and ointments you can buy to help ease itching, such as steroid creams",
+            "medicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "eat plenty of fibre",
+          "url": "https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/"
+        },
+        {
+          "text": "constipation",
+          "url": "https://www.nhs.uk/conditions/constipation/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease an itchy bottom yourself</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b51zt\">gently wash and dry your anus after pooing and before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"urs31\">wash with water only, or use unscented soap when washing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"l1w96\">wear loose-fitting cotton underwear</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vv2x6\">keep cool – avoid clothing and bedding that makes you overheat</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qma2o\"><a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">eat plenty of fibre</a> – such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid <a href=\"/conditions/constipation/\">constipation</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x9hil\">do not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vtrnr\">avoid wiping or rubbing your bottom too much with wet wipes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ea6u8\">do not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"n16p0\">do not strain when you go to the toilet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5k31p\">do not use scented soaps, bubble bath or bath oil</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x9jea\">do not use perfumes or powders near your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k5ijq\">do not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"qjf96\">A pharmacist can help with an itchy bottom</h3><p data-block-key=\"fu0gb\">You can ask the pharmacist if they have a private area where you can speak.</p><p data-block-key=\"abg24\">They can suggest:</p><ul><li data-block-key=\"6iv89\">creams and ointments you can buy to help ease itching, such as steroid creams</li><li data-block-key=\"1d7tt\">medicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<h4 data-block-key=\"gze2p\">Using steroid creams and ointments for an itchy bottom</h4><p data-block-key=\"6d710\">Do not use steroid creams or ointments for longer than 1 week because they can irritate your skin and make things worse.</p><p data-block-key=\"4pd29\">Get medical advice if the itching is not going away after using a steroid cream or ointment for 1 week.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have an itchy bottom that is not going away\nthe itch keeps coming back\nyou have pain in your bottom\nyou have blood in your poo, which might be dark red or black\nyou're bleeding or leaking liquid from your bottom\nyou've noticed a change in your bowel habits\nyou have an itchy bottom and feel itchy on other parts of your body\nyou notice a change around your anus that is not usual for you",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have an itchy bottom that is not going away",
+            "the itch keeps coming back",
+            "you have pain in your bottom",
+            "you have blood in your poo, which might be dark red or black",
+            "you're bleeding or leaking liquid from your bottom",
+            "you've noticed a change in your bowel habits",
+            "you have an itchy bottom and feel itchy on other parts of your body",
+            "you notice a change around your anus that is not usual for you"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s2mlh\">you have an itchy bottom that is not going away</li><li data-block-key=\"s8pyr\">the itch keeps coming back</li><li data-block-key=\"v96a\">you have pain in your bottom</li><li data-block-key=\"1019c\">you have blood in your poo, which might be dark red or black</li><li data-block-key=\"38dg4\">you're bleeding or leaking liquid from your bottom</li><li data-block-key=\"9ev83\">you've noticed a change in your bowel habits</li><li data-block-key=\"qa25g\">you have an itchy bottom and feel itchy on other parts of your body</li><li data-block-key=\"fm5se\">you notice a change around your anus that is not usual for you</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment from a GP"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Treatment from a GP\nA GP will try to work out the cause of your itching. They may need to check your bottom (\nrectal examination\n).\nDepending on the cause, the GP might:\nsuggest trying things to ease it yourself\nprescribe medicine, such as stronger steroid creams, or ointments\nImportant\nTell the GP immediately if a cream, ointment or other medicine makes the itching worse.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "suggest trying things to ease it yourself",
+            "prescribe medicine, such as stronger steroid creams, or ointments"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "rectal examination",
+          "url": "https://www.nhs.uk/tests-and-treatments/rectal-examination/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment from a GP</h2>\n<p data-block-key=\"xuebm\">A GP will try to work out the cause of your itching. They may need to check your bottom (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>).</p><p data-block-key=\"cvpbd\">Depending on the cause, the GP might:</p><ul><li data-block-key=\"3bpri\">suggest trying things to ease it yourself</li><li data-block-key=\"b65b2\">prescribe medicine, such as stronger steroid creams, or ointments</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"tnkah\">Tell the GP immediately if a cream, ointment or other medicine makes the itching worse.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Sexual health clinics can help with an itchy bottom",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Sexual health clinics can help with an itchy bottom"
+        }
+      ],
+      "text": "Sexual health clinics can help with an itchy bottom\nYou can also go to a sexual health clinic if you think your itchy bottom might be caused by a sexually transmitted infection (STI) – for example, if you've had unprotected sex. They can provide the same treatments you would get from a GP.\nMany sexual health clinics offer a walk-in service, where you do not need an appointment.\nFind a sexual health clinic",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find a sexual health clinic",
+          "url": "https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic"
+        }
+      ],
+      "html": "<section>\n<h2>Sexual health clinics can help with an itchy bottom</h2>\n<p data-block-key=\"xuebm\">You can also go to a sexual health clinic if you think your itchy bottom might be caused by a sexually transmitted infection (STI) – for example, if you've had unprotected sex. They can provide the same treatments you would get from a GP.</p><p data-block-key=\"bpnu4\">Many sexual health clinics offer a walk-in service, where you do not need an appointment.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic</span>\n</a>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of an itchy bottom",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of an itchy bottom"
+        },
+        {
+          "level": "h3",
+          "text": "Important"
+        }
+      ],
+      "text": "Causes of an itchy bottom\nThere's not always a clear cause of an itchy bottom. If it gets better quickly, it might have been caused by something that does not need treatment, like sweating a lot in hot weather.\nIf it lasts longer, you might be able to get an idea of the cause from any other symptoms you have. See a GP if you're worried or if your symptoms keep coming back.\nItchy bottom and possible causes\nOther symptoms with itchy bottom\nPossible causes\nGets worse at night, worms in poo (they look like small pieces of thread)\nThreadworms\n, especially in children\nBright red blood when pooing\nPiles (haemorrhoids)\nPoo leaking or pooing you cannot control\nDiarrhoea or bowel incontinence\nSores, swelling or irritation\nFungal infection or a\nsexually transmitted infection (STI)\nItching elsewhere on the body\nSkin condition such as\neczema\nor\npsoriasis\nWhile using long-term medicine\nSide effects of steroid creams, antibiotics, some gels and ointments for haemorrhoids or anal fissures, and peppermint oil\nImportant\nIt's unusual for an itchy bottom to be caused by something serious. But rarely, it may be a sign of conditions like diabetes or anal cancer, so it's important to get it checked by a GP.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Threadworms",
+          "url": "https://www.nhs.uk/conditions/threadworms/"
+        },
+        {
+          "text": "Piles (haemorrhoids)",
+          "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+        },
+        {
+          "text": "sexually transmitted infection (STI)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "eczema",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+        },
+        {
+          "text": "psoriasis",
+          "url": "https://www.nhs.uk/conditions/psoriasis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of an itchy bottom</h2>\n<p data-block-key=\"exzh4\">There's not always a clear cause of an itchy bottom. If it gets better quickly, it might have been caused by something that does not need treatment, like sweating a lot in hot weather.</p><p data-block-key=\"04w3x\">If it lasts longer, you might be able to get an idea of the cause from any other symptoms you have. See a GP if you're worried or if your symptoms keep coming back.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Itchy bottom and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Other symptoms with itchy bottom\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Gets worse at night, worms in poo (they look like small pieces of thread)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\"><a href=\"/conditions/threadworms/\">Threadworms</a>, especially in children</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Bright red blood when pooing</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\"><a href=\"/conditions/piles-haemorrhoids/\">Piles (haemorrhoids)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Poo leaking or pooing you cannot control</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Diarrhoea or bowel incontinence</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Sores, swelling or irritation</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Fungal infection or a <a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infection (STI)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Itching elsewhere on the body</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Skin condition such as <a href=\"/conditions/atopic-eczema/\">eczema</a> or <a href=\"/conditions/psoriasis/\">psoriasis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">While using long-term medicine</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Side effects of steroid creams, antibiotics, some gels and ointments for haemorrhoids or anal fissures, and peppermint oil</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"ut1e6\">It's unusual for an itchy bottom to be caused by something serious. But rarely, it may be a sign of conditions like diabetes or anal cancer, so it's important to get it checked by a GP.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "You can often do simple things yourself to ease an itchy bottom (anus). Get medical help if the itching does not stop.\nHow to ease an itchy bottom yourself\nDo\ngently wash and dry your anus after pooing and before bed\nwash with water only, or use unscented soap when washing\nwear loose-fitting cotton underwear\nkeep cool – avoid clothing and bedding that makes you overheat\neat plenty of fibre\n– such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid\nconstipation\nDon’t\ndo not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool\navoid wiping or rubbing your bottom too much with wet wipes\ndo not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night\ndo not strain when you go to the toilet\ndo not use scented soaps, bubble bath or bath oil\ndo not use perfumes or powders near your anus\ndo not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods\nA pharmacist can help with an itchy bottom\nYou can ask the pharmacist if they have a private area where you can speak.\nThey can suggest:\ncreams and ointments you can buy to help ease itching, such as steroid creams\nmedicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead\nFind a pharmacy\nImportant\nUsing steroid creams and ointments for an itchy bottom\nDo not use steroid creams or ointments for longer than 1 week because they can irritate your skin and make things worse.\nGet medical advice if the itching is not going away after using a steroid cream or ointment for 1 week.\nNon-urgent advice:\nSee a GP if:\nyou have an itchy bottom that is not going away\nthe itch keeps coming back\nyou have pain in your bottom\nyou have blood in your poo, which might be dark red or black\nyou're bleeding or leaking liquid from your bottom\nyou've noticed a change in your bowel habits\nyou have an itchy bottom and feel itchy on other parts of your body\nyou notice a change around your anus that is not usual for you\nTreatment from a GP\nA GP will try to work out the cause of your itching. They may need to check your bottom (\nrectal examination\n).\nDepending on the cause, the GP might:\nsuggest trying things to ease it yourself\nprescribe medicine, such as stronger steroid creams, or ointments\nImportant\nTell the GP immediately if a cream, ointment or other medicine makes the itching worse.\nSexual health clinics can help with an itchy bottom\nYou can also go to a sexual health clinic if you think your itchy bottom might be caused by a sexually transmitted infection (STI) – for example, if you've had unprotected sex. They can provide the same treatments you would get from a GP.\nMany sexual health clinics offer a walk-in service, where you do not need an appointment.\nFind a sexual health clinic\nCauses of an itchy bottom\nThere's not always a clear cause of an itchy bottom. If it gets better quickly, it might have been caused by something that does not need treatment, like sweating a lot in hot weather.\nIf it lasts longer, you might be able to get an idea of the cause from any other symptoms you have. See a GP if you're worried or if your symptoms keep coming back.\nItchy bottom and possible causes\nOther symptoms with itchy bottom\nPossible causes\nGets worse at night, worms in poo (they look like small pieces of thread)\nThreadworms\n, especially in children\nBright red blood when pooing\nPiles (haemorrhoids)\nPoo leaking or pooing you cannot control\nDiarrhoea or bowel incontinence\nSores, swelling or irritation\nFungal infection or a\nsexually transmitted infection (STI)\nItching elsewhere on the body\nSkin condition such as\neczema\nor\npsoriasis\nWhile using long-term medicine\nSide effects of steroid creams, antibiotics, some gels and ointments for haemorrhoids or anal fissures, and peppermint oil\nImportant\nIt's unusual for an itchy bottom to be caused by something serious. But rarely, it may be a sign of conditions like diabetes or anal cancer, so it's important to get it checked by a GP.\nPage last reviewed: 03 October 2023\nNext review due: 03 October 2026",
+  "links": [
+    {
+      "text": "eat plenty of fibre",
+      "url": "https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/"
+    },
+    {
+      "text": "constipation",
+      "url": "https://www.nhs.uk/conditions/constipation/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "rectal examination",
+      "url": "https://www.nhs.uk/tests-and-treatments/rectal-examination/"
+    },
+    {
+      "text": "Find a sexual health clinic",
+      "url": "https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic"
+    },
+    {
+      "text": "Threadworms",
+      "url": "https://www.nhs.uk/conditions/threadworms/"
+    },
+    {
+      "text": "Piles (haemorrhoids)",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+    },
+    {
+      "text": "sexually transmitted infection (STI)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "eczema",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+    },
+    {
+      "text": "psoriasis",
+      "url": "https://www.nhs.uk/conditions/psoriasis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"5lqn1\"><b>You can often do simple things yourself to ease an itchy bottom (anus). Get medical help if the itching does not stop.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease an itchy bottom yourself</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"b51zt\">gently wash and dry your anus after pooing and before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"urs31\">wash with water only, or use unscented soap when washing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"l1w96\">wear loose-fitting cotton underwear</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"vv2x6\">keep cool – avoid clothing and bedding that makes you overheat</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qma2o\"><a href=\"/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/\">eat plenty of fibre</a> – such as fruit and vegetables, wholegrain bread, pasta and cereal to avoid <a href=\"/conditions/constipation/\">constipation</a></p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x9hil\">do not dry your bottom after washing by wiping or rubbing it, instead pat it dry using a towel or cotton wool</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"vtrnr\">avoid wiping or rubbing your bottom too much with wet wipes</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ea6u8\">do not scratch, but if you cannot stop, keep your fingernails short and wear cotton gloves at night</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"n16p0\">do not strain when you go to the toilet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"5k31p\">do not use scented soaps, bubble bath or bath oil</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"x9jea\">do not use perfumes or powders near your anus</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"k5ijq\">do not eat food or drink that makes your itching worse, for example caffeine, alcohol, citrus fruit or spicy foods</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"qjf96\">A pharmacist can help with an itchy bottom</h3><p data-block-key=\"fu0gb\">You can ask the pharmacist if they have a private area where you can speak.</p><p data-block-key=\"abg24\">They can suggest:</p><ul><li data-block-key=\"6iv89\">creams and ointments you can buy to help ease itching, such as steroid creams</li><li data-block-key=\"1d7tt\">medicine and things you should do at home if it's caused by threadworms – children under 2 and pregnant or breastfeeding women need to see a GP, midwife or health visitor instead</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<h4 data-block-key=\"gze2p\">Using steroid creams and ointments for an itchy bottom</h4><p data-block-key=\"6d710\">Do not use steroid creams or ointments for longer than 1 week because they can irritate your skin and make things worse.</p><p data-block-key=\"4pd29\">Get medical advice if the itching is not going away after using a steroid cream or ointment for 1 week.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s2mlh\">you have an itchy bottom that is not going away</li><li data-block-key=\"s8pyr\">the itch keeps coming back</li><li data-block-key=\"v96a\">you have pain in your bottom</li><li data-block-key=\"1019c\">you have blood in your poo, which might be dark red or black</li><li data-block-key=\"38dg4\">you're bleeding or leaking liquid from your bottom</li><li data-block-key=\"9ev83\">you've noticed a change in your bowel habits</li><li data-block-key=\"qa25g\">you have an itchy bottom and feel itchy on other parts of your body</li><li data-block-key=\"fm5se\">you notice a change around your anus that is not usual for you</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment from a GP</h2>\n<p data-block-key=\"xuebm\">A GP will try to work out the cause of your itching. They may need to check your bottom (<a href=\"/tests-and-treatments/rectal-examination/\">rectal examination</a>).</p><p data-block-key=\"cvpbd\">Depending on the cause, the GP might:</p><ul><li data-block-key=\"3bpri\">suggest trying things to ease it yourself</li><li data-block-key=\"b65b2\">prescribe medicine, such as stronger steroid creams, or ointments</li></ul>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"tnkah\">Tell the GP immediately if a cream, ointment or other medicine makes the itching worse.</p>\n</div>\n</div>\n</section>\n<section>\n<h2>Sexual health clinics can help with an itchy bottom</h2>\n<p data-block-key=\"xuebm\">You can also go to a sexual health clinic if you think your itchy bottom might be caused by a sexually transmitted infection (STI) – for example, if you've had unprotected sex. They can provide the same treatments you would get from a GP.</p><p data-block-key=\"bpnu4\">Many sexual health clinics offer a walk-in service, where you do not need an appointment.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/sexual-health/find-a-sexual-health-clinic\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a sexual health clinic</span>\n</a>\n</section>\n<section>\n<h2 id=\"causes\">Causes of an itchy bottom</h2>\n<p data-block-key=\"exzh4\">There's not always a clear cause of an itchy bottom. If it gets better quickly, it might have been caused by something that does not need treatment, like sweating a lot in hot weather.</p><p data-block-key=\"04w3x\">If it lasts longer, you might be able to get an idea of the cause from any other symptoms you have. See a GP if you're worried or if your symptoms keep coming back.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Itchy bottom and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Other symptoms with itchy bottom\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Gets worse at night, worms in poo (they look like small pieces of thread)</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\"><a href=\"/conditions/threadworms/\">Threadworms</a>, especially in children</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Bright red blood when pooing</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\"><a href=\"/conditions/piles-haemorrhoids/\">Piles (haemorrhoids)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Poo leaking or pooing you cannot control</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Diarrhoea or bowel incontinence</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Sores, swelling or irritation</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Fungal infection or a <a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infection (STI)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Itching elsewhere on the body</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Skin condition such as <a href=\"/conditions/atopic-eczema/\">eczema</a> or <a href=\"/conditions/psoriasis/\">psoriasis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">While using long-term medicine</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"kjat8\">Side effects of steroid creams, antibiotics, some gels and ointments for haemorrhoids or anal fissures, and peppermint oil</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h3>\n<p data-block-key=\"ut1e6\">It's unusual for an itchy bottom to be caused by something serious. But rarely, it may be a sign of conditions like diabetes or anal cancer, so it's important to get it checked by a GP.</p>\n</div>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 03 October 2023<br/>\n    Next review due: 03 October 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,625 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/itchy-skin/",
+  "final_url": "https://www.nhs.uk/symptoms/itchy-skin/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:04.727940+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "I",
+      "label": "Itchy skin",
+      "url": "https://www.nhs.uk/symptoms/itchy-skin/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Itchy skin",
+  "meta_description": "Itchy skin is not usually a sign of anything serious. Find out how to treat it yourself, what medical treatments are available and what can cause it.",
+  "review_dates": {
+    "page_last_reviewed": "19 July 2023",
+    "next_review_due": "19 July 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Itchy skin is not usually a sign of anything serious. Find out how to treat it yourself, what medical treatments are available and what can cause it."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/itchy-skin/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nItchy skin\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Itchy skin is not usually a sign of anything serious. Find out how to treat it yourself, what medical treatments are available and what can cause it."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:13 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Jan 2018, 3:25 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Itchy skin"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/itchy-skin/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Itchy skin"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:13:46+00:00",
+      "description": "Itchy skin is not usually a sign of anything serious. Find out how to treat it yourself, what medical treatments are available and what can cause it.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Simple things to help ease itchy skin include patting or tapping your skin instead of scratching it, and holding a cool, damp towel on your skin.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Sometimes itching is caused by dry, cracked or irritated skin. There are simple things you can do to help ease the itching.</p><p>These things may also help stop itchy skin returning and avoid skin damage from scratching.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>pat or tap your skin instead of scratching it</p></li><li><p>hold something cool on your skin, like a damp towel</p></li><li><p>have cool or lukewarm baths or showers</p></li><li><p>use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> regularly</p></li><li><p>keep your nails clean, short and smooth</p></li><li><p>wear loose cotton or silk clothing</p></li><li><p>use a laundry liquid or powder that's for sensitive skin</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not wear tight clothes, or clothes made from wool or synthetic fabrics</p></li><li><p>do not spend a long time in the bath or shower</p></li><li><p>do not use perfumed soaps, deodorants or moisturisers</p></li></ul>"
+            }
+          ],
+          "headline": "How to treat itchy skin yourself",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can get creams, lotions and medicines like antihistamine from a pharmacist to help with itchy skin.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A pharmacist can tell you what the best products are for itchy skin. For example, medicines called <a href=\"/medicines/antihistamines/\">antihistamines</a> may help with some causes of itching.</p><p>They can also recommend lotions and creams, such as menthol creams that help by cooling the skin.</p><p>Tell the pharmacist where your skin is itchy and if you have any other symptoms.</p><p>A pharmacist might also be able to tell you:</p><ul><li>what you can do to treat it yourself</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+              }
+            }
+          ],
+          "headline": "A pharmacist can help with itchy skin",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if itchy skin:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  is affecting your daily life\n </li>\n<li>\n  does not get better with self care or keeps coming back\n </li>\n<li>\n  is caused by a new rash, lump or swelling that you're worried about\n </li>\n<li>\n  is all over your body\n </li>\n<li>\n  is severe\n </li>\n<li>\n  happens during pregnancy\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If your itchy skin is severe or does not get better, a GP can help look for the cause. They will check your skin and may arrange some tests.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP might prescribe creams, lotions or tablets, depending on what's causing the itching.</p><p>They will look at your skin and ask about your symptoms.</p><p>They might arrange a <a href=\"/tests-and-treatments/blood-tests/\">blood test</a>, which may help find the cause of your itchy skin.</p><p>The GP may also refer you to see a doctor who specialises in skin problems (dermatologist).</p>"
+            }
+          ],
+          "headline": "Treatment from a GP",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Itchy skin can be caused by many things including allergies, dandruff, eczema, psoriasis, thrush and ringworm.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Itchy skin has many possible causes. If you have other symptoms (such as a rash or swelling) this might help to find the cause.</p><p>But do not try to diagnose yourself. See a GP if you're worried.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Itchy skin is common during pregnancy.</p><p>It’s usually nothing to worry about but it’s important to check with a GP or midwife because it can sometimes be caused by a liver condition called <a href=\"https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/\">intrahepatic cholestasis of pregnancy (ICP)</a>.</p><p>Itchy skin is also common after the <a href=\"https://www.nhs.uk/conditions/menopause/\">menopause</a>. It usually gets better over time.</p><p>Less commonly, itchy skin can be a sign of a more serious condition, such as thyroid, liver or kidney problems.</p>"
+            }
+          ],
+          "headline": "Causes of itchy skin",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Itchy skin is not usually a sign of anything serious, and it often goes away after a few weeks. There are things you can do to ease the itching.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy skin",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy skin",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy skin",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itchy skin",
+              "text": "Causes"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-07-19T00:00:00+00:00",
+        "2026-07-19T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Itchy skin",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Itchy skin",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/itchy-skin/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/itchy-skin/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Itchy skin is not usually a sign of anything serious. You can often treat it yourself and it will usually go away after a few weeks.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"x7kw8\"><b>Itchy skin is not usually a sign of anything serious. You can often treat it yourself and it will usually go away after a few weeks.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How to treat itchy skin yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to treat itchy skin yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How to treat itchy skin yourself\nSometimes itching is caused by dry, cracked or irritated skin. There are simple things you can do to help ease the itching.\nThese things may also help stop itchy skin returning and avoid skin damage from scratching.\nDo\npat or tap your skin instead of scratching it\nhold something cool on your skin, like a damp towel\nhave cool or lukewarm baths or showers\nuse an unperfumed moisturiser or\nemollient\nregularly\nkeep your nails clean, short and smooth\nwear loose cotton or silk clothing\nuse a laundry liquid or powder that's for sensitive skin\nDon’t\ndo not wear tight clothes, or clothes made from wool or synthetic fabrics\ndo not spend a long time in the bath or shower\ndo not use perfumed soaps, deodorants or moisturisers",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pat or tap your skin instead of scratching it",
+            "hold something cool on your skin, like a damp towel",
+            "have cool or lukewarm baths or showers",
+            "use an unperfumed moisturiser or\nemollient\nregularly",
+            "keep your nails clean, short and smooth",
+            "wear loose cotton or silk clothing",
+            "use a laundry liquid or powder that's for sensitive skin"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not wear tight clothes, or clothes made from wool or synthetic fabrics",
+            "do not spend a long time in the bath or shower",
+            "do not use perfumed soaps, deodorants or moisturisers"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "emollient",
+          "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to treat itchy skin yourself</h2>\n<p data-block-key=\"jyym0\">Sometimes itching is caused by dry, cracked or irritated skin. There are simple things you can do to help ease the itching.</p><p data-block-key=\"ncbhh\">These things may also help stop itchy skin returning and avoid skin damage from scratching.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"gfbbj\">pat or tap your skin instead of scratching it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6o6lo\">hold something cool on your skin, like a damp towel</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"zhq0f\">have cool or lukewarm baths or showers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ij65p\">use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"coczm\">keep your nails clean, short and smooth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n5rtk\">wear loose cotton or silk clothing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"dvkxd\">use a laundry liquid or powder that's for sensitive skin</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yfw3t\">do not wear tight clothes, or clothes made from wool or synthetic fabrics</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ik2tq\">do not spend a long time in the bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"iopdh\">do not use perfumed soaps, deodorants or moisturisers</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "A pharmacist can help with itchy skin",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with itchy skin"
+        }
+      ],
+      "text": "A pharmacist can help with itchy skin\nA pharmacist can tell you what the best products are for itchy skin. For example, medicines called\nantihistamines\nmay help with some causes of itching.\nThey can also recommend lotions and creams, such as menthol creams that help by cooling the skin.\nTell the pharmacist where your skin is itchy and if you have any other symptoms.\nA pharmacist might also be able to tell you:\nwhat you can do to treat it yourself\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "what you can do to treat it yourself",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "antihistamines",
+          "url": "https://www.nhs.uk/medicines/antihistamines/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">A pharmacist can help with itchy skin</h2>\n<p data-block-key=\"knhrw\">A pharmacist can tell you what the best products are for itchy skin. For example, medicines called <a href=\"/medicines/antihistamines/\">antihistamines</a> may help with some causes of itching.</p><p data-block-key=\"cmjhl\">They can also recommend lotions and creams, such as menthol creams that help by cooling the skin.</p><p data-block-key=\"1euq2\">Tell the pharmacist where your skin is itchy and if you have any other symptoms.</p><p data-block-key=\"rw5c0\">A pharmacist might also be able to tell you:</p><ul><li data-block-key=\"5qite\">what you can do to treat it yourself</li><li data-block-key=\"0n6wx\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if itchy skin:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if itchy skin:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if itchy skin:\nis affecting your daily life\ndoes not get better with self care or keeps coming back\nis caused by a new rash, lump or swelling that you're worried about\nis all over your body\nis severe\nhappens during pregnancy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "is affecting your daily life",
+            "does not get better with self care or keeps coming back",
+            "is caused by a new rash, lump or swelling that you're worried about",
+            "is all over your body",
+            "is severe",
+            "happens during pregnancy"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if itchy skin:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"lr490\">is affecting your daily life</li><li data-block-key=\"7mlni\">does not get better with self care or keeps coming back</li><li data-block-key=\"st4c9\">is caused by a new rash, lump or swelling that you're worried about</li><li data-block-key=\"oujeo\">is all over your body</li><li data-block-key=\"6giok\">is severe</li><li data-block-key=\"eoiss\">happens during pregnancy</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment from a GP"
+        }
+      ],
+      "text": "Treatment from a GP\nA GP might prescribe creams, lotions or tablets, depending on what's causing the itching.\nThey will look at your skin and ask about your symptoms.\nThey might arrange a\nblood test\n, which may help find the cause of your itchy skin.\nThe GP may also refer you to see a doctor who specialises in skin problems (dermatologist).",
+      "lists": [],
+      "links": [
+        {
+          "text": "blood test",
+          "url": "https://www.nhs.uk/tests-and-treatments/blood-tests/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">Treatment from a GP</h2>\n<p data-block-key=\"jsnfh\">A GP might prescribe creams, lotions or tablets, depending on what's causing the itching.</p><p data-block-key=\"c47zc\">They will look at your skin and ask about your symptoms.</p><p data-block-key=\"sfeoj\">They might arrange a <a href=\"/tests-and-treatments/blood-tests/\">blood test</a>, which may help find the cause of your itchy skin.</p><p data-block-key=\"qvm3d\">The GP may also refer you to see a doctor who specialises in skin problems (dermatologist).</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of itchy skin",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of itchy skin"
+        }
+      ],
+      "text": "Causes of itchy skin\nItchy skin has many possible causes. If you have other symptoms (such as a rash or swelling) this might help to find the cause.\nBut do not try to diagnose yourself. See a GP if you're worried.\nPossible causes of itchy skin\nPossible causes\nCommon skin conditions\nSkin reactions to heat or something you're allergic to\nAllergies\n,\nhives\n,\nheat rash (prickly heat)\nLong-term skin conditions\nDandruff\n,\neczema\n,\npsoriasis\nFungal skin infections\nThrush\n,\nringworm\n,\nathlete's foot\nParasites or insects living on the skin\nScabies\n,\nhead lice\n,\npubic lice\nItchy skin is common during pregnancy.\nIt’s usually nothing to worry about but it’s important to check with a GP or midwife because it can sometimes be caused by a liver condition called\nintrahepatic cholestasis of pregnancy (ICP)\n.\nItchy skin is also common after the\nmenopause\n. It usually gets better over time.\nLess commonly, itchy skin can be a sign of a more serious condition, such as thyroid, liver or kidney problems.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Allergies",
+          "url": "https://www.nhs.uk/conditions/allergies/"
+        },
+        {
+          "text": "hives",
+          "url": "https://www.nhs.uk/conditions/hives/"
+        },
+        {
+          "text": "heat rash (prickly heat)",
+          "url": "https://www.nhs.uk/conditions/heat-rash-prickly-heat/"
+        },
+        {
+          "text": "Dandruff",
+          "url": "https://www.nhs.uk/conditions/dandruff/"
+        },
+        {
+          "text": "eczema",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+        },
+        {
+          "text": "psoriasis",
+          "url": "https://www.nhs.uk/conditions/psoriasis/"
+        },
+        {
+          "text": "Thrush",
+          "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/"
+        },
+        {
+          "text": "ringworm",
+          "url": "https://www.nhs.uk/conditions/ringworm/"
+        },
+        {
+          "text": "athlete's foot",
+          "url": "https://www.nhs.uk/conditions/athletes-foot/"
+        },
+        {
+          "text": "Scabies",
+          "url": "https://www.nhs.uk/conditions/scabies/"
+        },
+        {
+          "text": "head lice",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+        },
+        {
+          "text": "pubic lice",
+          "url": "https://www.nhs.uk/conditions/pubic-lice/"
+        },
+        {
+          "text": "intrahepatic cholestasis of pregnancy (ICP)",
+          "url": "https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/"
+        },
+        {
+          "text": "menopause",
+          "url": "https://www.nhs.uk/conditions/menopause/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of itchy skin</h2>\n<p data-block-key=\"sclvl\">Itchy skin has many possible causes. If you have other symptoms (such as a rash or swelling) this might help to find the cause.</p><p data-block-key=\"cy8cm\">But do not try to diagnose yourself. See a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of itchy skin</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Common skin conditions\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Skin reactions to heat or something you're allergic to</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/allergies/\">Allergies</a>, <a href=\"/conditions/hives/\">hives</a>, <a href=\"/conditions/heat-rash-prickly-heat/\">heat rash (prickly heat)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Long-term skin conditions</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/dandruff/\">Dandruff</a>, <a href=\"/conditions/atopic-eczema/\">eczema</a>, <a href=\"/conditions/psoriasis/\">psoriasis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Fungal skin infections</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/thrush-in-men-and-women/\">Thrush</a>, <a href=\"/conditions/ringworm/\">ringworm</a>, <a href=\"/conditions/athletes-foot/\">athlete's foot</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Parasites or insects living on the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/scabies/\">Scabies</a>, <a href=\"/conditions/head-lice-and-nits/\">head lice</a>, <a href=\"/conditions/pubic-lice/\">pubic lice</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"1y78b\">Itchy skin is common during pregnancy.</p><p data-block-key=\"4du7e\">It’s usually nothing to worry about but it’s important to check with a GP or midwife because it can sometimes be caused by a liver condition called <a href=\"https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/\">intrahepatic cholestasis of pregnancy (ICP)</a>.</p><p data-block-key=\"arm5s\">Itchy skin is also common after the <a href=\"https://www.nhs.uk/conditions/menopause/\">menopause</a>. It usually gets better over time.</p><p data-block-key=\"1u4kq\">Less commonly, itchy skin can be a sign of a more serious condition, such as thyroid, liver or kidney problems.</p>\n</section>"
+    }
+  ],
+  "page_text": "Itchy skin is not usually a sign of anything serious. You can often treat it yourself and it will usually go away after a few weeks.\nHow to treat itchy skin yourself\nSometimes itching is caused by dry, cracked or irritated skin. There are simple things you can do to help ease the itching.\nThese things may also help stop itchy skin returning and avoid skin damage from scratching.\nDo\npat or tap your skin instead of scratching it\nhold something cool on your skin, like a damp towel\nhave cool or lukewarm baths or showers\nuse an unperfumed moisturiser or\nemollient\nregularly\nkeep your nails clean, short and smooth\nwear loose cotton or silk clothing\nuse a laundry liquid or powder that's for sensitive skin\nDon’t\ndo not wear tight clothes, or clothes made from wool or synthetic fabrics\ndo not spend a long time in the bath or shower\ndo not use perfumed soaps, deodorants or moisturisers\nA pharmacist can help with itchy skin\nA pharmacist can tell you what the best products are for itchy skin. For example, medicines called\nantihistamines\nmay help with some causes of itching.\nThey can also recommend lotions and creams, such as menthol creams that help by cooling the skin.\nTell the pharmacist where your skin is itchy and if you have any other symptoms.\nA pharmacist might also be able to tell you:\nwhat you can do to treat it yourself\nif you need to see a GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if itchy skin:\nis affecting your daily life\ndoes not get better with self care or keeps coming back\nis caused by a new rash, lump or swelling that you're worried about\nis all over your body\nis severe\nhappens during pregnancy\nTreatment from a GP\nA GP might prescribe creams, lotions or tablets, depending on what's causing the itching.\nThey will look at your skin and ask about your symptoms.\nThey might arrange a\nblood test\n, which may help find the cause of your itchy skin.\nThe GP may also refer you to see a doctor who specialises in skin problems (dermatologist).\nCauses of itchy skin\nItchy skin has many possible causes. If you have other symptoms (such as a rash or swelling) this might help to find the cause.\nBut do not try to diagnose yourself. See a GP if you're worried.\nPossible causes of itchy skin\nPossible causes\nCommon skin conditions\nSkin reactions to heat or something you're allergic to\nAllergies\n,\nhives\n,\nheat rash (prickly heat)\nLong-term skin conditions\nDandruff\n,\neczema\n,\npsoriasis\nFungal skin infections\nThrush\n,\nringworm\n,\nathlete's foot\nParasites or insects living on the skin\nScabies\n,\nhead lice\n,\npubic lice\nItchy skin is common during pregnancy.\nIt’s usually nothing to worry about but it’s important to check with a GP or midwife because it can sometimes be caused by a liver condition called\nintrahepatic cholestasis of pregnancy (ICP)\n.\nItchy skin is also common after the\nmenopause\n. It usually gets better over time.\nLess commonly, itchy skin can be a sign of a more serious condition, such as thyroid, liver or kidney problems.\nPage last reviewed: 19 July 2023\nNext review due: 19 July 2026",
+  "links": [
+    {
+      "text": "emollient",
+      "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+    },
+    {
+      "text": "antihistamines",
+      "url": "https://www.nhs.uk/medicines/antihistamines/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/find-a-pharmacy/"
+    },
+    {
+      "text": "blood test",
+      "url": "https://www.nhs.uk/tests-and-treatments/blood-tests/"
+    },
+    {
+      "text": "Allergies",
+      "url": "https://www.nhs.uk/conditions/allergies/"
+    },
+    {
+      "text": "hives",
+      "url": "https://www.nhs.uk/conditions/hives/"
+    },
+    {
+      "text": "heat rash (prickly heat)",
+      "url": "https://www.nhs.uk/conditions/heat-rash-prickly-heat/"
+    },
+    {
+      "text": "Dandruff",
+      "url": "https://www.nhs.uk/conditions/dandruff/"
+    },
+    {
+      "text": "eczema",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+    },
+    {
+      "text": "psoriasis",
+      "url": "https://www.nhs.uk/conditions/psoriasis/"
+    },
+    {
+      "text": "Thrush",
+      "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/"
+    },
+    {
+      "text": "ringworm",
+      "url": "https://www.nhs.uk/conditions/ringworm/"
+    },
+    {
+      "text": "athlete's foot",
+      "url": "https://www.nhs.uk/conditions/athletes-foot/"
+    },
+    {
+      "text": "Scabies",
+      "url": "https://www.nhs.uk/conditions/scabies/"
+    },
+    {
+      "text": "head lice",
+      "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+    },
+    {
+      "text": "pubic lice",
+      "url": "https://www.nhs.uk/conditions/pubic-lice/"
+    },
+    {
+      "text": "intrahepatic cholestasis of pregnancy (ICP)",
+      "url": "https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/"
+    },
+    {
+      "text": "menopause",
+      "url": "https://www.nhs.uk/conditions/menopause/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"x7kw8\"><b>Itchy skin is not usually a sign of anything serious. You can often treat it yourself and it will usually go away after a few weeks.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">How to treat itchy skin yourself</h2>\n<p data-block-key=\"jyym0\">Sometimes itching is caused by dry, cracked or irritated skin. There are simple things you can do to help ease the itching.</p><p data-block-key=\"ncbhh\">These things may also help stop itchy skin returning and avoid skin damage from scratching.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"gfbbj\">pat or tap your skin instead of scratching it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"6o6lo\">hold something cool on your skin, like a damp towel</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"zhq0f\">have cool or lukewarm baths or showers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"ij65p\">use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"coczm\">keep your nails clean, short and smooth</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n5rtk\">wear loose cotton or silk clothing</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"dvkxd\">use a laundry liquid or powder that's for sensitive skin</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"yfw3t\">do not wear tight clothes, or clothes made from wool or synthetic fabrics</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ik2tq\">do not spend a long time in the bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"iopdh\">do not use perfumed soaps, deodorants or moisturisers</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">A pharmacist can help with itchy skin</h2>\n<p data-block-key=\"knhrw\">A pharmacist can tell you what the best products are for itchy skin. For example, medicines called <a href=\"/medicines/antihistamines/\">antihistamines</a> may help with some causes of itching.</p><p data-block-key=\"cmjhl\">They can also recommend lotions and creams, such as menthol creams that help by cooling the skin.</p><p data-block-key=\"1euq2\">Tell the pharmacist where your skin is itchy and if you have any other symptoms.</p><p data-block-key=\"rw5c0\">A pharmacist might also be able to tell you:</p><ul><li data-block-key=\"5qite\">what you can do to treat it yourself</li><li data-block-key=\"0n6wx\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-a-pharmacy/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if itchy skin:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"lr490\">is affecting your daily life</li><li data-block-key=\"7mlni\">does not get better with self care or keeps coming back</li><li data-block-key=\"st4c9\">is caused by a new rash, lump or swelling that you're worried about</li><li data-block-key=\"oujeo\">is all over your body</li><li data-block-key=\"6giok\">is severe</li><li data-block-key=\"eoiss\">happens during pregnancy</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">Treatment from a GP</h2>\n<p data-block-key=\"jsnfh\">A GP might prescribe creams, lotions or tablets, depending on what's causing the itching.</p><p data-block-key=\"c47zc\">They will look at your skin and ask about your symptoms.</p><p data-block-key=\"sfeoj\">They might arrange a <a href=\"/tests-and-treatments/blood-tests/\">blood test</a>, which may help find the cause of your itchy skin.</p><p data-block-key=\"qvm3d\">The GP may also refer you to see a doctor who specialises in skin problems (dermatologist).</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of itchy skin</h2>\n<p data-block-key=\"sclvl\">Itchy skin has many possible causes. If you have other symptoms (such as a rash or swelling) this might help to find the cause.</p><p data-block-key=\"cy8cm\">But do not try to diagnose yourself. See a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of itchy skin</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Common skin conditions\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Skin reactions to heat or something you're allergic to</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/allergies/\">Allergies</a>, <a href=\"/conditions/hives/\">hives</a>, <a href=\"/conditions/heat-rash-prickly-heat/\">heat rash (prickly heat)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Long-term skin conditions</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/dandruff/\">Dandruff</a>, <a href=\"/conditions/atopic-eczema/\">eczema</a>, <a href=\"/conditions/psoriasis/\">psoriasis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Fungal skin infections</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/thrush-in-men-and-women/\">Thrush</a>, <a href=\"/conditions/ringworm/\">ringworm</a>, <a href=\"/conditions/athletes-foot/\">athlete's foot</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\">Parasites or insects living on the skin</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"5t581\"><a href=\"/conditions/scabies/\">Scabies</a>, <a href=\"/conditions/head-lice-and-nits/\">head lice</a>, <a href=\"/conditions/pubic-lice/\">pubic lice</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"1y78b\">Itchy skin is common during pregnancy.</p><p data-block-key=\"4du7e\">It’s usually nothing to worry about but it’s important to check with a GP or midwife because it can sometimes be caused by a liver condition called <a href=\"https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/\">intrahepatic cholestasis of pregnancy (ICP)</a>.</p><p data-block-key=\"arm5s\">Itchy skin is also common after the <a href=\"https://www.nhs.uk/conditions/menopause/\">menopause</a>. It usually gets better over time.</p><p data-block-key=\"1u4kq\">Less commonly, itchy skin can be a sign of a more serious condition, such as thyroid, liver or kidney problems.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 19 July 2023<br/>\n    Next review due: 19 July 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

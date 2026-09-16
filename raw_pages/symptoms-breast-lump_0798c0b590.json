@@ -1,0 +1,486 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/breast-lump/",
+  "final_url": "https://www.nhs.uk/symptoms/breast-lump/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:02.134527+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Breast lumps",
+      "url": "https://www.nhs.uk/symptoms/breast-lump/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Breast lumps",
+  "meta_description": "Find out about breast lumps. They can have a lot of different causes and most are harmless. But always see a GP if you have a lump in your breast or any unusual changes to your breasts.",
+  "review_dates": {
+    "page_last_reviewed": "28 June 2023",
+    "next_review_due": "28 June 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about breast lumps. They can have a lot of different causes and most are harmless. But always see a GP if you have a lump in your breast or any unusual changes to your breasts."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/breast-lump/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBreast lumps\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about breast lumps. They can have a lot of different causes and most are harmless. But always see a GP if you have a lump in your breast or any unusual changes to your breasts."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "25 Aug 2026, 4:13 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 2:51 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Breast lumps"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/breast-lump/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Breast lumps"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-25T15:13:14+00:00",
+      "description": "Find out about breast lumps. They can have a lot of different causes and most are harmless. But always see a GP if you have a lump in your breast or any unusual changes to your breasts.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Breast lumps are common and can have many causes. Having a breast lump does not mean you have breast cancer, but you should get it checked.",
+          "hasHealthAspect": "http://schema.org/SeeDoctorHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have a lump in your breast, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if you notice:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  a lump in your breast or armpit\n </li>\n<li>\n  any other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained\n  <a href=\"/symptoms/nipple-discharge/\">\n   nipple discharge\n  </a>\n</li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Check your symptoms with NHS 111 online</h3><p>If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>"
+            }
+          ],
+          "headline": "When and where to get medical help",
+          "url": "https://www.nhs.uk/symptoms/breast-lump/#medical-help"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To find out what is causing a breast lump, you may have a scan, a biopsy and a breast examination at a hospital or breast clinic.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have a breast lump, a GP will look at and examine your breasts.</p><p>If they're not sure what's causing the lump, they'll refer you to a hospital or breast clinic for further tests.</p><p>These tests usually show that a lump is not cancer.</p><h3>What happens at the breast clinic</h3><p>At the hospital or breast clinic, you may have a:</p><ul><li>breast examination</li><li>scan – usually a <a href=\"/tests-and-treatments/breast-screening-mammogram/what-happens-at-your-breast-screening-appointment/\">breast X-ray (mammogram)</a> or <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound</a></li><li><a href=\"/tests-and-treatments/biopsy/\">biopsy</a> – where a needle is inserted into the lump to remove some cells for testing</li></ul><p>These tests are often done during the same visit. You'll usually be told the results on the same day, although biopsy results take longer – you may have to wait about a week.</p><p>Treatment for a breast lump depends on the cause. Most are harmless and may go away on their own without treatment.</p>"
+            }
+          ],
+          "headline": "What happens at your GP appointment",
+          "url": "https://www.nhs.uk/symptoms/breast-lump/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are lots of possible causes of breast lumps. Most lumps are not cancer and are caused by something harmless like a build-up of fluid (cyst).",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Lumps in the breasts can have lots of different causes.</p><p>They're often caused by something harmless like a non-cancerous tissue growth (fibroadenoma) or a build-up of fluid (breast cyst).</p><p>Sometimes, a breast lump can be a sign of something serious like <a href=\"/conditions/breast-cancer/\">breast cancer</a>.</p><p>Do not try to self-diagnose the cause of your lump – always see a GP.</p>"
+            }
+          ],
+          "headline": "Causes of breast lumps",
+          "url": "https://www.nhs.uk/symptoms/breast-lump/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you feel a lump in your breast, always get it checked by a GP. Most breast lumps are harmless, but some can be serious.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Breast lumps",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Breast lumps",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are lots of possible causes of breast lumps. Most lumps are not cancer and are caused by something harmless like a build-up of fluid (cyst).</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To find out what is causing a breast lump, you may have a scan, a biopsy and a breast examination at a hospital or breast clinic.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/breast-lump/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-06-28T00:00:00+00:00",
+        "2026-06-28T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Breast lumps",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Breast lumps",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/breast-lump/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/breast-lump/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "When and where to get medical help",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When and where to get medical help"
+        },
+        {
+          "level": "h3",
+          "text": "Non-urgent advice: See a GP if you notice:"
+        },
+        {
+          "level": "h3",
+          "text": "Check your symptoms with NHS 111 online"
+        }
+      ],
+      "text": "When and where to get medical help\nIf you have a lump in your breast, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.\nNon-urgent advice:\nSee a GP if you notice:\na lump in your breast or armpit\nany other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained\nnipple discharge\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a lump in your breast or armpit",
+            "any other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained\nnipple discharge"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "nipple discharge",
+          "url": "https://www.nhs.uk/symptoms/nipple-discharge/"
+        },
+        {
+          "text": "Get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"1fb4v\">If you have a lump in your breast, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you notice:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"wh0qm\">a lump in your breast or armpit</li><li data-block-key=\"9muqb\">any other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained <a href=\"/symptoms/nipple-discharge/\">nipple discharge</a></li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"35cji\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"7j04v\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"1tvsl\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "What happens at your GP appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your GP appointment"
+        },
+        {
+          "level": "h3",
+          "text": "What happens at the breast clinic"
+        }
+      ],
+      "text": "What happens at your GP appointment\nIf you have a breast lump, a GP will look at and examine your breasts.\nIf they're not sure what's causing the lump, they'll refer you to a hospital or breast clinic for further tests.\nThese tests usually show that a lump is not cancer.\nWhat happens at the breast clinic\nAt the hospital or breast clinic, you may have a:\nbreast examination\nscan – usually a\nbreast X-ray (mammogram)\nor\nultrasound\nbiopsy\n– where a needle is inserted into the lump to remove some cells for testing\nThese tests are often done during the same visit. You'll usually be told the results on the same day, although biopsy results take longer – you may have to wait about a week.\nTreatment for a breast lump depends on the cause. Most are harmless and may go away on their own without treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "breast examination",
+            "scan – usually a\nbreast X-ray (mammogram)\nor\nultrasound",
+            "biopsy\n– where a needle is inserted into the lump to remove some cells for testing"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "breast X-ray (mammogram)",
+          "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/what-happens-at-your-breast-screening-appointment/"
+        },
+        {
+          "text": "ultrasound",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        },
+        {
+          "text": "biopsy",
+          "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"vsmwn\">If you have a breast lump, a GP will look at and examine your breasts.</p><p data-block-key=\"fuh3v\">If they're not sure what's causing the lump, they'll refer you to a hospital or breast clinic for further tests.</p><p data-block-key=\"be98g\">These tests usually show that a lump is not cancer.</p><h3 data-block-key=\"ei8rh\">What happens at the breast clinic</h3><p data-block-key=\"aaqa\">At the hospital or breast clinic, you may have a:</p><ul><li data-block-key=\"b1f36\">breast examination</li><li data-block-key=\"413vf\">scan – usually a <a href=\"/tests-and-treatments/breast-screening-mammogram/what-happens-at-your-breast-screening-appointment/\">breast X-ray (mammogram)</a> or <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound</a></li><li data-block-key=\"ddc98\"><a href=\"/tests-and-treatments/biopsy/\">biopsy</a> – where a needle is inserted into the lump to remove some cells for testing</li></ul><p data-block-key=\"eam2a\">These tests are often done during the same visit. You'll usually be told the results on the same day, although biopsy results take longer – you may have to wait about a week.</p><p data-block-key=\"8p7j0\">Treatment for a breast lump depends on the cause. Most are harmless and may go away on their own without treatment.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nBreast Cancer Now has more information about what to expect at a breast clinic appointment",
+      "lists": [],
+      "links": [
+        {
+          "text": "Breast Cancer Now has more information about what to expect at a breast clinic appointment",
+          "url": "https://breastcancernow.org/information-support/facing-breast-cancer/what-happens-breast-clinic-appointment"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"k8k24\"><a href=\"https://breastcancernow.org/information-support/facing-breast-cancer/what-happens-breast-clinic-appointment\">Breast Cancer Now has more information about what to expect at a breast clinic appointment</a></p>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Causes of breast lumps",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of breast lumps"
+        }
+      ],
+      "text": "Causes of breast lumps\nLumps in the breasts can have lots of different causes.\nThey're often caused by something harmless like a non-cancerous tissue growth (fibroadenoma) or a build-up of fluid (breast cyst).\nSometimes, a breast lump can be a sign of something serious like\nbreast cancer\n.\nDo not try to self-diagnose the cause of your lump – always see a GP.",
+      "lists": [],
+      "links": [
+        {
+          "text": "breast cancer",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of breast lumps</h2>\n<p data-block-key=\"06qer\">Lumps in the breasts can have lots of different causes.</p><p data-block-key=\"upgpt\">They're often caused by something harmless like a non-cancerous tissue growth (fibroadenoma) or a build-up of fluid (breast cyst).</p><p data-block-key=\"55uy2\">Sometimes, a breast lump can be a sign of something serious like <a href=\"/conditions/breast-cancer/\">breast cancer</a>.</p><p data-block-key=\"24dgv\">Do not try to self-diagnose the cause of your lump – always see a GP.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Find out more",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Find out more"
+        }
+      ],
+      "text": "Information:\nFind out more\nFind out more about common causes of breast lumps:\nBreast Cancer Now: fibroadenoma\nBreast Cancer Now: breast cysts",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Breast Cancer Now: fibroadenoma",
+            "Breast Cancer Now: breast cysts"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Breast Cancer Now: fibroadenoma",
+          "url": "https://breastcancernow.org/information-support/have-i-got-breast-cancer/benign-breast-conditions/fibroadenoma"
+        },
+        {
+          "text": "Breast Cancer Now: breast cysts",
+          "url": "https://breastcancernow.org/information-support/have-i-got-breast-cancer/breast-lumps-other-benign-conditions/breast-cysts"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"k8k24\">Find out more</h3><p data-block-key=\"u7pb\">Find out more about common causes of breast lumps:</p><ul><li data-block-key=\"2m4ls\"><a href=\"https://breastcancernow.org/information-support/have-i-got-breast-cancer/benign-breast-conditions/fibroadenoma\">Breast Cancer Now: fibroadenoma</a></li><li data-block-key=\"fqte4\"><a href=\"https://breastcancernow.org/information-support/have-i-got-breast-cancer/breast-lumps-other-benign-conditions/breast-cysts\">Breast Cancer Now: breast cysts</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "When and where to get medical help\nIf you have a lump in your breast, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.\nNon-urgent advice:\nSee a GP if you notice:\na lump in your breast or armpit\nany other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained\nnipple discharge\nInformation:\nCheck your symptoms with NHS 111 online\nIf you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.\nGet help from 111 online\nWhat happens at your GP appointment\nIf you have a breast lump, a GP will look at and examine your breasts.\nIf they're not sure what's causing the lump, they'll refer you to a hospital or breast clinic for further tests.\nThese tests usually show that a lump is not cancer.\nWhat happens at the breast clinic\nAt the hospital or breast clinic, you may have a:\nbreast examination\nscan – usually a\nbreast X-ray (mammogram)\nor\nultrasound\nbiopsy\n– where a needle is inserted into the lump to remove some cells for testing\nThese tests are often done during the same visit. You'll usually be told the results on the same day, although biopsy results take longer – you may have to wait about a week.\nTreatment for a breast lump depends on the cause. Most are harmless and may go away on their own without treatment.\nInformation:\nBreast Cancer Now has more information about what to expect at a breast clinic appointment\nCauses of breast lumps\nLumps in the breasts can have lots of different causes.\nThey're often caused by something harmless like a non-cancerous tissue growth (fibroadenoma) or a build-up of fluid (breast cyst).\nSometimes, a breast lump can be a sign of something serious like\nbreast cancer\n.\nDo not try to self-diagnose the cause of your lump – always see a GP.\nInformation:\nFind out more\nFind out more about common causes of breast lumps:\nBreast Cancer Now: fibroadenoma\nBreast Cancer Now: breast cysts\nPage last reviewed: 28 June 2023\nNext review due: 28 June 2026",
+  "links": [
+    {
+      "text": "nipple discharge",
+      "url": "https://www.nhs.uk/symptoms/nipple-discharge/"
+    },
+    {
+      "text": "Get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "breast X-ray (mammogram)",
+      "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/what-happens-at-your-breast-screening-appointment/"
+    },
+    {
+      "text": "ultrasound",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "biopsy",
+      "url": "https://www.nhs.uk/tests-and-treatments/biopsy/"
+    },
+    {
+      "text": "Breast Cancer Now has more information about what to expect at a breast clinic appointment",
+      "url": "https://breastcancernow.org/information-support/facing-breast-cancer/what-happens-breast-clinic-appointment"
+    },
+    {
+      "text": "breast cancer",
+      "url": "https://www.nhs.uk/conditions/breast-cancer/"
+    },
+    {
+      "text": "Breast Cancer Now: fibroadenoma",
+      "url": "https://breastcancernow.org/information-support/have-i-got-breast-cancer/benign-breast-conditions/fibroadenoma"
+    },
+    {
+      "text": "Breast Cancer Now: breast cysts",
+      "url": "https://breastcancernow.org/information-support/have-i-got-breast-cancer/breast-lumps-other-benign-conditions/breast-cysts"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"medical-help\">When and where to get medical help</h2>\n<p data-block-key=\"1fb4v\">If you have a lump in your breast, it's important to get checked. If it is a sign of breast cancer, finding it early can make it easier to treat.</p>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if you notice:\n      </span>\n</h3>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"wh0qm\">a lump in your breast or armpit</li><li data-block-key=\"9muqb\">any other unusual changes in your breasts – such as the nipple turning inwards, dimpled skin or bloodstained <a href=\"/symptoms/nipple-discharge/\">nipple discharge</a></li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"35cji\">Check your symptoms with NHS 111 online</h3><p data-block-key=\"7j04v\">If you're worried about your symptoms, NHS 111 online can help you find the support or treatment you may need.</p><p data-block-key=\"1tvsl\"><a href=\"https://111.nhs.uk/triage/check-your-symptoms\">Get help from 111 online</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"vsmwn\">If you have a breast lump, a GP will look at and examine your breasts.</p><p data-block-key=\"fuh3v\">If they're not sure what's causing the lump, they'll refer you to a hospital or breast clinic for further tests.</p><p data-block-key=\"be98g\">These tests usually show that a lump is not cancer.</p><h3 data-block-key=\"ei8rh\">What happens at the breast clinic</h3><p data-block-key=\"aaqa\">At the hospital or breast clinic, you may have a:</p><ul><li data-block-key=\"b1f36\">breast examination</li><li data-block-key=\"413vf\">scan – usually a <a href=\"/tests-and-treatments/breast-screening-mammogram/what-happens-at-your-breast-screening-appointment/\">breast X-ray (mammogram)</a> or <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound</a></li><li data-block-key=\"ddc98\"><a href=\"/tests-and-treatments/biopsy/\">biopsy</a> – where a needle is inserted into the lump to remove some cells for testing</li></ul><p data-block-key=\"eam2a\">These tests are often done during the same visit. You'll usually be told the results on the same day, although biopsy results take longer – you may have to wait about a week.</p><p data-block-key=\"8p7j0\">Treatment for a breast lump depends on the cause. Most are harmless and may go away on their own without treatment.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"k8k24\"><a href=\"https://breastcancernow.org/information-support/facing-breast-cancer/what-happens-breast-clinic-appointment\">Breast Cancer Now has more information about what to expect at a breast clinic appointment</a></p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of breast lumps</h2>\n<p data-block-key=\"06qer\">Lumps in the breasts can have lots of different causes.</p><p data-block-key=\"upgpt\">They're often caused by something harmless like a non-cancerous tissue growth (fibroadenoma) or a build-up of fluid (breast cyst).</p><p data-block-key=\"55uy2\">Sometimes, a breast lump can be a sign of something serious like <a href=\"/conditions/breast-cancer/\">breast cancer</a>.</p><p data-block-key=\"24dgv\">Do not try to self-diagnose the cause of your lump – always see a GP.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"k8k24\">Find out more</h3><p data-block-key=\"u7pb\">Find out more about common causes of breast lumps:</p><ul><li data-block-key=\"2m4ls\"><a href=\"https://breastcancernow.org/information-support/have-i-got-breast-cancer/benign-breast-conditions/fibroadenoma\">Breast Cancer Now: fibroadenoma</a></li><li data-block-key=\"fqte4\"><a href=\"https://breastcancernow.org/information-support/have-i-got-breast-cancer/breast-lumps-other-benign-conditions/breast-cysts\">Breast Cancer Now: breast cysts</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 28 June 2023<br/>\n    Next review due: 28 June 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

@@ -1,0 +1,584 @@
+{
+  "requested_url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/",
+  "final_url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:02.542263+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "I",
+      "label": "Intrahepatic cholestasis of pregnancy (ICP), see Itching in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "I",
+      "label": "Itching in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Itching in pregnancy",
+  "meta_description": "Find out about itching in pregnancy, including how you can treat it yourself and when itching needs to be checked by a GP.",
+  "review_dates": {
+    "page_last_reviewed": "24 February 2026",
+    "next_review_due": "24 February 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/"
+    },
+    {
+      "text": "Pregnancy complications",
+      "url": "https://www.nhs.uk/pregnancy/complications/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about itching in pregnancy, including how you can treat it yourself and when itching needs to be checked by a GP."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Itching in pregnancy"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about itching in pregnancy, including how you can treat it yourself and when itching needs to be checked by a GP."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "17 Aug 2026, 4:17 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "8 Dec 2020, 5:10 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "intrahepatic cholestasis of pregnancy (ICP)"
+        ],
+        "name": "Itching in pregnancy"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/",
+              "genre": [],
+              "name": "Pregnancy"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/complications/",
+              "genre": [],
+              "name": "Pregnancy complications"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Itching in pregnancy"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-17T15:17:16+00:00",
+      "description": "Find out about itching in pregnancy, including how you can treat it yourself and when itching needs to be checked by a GP.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Itching in pregnancy is not usually caused by anything serious, but it can sometimes be a sign of a liver condition that needs treatment.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Itching in pregnancy",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itching in pregnancy",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Itching in pregnancy",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Itching in pregnancy can be caused by your skin stretching and hormone changes. Intense itching can be caused by a pregnancy liver condition.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can help relieve itchy skin in pregnancy by using moisturisers, having cool baths or showers and wearing natural fibres like cotton.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatments for itching in pregnancy from a GP, midwife or pharmacist include skin creams or antihistamine tablets that are safe to use in pregnancy.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Itching in pregnancy can be caused by your skin stretching and hormone changes. Intense itching can be caused by a pregnancy liver condition.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Itching in pregnancy is common. It can be caused by changes to hormone levels and your skin stretching as your baby grows.</p><p>The itching usually stops after you've had your baby.</p><p>Itching in pregnancy can sometimes be caused by a liver condition called intrahepatic cholestasis of pregnancy (ICP). ICP can be serious and needs to be treated with medicine.</p>"
+            }
+          ],
+          "headline": "Causes of itching in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n You’re pregnant and have itchy skin, and:\n</p>\n<ul>\n<li>\n  the itchy skin is affecting your daily life\n </li>\n<li>\n  it does not get better after treatment from a pharmacist, or it keeps coming back\n </li>\n<li>\n  you have\n  <a href=\"/conditions/atopic-eczema/\">\n   eczema\n  </a>\n  – this can get worse in pregnancy\n </li>\n<li>\n  you have a new rash, lump or swelling\n </li>\n</ul>\n<p>\n These symptoms are usually not harmful in pregnancy, but a GP can offer advice and treatment.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get urgent medical help now if:",
+              "identifier": "urgent",
+              "text": "<p>\n You’re pregnant and:\n</p>\n<ul>\n<li>\n  you have very itchy skin – for example, it keeps you awake at night\n </li>\n<li>\n  the palms of your hands or soles of your feet are itchy\n </li>\n<li>\n  the itching is worse at night\n </li>\n</ul>\n<p>\n These could be signs of intrahepatic cholestasis of pregnancy (ICP) that needs urgent treatment.\n</p>\n<p>\n Call your maternity unit if have the phone number.\n</p>\n<p>\n If you cannot contact your maternity unit, call 111.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can help relieve itchy skin in pregnancy by using moisturisers, having cool baths or showers and wearing natural fibres like cotton.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are things you can do to help ease the itching and prevent damage to your skin from scratching.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>try to pat or tap your skin instead of scratching it</p></li><li><p>have cool or warm (not hot) baths or showers</p></li><li><p>use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> on your skin regularly</p></li><li><p>keep your nails short to avoid damaging your skin if you scratch</p></li><li><p>wear loose clothing made from natural fibres like cotton</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not spend longer than 20 minutes in the bath or shower</p></li><li><p>do not use perfumed soaps, deodorants or moisturisers</p></li><li><p>do not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with itching in pregnancy",
+              "text": "<p>A pharmacist can:</p><ul><li>suggest creams and lotions that are safe to use for itchy skin in pregnancy</li><li>suggest antihistamine medicines you can buy that are safe to use in pregnancy</li><li>suggest things you can do to ease the itching</li><li>tell you if they think you need to see a GP or midwife</li></ul><p>Tell the pharmacist you’re pregnant, where the itching is on your body and if you have any other symptoms.</p>"
+            }
+          ],
+          "headline": "How to treat itchy skin yourself",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for itching in pregnancy from a GP, midwife or pharmacist include skin creams or antihistamine tablets that are safe to use in pregnancy.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatments for itching in pregnancy include:</p><ul><li><a href=\"/medicines/antihistamines/\">antihistamine tablets</a> – some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night</li><li><a href=\"/tests-and-treatments/emollients/\">emollients</a> – moisturising creams you put on your skin to soothe it and stop it drying out</li><li><a href=\"/medicines/steroids/\">steroid cream</a></li></ul><p>If your symptoms are very bad you may be referred to a doctor who specialises in skin problems (dermatologist), or a maternity unit if you have symptoms of ICP.</p><h3>Treating intrahepatic cholestasis of pregnancy (ICP)</h3><p>If you have ICP, a care plan will be agreed with you to keep you and your baby as healthy as possible. As part of the plan, you’ll be offered extra appointments to check the health of you and your baby.</p><p>You’ll also be offered medicines to treat your liver and help reduce the itching.</p><p>If you have ICP, there’s a small risk your baby may be born early (before 37 weeks). There is also a small risk of stillbirth if ICP is severe. Your care team can discuss with you any risk to your pregnancy.</p><p>Your midwife and doctor may suggest starting labour early to reduce the risk. Find out about <a href=\"/pregnancy/labour-and-birth/inducing-labour/\">inducing labour</a>.</p><p>Most people with ICP will make a full recovery and have a healthy birth.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Further information</h3><ul><li><a href=\"https://liveruk.org/about-liver-disease/conditions/intrahepatic-cholestasis-of-pregnancy-icp/\">Liver UK: intrahepatic cholestasis of pregnancy</a></li></ul>"
+            }
+          ],
+          "headline": "Treatments from a GP or midwife",
+          "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/#medical-treatments"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-02-24T21:32:00+00:00",
+        "2029-02-24T21:32:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Itching in pregnancy",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Pregnancy complications",
+          "position": 0,
+          "url": "https://www.nhs.uk/pregnancy/complications/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of itching in pregnancy",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of itching in pregnancy"
+        }
+      ],
+      "text": "Causes of itching in pregnancy\nItching in pregnancy is common. It can be caused by changes to hormone levels and your skin stretching as your baby grows.\nThe itching usually stops after you've had your baby.\nItching in pregnancy can sometimes be caused by a liver condition called intrahepatic cholestasis of pregnancy (ICP). ICP can be serious and needs to be treated with medicine.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of itching in pregnancy</h2>\n<p data-block-key=\"37869\">Itching in pregnancy is common. It can be caused by changes to hormone levels and your skin stretching as your baby grows.</p><p data-block-key=\"arcph\">The itching usually stops after you've had your baby.</p><p data-block-key=\"4un99\">Itching in pregnancy can sometimes be caused by a liver condition called intrahepatic cholestasis of pregnancy (ICP). ICP can be serious and needs to be treated with medicine.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nYou’re pregnant and have itchy skin, and:\nthe itchy skin is affecting your daily life\nit does not get better after treatment from a pharmacist, or it keeps coming back\nyou have\neczema\n– this can get worse in pregnancy\nyou have a new rash, lump or swelling\nThese symptoms are usually not harmful in pregnancy, but a GP can offer advice and treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the itchy skin is affecting your daily life",
+            "it does not get better after treatment from a pharmacist, or it keeps coming back",
+            "you have\neczema\n– this can get worse in pregnancy",
+            "you have a new rash, lump or swelling"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "eczema",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"0p3cr\">You’re pregnant and have itchy skin, and:</p><ul><li data-block-key=\"2b2a0\">the itchy skin is affecting your daily life</li><li data-block-key=\"2f39b\">it does not get better after treatment from a pharmacist, or it keeps coming back</li><li data-block-key=\"cvie5\">you have <a href=\"/conditions/atopic-eczema/\">eczema</a> – this can get worse in pregnancy</li><li data-block-key=\"33tlr\">you have a new rash, lump or swelling</li></ul><p data-block-key=\"e9qa3\">These symptoms are usually not harmful in pregnancy, but a GP can offer advice and treatment.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Get urgent medical help now if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Get urgent medical help now if:"
+        }
+      ],
+      "text": "Urgent advice:\nGet urgent medical help now if:\nYou’re pregnant and:\nyou have very itchy skin – for example, it keeps you awake at night\nthe palms of your hands or soles of your feet are itchy\nthe itching is worse at night\nThese could be signs of intrahepatic cholestasis of pregnancy (ICP) that needs urgent treatment.\nCall your maternity unit if have the phone number.\nIf you cannot contact your maternity unit, call 111.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have very itchy skin – for example, it keeps you awake at night",
+            "the palms of your hands or soles of your feet are itchy",
+            "the itching is worse at night"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get urgent medical help now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dqlmk\">You’re pregnant and:</p><ul><li data-block-key=\"f8in7\">you have very itchy skin – for example, it keeps you awake at night</li><li data-block-key=\"4r0pe\">the palms of your hands or soles of your feet are itchy</li><li data-block-key=\"3nvt0\">the itching is worse at night</li></ul><p data-block-key=\"44mgc\">These could be signs of intrahepatic cholestasis of pregnancy (ICP) that needs urgent treatment.</p><p data-block-key=\"7m4tq\">Call your maternity unit if have the phone number.</p><p data-block-key=\"amk51\">If you cannot contact your maternity unit, call 111.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "How to treat itchy skin yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to treat itchy skin yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h3",
+          "text": "A pharmacist can help with itching in pregnancy"
+        }
+      ],
+      "text": "How to treat itchy skin yourself\nThere are things you can do to help ease the itching and prevent damage to your skin from scratching.\nDo\ntry to pat or tap your skin instead of scratching it\nhave cool or warm (not hot) baths or showers\nuse an unperfumed moisturiser or\nemollient\non your skin regularly\nkeep your nails short to avoid damaging your skin if you scratch\nwear loose clothing made from natural fibres like cotton\nDon’t\ndo not spend longer than 20 minutes in the bath or shower\ndo not use perfumed soaps, deodorants or moisturisers\ndo not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy\nA pharmacist can help with itching in pregnancy\nA pharmacist can:\nsuggest creams and lotions that are safe to use for itchy skin in pregnancy\nsuggest antihistamine medicines you can buy that are safe to use in pregnancy\nsuggest things you can do to ease the itching\ntell you if they think you need to see a GP or midwife\nTell the pharmacist you’re pregnant, where the itching is on your body and if you have any other symptoms.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "try to pat or tap your skin instead of scratching it",
+            "have cool or warm (not hot) baths or showers",
+            "use an unperfumed moisturiser or\nemollient\non your skin regularly",
+            "keep your nails short to avoid damaging your skin if you scratch",
+            "wear loose clothing made from natural fibres like cotton"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not spend longer than 20 minutes in the bath or shower",
+            "do not use perfumed soaps, deodorants or moisturisers",
+            "do not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "suggest creams and lotions that are safe to use for itchy skin in pregnancy",
+            "suggest antihistamine medicines you can buy that are safe to use in pregnancy",
+            "suggest things you can do to ease the itching",
+            "tell you if they think you need to see a GP or midwife"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "emollient",
+          "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to treat itchy skin yourself</h2>\n<p data-block-key=\"54nh2\">There are things you can do to help ease the itching and prevent damage to your skin from scratching.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"by7x1\">try to pat or tap your skin instead of scratching it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">have cool or warm (not hot) baths or showers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> on your skin regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">keep your nails short to avoid damaging your skin if you scratch</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">wear loose clothing made from natural fibres like cotton</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4hhcl\">do not spend longer than 20 minutes in the bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"bpq2a\">do not use perfumed soaps, deodorants or moisturisers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"bpq2a\">do not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"eyb4u\">A pharmacist can help with itching in pregnancy</h3><p data-block-key=\"8naue\">A pharmacist can:</p><ul><li data-block-key=\"chd93\">suggest creams and lotions that are safe to use for itchy skin in pregnancy</li><li data-block-key=\"a7kan\">suggest antihistamine medicines you can buy that are safe to use in pregnancy</li><li data-block-key=\"1k43m\">suggest things you can do to ease the itching</li><li data-block-key=\"5oe5n\">tell you if they think you need to see a GP or midwife</li></ul><p data-block-key=\"et9pe\">Tell the pharmacist you’re pregnant, where the itching is on your body and if you have any other symptoms.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments from a GP or midwife",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments from a GP or midwife"
+        },
+        {
+          "level": "h3",
+          "text": "Treating intrahepatic cholestasis of pregnancy (ICP)"
+        },
+        {
+          "level": "h3",
+          "text": "Further information"
+        }
+      ],
+      "text": "Treatments from a GP or midwife\nTreatments for itching in pregnancy include:\nantihistamine tablets\n– some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night\nemollients\n– moisturising creams you put on your skin to soothe it and stop it drying out\nsteroid cream\nIf your symptoms are very bad you may be referred to a doctor who specialises in skin problems (dermatologist), or a maternity unit if you have symptoms of ICP.\nTreating intrahepatic cholestasis of pregnancy (ICP)\nIf you have ICP, a care plan will be agreed with you to keep you and your baby as healthy as possible. As part of the plan, you’ll be offered extra appointments to check the health of you and your baby.\nYou’ll also be offered medicines to treat your liver and help reduce the itching.\nIf you have ICP, there’s a small risk your baby may be born early (before 37 weeks). There is also a small risk of stillbirth if ICP is severe. Your care team can discuss with you any risk to your pregnancy.\nYour midwife and doctor may suggest starting labour early to reduce the risk. Find out about\ninducing labour\n.\nMost people with ICP will make a full recovery and have a healthy birth.\nInformation:\nFurther information\nLiver UK: intrahepatic cholestasis of pregnancy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "antihistamine tablets\n– some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night",
+            "emollients\n– moisturising creams you put on your skin to soothe it and stop it drying out",
+            "steroid cream"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Liver UK: intrahepatic cholestasis of pregnancy"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "antihistamine tablets",
+          "url": "https://www.nhs.uk/medicines/antihistamines/"
+        },
+        {
+          "text": "emollients",
+          "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+        },
+        {
+          "text": "steroid cream",
+          "url": "https://www.nhs.uk/medicines/steroids/"
+        },
+        {
+          "text": "inducing labour",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/"
+        },
+        {
+          "text": "Liver UK: intrahepatic cholestasis of pregnancy",
+          "url": "https://liveruk.org/about-liver-disease/conditions/intrahepatic-cholestasis-of-pregnancy-icp/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments from a GP or midwife</h2>\n<p data-block-key=\"7jvc9\">Treatments for itching in pregnancy include:</p><ul><li data-block-key=\"6g971\"><a href=\"/medicines/antihistamines/\">antihistamine tablets</a> – some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night</li><li data-block-key=\"6jvkt\"><a href=\"/tests-and-treatments/emollients/\">emollients</a> – moisturising creams you put on your skin to soothe it and stop it drying out</li><li data-block-key=\"e9vur\"><a href=\"/medicines/steroids/\">steroid cream</a></li></ul><p data-block-key=\"87mdo\">If your symptoms are very bad you may be referred to a doctor who specialises in skin problems (dermatologist), or a maternity unit if you have symptoms of ICP.</p><h3 data-block-key=\"9e4qf\">Treating intrahepatic cholestasis of pregnancy (ICP)</h3><p data-block-key=\"founa\">If you have ICP, a care plan will be agreed with you to keep you and your baby as healthy as possible. As part of the plan, you’ll be offered extra appointments to check the health of you and your baby.</p><p data-block-key=\"ehtfo\">You’ll also be offered medicines to treat your liver and help reduce the itching.</p><p data-block-key=\"fld0q\">If you have ICP, there’s a small risk your baby may be born early (before 37 weeks). There is also a small risk of stillbirth if ICP is severe. Your care team can discuss with you any risk to your pregnancy.</p><p data-block-key=\"dun26\">Your midwife and doctor may suggest starting labour early to reduce the risk. Find out about <a href=\"/pregnancy/labour-and-birth/inducing-labour/\">inducing labour</a>.</p><p data-block-key=\"fcg8p\">Most people with ICP will make a full recovery and have a healthy birth.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"cocay\">Further information</h3><ul><li data-block-key=\"8glrp\"><a href=\"https://liveruk.org/about-liver-disease/conditions/intrahepatic-cholestasis-of-pregnancy-icp/\">Liver UK: intrahepatic cholestasis of pregnancy</a></li></ul>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n</section>"
+    }
+  ],
+  "page_text": "Causes of itching in pregnancy\nItching in pregnancy is common. It can be caused by changes to hormone levels and your skin stretching as your baby grows.\nThe itching usually stops after you've had your baby.\nItching in pregnancy can sometimes be caused by a liver condition called intrahepatic cholestasis of pregnancy (ICP). ICP can be serious and needs to be treated with medicine.\nNon-urgent advice:\nSee a GP if:\nYou’re pregnant and have itchy skin, and:\nthe itchy skin is affecting your daily life\nit does not get better after treatment from a pharmacist, or it keeps coming back\nyou have\neczema\n– this can get worse in pregnancy\nyou have a new rash, lump or swelling\nThese symptoms are usually not harmful in pregnancy, but a GP can offer advice and treatment.\nUrgent advice:\nGet urgent medical help now if:\nYou’re pregnant and:\nyou have very itchy skin – for example, it keeps you awake at night\nthe palms of your hands or soles of your feet are itchy\nthe itching is worse at night\nThese could be signs of intrahepatic cholestasis of pregnancy (ICP) that needs urgent treatment.\nCall your maternity unit if have the phone number.\nIf you cannot contact your maternity unit, call 111.\nHow to treat itchy skin yourself\nThere are things you can do to help ease the itching and prevent damage to your skin from scratching.\nDo\ntry to pat or tap your skin instead of scratching it\nhave cool or warm (not hot) baths or showers\nuse an unperfumed moisturiser or\nemollient\non your skin regularly\nkeep your nails short to avoid damaging your skin if you scratch\nwear loose clothing made from natural fibres like cotton\nDon’t\ndo not spend longer than 20 minutes in the bath or shower\ndo not use perfumed soaps, deodorants or moisturisers\ndo not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy\nA pharmacist can help with itching in pregnancy\nA pharmacist can:\nsuggest creams and lotions that are safe to use for itchy skin in pregnancy\nsuggest antihistamine medicines you can buy that are safe to use in pregnancy\nsuggest things you can do to ease the itching\ntell you if they think you need to see a GP or midwife\nTell the pharmacist you’re pregnant, where the itching is on your body and if you have any other symptoms.\nTreatments from a GP or midwife\nTreatments for itching in pregnancy include:\nantihistamine tablets\n– some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night\nemollients\n– moisturising creams you put on your skin to soothe it and stop it drying out\nsteroid cream\nIf your symptoms are very bad you may be referred to a doctor who specialises in skin problems (dermatologist), or a maternity unit if you have symptoms of ICP.\nTreating intrahepatic cholestasis of pregnancy (ICP)\nIf you have ICP, a care plan will be agreed with you to keep you and your baby as healthy as possible. As part of the plan, you’ll be offered extra appointments to check the health of you and your baby.\nYou’ll also be offered medicines to treat your liver and help reduce the itching.\nIf you have ICP, there’s a small risk your baby may be born early (before 37 weeks). There is also a small risk of stillbirth if ICP is severe. Your care team can discuss with you any risk to your pregnancy.\nYour midwife and doctor may suggest starting labour early to reduce the risk. Find out about\ninducing labour\n.\nMost people with ICP will make a full recovery and have a healthy birth.\nInformation:\nFurther information\nLiver UK: intrahepatic cholestasis of pregnancy",
+  "links": [
+    {
+      "text": "eczema",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+    },
+    {
+      "text": "emollient",
+      "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+    },
+    {
+      "text": "antihistamine tablets",
+      "url": "https://www.nhs.uk/medicines/antihistamines/"
+    },
+    {
+      "text": "emollients",
+      "url": "https://www.nhs.uk/tests-and-treatments/emollients/"
+    },
+    {
+      "text": "steroid cream",
+      "url": "https://www.nhs.uk/medicines/steroids/"
+    },
+    {
+      "text": "inducing labour",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/"
+    },
+    {
+      "text": "Liver UK: intrahepatic cholestasis of pregnancy",
+      "url": "https://liveruk.org/about-liver-disease/conditions/intrahepatic-cholestasis-of-pregnancy-icp/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of itching in pregnancy</h2>\n<p data-block-key=\"37869\">Itching in pregnancy is common. It can be caused by changes to hormone levels and your skin stretching as your baby grows.</p><p data-block-key=\"arcph\">The itching usually stops after you've had your baby.</p><p data-block-key=\"4un99\">Itching in pregnancy can sometimes be caused by a liver condition called intrahepatic cholestasis of pregnancy (ICP). ICP can be serious and needs to be treated with medicine.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"0p3cr\">You’re pregnant and have itchy skin, and:</p><ul><li data-block-key=\"2b2a0\">the itchy skin is affecting your daily life</li><li data-block-key=\"2f39b\">it does not get better after treatment from a pharmacist, or it keeps coming back</li><li data-block-key=\"cvie5\">you have <a href=\"/conditions/atopic-eczema/\">eczema</a> – this can get worse in pregnancy</li><li data-block-key=\"33tlr\">you have a new rash, lump or swelling</li></ul><p data-block-key=\"e9qa3\">These symptoms are usually not harmful in pregnancy, but a GP can offer advice and treatment.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get urgent medical help now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dqlmk\">You’re pregnant and:</p><ul><li data-block-key=\"f8in7\">you have very itchy skin – for example, it keeps you awake at night</li><li data-block-key=\"4r0pe\">the palms of your hands or soles of your feet are itchy</li><li data-block-key=\"3nvt0\">the itching is worse at night</li></ul><p data-block-key=\"44mgc\">These could be signs of intrahepatic cholestasis of pregnancy (ICP) that needs urgent treatment.</p><p data-block-key=\"7m4tq\">Call your maternity unit if have the phone number.</p><p data-block-key=\"amk51\">If you cannot contact your maternity unit, call 111.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How to treat itchy skin yourself</h2>\n<p data-block-key=\"54nh2\">There are things you can do to help ease the itching and prevent damage to your skin from scratching.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"by7x1\">try to pat or tap your skin instead of scratching it</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">have cool or warm (not hot) baths or showers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">use an unperfumed moisturiser or <a href=\"/tests-and-treatments/emollients/\">emollient</a> on your skin regularly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">keep your nails short to avoid damaging your skin if you scratch</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"yv3fm\">wear loose clothing made from natural fibres like cotton</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"4hhcl\">do not spend longer than 20 minutes in the bath or shower</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"bpq2a\">do not use perfumed soaps, deodorants or moisturisers</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"bpq2a\">do not have too much spicy food or drinks that contain caffeine, such as tea or coffee, as these can make your skin feel more itchy</p>\n</li>\n</ul>\n</div>\n<h3 data-block-key=\"eyb4u\">A pharmacist can help with itching in pregnancy</h3><p data-block-key=\"8naue\">A pharmacist can:</p><ul><li data-block-key=\"chd93\">suggest creams and lotions that are safe to use for itchy skin in pregnancy</li><li data-block-key=\"a7kan\">suggest antihistamine medicines you can buy that are safe to use in pregnancy</li><li data-block-key=\"1k43m\">suggest things you can do to ease the itching</li><li data-block-key=\"5oe5n\">tell you if they think you need to see a GP or midwife</li></ul><p data-block-key=\"et9pe\">Tell the pharmacist you’re pregnant, where the itching is on your body and if you have any other symptoms.</p>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments from a GP or midwife</h2>\n<p data-block-key=\"7jvc9\">Treatments for itching in pregnancy include:</p><ul><li data-block-key=\"6g971\"><a href=\"/medicines/antihistamines/\">antihistamine tablets</a> – some types of antihistamine can also help you sleep if itchy skin is keeping you awake at night</li><li data-block-key=\"6jvkt\"><a href=\"/tests-and-treatments/emollients/\">emollients</a> – moisturising creams you put on your skin to soothe it and stop it drying out</li><li data-block-key=\"e9vur\"><a href=\"/medicines/steroids/\">steroid cream</a></li></ul><p data-block-key=\"87mdo\">If your symptoms are very bad you may be referred to a doctor who specialises in skin problems (dermatologist), or a maternity unit if you have symptoms of ICP.</p><h3 data-block-key=\"9e4qf\">Treating intrahepatic cholestasis of pregnancy (ICP)</h3><p data-block-key=\"founa\">If you have ICP, a care plan will be agreed with you to keep you and your baby as healthy as possible. As part of the plan, you’ll be offered extra appointments to check the health of you and your baby.</p><p data-block-key=\"ehtfo\">You’ll also be offered medicines to treat your liver and help reduce the itching.</p><p data-block-key=\"fld0q\">If you have ICP, there’s a small risk your baby may be born early (before 37 weeks). There is also a small risk of stillbirth if ICP is severe. Your care team can discuss with you any risk to your pregnancy.</p><p data-block-key=\"dun26\">Your midwife and doctor may suggest starting labour early to reduce the risk. Find out about <a href=\"/pregnancy/labour-and-birth/inducing-labour/\">inducing labour</a>.</p><p data-block-key=\"fcg8p\">Most people with ICP will make a full recovery and have a healthy birth.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"cocay\">Further information</h3><ul><li data-block-key=\"8glrp\"><a href=\"https://liveruk.org/about-liver-disease/conditions/intrahepatic-cholestasis-of-pregnancy-icp/\">Liver UK: intrahepatic cholestasis of pregnancy</a></li></ul>\n</div>\n</section>\n<section>\n</section>\n</div>\n</div>\n</article>"
+}

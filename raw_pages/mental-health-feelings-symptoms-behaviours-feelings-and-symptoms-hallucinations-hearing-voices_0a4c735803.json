@@ -1,0 +1,577 @@
+{
+  "requested_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+  "final_url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:48.240838+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "H",
+      "label": "Hallucinations and hearing voices",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "H",
+      "label": "Hearing voices, see Hallucinations and hearing voices",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Hallucinations and hearing voices",
+  "meta_description": "Find out about hallucinations and hearing voices, including signs, causes and treatments.",
+  "review_dates": {
+    "page_last_reviewed": "28 July 2025",
+    "next_review_due": "28 July 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.nhs.uk/mental-health/"
+    },
+    {
+      "text": "Feelings, symptoms and behaviours",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/"
+    },
+    {
+      "text": "Feelings and symptoms",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about hallucinations and hearing voices, including signs, causes and treatments."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Hallucinations and hearing voices"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about hallucinations and hearing voices, including signs, causes and treatments."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "19 May 2026, 3:25 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Feb 2021, 11:47 a.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Hearing voices"
+        ],
+        "name": "Hallucinations and hearing voices"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/",
+              "genre": [],
+              "name": "Mental health"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/",
+              "genre": [],
+              "name": "Feelings, symptoms and behaviours"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Feelings and symptoms"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Hallucinations and hearing voices"
+            },
+            "position": 3
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-19T14:25:10+00:00",
+      "description": "Find out about hallucinations and hearing voices, including signs, causes and treatments.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hallucinations are where you hear, see, smell, taste or feel things that appear to be real but only exist in your mind.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Hallucinations and hearing voices",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hallucinations and hearing voices",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Hallucinations and hearing voices",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You may have hallucinations if you hear sounds or voices that nobody else hears, or see, feel, smell or taste things that are not there.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Hallucinations can be caused by many things, such as schizophrenia, drugs, Alzheimer's disease, anxiety and depression.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for hallucinations depends on the cause. Things that can help include medicines, therapy and lifestyle changes.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You may have hallucinations if you hear sounds or voices that nobody else hears, or see, feel, smell or taste things that are not there.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>You may have hallucinations if you:</p><ul><li>hear sounds or voices that nobody else hears</li><li>see things that are not there like objects, shapes, people or lights</li><li>feel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around</li><li>smell or taste things that have no obvious cause</li><li>think that your body is moving when it is not, such as flying or floating</li></ul>"
+            }
+          ],
+          "headline": "Types of hallucinations",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Hallucinations can be caused by many things, such as schizophrenia, drugs, Alzheimer's disease, anxiety and depression.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Hallucinations can be caused by many different health conditions that affect the senses.</p><p>Common causes of hallucinations include:</p><ul><li>mental health conditions like <a href=\"/mental-health/conditions/schizophrenia/\">schizophrenia</a> or <a href=\"/mental-health/conditions/bipolar-disorder/\">bipolar disorder</a></li><li>drugs and alcohol</li><li>dementia, including <a href=\"/conditions/alzheimers-disease/\">Alzheimer's disease</a> or <a href=\"/conditions/dementia-with-lewy-bodies/\">dementia with Lewy bodies</a></li><li><a href=\"/conditions/parkinsons-disease/\">Parkinson's disease</a></li><li>a change or loss of vision, such as <a href=\"/conditions/charles-bonnet-syndrome/\">Charles Bonnet syndrome</a></li><li>severe <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a> or <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post traumatic stress disorder (PTSD)</a></li><li>side effect from medicines</li><li>after surgery and anaesthesia</li></ul><p>Sometimes hallucinations can be temporary. They can happen if you have migraines, a high temperature, if you're very hungry or sleep deprived, or just as you wake up or fall asleep.</p><p>They can also be caused by an infection, <a href=\"/conditions/brain-tumours/\">brain tumour</a> or <a href=\"/symptoms/confusion/\">confusion (delirium)</a>, especially in older people.</p>"
+            }
+          ],
+          "headline": "Causes of hallucinations",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you or someone else have hallucinations\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E now if:",
+              "identifier": "immediate",
+              "text": "<p>\n You or someone else:\n</p>\n<ul>\n<li>\n  want to harm yourself or someone else\n </li>\n<li>\n  hear voices telling you to harm yourself or someone else\n </li>\n<li>\n  are very agitated or aggressive\n </li>\n<li>\n  have hallucinations that are quickly getting worse\n </li>\n<li>\n  suddenly become confused\n </li>\n<li>\n  are not making sense when you speak\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for hallucinations depends on the cause. Things that can help include medicines, therapy and lifestyle changes.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for hallucinations will depend on what's causing it.</p><p>For example, if you have a mental health condition like schizophrenia, you may be given therapy or medicine to help reduce your hallucinations.</p><p>A GP may recommend lifestyle changes like drinking less alcohol, not taking drugs and getting more sleep to reduce your hallucinations.</p>"
+            }
+          ],
+          "headline": "Treatment for hallucinations",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/#medical-treatments"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-07-27T23:00:00+00:00",
+        "2028-07-27T23:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Hallucinations and hearing voices",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Feelings and symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Types of hallucinations",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Types of hallucinations"
+        }
+      ],
+      "text": "Types of hallucinations\nYou may have hallucinations if you:\nhear sounds or voices that nobody else hears\nsee things that are not there like objects, shapes, people or lights\nfeel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around\nsmell or taste things that have no obvious cause\nthink that your body is moving when it is not, such as flying or floating",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "hear sounds or voices that nobody else hears",
+            "see things that are not there like objects, shapes, people or lights",
+            "feel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around",
+            "smell or taste things that have no obvious cause",
+            "think that your body is moving when it is not, such as flying or floating"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Types of hallucinations</h2>\n<p data-block-key=\"137p2\">You may have hallucinations if you:</p><ul><li data-block-key=\"f2slq\">hear sounds or voices that nobody else hears</li><li data-block-key=\"41olh\">see things that are not there like objects, shapes, people or lights</li><li data-block-key=\"85ium\">feel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around</li><li data-block-key=\"d08ei\">smell or taste things that have no obvious cause</li><li data-block-key=\"ag4p0\">think that your body is moving when it is not, such as flying or floating</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of hallucinations",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of hallucinations"
+        }
+      ],
+      "text": "Causes of hallucinations\nHallucinations can be caused by many different health conditions that affect the senses.\nCommon causes of hallucinations include:\nmental health conditions like\nschizophrenia\nor\nbipolar disorder\ndrugs and alcohol\ndementia, including\nAlzheimer's disease\nor\ndementia with Lewy bodies\nParkinson's disease\na change or loss of vision, such as\nCharles Bonnet syndrome\nsevere\ndepression\nor\npost traumatic stress disorder (PTSD)\nside effect from medicines\nafter surgery and anaesthesia\nSometimes hallucinations can be temporary. They can happen if you have migraines, a high temperature, if you're very hungry or sleep deprived, or just as you wake up or fall asleep.\nThey can also be caused by an infection,\nbrain tumour\nor\nconfusion (delirium)\n, especially in older people.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "mental health conditions like\nschizophrenia\nor\nbipolar disorder",
+            "drugs and alcohol",
+            "dementia, including\nAlzheimer's disease\nor\ndementia with Lewy bodies",
+            "Parkinson's disease",
+            "a change or loss of vision, such as\nCharles Bonnet syndrome",
+            "severe\ndepression\nor\npost traumatic stress disorder (PTSD)",
+            "side effect from medicines",
+            "after surgery and anaesthesia"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "schizophrenia",
+          "url": "https://www.nhs.uk/mental-health/conditions/schizophrenia/"
+        },
+        {
+          "text": "bipolar disorder",
+          "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"
+        },
+        {
+          "text": "Alzheimer's disease",
+          "url": "https://www.nhs.uk/conditions/alzheimers-disease/"
+        },
+        {
+          "text": "dementia with Lewy bodies",
+          "url": "https://www.nhs.uk/conditions/dementia-with-lewy-bodies/"
+        },
+        {
+          "text": "Parkinson's disease",
+          "url": "https://www.nhs.uk/conditions/parkinsons-disease/"
+        },
+        {
+          "text": "Charles Bonnet syndrome",
+          "url": "https://www.nhs.uk/conditions/charles-bonnet-syndrome/"
+        },
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"
+        },
+        {
+          "text": "post traumatic stress disorder (PTSD)",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+        },
+        {
+          "text": "brain tumour",
+          "url": "https://www.nhs.uk/conditions/brain-tumours/"
+        },
+        {
+          "text": "confusion (delirium)",
+          "url": "https://www.nhs.uk/symptoms/confusion/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of hallucinations</h2>\n<p data-block-key=\"137p2\">Hallucinations can be caused by many different health conditions that affect the senses.</p><p data-block-key=\"69s6p\">Common causes of hallucinations include:</p><ul><li data-block-key=\"1cqg\">mental health conditions like <a href=\"/mental-health/conditions/schizophrenia/\">schizophrenia</a> or <a href=\"/mental-health/conditions/bipolar-disorder/\">bipolar disorder</a></li><li data-block-key=\"5t1pm\">drugs and alcohol</li><li data-block-key=\"5h2dc\">dementia, including <a href=\"/conditions/alzheimers-disease/\">Alzheimer's disease</a> or <a href=\"/conditions/dementia-with-lewy-bodies/\">dementia with Lewy bodies</a></li><li data-block-key=\"efdue\"><a href=\"/conditions/parkinsons-disease/\">Parkinson's disease</a></li><li data-block-key=\"a3f6v\">a change or loss of vision, such as <a href=\"/conditions/charles-bonnet-syndrome/\">Charles Bonnet syndrome</a></li><li data-block-key=\"v42b\">severe <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a> or <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post traumatic stress disorder (PTSD)</a></li><li data-block-key=\"6smv5\">side effect from medicines</li><li data-block-key=\"1lq94\">after surgery and anaesthesia</li></ul><p data-block-key=\"5vcop\">Sometimes hallucinations can be temporary. They can happen if you have migraines, a high temperature, if you're very hungry or sleep deprived, or just as you wake up or fall asleep.</p><p data-block-key=\"9emm8\">They can also be caused by an infection, <a href=\"/conditions/brain-tumours/\">brain tumour</a> or <a href=\"/symptoms/confusion/\">confusion (delirium)</a>, especially in older people.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou or someone else have hallucinations\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you or someone else have hallucinations"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"fl67v\">you or someone else have hallucinations</li></ul><p data-block-key=\"bbm69\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Immediate action required: Call 999 or go to A&E now if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E now if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E now if:\nYou or someone else:\nwant to harm yourself or someone else\nhear voices telling you to harm yourself or someone else\nare very agitated or aggressive\nhave hallucinations that are quickly getting worse\nsuddenly become confused\nare not making sense when you speak\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "want to harm yourself or someone else",
+            "hear voices telling you to harm yourself or someone else",
+            "are very agitated or aggressive",
+            "have hallucinations that are quickly getting worse",
+            "suddenly become confused",
+            "are not making sense when you speak"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"fl67v\">You or someone else:</p><ul><li data-block-key=\"bgiii\">want to harm yourself or someone else</li><li data-block-key=\"2f2ij\">hear voices telling you to harm yourself or someone else</li><li data-block-key=\"819su\">are very agitated or aggressive</li><li data-block-key=\"fbkuo\">have hallucinations that are quickly getting worse</li><li data-block-key=\"fk6ne\">suddenly become confused</li><li data-block-key=\"1l0uh\">are not making sense when you speak</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for hallucinations",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for hallucinations"
+        }
+      ],
+      "text": "Treatment for hallucinations\nTreatment for hallucinations will depend on what's causing it.\nFor example, if you have a mental health condition like schizophrenia, you may be given therapy or medicine to help reduce your hallucinations.\nA GP may recommend lifestyle changes like drinking less alcohol, not taking drugs and getting more sleep to reduce your hallucinations.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for hallucinations</h2>\n<p data-block-key=\"137p2\">Treatment for hallucinations will depend on what's causing it.</p><p data-block-key=\"6r5gl\">For example, if you have a mental health condition like schizophrenia, you may be given therapy or medicine to help reduce your hallucinations.</p><p data-block-key=\"5rlcu\">A GP may recommend lifestyle changes like drinking less alcohol, not taking drugs and getting more sleep to reduce your hallucinations.</p>\n</section>"
+    }
+  ],
+  "page_text": "Types of hallucinations\nYou may have hallucinations if you:\nhear sounds or voices that nobody else hears\nsee things that are not there like objects, shapes, people or lights\nfeel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around\nsmell or taste things that have no obvious cause\nthink that your body is moving when it is not, such as flying or floating\nCauses of hallucinations\nHallucinations can be caused by many different health conditions that affect the senses.\nCommon causes of hallucinations include:\nmental health conditions like\nschizophrenia\nor\nbipolar disorder\ndrugs and alcohol\ndementia, including\nAlzheimer's disease\nor\ndementia with Lewy bodies\nParkinson's disease\na change or loss of vision, such as\nCharles Bonnet syndrome\nsevere\ndepression\nor\npost traumatic stress disorder (PTSD)\nside effect from medicines\nafter surgery and anaesthesia\nSometimes hallucinations can be temporary. They can happen if you have migraines, a high temperature, if you're very hungry or sleep deprived, or just as you wake up or fall asleep.\nThey can also be caused by an infection,\nbrain tumour\nor\nconfusion (delirium)\n, especially in older people.\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou or someone else have hallucinations\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E now if:\nYou or someone else:\nwant to harm yourself or someone else\nhear voices telling you to harm yourself or someone else\nare very agitated or aggressive\nhave hallucinations that are quickly getting worse\nsuddenly become confused\nare not making sense when you speak\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nTreatment for hallucinations\nTreatment for hallucinations will depend on what's causing it.\nFor example, if you have a mental health condition like schizophrenia, you may be given therapy or medicine to help reduce your hallucinations.\nA GP may recommend lifestyle changes like drinking less alcohol, not taking drugs and getting more sleep to reduce your hallucinations.",
+  "links": [
+    {
+      "text": "schizophrenia",
+      "url": "https://www.nhs.uk/mental-health/conditions/schizophrenia/"
+    },
+    {
+      "text": "bipolar disorder",
+      "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"
+    },
+    {
+      "text": "Alzheimer's disease",
+      "url": "https://www.nhs.uk/conditions/alzheimers-disease/"
+    },
+    {
+      "text": "dementia with Lewy bodies",
+      "url": "https://www.nhs.uk/conditions/dementia-with-lewy-bodies/"
+    },
+    {
+      "text": "Parkinson's disease",
+      "url": "https://www.nhs.uk/conditions/parkinsons-disease/"
+    },
+    {
+      "text": "Charles Bonnet syndrome",
+      "url": "https://www.nhs.uk/conditions/charles-bonnet-syndrome/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/"
+    },
+    {
+      "text": "post traumatic stress disorder (PTSD)",
+      "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/"
+    },
+    {
+      "text": "brain tumour",
+      "url": "https://www.nhs.uk/conditions/brain-tumours/"
+    },
+    {
+      "text": "confusion (delirium)",
+      "url": "https://www.nhs.uk/symptoms/confusion/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Types of hallucinations</h2>\n<p data-block-key=\"137p2\">You may have hallucinations if you:</p><ul><li data-block-key=\"f2slq\">hear sounds or voices that nobody else hears</li><li data-block-key=\"41olh\">see things that are not there like objects, shapes, people or lights</li><li data-block-key=\"85ium\">feel touch or movement in or on your body that is not real, for example, bugs crawling on your skin or your internal organs moving around</li><li data-block-key=\"d08ei\">smell or taste things that have no obvious cause</li><li data-block-key=\"ag4p0\">think that your body is moving when it is not, such as flying or floating</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of hallucinations</h2>\n<p data-block-key=\"137p2\">Hallucinations can be caused by many different health conditions that affect the senses.</p><p data-block-key=\"69s6p\">Common causes of hallucinations include:</p><ul><li data-block-key=\"1cqg\">mental health conditions like <a href=\"/mental-health/conditions/schizophrenia/\">schizophrenia</a> or <a href=\"/mental-health/conditions/bipolar-disorder/\">bipolar disorder</a></li><li data-block-key=\"5t1pm\">drugs and alcohol</li><li data-block-key=\"5h2dc\">dementia, including <a href=\"/conditions/alzheimers-disease/\">Alzheimer's disease</a> or <a href=\"/conditions/dementia-with-lewy-bodies/\">dementia with Lewy bodies</a></li><li data-block-key=\"efdue\"><a href=\"/conditions/parkinsons-disease/\">Parkinson's disease</a></li><li data-block-key=\"a3f6v\">a change or loss of vision, such as <a href=\"/conditions/charles-bonnet-syndrome/\">Charles Bonnet syndrome</a></li><li data-block-key=\"v42b\">severe <a href=\"/mental-health/conditions/depression-in-adults/\">depression</a> or <a href=\"/mental-health/conditions/ptsd-post-traumatic-stress-disorder/\">post traumatic stress disorder (PTSD)</a></li><li data-block-key=\"6smv5\">side effect from medicines</li><li data-block-key=\"1lq94\">after surgery and anaesthesia</li></ul><p data-block-key=\"5vcop\">Sometimes hallucinations can be temporary. They can happen if you have migraines, a high temperature, if you're very hungry or sleep deprived, or just as you wake up or fall asleep.</p><p data-block-key=\"9emm8\">They can also be caused by an infection, <a href=\"/conditions/brain-tumours/\">brain tumour</a> or <a href=\"/symptoms/confusion/\">confusion (delirium)</a>, especially in older people.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"fl67v\">you or someone else have hallucinations</li></ul><p data-block-key=\"bbm69\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"fl67v\">You or someone else:</p><ul><li data-block-key=\"bgiii\">want to harm yourself or someone else</li><li data-block-key=\"2f2ij\">hear voices telling you to harm yourself or someone else</li><li data-block-key=\"819su\">are very agitated or aggressive</li><li data-block-key=\"fbkuo\">have hallucinations that are quickly getting worse</li><li data-block-key=\"fk6ne\">suddenly become confused</li><li data-block-key=\"1l0uh\">are not making sense when you speak</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for hallucinations</h2>\n<p data-block-key=\"137p2\">Treatment for hallucinations will depend on what's causing it.</p><p data-block-key=\"6r5gl\">For example, if you have a mental health condition like schizophrenia, you may be given therapy or medicine to help reduce your hallucinations.</p><p data-block-key=\"5rlcu\">A GP may recommend lifestyle changes like drinking less alcohol, not taking drugs and getting more sleep to reduce your hallucinations.</p>\n</section>\n</div>\n</div>\n</article>"
+}

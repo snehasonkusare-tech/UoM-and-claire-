@@ -1,0 +1,664 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/back-pain/",
+  "final_url": "https://www.nhs.uk/conditions/back-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:44.421189+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Back pain",
+      "url": "https://www.nhs.uk/conditions/back-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Back pain",
+  "meta_description": "Find out how to relieve back pain, what can cause it and when to get medical advice.",
+  "review_dates": {
+    "page_last_reviewed": "05 March 2026",
+    "next_review_due": "05 March 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out how to relieve back pain, what can cause it and when to get medical advice."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/back-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBack pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out how to relieve back pain, what can cause it and when to get medical advice."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "14 Apr 2026, 10:05 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 2:38 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Back pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/back-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Back pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-14T09:05:15+00:00",
+      "description": "Find out how to relieve back pain, what can cause it and when to get medical advice.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Back pain can have many causes, including an injury like a strain. Sometimes conditions like sciatica or a slipped disc can cause back pain.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Back pain can have many causes. It's not always obvious what causes it, and it often gets better on its own.</p><p>A common cause of back pain is an injury like a pulled muscle (<a href=\"/conditions/sprains-and-strains/\">strain</a>).</p><p>Sometimes, medical conditions like a <a href=\"/conditions/slipped-disc/\">slipped disc</a>, <a href=\"/conditions/sciatica/\">sciatica</a> (a trapped nerve) or <a href=\"/conditions/ankylosing-spondylitis/\">ankylosing spondylitis</a> can cause back pain.</p><p>Very rarely, back pain can be a sign of a serious problem such as a broken bone, cancer or an infection.</p>"
+            }
+          ],
+          "headline": "Causes of back pain",
+          "url": "https://www.nhs.uk/conditions/back-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n You have back pain and:\n</p>\n<ul>\n<li>\n  it does not improve after treating it at home for a few weeks\n </li>\n<li>\n  it's stopping you doing your day-to-day activities\n </li>\n<li>\n  you're worried about the pain or you're struggling to cope\n </li>\n<li>\n  you've lost weight without trying to\n </li>\n<li>\n  there's a lump or swelling in your back, or your back has changed shape\n </li>\n<li>\n  it does not improve after resting or is worse at night\n </li>\n<li>\n  it's worse when sneezing, coughing or pooing\n </li>\n<li>\n  it's coming from the top of your back (between your shoulders), rather than your lower back\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/back-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You have back pain and:\n</p>\n<ul>\n<li>\n  you feel hot, cold, shivery or generally unwell\n </li>\n<li>\n  it's severe pain that starts suddenly, or it's getting worse quickly\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/back-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if:",
+              "identifier": "immediate",
+              "text": "<p>\n You have back pain and:\n</p>\n<ul>\n<li>\n  pain, tingling, weakness or numbness in both legs\n </li>\n<li>\n  a loss of feeling around your genitals or anus\n </li>\n<li>\n  changes in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself\n </li>\n<li>\n  changes in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm\n </li>\n<li>\n  chest pain\n </li>\n<li>\n  it started after a serious accident, such as a car accident\n </li>\n</ul>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/back-pain/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to ease back pain include staying active and continuing with daily activities, taking ibuprofen, and doing exercises and stretches.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Back pain often improves on its own within a few weeks. There are things you can do to help speed up your recovery.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>stay active and try to continue with your daily activities</p></li><li><p>take anti-inflammatory medicine like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> (these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller</p></li><li><p>check with a pharmacist or GP if you're unsure about which painkiller is suitable for you</p></li><li><p>use an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling</p></li><li><p>use a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms</p></li><li><p>try doing some exercises and stretches for back pain</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not stay in bed for long periods of time</p></li></ul>"
+            }
+          ],
+          "headline": "How to ease back pain yourself",
+          "url": "https://www.nhs.uk/conditions/back-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for back pain include medicines, group exercise, physiotherapy, massage and sometimes surgery.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If your back pain is severe or not getting better, you may prescribed painkillers.</p><p>Other treatments may be recommended if your pain does not get better after a few weeks.</p><p>These include:</p><ul><li>group exercise sessions and <a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a></li><li>manual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back</li><li><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> to help you cope with the pain</li><li>a procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)</li></ul><p>If your back pain is caused by a medical condition like a slipped disc and other treatments have not helped, surgery may be an option.</p>"
+            }
+          ],
+          "headline": "Treatments for back pain",
+          "url": "https://www.nhs.uk/conditions/back-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Back pain, particularly lower back pain, is common and usually improves within a few weeks. There are things you can do to help ease the pain.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Back pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Back pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Back pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Back pain can have many causes, including an injury like a strain. Sometimes conditions like sciatica or a slipped disc can cause back pain.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Things you can do to ease back pain include staying active and continuing with daily activities, taking ibuprofen, and doing exercises and stretches.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatments for back pain include medicines, group exercise, physiotherapy, massage and sometimes surgery.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/back-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-03-05T00:00:00+00:00",
+        "2029-03-05T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Back pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Back pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/back-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/back-pain/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "alternateName": "681848554001",
+      "contentUrl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/79855382001/9d668cca-f967-4d50-9688-310d7b0dc11e/10s/master.m3u8?fastly_token=NjkxMzY5ZmRfYzliYzc5NzRkNDY0MzVmNGE0OWRkZmNkODZjZjE2YjI1ZTE3YzkwMTg4NWVkODI0OTk4MTY4ZGM3ZjRjMGFkYg%3D%3D",
+      "description": "In this video, a physiotherapist shows some simple back stretches to help prevent aches and pains.",
+      "duration": "PT5M16.395S",
+      "embedUrl": "//players.brightcove.net/79855382001/EkC1XU82e_default/index.html?videoId=681848554001",
+      "name": "Back stretches",
+      "thumbnailUrl": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/79855382001/9d668cca-f967-4d50-9688-310d7b0dc11e/df659ff3-4710-4382-9b85-07430cb13f6d/160x90/match/image.jpg",
+      "uploadDate": "2024-04-04T12:59:19.385000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of back pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of back pain"
+        }
+      ],
+      "text": "Causes of back pain\nBack pain can have many causes. It's not always obvious what causes it, and it often gets better on its own.\nA common cause of back pain is an injury like a pulled muscle (\nstrain\n).\nSometimes, medical conditions like a\nslipped disc\n,\nsciatica\n(a trapped nerve) or\nankylosing spondylitis\ncan cause back pain.\nVery rarely, back pain can be a sign of a serious problem such as a broken bone, cancer or an infection.",
+      "lists": [],
+      "links": [
+        {
+          "text": "strain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "slipped disc",
+          "url": "https://www.nhs.uk/conditions/slipped-disc/"
+        },
+        {
+          "text": "sciatica",
+          "url": "https://www.nhs.uk/conditions/sciatica/"
+        },
+        {
+          "text": "ankylosing spondylitis",
+          "url": "https://www.nhs.uk/conditions/ankylosing-spondylitis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of back pain</h2>\n<p data-block-key=\"36wvn\">Back pain can have many causes. It's not always obvious what causes it, and it often gets better on its own.</p><p data-block-key=\"fgcna\">A common cause of back pain is an injury like a pulled muscle (<a href=\"/conditions/sprains-and-strains/\">strain</a>).</p><p data-block-key=\"ej4tn\">Sometimes, medical conditions like a <a href=\"/conditions/slipped-disc/\">slipped disc</a>, <a href=\"/conditions/sciatica/\">sciatica</a> (a trapped nerve) or <a href=\"/conditions/ankylosing-spondylitis/\">ankylosing spondylitis</a> can cause back pain.</p><p data-block-key=\"dog5t\">Very rarely, back pain can be a sign of a serious problem such as a broken bone, cancer or an infection.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nYou have back pain and:\nit does not improve after treating it at home for a few weeks\nit's stopping you doing your day-to-day activities\nyou're worried about the pain or you're struggling to cope\nyou've lost weight without trying to\nthere's a lump or swelling in your back, or your back has changed shape\nit does not improve after resting or is worse at night\nit's worse when sneezing, coughing or pooing\nit's coming from the top of your back (between your shoulders), rather than your lower back\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it does not improve after treating it at home for a few weeks",
+            "it's stopping you doing your day-to-day activities",
+            "you're worried about the pain or you're struggling to cope",
+            "you've lost weight without trying to",
+            "there's a lump or swelling in your back, or your back has changed shape",
+            "it does not improve after resting or is worse at night",
+            "it's worse when sneezing, coughing or pooing",
+            "it's coming from the top of your back (between your shoulders), rather than your lower back"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"4ck8s\">You have back pain and:</p><ul><li data-block-key=\"dfgva\">it does not improve after treating it at home for a few weeks</li><li data-block-key=\"7jld9\">it's stopping you doing your day-to-day activities</li><li data-block-key=\"4srn9\">you're worried about the pain or you're struggling to cope</li><li data-block-key=\"emtn8\">you've lost weight without trying to</li><li data-block-key=\"5nn06\">there's a lump or swelling in your back, or your back has changed shape</li><li data-block-key=\"fi7bs\">it does not improve after resting or is worse at night</li><li data-block-key=\"56dpc\">it's worse when sneezing, coughing or pooing</li><li data-block-key=\"db2j8\">it's coming from the top of your back (between your shoulders), rather than your lower back</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from 111 if:\nYou have back pain and:\nyou feel hot, cold, shivery or generally unwell\nit's severe pain that starts suddenly, or it's getting worse quickly\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you feel hot, cold, shivery or generally unwell",
+            "it's severe pain that starts suddenly, or it's getting worse quickly"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"4ck8s\">You have back pain and:</p><ul><li data-block-key=\"4l3v7\">you feel hot, cold, shivery or generally unwell</li><li data-block-key=\"25c2j\">it's severe pain that starts suddenly, or it's getting worse quickly</li></ul><p data-block-key=\"44mfi\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Immediate action required: Call 999 or go to A&E if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E if:\nYou have back pain and:\npain, tingling, weakness or numbness in both legs\na loss of feeling around your genitals or anus\nchanges in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself\nchanges in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm\nchest pain\nit started after a serious accident, such as a car accident\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "pain, tingling, weakness or numbness in both legs",
+            "a loss of feeling around your genitals or anus",
+            "changes in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself",
+            "changes in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm",
+            "chest pain",
+            "it started after a serious accident, such as a car accident"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"r6ub5\">You have back pain and:</p><ul><li data-block-key=\"fmlu6\">pain, tingling, weakness or numbness in both legs</li><li data-block-key=\"b4uki\">a loss of feeling around your genitals or anus</li><li data-block-key=\"57i93\">changes in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself</li><li data-block-key=\"frodp\">changes in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm</li><li data-block-key=\"ah1nr\">chest pain</li><li data-block-key=\"3dgqd\">it started after a serious accident, such as a car accident</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "How to ease back pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease back pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don't"
+        }
+      ],
+      "text": "How to ease back pain yourself\nBack pain often improves on its own within a few weeks. There are things you can do to help speed up your recovery.\nDo\nstay active and try to continue with your daily activities\ntake anti-inflammatory medicine like\nibuprofen\n(these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller\ncheck with a pharmacist or GP if you're unsure about which painkiller is suitable for you\nuse an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling\nuse a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms\ntry doing some exercises and stretches for back pain\nDon't\ndo not stay in bed for long periods of time",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stay active and try to continue with your daily activities",
+            "take anti-inflammatory medicine like\nibuprofen\n(these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller",
+            "check with a pharmacist or GP if you're unsure about which painkiller is suitable for you",
+            "use an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling",
+            "use a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms",
+            "try doing some exercises and stretches for back pain"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not stay in bed for long periods of time"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease back pain yourself</h2>\n<p data-block-key=\"tthfb\">Back pain often improves on its own within a few weeks. There are things you can do to help speed up your recovery.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n35rv\">stay active and try to continue with your daily activities</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">take anti-inflammatory medicine like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> (these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"x8phd\">check with a pharmacist or GP if you're unsure about which painkiller is suitable for you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">use an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">use a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">try doing some exercises and stretches for back pain</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don't\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ohv0r\">do not stay in bed for long periods of time</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Exercises and stretches for back pain",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Exercises and stretches for back pain"
+        },
+        {
+          "level": "h3",
+          "text": "Video: Back stretches"
+        }
+      ],
+      "text": "Exercises and stretches for back pain\nThere are specific exercises and stretches you can do to help with back pain. But stop if your pain gets worse and see a GP for advice.\nVideo: Back stretches\nIn this video, a physiotherapist shows some simple back stretches to help prevent aches and pains.\nMedia last reviewed: 16 November 2023\nMedia review due: 16 November 2026\nOther places to find back pain exercises include:\nNHS back pain pilates video workout\nChartered Society of Physiotherapy: video exercises for back pain\nActivities like walking, swimming, yoga and pilates may also help ease back pain.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "NHS back pain pilates video workout",
+            "Chartered Society of Physiotherapy: video exercises for back pain"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "NHS back pain pilates video workout",
+          "url": "https://www.nhs.uk/live-well/exercise/pilates-and-yoga/chronic-back-pain-pilates-exercise-video/"
+        },
+        {
+          "text": "Chartered Society of Physiotherapy: video exercises for back pain",
+          "url": "https://www.csp.org.uk/conditions/back-pain/video-exercises-back-pain"
+        }
+      ],
+      "html": "<section>\n<h3 data-block-key=\"q4im2\">Exercises and stretches for back pain</h3><p data-block-key=\"dnj5f\">There are specific exercises and stretches you can do to help with back pain. But stop if your pain gets worse and see a GP for advice.</p>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: Back stretches</h3>\n<p>In this video, a physiotherapist shows some simple back stretches to help prevent aches and pains.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681848554001\" id=\"681848554001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 16 November 2023<br/>\n    Media review due: 16 November 2026\n  </div>\n</div>\n<p data-block-key=\"tthfb\">Other places to find back pain exercises include:</p><ul><li data-block-key=\"fj79v\"><a href=\"/live-well/exercise/pilates-and-yoga/chronic-back-pain-pilates-exercise-video/\">NHS back pain pilates video workout</a></li><li data-block-key=\"5p1ui\"><a href=\"https://www.csp.org.uk/conditions/back-pain/video-exercises-back-pain\">Chartered Society of Physiotherapy: video exercises for back pain</a></li></ul><p data-block-key=\"fcp44\">Activities like walking, swimming, yoga and pilates may also help ease back pain.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Treatments for back pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for back pain"
+        }
+      ],
+      "text": "Treatments for back pain\nIf your back pain is severe or not getting better, you may prescribed painkillers.\nOther treatments may be recommended if your pain does not get better after a few weeks.\nThese include:\ngroup exercise sessions and\nphysiotherapy\nmanual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back\ncognitive behavioural therapy (CBT)\nto help you cope with the pain\na procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)\nIf your back pain is caused by a medical condition like a slipped disc and other treatments have not helped, surgery may be an option.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "group exercise sessions and\nphysiotherapy",
+            "manual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back",
+            "cognitive behavioural therapy (CBT)\nto help you cope with the pain",
+            "a procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "physiotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+        },
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for back pain</h2>\n<p data-block-key=\"2d6eo\">If your back pain is severe or not getting better, you may prescribed painkillers.</p><p data-block-key=\"83it5\">Other treatments may be recommended if your pain does not get better after a few weeks.</p><p data-block-key=\"122gr\">These include:</p><ul><li data-block-key=\"4ao1i\">group exercise sessions and <a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a></li><li data-block-key=\"edfvg\">manual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back</li><li data-block-key=\"8bl3k\"><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> to help you cope with the pain</li><li data-block-key=\"butol\">a procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)</li></ul><p data-block-key=\"fpgte\">If your back pain is caused by a medical condition like a slipped disc and other treatments have not helped, surgery may be an option.</p>\n</section>"
+    },
+    {
+      "position": 8,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<script src=\"https://unpkg.com/bpor-dev-resource@0.28.0/dist/bpor-widget/bpor-widget.esm.js\" type=\"module\"></script>\n<bpor-widget distance=\"1000\" location=\"the UK\" query=\"low back pain\"></bpor-widget>\n</section>"
+    }
+  ],
+  "page_text": "Causes of back pain\nBack pain can have many causes. It's not always obvious what causes it, and it often gets better on its own.\nA common cause of back pain is an injury like a pulled muscle (\nstrain\n).\nSometimes, medical conditions like a\nslipped disc\n,\nsciatica\n(a trapped nerve) or\nankylosing spondylitis\ncan cause back pain.\nVery rarely, back pain can be a sign of a serious problem such as a broken bone, cancer or an infection.\nNon-urgent advice:\nSee a GP if:\nYou have back pain and:\nit does not improve after treating it at home for a few weeks\nit's stopping you doing your day-to-day activities\nyou're worried about the pain or you're struggling to cope\nyou've lost weight without trying to\nthere's a lump or swelling in your back, or your back has changed shape\nit does not improve after resting or is worse at night\nit's worse when sneezing, coughing or pooing\nit's coming from the top of your back (between your shoulders), rather than your lower back\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nAsk for an urgent GP appointment or get help from 111 if:\nYou have back pain and:\nyou feel hot, cold, shivery or generally unwell\nit's severe pain that starts suddenly, or it's getting worse quickly\nYou can call 111 or\nget help from 111 online\n.\nImmediate action required:\nCall 999 or go to A&E if:\nYou have back pain and:\npain, tingling, weakness or numbness in both legs\na loss of feeling around your genitals or anus\nchanges in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself\nchanges in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm\nchest pain\nit started after a serious accident, such as a car accident\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nHow to ease back pain yourself\nBack pain often improves on its own within a few weeks. There are things you can do to help speed up your recovery.\nDo\nstay active and try to continue with your daily activities\ntake anti-inflammatory medicine like\nibuprofen\n(these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller\ncheck with a pharmacist or GP if you're unsure about which painkiller is suitable for you\nuse an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling\nuse a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms\ntry doing some exercises and stretches for back pain\nDon't\ndo not stay in bed for long periods of time\nExercises and stretches for back pain\nThere are specific exercises and stretches you can do to help with back pain. But stop if your pain gets worse and see a GP for advice.\nVideo: Back stretches\nIn this video, a physiotherapist shows some simple back stretches to help prevent aches and pains.\nMedia last reviewed: 16 November 2023\nMedia review due: 16 November 2026\nOther places to find back pain exercises include:\nNHS back pain pilates video workout\nChartered Society of Physiotherapy: video exercises for back pain\nActivities like walking, swimming, yoga and pilates may also help ease back pain.\nTreatments for back pain\nIf your back pain is severe or not getting better, you may prescribed painkillers.\nOther treatments may be recommended if your pain does not get better after a few weeks.\nThese include:\ngroup exercise sessions and\nphysiotherapy\nmanual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back\ncognitive behavioural therapy (CBT)\nto help you cope with the pain\na procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)\nIf your back pain is caused by a medical condition like a slipped disc and other treatments have not helped, surgery may be an option.\nPage last reviewed: 05 March 2026\nNext review due: 05 March 2029",
+  "links": [
+    {
+      "text": "strain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "slipped disc",
+      "url": "https://www.nhs.uk/conditions/slipped-disc/"
+    },
+    {
+      "text": "sciatica",
+      "url": "https://www.nhs.uk/conditions/sciatica/"
+    },
+    {
+      "text": "ankylosing spondylitis",
+      "url": "https://www.nhs.uk/conditions/ankylosing-spondylitis/"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "NHS back pain pilates video workout",
+      "url": "https://www.nhs.uk/live-well/exercise/pilates-and-yoga/chronic-back-pain-pilates-exercise-video/"
+    },
+    {
+      "text": "Chartered Society of Physiotherapy: video exercises for back pain",
+      "url": "https://www.csp.org.uk/conditions/back-pain/video-exercises-back-pain"
+    },
+    {
+      "text": "physiotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/physiotherapy/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of back pain</h2>\n<p data-block-key=\"36wvn\">Back pain can have many causes. It's not always obvious what causes it, and it often gets better on its own.</p><p data-block-key=\"fgcna\">A common cause of back pain is an injury like a pulled muscle (<a href=\"/conditions/sprains-and-strains/\">strain</a>).</p><p data-block-key=\"ej4tn\">Sometimes, medical conditions like a <a href=\"/conditions/slipped-disc/\">slipped disc</a>, <a href=\"/conditions/sciatica/\">sciatica</a> (a trapped nerve) or <a href=\"/conditions/ankylosing-spondylitis/\">ankylosing spondylitis</a> can cause back pain.</p><p data-block-key=\"dog5t\">Very rarely, back pain can be a sign of a serious problem such as a broken bone, cancer or an infection.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"4ck8s\">You have back pain and:</p><ul><li data-block-key=\"dfgva\">it does not improve after treating it at home for a few weeks</li><li data-block-key=\"7jld9\">it's stopping you doing your day-to-day activities</li><li data-block-key=\"4srn9\">you're worried about the pain or you're struggling to cope</li><li data-block-key=\"emtn8\">you've lost weight without trying to</li><li data-block-key=\"5nn06\">there's a lump or swelling in your back, or your back has changed shape</li><li data-block-key=\"fi7bs\">it does not improve after resting or is worse at night</li><li data-block-key=\"56dpc\">it's worse when sneezing, coughing or pooing</li><li data-block-key=\"db2j8\">it's coming from the top of your back (between your shoulders), rather than your lower back</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"4ck8s\">You have back pain and:</p><ul><li data-block-key=\"4l3v7\">you feel hot, cold, shivery or generally unwell</li><li data-block-key=\"25c2j\">it's severe pain that starts suddenly, or it's getting worse quickly</li></ul><p data-block-key=\"44mfi\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"r6ub5\">You have back pain and:</p><ul><li data-block-key=\"fmlu6\">pain, tingling, weakness or numbness in both legs</li><li data-block-key=\"b4uki\">a loss of feeling around your genitals or anus</li><li data-block-key=\"57i93\">changes in your bladder or bowels, such as difficulty peeing, or peeing or pooing yourself</li><li data-block-key=\"frodp\">changes in how your penis or vagina feels during sex, not being able to get or keep an erection, or not being able to orgasm</li><li data-block-key=\"ah1nr\">chest pain</li><li data-block-key=\"3dgqd\">it started after a serious accident, such as a car accident</li></ul>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease back pain yourself</h2>\n<p data-block-key=\"tthfb\">Back pain often improves on its own within a few weeks. There are things you can do to help speed up your recovery.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n35rv\">stay active and try to continue with your daily activities</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">take anti-inflammatory medicine like <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> (these may not be suitable for everyone) – paracetamol on its own is not recommended for back pain but it may be used with another painkiller</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"x8phd\">check with a pharmacist or GP if you're unsure about which painkiller is suitable for you</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">use an ice pack (or bag of frozen peas) wrapped in a tea towel to reduce pain and swelling</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">use a heat pack (or hot water bottle) wrapped in a tea towel to relieve joint stiffness or muscle spasms</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rmu6z\">try doing some exercises and stretches for back pain</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don't\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"ohv0r\">do not stay in bed for long periods of time</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<h3 data-block-key=\"q4im2\">Exercises and stretches for back pain</h3><p data-block-key=\"dnj5f\">There are specific exercises and stretches you can do to help with back pain. But stop if your pain gets worse and see a GP for advice.</p>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h3>Video: Back stretches</h3>\n<p>In this video, a physiotherapist shows some simple back stretches to help prevent aches and pains.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"681848554001\" id=\"681848554001\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 16 November 2023<br/>\n    Media review due: 16 November 2026\n  </div>\n</div>\n<p data-block-key=\"tthfb\">Other places to find back pain exercises include:</p><ul><li data-block-key=\"fj79v\"><a href=\"/live-well/exercise/pilates-and-yoga/chronic-back-pain-pilates-exercise-video/\">NHS back pain pilates video workout</a></li><li data-block-key=\"5p1ui\"><a href=\"https://www.csp.org.uk/conditions/back-pain/video-exercises-back-pain\">Chartered Society of Physiotherapy: video exercises for back pain</a></li></ul><p data-block-key=\"fcp44\">Activities like walking, swimming, yoga and pilates may also help ease back pain.</p>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for back pain</h2>\n<p data-block-key=\"2d6eo\">If your back pain is severe or not getting better, you may prescribed painkillers.</p><p data-block-key=\"83it5\">Other treatments may be recommended if your pain does not get better after a few weeks.</p><p data-block-key=\"122gr\">These include:</p><ul><li data-block-key=\"4ao1i\">group exercise sessions and <a href=\"/tests-and-treatments/physiotherapy/\">physiotherapy</a></li><li data-block-key=\"edfvg\">manual therapy – where a trained therapist massages and moves the muscles, bones and joints in your back</li><li data-block-key=\"8bl3k\"><a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> to help you cope with the pain</li><li data-block-key=\"butol\">a procedure to seal off some of the nerves in your back so they stop sending pain signals (only for long-term lower back pain)</li></ul><p data-block-key=\"fpgte\">If your back pain is caused by a medical condition like a slipped disc and other treatments have not helped, surgery may be an option.</p>\n</section>\n<section>\n<script src=\"https://unpkg.com/bpor-dev-resource@0.28.0/dist/bpor-widget/bpor-widget.esm.js\" type=\"module\"></script>\n<bpor-widget distance=\"1000\" location=\"the UK\" query=\"low back pain\"></bpor-widget>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 05 March 2026<br/>\n    Next review due: 05 March 2029\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

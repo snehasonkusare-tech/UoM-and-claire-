@@ -1,0 +1,484 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/blood-in-semen/",
+  "final_url": "https://www.nhs.uk/symptoms/blood-in-semen/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:55.594143+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Blood in semen",
+      "url": "https://www.nhs.uk/symptoms/blood-in-semen/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Blood in semen",
+  "meta_description": "Find out about possible causes of blood in semen and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "23 September 2025",
+    "next_review_due": "23 September 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about possible causes of blood in semen and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/blood-in-semen/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBlood in semen\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about possible causes of blood in semen and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "26 Sep 2025, 3:37 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Oct 2018, 8:56 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Blood in semen"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/blood-in-semen/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Blood in semen"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-09-26T14:37:56+00:00",
+      "description": "Find out about possible causes of blood in semen and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Blood in your semen can be red or brown. Sometimes you might also have other symptoms such as blood in your pee or pain when peeing.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Blood in your semen can be:</p><ul><li>bright red when the bleeding has occurred recently</li><li>brown or reddish-brown when the bleeding is older</li></ul><p>Sometimes there may be small lumps (clots) in the blood.</p><p>Depending on the cause, you may also have other symptoms like:</p><ul><li>blood in your pee</li><li>pain when peeing or ejaculating</li><li>peeing more often than usual</li><li>pain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)</li><li>pain in the abdomen, pelvis or scrotum</li></ul>"
+            }
+          ],
+          "headline": "What blood in semen looks like",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Often it's not obvious what causes blood in semen. Causes can include a sexually transmitted infection, a recent procedure or an enlarged prostate.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Most of the time it's not obvious what causes blood in semen and it goes away on its own.</p><p>But it's important to get it checked to make sure it's nothing serious.</p><p>Common causes of blood in semen include:</p><ul><li>an infection, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a> or <a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infection (STI)</a></li><li>a recent procedure or test, such as <a href=\"/tests-and-treatments/transurethral-resection-of-the-prostate-turp/\">transurethral resection of the prostate (TURP)</a>, a <a href=\"/tests-and-treatments/cystoscopy/\">cystoscopy</a> or a <a href=\"/contraception/methods-of-contraception/vasectomy-male-sterilisation/\">vasectomy</a></li><li>a problem with the prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a> or an <a href=\"/conditions/enlarged-prostate/\">enlarged prostate</a></li></ul><p>Rarely, blood in semen can be a sign of cancer, such as <a href=\"/conditions/prostate-cancer/\">prostate cancer</a>.</p>"
+            }
+          ],
+          "headline": "Causes of blood in semen",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have blood in your semen\n </li>\n</ul>\n<p>\n A GP can check for common causes and refer you to a specialist for more tests if needed.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most of the time blood in semen goes away without treatment in a few weeks. Sometimes the cause may be treated, such as antibiotics for an infection.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Blood in semen does not usually need to be treated. It often goes away by itself in a few days or weeks.</p><p>If a cause can be found, this may need to be treated.</p><p>For example, a urinary tract infection (UTI) or sexually transmitted infection (STI) may be treated with <a href=\"/medicines/antibiotics/\">antibiotics</a>.</p>"
+            }
+          ],
+          "headline": "Treatment for blood in semen",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Blood in semen is not usually caused by something serious, but you should get it checked by a GP just in case.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Blood in semen",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blood in semen",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Blood in semen",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Blood in your semen can be red or brown. Sometimes you might also have other symptoms such as blood in your pee or pain when peeing.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Often it's not obvious what causes blood in semen. Causes can include a sexually transmitted infection, a recent procedure or an enlarged prostate.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Most of the time blood in semen goes away without treatment in a few weeks. Sometimes the cause may be treated, such as antibiotics for an infection.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-09-23T00:00:00+00:00",
+        "2028-09-23T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Blood in semen",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Blood in semen",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "What blood in semen looks like",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What blood in semen looks like"
+        }
+      ],
+      "text": "What blood in semen looks like\nBlood in your semen can be:\nbright red when the bleeding has occurred recently\nbrown or reddish-brown when the bleeding is older\nSometimes there may be small lumps (clots) in the blood.\nDepending on the cause, you may also have other symptoms like:\nblood in your pee\npain when peeing or ejaculating\npeeing more often than usual\npain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)\npain in the abdomen, pelvis or scrotum",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "bright red when the bleeding has occurred recently",
+            "brown or reddish-brown when the bleeding is older"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "blood in your pee",
+            "pain when peeing or ejaculating",
+            "peeing more often than usual",
+            "pain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)",
+            "pain in the abdomen, pelvis or scrotum"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">What blood in semen looks like</h2>\n<p data-block-key=\"bqvl9\">Blood in your semen can be:</p><ul><li data-block-key=\"dgsus\">bright red when the bleeding has occurred recently</li><li data-block-key=\"3ohpp\">brown or reddish-brown when the bleeding is older</li></ul><p data-block-key=\"16rt1\">Sometimes there may be small lumps (clots) in the blood.</p><p data-block-key=\"1oivd\">Depending on the cause, you may also have other symptoms like:</p><ul><li data-block-key=\"be9to\">blood in your pee</li><li data-block-key=\"2dha0\">pain when peeing or ejaculating</li><li data-block-key=\"599nq\">peeing more often than usual</li><li data-block-key=\"2lgje\">pain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)</li><li data-block-key=\"4t1v4\">pain in the abdomen, pelvis or scrotum</li></ul>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of blood in semen",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of blood in semen"
+        }
+      ],
+      "text": "Causes of blood in semen\nMost of the time it's not obvious what causes blood in semen and it goes away on its own.\nBut it's important to get it checked to make sure it's nothing serious.\nCommon causes of blood in semen include:\nan infection, such as a\nurinary tract infection (UTI)\nor\nsexually transmitted infection (STI)\na recent procedure or test, such as\ntransurethral resection of the prostate (TURP)\n, a\ncystoscopy\nor a\nvasectomy\na problem with the prostate, such as\nprostatitis\nor an\nenlarged prostate\nRarely, blood in semen can be a sign of cancer, such as\nprostate cancer\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "an infection, such as a\nurinary tract infection (UTI)\nor\nsexually transmitted infection (STI)",
+            "a recent procedure or test, such as\ntransurethral resection of the prostate (TURP)\n, a\ncystoscopy\nor a\nvasectomy",
+            "a problem with the prostate, such as\nprostatitis\nor an\nenlarged prostate"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "urinary tract infection (UTI)",
+          "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+        },
+        {
+          "text": "sexually transmitted infection (STI)",
+          "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+        },
+        {
+          "text": "transurethral resection of the prostate (TURP)",
+          "url": "https://www.nhs.uk/tests-and-treatments/transurethral-resection-of-the-prostate-turp/"
+        },
+        {
+          "text": "cystoscopy",
+          "url": "https://www.nhs.uk/tests-and-treatments/cystoscopy/"
+        },
+        {
+          "text": "vasectomy",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/vasectomy-male-sterilisation/"
+        },
+        {
+          "text": "prostatitis",
+          "url": "https://www.nhs.uk/conditions/prostatitis/"
+        },
+        {
+          "text": "enlarged prostate",
+          "url": "https://www.nhs.uk/conditions/enlarged-prostate/"
+        },
+        {
+          "text": "prostate cancer",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of blood in semen</h2>\n<p data-block-key=\"bqvl9\">Most of the time it's not obvious what causes blood in semen and it goes away on its own.</p><p data-block-key=\"c64bv\">But it's important to get it checked to make sure it's nothing serious.</p><p data-block-key=\"39lgk\">Common causes of blood in semen include:</p><ul><li data-block-key=\"17bvm\">an infection, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a> or <a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infection (STI)</a></li><li data-block-key=\"f8pfc\">a recent procedure or test, such as <a href=\"/tests-and-treatments/transurethral-resection-of-the-prostate-turp/\">transurethral resection of the prostate (TURP)</a>, a <a href=\"/tests-and-treatments/cystoscopy/\">cystoscopy</a> or a <a href=\"/contraception/methods-of-contraception/vasectomy-male-sterilisation/\">vasectomy</a></li><li data-block-key=\"ddkv\">a problem with the prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a> or an <a href=\"/conditions/enlarged-prostate/\">enlarged prostate</a></li></ul><p data-block-key=\"8h1m3\">Rarely, blood in semen can be a sign of cancer, such as <a href=\"/conditions/prostate-cancer/\">prostate cancer</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have blood in your semen\nA GP can check for common causes and refer you to a specialist for more tests if needed.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have blood in your semen"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s8he6\">you have blood in your semen</li></ul><p data-block-key=\"a2dc3\">A GP can check for common causes and refer you to a specialist for more tests if needed.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Treatment for blood in semen",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for blood in semen"
+        }
+      ],
+      "text": "Treatment for blood in semen\nBlood in semen does not usually need to be treated. It often goes away by itself in a few days or weeks.\nIf a cause can be found, this may need to be treated.\nFor example, a urinary tract infection (UTI) or sexually transmitted infection (STI) may be treated with\nantibiotics\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "antibiotics",
+          "url": "https://www.nhs.uk/medicines/antibiotics/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for blood in semen</h2>\n<p data-block-key=\"bqvl9\">Blood in semen does not usually need to be treated. It often goes away by itself in a few days or weeks.</p><p data-block-key=\"501ns\">If a cause can be found, this may need to be treated.</p><p data-block-key=\"46cso\">For example, a urinary tract infection (UTI) or sexually transmitted infection (STI) may be treated with <a href=\"/medicines/antibiotics/\">antibiotics</a>.</p>\n</section>"
+    }
+  ],
+  "page_text": "What blood in semen looks like\nBlood in your semen can be:\nbright red when the bleeding has occurred recently\nbrown or reddish-brown when the bleeding is older\nSometimes there may be small lumps (clots) in the blood.\nDepending on the cause, you may also have other symptoms like:\nblood in your pee\npain when peeing or ejaculating\npeeing more often than usual\npain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)\npain in the abdomen, pelvis or scrotum\nCauses of blood in semen\nMost of the time it's not obvious what causes blood in semen and it goes away on its own.\nBut it's important to get it checked to make sure it's nothing serious.\nCommon causes of blood in semen include:\nan infection, such as a\nurinary tract infection (UTI)\nor\nsexually transmitted infection (STI)\na recent procedure or test, such as\ntransurethral resection of the prostate (TURP)\n, a\ncystoscopy\nor a\nvasectomy\na problem with the prostate, such as\nprostatitis\nor an\nenlarged prostate\nRarely, blood in semen can be a sign of cancer, such as\nprostate cancer\n.\nNon-urgent advice:\nSee a GP if:\nyou have blood in your semen\nA GP can check for common causes and refer you to a specialist for more tests if needed.\nTreatment for blood in semen\nBlood in semen does not usually need to be treated. It often goes away by itself in a few days or weeks.\nIf a cause can be found, this may need to be treated.\nFor example, a urinary tract infection (UTI) or sexually transmitted infection (STI) may be treated with\nantibiotics\n.\nPage last reviewed: 23 September 2025\nNext review due: 23 September 2028",
+  "links": [
+    {
+      "text": "urinary tract infection (UTI)",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/"
+    },
+    {
+      "text": "sexually transmitted infection (STI)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/"
+    },
+    {
+      "text": "transurethral resection of the prostate (TURP)",
+      "url": "https://www.nhs.uk/tests-and-treatments/transurethral-resection-of-the-prostate-turp/"
+    },
+    {
+      "text": "cystoscopy",
+      "url": "https://www.nhs.uk/tests-and-treatments/cystoscopy/"
+    },
+    {
+      "text": "vasectomy",
+      "url": "https://www.nhs.uk/contraception/methods-of-contraception/vasectomy-male-sterilisation/"
+    },
+    {
+      "text": "prostatitis",
+      "url": "https://www.nhs.uk/conditions/prostatitis/"
+    },
+    {
+      "text": "enlarged prostate",
+      "url": "https://www.nhs.uk/conditions/enlarged-prostate/"
+    },
+    {
+      "text": "prostate cancer",
+      "url": "https://www.nhs.uk/conditions/prostate-cancer/"
+    },
+    {
+      "text": "antibiotics",
+      "url": "https://www.nhs.uk/medicines/antibiotics/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">What blood in semen looks like</h2>\n<p data-block-key=\"bqvl9\">Blood in your semen can be:</p><ul><li data-block-key=\"dgsus\">bright red when the bleeding has occurred recently</li><li data-block-key=\"3ohpp\">brown or reddish-brown when the bleeding is older</li></ul><p data-block-key=\"16rt1\">Sometimes there may be small lumps (clots) in the blood.</p><p data-block-key=\"1oivd\">Depending on the cause, you may also have other symptoms like:</p><ul><li data-block-key=\"be9to\">blood in your pee</li><li data-block-key=\"2dha0\">pain when peeing or ejaculating</li><li data-block-key=\"599nq\">peeing more often than usual</li><li data-block-key=\"2lgje\">pain in the area between your anus (bottom) and scrotum (the skin that covers your testicles)</li><li data-block-key=\"4t1v4\">pain in the abdomen, pelvis or scrotum</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of blood in semen</h2>\n<p data-block-key=\"bqvl9\">Most of the time it's not obvious what causes blood in semen and it goes away on its own.</p><p data-block-key=\"c64bv\">But it's important to get it checked to make sure it's nothing serious.</p><p data-block-key=\"39lgk\">Common causes of blood in semen include:</p><ul><li data-block-key=\"17bvm\">an infection, such as a <a href=\"/conditions/urinary-tract-infections-utis/\">urinary tract infection (UTI)</a> or <a href=\"/conditions/sexually-transmitted-infections-stis/\">sexually transmitted infection (STI)</a></li><li data-block-key=\"f8pfc\">a recent procedure or test, such as <a href=\"/tests-and-treatments/transurethral-resection-of-the-prostate-turp/\">transurethral resection of the prostate (TURP)</a>, a <a href=\"/tests-and-treatments/cystoscopy/\">cystoscopy</a> or a <a href=\"/contraception/methods-of-contraception/vasectomy-male-sterilisation/\">vasectomy</a></li><li data-block-key=\"ddkv\">a problem with the prostate, such as <a href=\"/conditions/prostatitis/\">prostatitis</a> or an <a href=\"/conditions/enlarged-prostate/\">enlarged prostate</a></li></ul><p data-block-key=\"8h1m3\">Rarely, blood in semen can be a sign of cancer, such as <a href=\"/conditions/prostate-cancer/\">prostate cancer</a>.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s8he6\">you have blood in your semen</li></ul><p data-block-key=\"a2dc3\">A GP can check for common causes and refer you to a specialist for more tests if needed.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for blood in semen</h2>\n<p data-block-key=\"bqvl9\">Blood in semen does not usually need to be treated. It often goes away by itself in a few days or weeks.</p><p data-block-key=\"501ns\">If a cause can be found, this may need to be treated.</p><p data-block-key=\"46cso\">For example, a urinary tract infection (UTI) or sexually transmitted infection (STI) may be treated with <a href=\"/medicines/antibiotics/\">antibiotics</a>.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 23 September 2025<br/>\n    Next review due: 23 September 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

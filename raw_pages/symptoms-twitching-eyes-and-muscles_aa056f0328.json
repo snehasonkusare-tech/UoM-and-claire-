@@ -1,0 +1,468 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/",
+  "final_url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:55.384353+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "T",
+      "label": "Twitching eyes and muscles",
+      "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Twitching eyes and muscles",
+  "meta_description": "NHS information about common causes of twitches in your eyes or muscles and advice about what to do.",
+  "review_dates": {
+    "page_last_reviewed": "30 October 2023",
+    "next_review_due": "30 October 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about common causes of twitches in your eyes or muscles and advice about what to do."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nTwitching eyes and muscles\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about common causes of twitches in your eyes or muscles and advice about what to do."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:36 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "13 Feb 2018, 11:38 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Twitching eyes and muscles"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Twitching eyes and muscles"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:36:21+00:00",
+      "description": "NHS information about common causes of twitches in your eyes or muscles and advice about what to do.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Twitches are usually caused by things like stress, anxiety, tiredness, caffeine or alcohol. A twitch can also be a side effect of some medicines.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Most people get twitches from time to time.</p><p>They're often linked to:</p><ul><li>stress and anxiety</li><li>tiredness and exhaustion</li><li>drinking caffeine or alcohol</li><li>some medicines – check the side effects on the packet or leaflet</li></ul><p>Twitches can affect any part of the body. Twitches in the eyes or legs are particularly common.</p><p>You may also have tingling or cramps (spasms) in the same area.</p>"
+            }
+          ],
+          "headline": "Twitches are usually nothing to worry about",
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Twitches usually go away on their own. Getting lots of rest and finding ways to relax can help. It can also help to cut down on caffeine and alcohol.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A twitch may come and go, but will normally stop in a few days or weeks.</p><p>There's not usually any treatment for it.</p><p>But there are some things you can do to help.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>get plenty of rest</p></li><li><p>try to find ways to relax</p></li><li><p>stretch and massage any muscles affected by cramps</p></li><li><p>try not to worry about it – a twitch is usually harmless and worrying can make it worse</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not drink lots of caffeine, such as tea and coffee</p></li><li><p>do not drink lots of alcohol</p></li><li><p>do not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch</p></li></ul>"
+            }
+          ],
+          "headline": "How you can help stop a twitch",
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you have a twitch for more than 2 weeks\n </li>\n<li>\n  you have a twitch in more than 1 place\n </li>\n<li>\n  the affected area feels weak or stiff\n </li>\n<li>\n  you think a prescribed medicine might be causing your twitch\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "If you have a twitch that does not go away, a GP can look for common causes and refer you to a specialist if they're not sure what the cause is.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If your twitch does not go away, your GP may:</p><ul><li>check for causes like stress or a medicine you're taking</li><li>ask you to come back if the twitch has not stopped in a few weeks</li><li>refer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch</li></ul>"
+            }
+          ],
+          "headline": "What happens at your GP appointment",
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Twitches are common and very rarely a sign of anything serious. They often go away on their own, but see a GP if a twitch lasts more than 2 weeks.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Twitching eyes and muscles",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Twitching eyes and muscles",
+              "text": "Self-care"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-10-30T11:12:00+00:00",
+        "2026-10-30T11:12:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Twitching eyes and muscles",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Twitching eyes and muscles",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/twitching-eyes-and-muscles/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Twitches are common and very rarely a sign of anything serious. They often go away on their own, but see a GP if a twitch lasts more than 2 weeks.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"x74g2\"><b>Twitches are common and very rarely a sign of anything serious. They often go away on their own, but see a GP if a twitch lasts more than 2 weeks.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Twitches are usually nothing to worry about",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Twitches are usually nothing to worry about"
+        }
+      ],
+      "text": "Twitches are usually nothing to worry about\nMost people get twitches from time to time.\nThey're often linked to:\nstress and anxiety\ntiredness and exhaustion\ndrinking caffeine or alcohol\nsome medicines – check the side effects on the packet or leaflet\nTwitches can affect any part of the body. Twitches in the eyes or legs are particularly common.\nYou may also have tingling or cramps (spasms) in the same area.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stress and anxiety",
+            "tiredness and exhaustion",
+            "drinking caffeine or alcohol",
+            "some medicines – check the side effects on the packet or leaflet"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Twitches are usually nothing to worry about</h2>\n<p data-block-key=\"1xniv\">Most people get twitches from time to time.</p><p data-block-key=\"9csik\">They're often linked to:</p><ul><li data-block-key=\"bcsg8\">stress and anxiety</li><li data-block-key=\"g36i2\">tiredness and exhaustion</li><li data-block-key=\"7pdn7\">drinking caffeine or alcohol</li><li data-block-key=\"rpw15\">some medicines – check the side effects on the packet or leaflet</li></ul><p data-block-key=\"adcmx\">Twitches can affect any part of the body. Twitches in the eyes or legs are particularly common.</p><p data-block-key=\"alb1e\">You may also have tingling or cramps (spasms) in the same area.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How you can help stop a twitch",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can help stop a twitch"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "How you can help stop a twitch\nA twitch may come and go, but will normally stop in a few days or weeks.\nThere's not usually any treatment for it.\nBut there are some things you can do to help.\nDo\nget plenty of rest\ntry to find ways to relax\nstretch and massage any muscles affected by cramps\ntry not to worry about it – a twitch is usually harmless and worrying can make it worse\nDon’t\ndo not drink lots of caffeine, such as tea and coffee\ndo not drink lots of alcohol\ndo not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "get plenty of rest",
+            "try to find ways to relax",
+            "stretch and massage any muscles affected by cramps",
+            "try not to worry about it – a twitch is usually harmless and worrying can make it worse"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not drink lots of caffeine, such as tea and coffee",
+            "do not drink lots of alcohol",
+            "do not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">How you can help stop a twitch</h2>\n<p data-block-key=\"vl7p0\">A twitch may come and go, but will normally stop in a few days or weeks.</p><p data-block-key=\"ui4ma\">There's not usually any treatment for it.</p><p data-block-key=\"kuxdp\">But there are some things you can do to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"maoty\">get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"wd966\">try to find ways to relax</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rtcqe\">stretch and massage any muscles affected by cramps</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nmm84\">try not to worry about it – a twitch is usually harmless and worrying can make it worse</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"s41uz\">do not drink lots of caffeine, such as tea and coffee</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"40qtx\">do not drink lots of alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"38k31\">do not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou have a twitch for more than 2 weeks\nyou have a twitch in more than 1 place\nthe affected area feels weak or stiff\nyou think a prescribed medicine might be causing your twitch",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have a twitch for more than 2 weeks",
+            "you have a twitch in more than 1 place",
+            "the affected area feels weak or stiff",
+            "you think a prescribed medicine might be causing your twitch"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s74fi\">you have a twitch for more than 2 weeks</li><li data-block-key=\"kvh3d\">you have a twitch in more than 1 place</li><li data-block-key=\"s7c25\">the affected area feels weak or stiff</li><li data-block-key=\"5qpp9\">you think a prescribed medicine might be causing your twitch</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "What happens at your GP appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your GP appointment"
+        }
+      ],
+      "text": "What happens at your GP appointment\nIf your twitch does not go away, your GP may:\ncheck for causes like stress or a medicine you're taking\nask you to come back if the twitch has not stopped in a few weeks\nrefer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "check for causes like stress or a medicine you're taking",
+            "ask you to come back if the twitch has not stopped in a few weeks",
+            "refer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"qiiou\">If your twitch does not go away, your GP may:</p><ul><li data-block-key=\"oldz2\">check for causes like stress or a medicine you're taking</li><li data-block-key=\"p8ama\">ask you to come back if the twitch has not stopped in a few weeks</li><li data-block-key=\"yjb3l\">refer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch</li></ul>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Conditions that can cause a twitch\nMost twitches are not caused by a medical condition.\nSome possible causes of a twitch that does not go away or happens with other symptoms include:\nbenign fasciculation syndrome (long-lasting twitches and cramps caused by overactive nerves)\ndystonia\n(a group of uncommon conditions that cause muscle spasms)\nmotor neurone disease\n(an uncommon condition that causes weakness and gets worse over time)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "benign fasciculation syndrome (long-lasting twitches and cramps caused by overactive nerves)",
+            "dystonia\n(a group of uncommon conditions that cause muscle spasms)",
+            "motor neurone disease\n(an uncommon condition that causes weakness and gets worse over time)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "dystonia",
+          "url": "https://www.nhs.uk/conditions/dystonia/"
+        },
+        {
+          "text": "motor neurone disease",
+          "url": "https://www.nhs.uk/conditions/motor-neurone-disease/"
+        }
+      ],
+      "html": "<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Conditions that can cause a twitch\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"vccbx\">Most twitches are not caused by a medical condition.</p><p data-block-key=\"64b53\">Some possible causes of a twitch that does not go away or happens with other symptoms include:</p><ul><li data-block-key=\"5lj1i\">benign fasciculation syndrome (long-lasting twitches and cramps caused by overactive nerves)</li><li data-block-key=\"nbsz4\"><a href=\"/conditions/dystonia/\">dystonia</a> (a group of uncommon conditions that cause muscle spasms)</li><li data-block-key=\"sa3qn\"><a href=\"/conditions/motor-neurone-disease/\">motor neurone disease</a> (an uncommon condition that causes weakness and gets worse over time)</li></ul>\n</div>\n</details>\n</section>"
+    }
+  ],
+  "page_text": "Twitches are common and very rarely a sign of anything serious. They often go away on their own, but see a GP if a twitch lasts more than 2 weeks.\nTwitches are usually nothing to worry about\nMost people get twitches from time to time.\nThey're often linked to:\nstress and anxiety\ntiredness and exhaustion\ndrinking caffeine or alcohol\nsome medicines – check the side effects on the packet or leaflet\nTwitches can affect any part of the body. Twitches in the eyes or legs are particularly common.\nYou may also have tingling or cramps (spasms) in the same area.\nHow you can help stop a twitch\nA twitch may come and go, but will normally stop in a few days or weeks.\nThere's not usually any treatment for it.\nBut there are some things you can do to help.\nDo\nget plenty of rest\ntry to find ways to relax\nstretch and massage any muscles affected by cramps\ntry not to worry about it – a twitch is usually harmless and worrying can make it worse\nDon’t\ndo not drink lots of caffeine, such as tea and coffee\ndo not drink lots of alcohol\ndo not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch\nNon-urgent advice:\nSee a GP if:\nyou have a twitch for more than 2 weeks\nyou have a twitch in more than 1 place\nthe affected area feels weak or stiff\nyou think a prescribed medicine might be causing your twitch\nWhat happens at your GP appointment\nIf your twitch does not go away, your GP may:\ncheck for causes like stress or a medicine you're taking\nask you to come back if the twitch has not stopped in a few weeks\nrefer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch\nConditions that can cause a twitch\nMost twitches are not caused by a medical condition.\nSome possible causes of a twitch that does not go away or happens with other symptoms include:\nbenign fasciculation syndrome (long-lasting twitches and cramps caused by overactive nerves)\ndystonia\n(a group of uncommon conditions that cause muscle spasms)\nmotor neurone disease\n(an uncommon condition that causes weakness and gets worse over time)\nPage last reviewed: 30 October 2023\nNext review due: 30 October 2026",
+  "links": [
+    {
+      "text": "dystonia",
+      "url": "https://www.nhs.uk/conditions/dystonia/"
+    },
+    {
+      "text": "motor neurone disease",
+      "url": "https://www.nhs.uk/conditions/motor-neurone-disease/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"x74g2\"><b>Twitches are common and very rarely a sign of anything serious. They often go away on their own, but see a GP if a twitch lasts more than 2 weeks.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Twitches are usually nothing to worry about</h2>\n<p data-block-key=\"1xniv\">Most people get twitches from time to time.</p><p data-block-key=\"9csik\">They're often linked to:</p><ul><li data-block-key=\"bcsg8\">stress and anxiety</li><li data-block-key=\"g36i2\">tiredness and exhaustion</li><li data-block-key=\"7pdn7\">drinking caffeine or alcohol</li><li data-block-key=\"rpw15\">some medicines – check the side effects on the packet or leaflet</li></ul><p data-block-key=\"adcmx\">Twitches can affect any part of the body. Twitches in the eyes or legs are particularly common.</p><p data-block-key=\"alb1e\">You may also have tingling or cramps (spasms) in the same area.</p>\n</section>\n<section>\n<h2 id=\"self-care\">How you can help stop a twitch</h2>\n<p data-block-key=\"vl7p0\">A twitch may come and go, but will normally stop in a few days or weeks.</p><p data-block-key=\"ui4ma\">There's not usually any treatment for it.</p><p data-block-key=\"kuxdp\">But there are some things you can do to help.</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"maoty\">get plenty of rest</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"wd966\">try to find ways to relax</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"rtcqe\">stretch and massage any muscles affected by cramps</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"nmm84\">try not to worry about it – a twitch is usually harmless and worrying can make it worse</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"s41uz\">do not drink lots of caffeine, such as tea and coffee</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"40qtx\">do not drink lots of alcohol</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"38k31\">do not stop taking a prescribed medicine without getting medical advice, even if you think it could be causing your twitch</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s74fi\">you have a twitch for more than 2 weeks</li><li data-block-key=\"kvh3d\">you have a twitch in more than 1 place</li><li data-block-key=\"s7c25\">the affected area feels weak or stiff</li><li data-block-key=\"5qpp9\">you think a prescribed medicine might be causing your twitch</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your GP appointment</h2>\n<p data-block-key=\"qiiou\">If your twitch does not go away, your GP may:</p><ul><li data-block-key=\"oldz2\">check for causes like stress or a medicine you're taking</li><li data-block-key=\"p8ama\">ask you to come back if the twitch has not stopped in a few weeks</li><li data-block-key=\"yjb3l\">refer you to a specialist called a neurologist for tests to look for conditions that can cause a twitch</li></ul>\n</section>\n<section>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Conditions that can cause a twitch\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"vccbx\">Most twitches are not caused by a medical condition.</p><p data-block-key=\"64b53\">Some possible causes of a twitch that does not go away or happens with other symptoms include:</p><ul><li data-block-key=\"5lj1i\">benign fasciculation syndrome (long-lasting twitches and cramps caused by overactive nerves)</li><li data-block-key=\"nbsz4\"><a href=\"/conditions/dystonia/\">dystonia</a> (a group of uncommon conditions that cause muscle spasms)</li><li data-block-key=\"sa3qn\"><a href=\"/conditions/motor-neurone-disease/\">motor neurone disease</a> (an uncommon condition that causes weakness and gets worse over time)</li></ul>\n</div>\n</details>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 30 October 2023<br/>\n    Next review due: 30 October 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

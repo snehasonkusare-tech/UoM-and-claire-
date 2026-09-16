@@ -1,0 +1,552 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+  "final_url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:28.403993+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "E",
+      "label": "Excessive daytime sleepiness (hypersomnia)",
+      "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "H",
+      "label": "Hypersomnia, see Excessive daytime sleepiness (hypersomnia)",
+      "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "S",
+      "label": "Sleepiness, see Excessive daytime sleepiness (hypersomnia)",
+      "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Excessive daytime sleepiness (hypersomnia)",
+  "meta_description": "Read about excessive daytime sleepiness (hypersomnia), a condition that causes you to feel very sleepy during the day, even if you had a good night's sleep.",
+  "review_dates": {
+    "page_last_reviewed": "23 June 2023",
+    "next_review_due": "23 June 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Read about excessive daytime sleepiness (hypersomnia), a condition that causes you to feel very sleepy during the day, even if you had a good night's sleep."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nExcessive daytime sleepiness (hypersomnia)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Read about excessive daytime sleepiness (hypersomnia), a condition that causes you to feel very sleepy during the day, even if you had a good night's sleep."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "21 Jul 2025, 10:08 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 11:43 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Hypersomnia",
+          "Sleepiness"
+        ],
+        "name": "Excessive daytime sleepiness (hypersomnia)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Excessive daytime sleepiness (hypersomnia)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-07-21T09:08:03+00:00",
+      "description": "Read about excessive daytime sleepiness (hypersomnia), a condition that causes you to feel very sleepy during the day, even if you had a good night's sleep.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Symptoms of excessive daytime sleepiness can include falling asleep during the day or having regular naps as well as sleeping for long hours at night.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Excessive daytime sleepiness (hypersomnia) is different from feeling tired all the time.</p><p>If you have hypersomnia, you may:</p><ul><li>regularly nap during the day</li><li>fall asleep during the day</li><li>still sleep for long hours at night</li></ul>"
+            }
+          ],
+          "headline": "Symptoms of excessive daytime sleepiness",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you often fall asleep during the day\n </li>\n<li>\n  sleepiness is affecting your life\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To find out why you sleep excessively, a GP may check your mental and physical health or refer you to a sleep disorder specialist.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To find out why you're sleeping excessively, a GP might:</p><ul><li>ask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking</li><li>suggest you keep a diary of when you sleep</li><li>refer you to a doctor who specialises in sleep disorders</li></ul><p>Treatment for excessive sleepiness will depend on what's causing it. It may include medicine to help keep you awake.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Excessive daytime sleepiness is sometimes linked to other conditions such as sleep apnoea, depression, narcolepsy or restless legs syndrome.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Sometimes other conditions may be related to excessive sleepiness (hypersomnia). These conditions can have additional symptoms.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Some medicines, drinking too much alcohol and taking drugs can also cause excessive daytime sleepiness.</p><h3>Idiopathic hypersomnia</h3><p>Idiopathic hypersomnia is when someone sleeps for long periods and wakes up feeling confused or irritable (known as sleep inertia) and not refreshed.</p><p>There's no known cause for idiopathic hypersomnia.</p>"
+            }
+          ],
+          "headline": "Causes of hypersomnia",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are things you can try to help excessive daytime sleepiness, such as going to bed at the same time each night and avoiding alcohol or caffeine.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Changing your sleep habits may not cure excessive daytime sleepiness (hypersomnia), but it might help you feel better.</p><p>Try to:</p><ul><li>go to bed at the same time every night</li><li>avoid drinking alcohol and caffeine</li><li>create a peaceful sleeping environment</li><li>if possible, avoid medicines that can cause drowsiness</li><li>avoid working late into the night</li></ul><p>It might also help to talk to your family and friends about your excessive daytime sleepiness so they're aware of it.</p>"
+            }
+          ],
+          "headline": "Things you can try to help your sleeping habits",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Excessive daytime sleepiness (hypersomnia) is a condition where people fall asleep repeatedly during the day.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Excessive daytime sleepiness (hypersomnia)",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Excessive daytime sleepiness (hypersomnia)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Excessive daytime sleepiness (hypersomnia)",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Excessive daytime sleepiness (hypersomnia)",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Symptoms of excessive daytime sleepiness can include falling asleep during the day or having regular naps as well as sleeping for long hours at night.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Excessive daytime sleepiness is sometimes linked to other conditions such as sleep apnoea, depression, narcolepsy or restless legs syndrome.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To find out why you sleep excessively, a GP may check your mental and physical health or refer you to a sleep disorder specialist.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are things you can try to help excessive daytime sleepiness, such as going to bed at the same time each night and avoiding alcohol or caffeine.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-06-23T00:00:00+00:00",
+        "2026-06-23T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Excessive daytime sleepiness (hypersomnia)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Excessive daytime sleepiness (hypersomnia)",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Excessive daytime sleepiness (hypersomnia) is a condition where people fall asleep repeatedly during the day.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"igskl\"><b>Excessive daytime sleepiness (hypersomnia) is a condition where people fall asleep repeatedly during the day.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of excessive daytime sleepiness",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of excessive daytime sleepiness"
+        }
+      ],
+      "text": "Symptoms of excessive daytime sleepiness\nExcessive daytime sleepiness (hypersomnia) is different from feeling tired all the time.\nIf you have hypersomnia, you may:\nregularly nap during the day\nfall asleep during the day\nstill sleep for long hours at night",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "regularly nap during the day",
+            "fall asleep during the day",
+            "still sleep for long hours at night"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of excessive daytime sleepiness</h2>\n<p data-block-key=\"hloga\">Excessive daytime sleepiness (hypersomnia) is different from feeling tired all the time.</p><p data-block-key=\"mj2wl\">If you have hypersomnia, you may:</p><ul><li data-block-key=\"8lg71\">regularly nap during the day</li><li data-block-key=\"acx9i\">fall asleep during the day</li><li data-block-key=\"45nnu\">still sleep for long hours at night</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou often fall asleep during the day\nsleepiness is affecting your life",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you often fall asleep during the day",
+            "sleepiness is affecting your life"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"avw6v\">you often fall asleep during the day</li><li data-block-key=\"a5lxl\">sleepiness is affecting your life</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nTo find out why you're sleeping excessively, a GP might:\nask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking\nsuggest you keep a diary of when you sleep\nrefer you to a doctor who specialises in sleep disorders\nTreatment for excessive sleepiness will depend on what's causing it. It may include medicine to help keep you awake.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "ask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking",
+            "suggest you keep a diary of when you sleep",
+            "refer you to a doctor who specialises in sleep disorders"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"61pm6\">To find out why you're sleeping excessively, a GP might:</p><ul><li data-block-key=\"2aseu\">ask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking</li><li data-block-key=\"1gcnh\">suggest you keep a diary of when you sleep</li><li data-block-key=\"bude9\">refer you to a doctor who specialises in sleep disorders</li></ul><p data-block-key=\"80hoc\">Treatment for excessive sleepiness will depend on what's causing it. It may include medicine to help keep you awake.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of hypersomnia",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of hypersomnia"
+        },
+        {
+          "level": "h3",
+          "text": "Idiopathic hypersomnia"
+        }
+      ],
+      "text": "Causes of hypersomnia\nSometimes other conditions may be related to excessive sleepiness (hypersomnia). These conditions can have additional symptoms.\nSymptoms and possible causes\nAdditional symptoms\nPossible cause\nFeeling the need to sleep anywhere, sometimes without warning\nNarcolepsy\nLoud snorting, breathing and snoring at night\nSleep apnoea\nAn unusual feeling in your legs, particularly at night\nRestless legs syndrome\nLow mood, little interest in things\nDepression\nMood swings that range from extreme highs (mania) to extreme lows\nBipolar disorder\nProblems recovering after physical activity, problems with thinking, memory or concentration\nMyalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)\nSome medicines, drinking too much alcohol and taking drugs can also cause excessive daytime sleepiness.\nIdiopathic hypersomnia\nIdiopathic hypersomnia is when someone sleeps for long periods and wakes up feeling confused or irritable (known as sleep inertia) and not refreshed.\nThere's no known cause for idiopathic hypersomnia.",
+      "lists": [],
+      "links": [
+        {
+          "text": "Narcolepsy",
+          "url": "https://www.nhs.uk/conditions/narcolepsy/"
+        },
+        {
+          "text": "Sleep apnoea",
+          "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+        },
+        {
+          "text": "Restless legs syndrome",
+          "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"
+        },
+        {
+          "text": "Depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression/types-of-depression/"
+        },
+        {
+          "text": "Bipolar disorder",
+          "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"
+        },
+        {
+          "text": "Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)",
+          "url": "https://www.nhs.uk/conditions/chronic-fatigue-syndrome-cfs/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of hypersomnia</h2>\n<p data-block-key=\"pdobu\">Sometimes other conditions may be related to excessive sleepiness (hypersomnia). These conditions can have additional symptoms.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Additional symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Feeling the need to sleep anywhere, sometimes without warning</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"vzl6e\"><a href=\"/conditions/narcolepsy/\">Narcolepsy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Loud snorting, breathing and snoring at night</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/sleep-apnoea/\">Sleep apnoea</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">An unusual feeling in your legs, particularly at night</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/restless-legs-syndrome/\">Restless legs syndrome</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Low mood, little interest in things</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/mental-health/conditions/depression/types-of-depression/\">Depression</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Mood swings that range from extreme highs (mania) to extreme lows</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/mental-health/conditions/bipolar-disorder/\">Bipolar disorder</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Problems recovering after physical activity, problems with thinking, memory or concentration</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/chronic-fatigue-syndrome-cfs/\">Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"7bdpl\">Some medicines, drinking too much alcohol and taking drugs can also cause excessive daytime sleepiness.</p><h3 data-block-key=\"eqgau\">Idiopathic hypersomnia</h3><p data-block-key=\"7af15\">Idiopathic hypersomnia is when someone sleeps for long periods and wakes up feeling confused or irritable (known as sleep inertia) and not refreshed.</p><p data-block-key=\"51g3r\">There's no known cause for idiopathic hypersomnia.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Things you can try to help your sleeping habits",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can try to help your sleeping habits"
+        }
+      ],
+      "text": "Things you can try to help your sleeping habits\nChanging your sleep habits may not cure excessive daytime sleepiness (hypersomnia), but it might help you feel better.\nTry to:\ngo to bed at the same time every night\navoid drinking alcohol and caffeine\ncreate a peaceful sleeping environment\nif possible, avoid medicines that can cause drowsiness\navoid working late into the night\nIt might also help to talk to your family and friends about your excessive daytime sleepiness so they're aware of it.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "go to bed at the same time every night",
+            "avoid drinking alcohol and caffeine",
+            "create a peaceful sleeping environment",
+            "if possible, avoid medicines that can cause drowsiness",
+            "avoid working late into the night"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can try to help your sleeping habits</h2>\n<p data-block-key=\"0tcxp\">Changing your sleep habits may not cure excessive daytime sleepiness (hypersomnia), but it might help you feel better.</p><p data-block-key=\"2no5i\">Try to:</p><ul><li data-block-key=\"2esj1\">go to bed at the same time every night</li><li data-block-key=\"l6kts\">avoid drinking alcohol and caffeine</li><li data-block-key=\"vq8k7\">create a peaceful sleeping environment</li><li data-block-key=\"m9jea\">if possible, avoid medicines that can cause drowsiness</li><li data-block-key=\"lw15s\">avoid working late into the night</li></ul><p data-block-key=\"jhgxf\">It might also help to talk to your family and friends about your excessive daytime sleepiness so they're aware of it.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Information:\nIf you're diagnosed with hypersomnia you'll need to tell the Driver and Vehicle Licensing Agency (DVLA) and you may not be able to drive.\nFind out about the rules on excessive sleepiness and driving from GOV.UK",
+      "lists": [],
+      "links": [
+        {
+          "text": "Find out about the rules on excessive sleepiness and driving from GOV.UK",
+          "url": "https://www.gov.uk/excessive-sleepiness-and-driving"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"zz7w0\">If you're diagnosed with hypersomnia you'll need to tell the Driver and Vehicle Licensing Agency (DVLA) and you may not be able to drive.</p><p data-block-key=\"epfjs\"><a href=\"https://www.gov.uk/excessive-sleepiness-and-driving\">Find out about the rules on excessive sleepiness and driving from GOV.UK</a></p>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Excessive daytime sleepiness (hypersomnia) is a condition where people fall asleep repeatedly during the day.\nSymptoms of excessive daytime sleepiness\nExcessive daytime sleepiness (hypersomnia) is different from feeling tired all the time.\nIf you have hypersomnia, you may:\nregularly nap during the day\nfall asleep during the day\nstill sleep for long hours at night\nNon-urgent advice:\nSee a GP if:\nyou often fall asleep during the day\nsleepiness is affecting your life\nWhat happens at your appointment\nTo find out why you're sleeping excessively, a GP might:\nask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking\nsuggest you keep a diary of when you sleep\nrefer you to a doctor who specialises in sleep disorders\nTreatment for excessive sleepiness will depend on what's causing it. It may include medicine to help keep you awake.\nCauses of hypersomnia\nSometimes other conditions may be related to excessive sleepiness (hypersomnia). These conditions can have additional symptoms.\nSymptoms and possible causes\nAdditional symptoms\nPossible cause\nFeeling the need to sleep anywhere, sometimes without warning\nNarcolepsy\nLoud snorting, breathing and snoring at night\nSleep apnoea\nAn unusual feeling in your legs, particularly at night\nRestless legs syndrome\nLow mood, little interest in things\nDepression\nMood swings that range from extreme highs (mania) to extreme lows\nBipolar disorder\nProblems recovering after physical activity, problems with thinking, memory or concentration\nMyalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)\nSome medicines, drinking too much alcohol and taking drugs can also cause excessive daytime sleepiness.\nIdiopathic hypersomnia\nIdiopathic hypersomnia is when someone sleeps for long periods and wakes up feeling confused or irritable (known as sleep inertia) and not refreshed.\nThere's no known cause for idiopathic hypersomnia.\nThings you can try to help your sleeping habits\nChanging your sleep habits may not cure excessive daytime sleepiness (hypersomnia), but it might help you feel better.\nTry to:\ngo to bed at the same time every night\navoid drinking alcohol and caffeine\ncreate a peaceful sleeping environment\nif possible, avoid medicines that can cause drowsiness\navoid working late into the night\nIt might also help to talk to your family and friends about your excessive daytime sleepiness so they're aware of it.\nInformation:\nIf you're diagnosed with hypersomnia you'll need to tell the Driver and Vehicle Licensing Agency (DVLA) and you may not be able to drive.\nFind out about the rules on excessive sleepiness and driving from GOV.UK\nPage last reviewed: 23 June 2023\nNext review due: 23 June 2026",
+  "links": [
+    {
+      "text": "Narcolepsy",
+      "url": "https://www.nhs.uk/conditions/narcolepsy/"
+    },
+    {
+      "text": "Sleep apnoea",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+    },
+    {
+      "text": "Restless legs syndrome",
+      "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression/types-of-depression/"
+    },
+    {
+      "text": "Bipolar disorder",
+      "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/"
+    },
+    {
+      "text": "Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)",
+      "url": "https://www.nhs.uk/conditions/chronic-fatigue-syndrome-cfs/"
+    },
+    {
+      "text": "Find out about the rules on excessive sleepiness and driving from GOV.UK",
+      "url": "https://www.gov.uk/excessive-sleepiness-and-driving"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"igskl\"><b>Excessive daytime sleepiness (hypersomnia) is a condition where people fall asleep repeatedly during the day.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of excessive daytime sleepiness</h2>\n<p data-block-key=\"hloga\">Excessive daytime sleepiness (hypersomnia) is different from feeling tired all the time.</p><p data-block-key=\"mj2wl\">If you have hypersomnia, you may:</p><ul><li data-block-key=\"8lg71\">regularly nap during the day</li><li data-block-key=\"acx9i\">fall asleep during the day</li><li data-block-key=\"45nnu\">still sleep for long hours at night</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"avw6v\">you often fall asleep during the day</li><li data-block-key=\"a5lxl\">sleepiness is affecting your life</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"61pm6\">To find out why you're sleeping excessively, a GP might:</p><ul><li data-block-key=\"2aseu\">ask you about possible causes of your sleepiness, such as mental or physical health problems, or any medicines you may be taking</li><li data-block-key=\"1gcnh\">suggest you keep a diary of when you sleep</li><li data-block-key=\"bude9\">refer you to a doctor who specialises in sleep disorders</li></ul><p data-block-key=\"80hoc\">Treatment for excessive sleepiness will depend on what's causing it. It may include medicine to help keep you awake.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of hypersomnia</h2>\n<p data-block-key=\"pdobu\">Sometimes other conditions may be related to excessive sleepiness (hypersomnia). These conditions can have additional symptoms.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Symptoms and possible causes</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Additional symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Feeling the need to sleep anywhere, sometimes without warning</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"vzl6e\"><a href=\"/conditions/narcolepsy/\">Narcolepsy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Loud snorting, breathing and snoring at night</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/sleep-apnoea/\">Sleep apnoea</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">An unusual feeling in your legs, particularly at night</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/restless-legs-syndrome/\">Restless legs syndrome</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Low mood, little interest in things</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/mental-health/conditions/depression/types-of-depression/\">Depression</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Mood swings that range from extreme highs (mania) to extreme lows</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/mental-health/conditions/bipolar-disorder/\">Bipolar disorder</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\">Problems recovering after physical activity, problems with thinking, memory or concentration</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"w257c\"><a href=\"/conditions/chronic-fatigue-syndrome-cfs/\">Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-block-key=\"7bdpl\">Some medicines, drinking too much alcohol and taking drugs can also cause excessive daytime sleepiness.</p><h3 data-block-key=\"eqgau\">Idiopathic hypersomnia</h3><p data-block-key=\"7af15\">Idiopathic hypersomnia is when someone sleeps for long periods and wakes up feeling confused or irritable (known as sleep inertia) and not refreshed.</p><p data-block-key=\"51g3r\">There's no known cause for idiopathic hypersomnia.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can try to help your sleeping habits</h2>\n<p data-block-key=\"0tcxp\">Changing your sleep habits may not cure excessive daytime sleepiness (hypersomnia), but it might help you feel better.</p><p data-block-key=\"2no5i\">Try to:</p><ul><li data-block-key=\"2esj1\">go to bed at the same time every night</li><li data-block-key=\"l6kts\">avoid drinking alcohol and caffeine</li><li data-block-key=\"vq8k7\">create a peaceful sleeping environment</li><li data-block-key=\"m9jea\">if possible, avoid medicines that can cause drowsiness</li><li data-block-key=\"lw15s\">avoid working late into the night</li></ul><p data-block-key=\"jhgxf\">It might also help to talk to your family and friends about your excessive daytime sleepiness so they're aware of it.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"zz7w0\">If you're diagnosed with hypersomnia you'll need to tell the Driver and Vehicle Licensing Agency (DVLA) and you may not be able to drive.</p><p data-block-key=\"epfjs\"><a href=\"https://www.gov.uk/excessive-sleepiness-and-driving\">Find out about the rules on excessive sleepiness and driving from GOV.UK</a></p>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 23 June 2023<br/>\n    Next review due: 23 June 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

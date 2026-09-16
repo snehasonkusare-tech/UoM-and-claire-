@@ -1,0 +1,522 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:42.793867+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Finger pain",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Finger pain",
+  "meta_description": "Find out what to do about finger pain, when to get help and the common causes.",
+  "review_dates": {
+    "page_last_reviewed": "5 November 2025",
+    "next_review_due": "5 November 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    },
+    {
+      "text": "Hand pain",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what to do about finger pain, when to get help and the common causes."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Finger pain"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what to do about finger pain, when to get help and the common causes."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 4:18 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "30 Mar 2022, 4:04 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Finger pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/",
+              "genre": [],
+              "name": "Hand pain"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Finger pain"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T15:18:26+00:00",
+      "description": "Find out what to do about finger pain, when to get help and the common causes.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many causes of finger pain. You can often ease the pain yourself. But sometimes it can be something more serious like a broken finger.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Finger pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Finger pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of finger pain include sprains, arthritis, trigger finger and carpal tunnel syndrome.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>You can help ease finger pain by keeping the finger rested, putting an ice pack on it, strapping it to the finger next to it and taking painkillers.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of finger pain include sprains, arthritis, trigger finger and carpal tunnel syndrome.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Finger pain is often caused by bruising or injuring your finger, but there are lots of possible causes.</p><p>Do not try and diagnose the cause of your pain yourself.</p>"
+            }
+          ],
+          "headline": "Common causes of finger pain",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "You can help ease finger pain by keeping the finger rested, putting an ice pack on it, strapping it to the finger next to it and taking painkillers.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you see a GP about pain in your finger, they'll usually suggest you try these things:</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>rest your finger when you can</p></li><li><p>put an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours</p></li><li><p>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p></li><li><p>stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p></li><li><p>remove any jewellery on the painful finger</p></li><li><p>strap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together</p></li><li><p>think about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p></li><li><p>do not lift heavy objects or grip anything too tightly</p></li><li><p>do not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A pharmacist can help with finger pain",
+              "text": "<p>You can ask a pharmacist about:</p><ul><li>the best painkiller to take</li><li>splints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger</li><li>if you need to see a GP</li></ul>"
+            },
+            {
+              "potentialAction": {
+                "@type": "ViewAction",
+                "name": "Find a pharmacy",
+                "target": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+              }
+            }
+          ],
+          "headline": "How you can ease finger pain yourself",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<p>\n You have pain in your finger and:\n</p>\n<ul>\n<li>\n  it's stopping you doing normal activities\n </li>\n<li>\n  the pain is getting worse or keeps coming back\n </li>\n<li>\n  the pain has not improved after treating it at home for 2 weeks\n </li>\n<li>\n  you've noticed a tingling in your hand or your hand is starting to feel numb\n </li>\n<li>\n  you have diabetes – hand problems can be more serious if you have diabetes\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Contact NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You have pain in your finger and:\n</p>\n<ul>\n<li>\n  the pain is severe\n </li>\n<li>\n  you feel faint, dizzy or sick from the pain\n </li>\n<li>\n  you heard a snap, grinding or popping noise at the time of the injury\n </li>\n<li>\n  you're not able to move your finger or hold things\n </li>\n<li>\n  your finger has changed shape or colour\n </li>\n<li>\n  you've lost the feeling of part or all of your hand after an injury\n </li>\n<li>\n  you also have a very high temperature (you feel hot or cold and shivery)\n </li>\n<li>\n  you also feel sick or cannot eat\n </li>\n</ul>\n<p>\n These might be signs of a broken finger.\n <br/>\n<br/>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/#urgent-medical-help-old"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-11-05T14:45:00+00:00",
+        "2028-11-05T14:45:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Finger pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Hand pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/hand-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/hand-pain/finger-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Common causes of finger pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of finger pain"
+        }
+      ],
+      "text": "Common causes of finger pain\nFinger pain is often caused by bruising or injuring your finger, but there are lots of possible causes.\nDo not try and diagnose the cause of your pain yourself.\nCommon causes of finger pain and related symptoms\nSymptoms\nPossible cause\nSudden, sharp pain, swelling, a popping or snapping sound during the injury\nBroken finger\nPain, swelling and bruising, difficult to move finger or grip anything\nSprained finger\nPain, swelling and stiffness at the base of your finger that lasts a long time, may be hard to move your finger, may have a lump\nTendonitis (de Quervain's disease) or arthritis\nPain, swelling, cannot straighten the end of your finger, often happens after catching your finger on something\nMallet finger\nPain or tenderness in your palm at the base of your finger, stiffness, clicking when you move your finger\nTrigger finger\nAche, numbness, tingling or weakness in your fingers or hands\nCarpal tunnel syndrome",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of finger pain</h2>\n<p data-block-key=\"nboix\">Finger pain is often caused by bruising or injuring your finger, but there are lots of possible causes.</p><p data-block-key=\"5seam\">Do not try and diagnose the cause of your pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of finger pain and related symptoms</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Sudden, sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Broken finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling and bruising, difficult to move finger or grip anything</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Sprained finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling and stiffness at the base of your finger that lasts a long time, may be hard to move your finger, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Tendonitis (de Quervain's disease) or arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling, cannot straighten the end of your finger, often happens after catching your finger on something</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Mallet finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain or tenderness in your palm at the base of your finger, stiffness, clicking when you move your finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Trigger finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Ache, numbness, tingling or weakness in your fingers or hands</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Carpal tunnel syndrome</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Important",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Important"
+        }
+      ],
+      "text": "Important\nIf you think you might have broken your finger, do not try to treat it yourself. Contact NHS 111 to find out what to do.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h2>\n<p data-block-key=\"dui8i\">If you think you might have broken your finger, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "How you can ease finger pain yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How you can ease finger pain yourself"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        },
+        {
+          "level": "h2",
+          "text": "A pharmacist can help with finger pain"
+        }
+      ],
+      "text": "How you can ease finger pain yourself\nIf you see a GP about pain in your finger, they'll usually suggest you try these things:\nDo\nrest your finger when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nstop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument\nremove any jewellery on the painful finger\nstrap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together\nthink about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables\nDon’t\ndo not use heat packs or have hot baths for the first 2 to 3 days after an injury\ndo not lift heavy objects or grip anything too tightly\ndo not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness\nA pharmacist can help with finger pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nsplints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger\nif you need to see a GP\nFind a pharmacy",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "rest your finger when you can",
+            "put an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours",
+            "use painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)",
+            "stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument",
+            "remove any jewellery on the painful finger",
+            "strap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together",
+            "think about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not use heat packs or have hot baths for the first 2 to 3 days after an injury",
+            "do not lift heavy objects or grip anything too tightly",
+            "do not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "the best painkiller to take",
+            "splints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger",
+            "if you need to see a GP"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen gel",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "text": "Find a pharmacy",
+          "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How you can ease finger pain yourself</h2>\n<p data-block-key=\"75981\">If you see a GP about pain in your finger, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"f9gdc\">rest your finger when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">put an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">remove any jewellery on the painful finger</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">strap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">think about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"75981\">A pharmacist can help with finger pain</h2><p data-block-key=\"bq3ba\">You can ask a pharmacist about:</p><ul><li data-block-key=\"brbm1\">the best painkiller to take</li><li data-block-key=\"aameh\">splints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger</li><li data-block-key=\"9l085\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nYou have pain in your finger and:\nit's stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou've noticed a tingling in your hand or your hand is starting to feel numb\nyou have diabetes – hand problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it's stopping you doing normal activities",
+            "the pain is getting worse or keeps coming back",
+            "the pain has not improved after treating it at home for 2 weeks",
+            "you've noticed a tingling in your hand or your hand is starting to feel numb",
+            "you have diabetes – hand problems can be more serious if you have diabetes"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dpror\">You have pain in your finger and:</p><ul><li data-block-key=\"d4iba\">it's stopping you doing normal activities</li><li data-block-key=\"ci93q\">the pain is getting worse or keeps coming back</li><li data-block-key=\"67m47\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"gvv1\">you've noticed a tingling in your hand or your hand is starting to feel numb</li><li data-block-key=\"8tos3\">you have diabetes – hand problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Urgent advice: Contact NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Contact NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nContact NHS 111 if:\nYou have pain in your finger and:\nthe pain is severe\nyou feel faint, dizzy or sick from the pain\nyou heard a snap, grinding or popping noise at the time of the injury\nyou're not able to move your finger or hold things\nyour finger has changed shape or colour\nyou've lost the feeling of part or all of your hand after an injury\nyou also have a very high temperature (you feel hot or cold and shivery)\nyou also feel sick or cannot eat\nThese might be signs of a broken finger.\nYou can call 111 or\nget help from 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the pain is severe",
+            "you feel faint, dizzy or sick from the pain",
+            "you heard a snap, grinding or popping noise at the time of the injury",
+            "you're not able to move your finger or hold things",
+            "your finger has changed shape or colour",
+            "you've lost the feeling of part or all of your hand after an injury",
+            "you also have a very high temperature (you feel hot or cold and shivery)",
+            "you also feel sick or cannot eat"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dpror\">You have pain in your finger and:</p><ul><li data-block-key=\"ar86u\">the pain is severe</li><li data-block-key=\"2ptn7\">you feel faint, dizzy or sick from the pain</li><li data-block-key=\"2g13p\">you heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"b01d5\">you're not able to move your finger or hold things</li><li data-block-key=\"b5qto\">your finger has changed shape or colour</li><li data-block-key=\"drc13\">you've lost the feeling of part or all of your hand after an injury</li><li data-block-key=\"fn5s5\">you also have a very high temperature (you feel hot or cold and shivery)</li><li data-block-key=\"7s4aq\">you also feel sick or cannot eat</li></ul><p data-block-key=\"eipln\">These might be signs of a broken finger.<br/><br/>You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Common causes of finger pain\nFinger pain is often caused by bruising or injuring your finger, but there are lots of possible causes.\nDo not try and diagnose the cause of your pain yourself.\nCommon causes of finger pain and related symptoms\nSymptoms\nPossible cause\nSudden, sharp pain, swelling, a popping or snapping sound during the injury\nBroken finger\nPain, swelling and bruising, difficult to move finger or grip anything\nSprained finger\nPain, swelling and stiffness at the base of your finger that lasts a long time, may be hard to move your finger, may have a lump\nTendonitis (de Quervain's disease) or arthritis\nPain, swelling, cannot straighten the end of your finger, often happens after catching your finger on something\nMallet finger\nPain or tenderness in your palm at the base of your finger, stiffness, clicking when you move your finger\nTrigger finger\nAche, numbness, tingling or weakness in your fingers or hands\nCarpal tunnel syndrome\nImportant\nIf you think you might have broken your finger, do not try to treat it yourself. Contact NHS 111 to find out what to do.\nHow you can ease finger pain yourself\nIf you see a GP about pain in your finger, they'll usually suggest you try these things:\nDo\nrest your finger when you can\nput an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen gel\n(or ibuprofen tablets if needed)\nstop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument\nremove any jewellery on the painful finger\nstrap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together\nthink about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables\nDon’t\ndo not use heat packs or have hot baths for the first 2 to 3 days after an injury\ndo not lift heavy objects or grip anything too tightly\ndo not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness\nA pharmacist can help with finger pain\nYou can ask a pharmacist about:\nthe best painkiller to take\nsplints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger\nif you need to see a GP\nFind a pharmacy\nNon-urgent advice:\nSee a GP if:\nYou have pain in your finger and:\nit's stopping you doing normal activities\nthe pain is getting worse or keeps coming back\nthe pain has not improved after treating it at home for 2 weeks\nyou've noticed a tingling in your hand or your hand is starting to feel numb\nyou have diabetes – hand problems can be more serious if you have diabetes\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nContact NHS 111 if:\nYou have pain in your finger and:\nthe pain is severe\nyou feel faint, dizzy or sick from the pain\nyou heard a snap, grinding or popping noise at the time of the injury\nyou're not able to move your finger or hold things\nyour finger has changed shape or colour\nyou've lost the feeling of part or all of your hand after an injury\nyou also have a very high temperature (you feel hot or cold and shivery)\nyou also feel sick or cannot eat\nThese might be signs of a broken finger.\nYou can call 111 or\nget help from 111 online\n.",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen gel",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Common causes of finger pain</h2>\n<p data-block-key=\"nboix\">Finger pain is often caused by bruising or injuring your finger, but there are lots of possible causes.</p><p data-block-key=\"5seam\">Do not try and diagnose the cause of your pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of finger pain and related symptoms</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Sudden, sharp pain, swelling, a popping or snapping sound during the injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Broken finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling and bruising, difficult to move finger or grip anything</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Sprained finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling and stiffness at the base of your finger that lasts a long time, may be hard to move your finger, may have a lump</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Tendonitis (de Quervain's disease) or arthritis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain, swelling, cannot straighten the end of your finger, often happens after catching your finger on something</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Mallet finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Pain or tenderness in your palm at the base of your finger, stiffness, clicking when you move your finger</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Trigger finger</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"2eqtg\">Ache, numbness, tingling or weakness in your fingers or hands</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"4zbv7\">Carpal tunnel syndrome</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h2 class=\"nhsuk-card__heading\">\n      \n        Important\n      \n    </h2>\n<p data-block-key=\"dui8i\">If you think you might have broken your finger, do not try to treat it yourself. Contact NHS 111 to find out what to do.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"self-care\">How you can ease finger pain yourself</h2>\n<p data-block-key=\"75981\">If you see a GP about pain in your finger, they'll usually suggest you try these things:</p>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"f9gdc\">rest your finger when you can</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">put an ice pack (or a bag of frozen peas) in a towel and place it on your finger for up to 20 minutes every 2 to 3 hours</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen gel</a> (or ibuprofen tablets if needed)</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">stop or cut down activities that are causing the pain – for example, typing, using vibrating tools for work, or playing an instrument</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">remove any jewellery on the painful finger</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">strap the painful finger to another finger next to it – put a small piece of cotton wool or gauze between the 2 fingers and use tape to loosely strap them together</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"t8u66\">think about using gadgets or tools to make difficult or painful tasks easier – for example, to open jars or chop vegetables</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not use heat packs or have hot baths for the first 2 to 3 days after an injury</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not lift heavy objects or grip anything too tightly</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"3izru\">do not stop using your finger completely – after a few days, do gentle hands and finger exercises to help ease any stiffness</p>\n</li>\n</ul>\n</div>\n<h2 data-block-key=\"75981\">A pharmacist can help with finger pain</h2><p data-block-key=\"bq3ba\">You can ask a pharmacist about:</p><ul><li data-block-key=\"brbm1\">the best painkiller to take</li><li data-block-key=\"aameh\">splints to support your finger and ease pain – flexible rubber splints are available if you still need to use your finger</li><li data-block-key=\"9l085\">if you need to see a GP</li></ul>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find a pharmacy</span>\n</a>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dpror\">You have pain in your finger and:</p><ul><li data-block-key=\"d4iba\">it's stopping you doing normal activities</li><li data-block-key=\"ci93q\">the pain is getting worse or keeps coming back</li><li data-block-key=\"67m47\">the pain has not improved after treating it at home for 2 weeks</li><li data-block-key=\"gvv1\">you've noticed a tingling in your hand or your hand is starting to feel numb</li><li data-block-key=\"8tos3\">you have diabetes – hand problems can be more serious if you have diabetes</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Contact NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"dpror\">You have pain in your finger and:</p><ul><li data-block-key=\"ar86u\">the pain is severe</li><li data-block-key=\"2ptn7\">you feel faint, dizzy or sick from the pain</li><li data-block-key=\"2g13p\">you heard a snap, grinding or popping noise at the time of the injury</li><li data-block-key=\"b01d5\">you're not able to move your finger or hold things</li><li data-block-key=\"b5qto\">your finger has changed shape or colour</li><li data-block-key=\"drc13\">you've lost the feeling of part or all of your hand after an injury</li><li data-block-key=\"fn5s5\">you also have a very high temperature (you feel hot or cold and shivery)</li><li data-block-key=\"7s4aq\">you also feel sick or cannot eat</li></ul><p data-block-key=\"eipln\">These might be signs of a broken finger.<br/><br/>You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>.</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

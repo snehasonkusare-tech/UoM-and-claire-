@@ -1,0 +1,483 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/bedwetting/",
+  "final_url": "https://www.nhs.uk/symptoms/bedwetting/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:46.634438+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bedwetting in children",
+      "url": "https://www.nhs.uk/symptoms/bedwetting/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Bedwetting in children",
+  "meta_description": "Find out what you can do about bedwetting, what could be causing it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "11 April 2023",
+    "next_review_due": "11 April 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what you can do about bedwetting, what could be causing it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/bedwetting/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nBedwetting in children\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what you can do about bedwetting, what could be causing it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "15 Apr 2025, 4:35 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "20 Oct 2017, 1:36 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Bedwetting in children"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/bedwetting/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Bedwetting in children"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-15T15:35:02+00:00",
+      "description": "Find out what you can do about bedwetting, what could be causing it and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Things you can do to help with bedwetting include making sure your child goes to the toilet regularly and using waterproof covers on mattresses.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Do",
+              "text": "<ul><li><p>give your child enough water to drink during the day</p></li><li><p>make sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime</p></li><li><p>agree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed</p></li><li><p>use waterproof covers on their mattress and duvet</p></li><li><p>make sure they have easy access to a toilet at night</p></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Don't",
+              "text": "<ul><li><p>do not punish your child – it is not their fault and can make bedwetting worse</p></li><li><p>do not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more</p></li><li><p>do not regularly wake or carry your child in the night to use the toilet – this will not help in the long term</p></li></ul>"
+            }
+          ],
+          "headline": "Things you can do at home to help with bedwetting",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you've tried things you can do at home and your child keeps wetting the bed\n </li>\n<li>\n  your child has started wetting the bed again after being dry for more than 6 months\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatments for bedwetting in children include medicines to reduce how much pee your child makes at night and bedwetting alarms.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If your child keeps wetting the bed, a GP will be able to suggest options such as:</p><ul><li>a bedwetting alarm</li><li>medicine to reduce how much pee your child makes at night</li></ul><p>The GP will check if treatment is helping. They'll also be able to offer support if you are finding it hard to cope.</p><p>If these treatments do not work, your child may be referred to a specialist.</p>"
+            }
+          ],
+          "headline": "Treatments from a GP",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bedwetting in children can be caused by many things such as stress. Sometimes it can be caused by a health condition like diabetes or constipation.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are many reasons why a child might wet the bed. Causes include:</p><ul><li>not feeling the need to pee while sleeping</li><li>making too much pee at night</li><li>stress at home or at school</li></ul><p>Bedwetting may also be caused by an underlying health condition such as diabetes or constipation.</p>"
+            }
+          ],
+          "headline": "Causes of bedwetting",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Bedwetting is common. There are things you can do to help stop a child wetting the bed, but if it does not stop see a GP or school nurse for advice.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Bedwetting in children",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bedwetting in children",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Bedwetting in children",
+              "text": "Medical treatments"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/bedwetting/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-04-11T11:00:00+00:00",
+        "2026-04-11T11:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Bedwetting in children",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Bedwetting in children",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/bedwetting/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/bedwetting/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Bedwetting is common and often runs in families. It can be upsetting, but most children and young people will grow out of it. See a GP or school nurse for advice.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"tmzf8\"><b>Bedwetting is common and often runs in families. It can be upsetting, but most children and young people will grow out of it. See a GP or school nurse for advice.</b></p><p data-block-key=\"zoonb\"></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Things you can do at home to help with bedwetting",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do at home to help with bedwetting"
+        },
+        {
+          "level": "h3",
+          "text": "Do"
+        },
+        {
+          "level": "h3",
+          "text": "Don’t"
+        }
+      ],
+      "text": "Things you can do at home to help with bedwetting\nDo\ngive your child enough water to drink during the day\nmake sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime\nagree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed\nuse waterproof covers on their mattress and duvet\nmake sure they have easy access to a toilet at night\nDon’t\ndo not punish your child – it is not their fault and can make bedwetting worse\ndo not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more\ndo not regularly wake or carry your child in the night to use the toilet – this will not help in the long term",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "give your child enough water to drink during the day",
+            "make sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime",
+            "agree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed",
+            "use waterproof covers on their mattress and duvet",
+            "make sure they have easy access to a toilet at night"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "do not punish your child – it is not their fault and can make bedwetting worse",
+            "do not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more",
+            "do not regularly wake or carry your child in the night to use the toilet – this will not help in the long term"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do at home to help with bedwetting</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"uvdqr\">give your child enough water to drink during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c0216\">make sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"p252w\">agree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n1keo\">use waterproof covers on their mattress and duvet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qtd7w\">make sure they have easy access to a toilet at night</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pr5g6\">do not punish your child – it is not their fault and can make bedwetting worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8gkpw\">do not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qy5ty\">do not regularly wake or carry your child in the night to use the toilet – this will not help in the long term</p>\n</li>\n</ul>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Important: Bedwetting in young children is normal",
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Important: Bedwetting in young children is normal"
+        }
+      ],
+      "text": "Important:\nBedwetting in young children is normal\nMany children under the age of 5 wet the bed.\nIt can take some time for a child to learn to stay dry throughout the night.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Bedwetting in young children is normal\n        </span>\n</h3>\n<p data-block-key=\"jonsc\">Many children under the age of 5 wet the bed.</p><p data-block-key=\"l330q\">It can take some time for a child to learn to stay dry throughout the night.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyou've tried things you can do at home and your child keeps wetting the bed\nyour child has started wetting the bed again after being dry for more than 6 months",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you've tried things you can do at home and your child keeps wetting the bed",
+            "your child has started wetting the bed again after being dry for more than 6 months"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"emife\">you've tried things you can do at home and your child keeps wetting the bed</li><li data-block-key=\"4vp8d\">your child has started wetting the bed again after being dry for more than 6 months</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments from a GP"
+        }
+      ],
+      "text": "Treatments from a GP\nIf your child keeps wetting the bed, a GP will be able to suggest options such as:\na bedwetting alarm\nmedicine to reduce how much pee your child makes at night\nThe GP will check if treatment is helping. They'll also be able to offer support if you are finding it hard to cope.\nIf these treatments do not work, your child may be referred to a specialist.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a bedwetting alarm",
+            "medicine to reduce how much pee your child makes at night"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"0qw1s\">If your child keeps wetting the bed, a GP will be able to suggest options such as:</p><ul><li data-block-key=\"6ob9o\">a bedwetting alarm</li><li data-block-key=\"dtk0n\">medicine to reduce how much pee your child makes at night</li></ul><p data-block-key=\"vlaj\">The GP will check if treatment is helping. They'll also be able to offer support if you are finding it hard to cope.</p><p data-block-key=\"62mf9\">If these treatments do not work, your child may be referred to a specialist.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of bedwetting",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of bedwetting"
+        }
+      ],
+      "text": "Causes of bedwetting\nThere are many reasons why a child might wet the bed. Causes include:\nnot feeling the need to pee while sleeping\nmaking too much pee at night\nstress at home or at school\nBedwetting may also be caused by an underlying health condition such as diabetes or constipation.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "not feeling the need to pee while sleeping",
+            "making too much pee at night",
+            "stress at home or at school"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"causes\">Causes of bedwetting</h2>\n<p data-block-key=\"ulpcg\">There are many reasons why a child might wet the bed. Causes include:</p><ul><li data-block-key=\"ckx1i\">not feeling the need to pee while sleeping</li><li data-block-key=\"5y2fg\">making too much pee at night</li><li data-block-key=\"99tb8\">stress at home or at school</li></ul><p data-block-key=\"bsaxj\">Bedwetting may also be caused by an underlying health condition such as diabetes or constipation.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "More information and advice on bedwetting",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "More information and advice on bedwetting"
+        }
+      ],
+      "text": "Information:\nMore information and advice on bedwetting\nBladder and Bowel UK: resources for children and young people with bladder problems\nERIC, the Children's Bowel & Bladder Charity: bedwetting",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Bladder and Bowel UK: resources for children and young people with bladder problems",
+            "ERIC, the Children's Bowel & Bladder Charity: bedwetting"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Bladder and Bowel UK: resources for children and young people with bladder problems",
+          "url": "https://www.bbuk.org.uk/children-young-people/resources-for-children/"
+        },
+        {
+          "text": "ERIC, the Children's Bowel & Bladder Charity: bedwetting",
+          "url": "https://eric.org.uk/childrens-bladders/bedwetting/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"78od6\">More information and advice on bedwetting</h2><ul><li data-block-key=\"8qakk\"><a href=\"https://www.bbuk.org.uk/children-young-people/resources-for-children/\">Bladder and Bowel UK: resources for children and young people with bladder problems</a></li><li data-block-key=\"4nhle\"><a href=\"https://eric.org.uk/childrens-bladders/bedwetting/\">ERIC, the Children's Bowel &amp; Bladder Charity: bedwetting</a></li></ul>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Bedwetting is common and often runs in families. It can be upsetting, but most children and young people will grow out of it. See a GP or school nurse for advice.\nThings you can do at home to help with bedwetting\nDo\ngive your child enough water to drink during the day\nmake sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime\nagree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed\nuse waterproof covers on their mattress and duvet\nmake sure they have easy access to a toilet at night\nDon’t\ndo not punish your child – it is not their fault and can make bedwetting worse\ndo not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more\ndo not regularly wake or carry your child in the night to use the toilet – this will not help in the long term\nImportant:\nBedwetting in young children is normal\nMany children under the age of 5 wet the bed.\nIt can take some time for a child to learn to stay dry throughout the night.\nNon-urgent advice:\nSee a GP if:\nyou've tried things you can do at home and your child keeps wetting the bed\nyour child has started wetting the bed again after being dry for more than 6 months\nTreatments from a GP\nIf your child keeps wetting the bed, a GP will be able to suggest options such as:\na bedwetting alarm\nmedicine to reduce how much pee your child makes at night\nThe GP will check if treatment is helping. They'll also be able to offer support if you are finding it hard to cope.\nIf these treatments do not work, your child may be referred to a specialist.\nCauses of bedwetting\nThere are many reasons why a child might wet the bed. Causes include:\nnot feeling the need to pee while sleeping\nmaking too much pee at night\nstress at home or at school\nBedwetting may also be caused by an underlying health condition such as diabetes or constipation.\nInformation:\nMore information and advice on bedwetting\nBladder and Bowel UK: resources for children and young people with bladder problems\nERIC, the Children's Bowel & Bladder Charity: bedwetting\nPage last reviewed: 11 April 2023\nNext review due: 11 April 2026",
+  "links": [
+    {
+      "text": "Bladder and Bowel UK: resources for children and young people with bladder problems",
+      "url": "https://www.bbuk.org.uk/children-young-people/resources-for-children/"
+    },
+    {
+      "text": "ERIC, the Children's Bowel & Bladder Charity: bedwetting",
+      "url": "https://eric.org.uk/childrens-bladders/bedwetting/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"tmzf8\"><b>Bedwetting is common and often runs in families. It can be upsetting, but most children and young people will grow out of it. See a GP or school nurse for advice.</b></p><p data-block-key=\"zoonb\"></p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do at home to help with bedwetting</h2>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Do\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--tick\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"uvdqr\">give your child enough water to drink during the day</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"c0216\">make sure your child goes to the toilet regularly, around 4 to 7 times a day, including just before bedtime</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"p252w\">agree with your child on rewards for positive actions, such as a sticker for every time they use the toilet before bed</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"n1keo\">use waterproof covers on their mattress and duvet</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--tick\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.4 18.8a2 2 0 0 1-2.7.1h-.1L4 14.1a1.5 1.5 0 0 1 2.1-2L10 16l8.1-8.1a1.5 1.5 0 1 1 2.2 2l-8.9 9Z\"></path>\n</svg>\n<p data-block-key=\"qtd7w\">make sure they have easy access to a toilet at night</p>\n</li>\n</ul>\n</div>\n<div class=\"nhsuk-do-dont-list\">\n<h3 class=\"nhsuk-do-dont-list__label\">\n    Don’t\n  </h3>\n<ul class=\"nhsuk-list nhsuk-list--cross\">\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"pr5g6\">do not punish your child – it is not their fault and can make bedwetting worse</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"8gkpw\">do not give your child drinks containing caffeine, such as cola, tea and coffee – this can make them pee more</p>\n</li>\n<li>\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--cross\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18.5c-.4 0-.8-.1-1.1-.4l-10-10c-.6-.6-.6-1.6 0-2.1.6-.6 1.5-.6 2.1 0l10 10c.6.6.6 1.5 0 2.1-.3.3-.6.4-1 .4z M7 18.5c-.4 0-.8-.1-1.1-.4-.6-.6-.6-1.5 0-2.1l10-10c.6-.6 1.5-.6 2.1 0 .6.6.6 1.5 0 2.1l-10 10c-.3.3-.6.4-1 .4z\"></path>\n</svg>\n<p data-block-key=\"qy5ty\">do not regularly wake or carry your child in the night to use the toilet – this will not help in the long term</p>\n</li>\n</ul>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Bedwetting in young children is normal\n        </span>\n</h3>\n<p data-block-key=\"jonsc\">Many children under the age of 5 wet the bed.</p><p data-block-key=\"l330q\">It can take some time for a child to learn to stay dry throughout the night.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"emife\">you've tried things you can do at home and your child keeps wetting the bed</li><li data-block-key=\"4vp8d\">your child has started wetting the bed again after being dry for more than 6 months</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments from a GP</h2>\n<p data-block-key=\"0qw1s\">If your child keeps wetting the bed, a GP will be able to suggest options such as:</p><ul><li data-block-key=\"6ob9o\">a bedwetting alarm</li><li data-block-key=\"dtk0n\">medicine to reduce how much pee your child makes at night</li></ul><p data-block-key=\"vlaj\">The GP will check if treatment is helping. They'll also be able to offer support if you are finding it hard to cope.</p><p data-block-key=\"62mf9\">If these treatments do not work, your child may be referred to a specialist.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of bedwetting</h2>\n<p data-block-key=\"ulpcg\">There are many reasons why a child might wet the bed. Causes include:</p><ul><li data-block-key=\"ckx1i\">not feeling the need to pee while sleeping</li><li data-block-key=\"5y2fg\">making too much pee at night</li><li data-block-key=\"99tb8\">stress at home or at school</li></ul><p data-block-key=\"bsaxj\">Bedwetting may also be caused by an underlying health condition such as diabetes or constipation.</p>\n</section>\n<section>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h2 data-block-key=\"78od6\">More information and advice on bedwetting</h2><ul><li data-block-key=\"8qakk\"><a href=\"https://www.bbuk.org.uk/children-young-people/resources-for-children/\">Bladder and Bowel UK: resources for children and young people with bladder problems</a></li><li data-block-key=\"4nhle\"><a href=\"https://eric.org.uk/childrens-bladders/bedwetting/\">ERIC, the Children's Bowel &amp; Bladder Charity: bedwetting</a></li></ul>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 11 April 2023<br/>\n    Next review due: 11 April 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

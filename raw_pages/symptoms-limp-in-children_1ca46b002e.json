@@ -1,0 +1,500 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/limp-in-children/",
+  "final_url": "https://www.nhs.uk/symptoms/limp-in-children/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:09.205861+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "L",
+      "label": "Limping in children",
+      "url": "https://www.nhs.uk/symptoms/limp-in-children/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Limping in children",
+  "meta_description": "Find out more about limping in children, which is usually caused by something minor like a sprain or strain.",
+  "review_dates": {
+    "page_last_reviewed": "23 January 2025",
+    "next_review_due": "23 January 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out more about limping in children, which is usually caused by something minor like a sprain or strain."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/limp-in-children/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nLimping in children\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out more about limping in children, which is usually caused by something minor like a sprain or strain."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "27 Nov 2025, 11:51 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 1:52 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Limping in children"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/limp-in-children/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Limping in children"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-11-27T11:51:12+00:00",
+      "description": "Find out more about limping in children, which is usually caused by something minor like a sprain or strain.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Common causes of limping in children are a sprain or strain, or a broken bone. But a limp without an obvious cause should always be checked by a GP.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Limping in children is often caused by an obvious injury to the leg or foot, such as:</p><ul><li>a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li>a <a href=\"/conditions/blisters/\">blister</a>, cut or bruise</li><li>a broken bone</li></ul><p>Sometimes it may not be clear what's causing your child to limp. The symptoms might give you an idea of what the cause might be.</p><p>But do not self-diagnose – a limp with no obvious cause should always be checked by a GP as it could be a sign of something serious.</p>"
+            }
+          ],
+          "headline": "Causes of limping in children",
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  your child has a limp and you're not sure what's causing it\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go to A&E if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  your child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)\n </li>\n<li>\n  your child cannot put any weight on their leg\n </li>\n<li>\n  the leg has changed shape or is pointing at an odd angle\n </li>\n<li>\n  your child feels generally unwell and has a high temperature, or feels hot, cold or shivery\n </li>\n<li>\n  your child also has severe pain in the lower part of their tummy\n </li>\n<li>\n  your child's symptoms get worse\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>\n<div class=\"block-common_content\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n   </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Severe pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there and so bad it's hard to think or talk\n       </li>\n<li>\n        you cannot sleep\n       </li>\n<li>\n        it's very hard to move, get out of bed, go to the bathroom, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Moderate pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        always there\n       </li>\n<li>\n        makes it hard to concentrate or sleep\n       </li>\n<li>\n        you can manage to get up, wash or dress\n       </li>\n</ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n      Mild pain:\n     </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul>\n<li>\n        comes and goes\n       </li>\n<li>\n        is annoying but does not stop you doing daily activities\n       </li>\n</ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Depending on what’s causing your child's limp, a GP may advise you to treat it at home or refer them to a specialist if it's more serious.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment will depend on what's causing your child to limp. Sometimes it may get better on its own.</p><p>A GP will examine your child and may arrange for more tests to find out what's causing your child to limp.</p><p>They might:</p><ul><li>give you advice on <a href=\"/conditions/sprains-and-strains/\">how to treat a sprain or strain</a> at home, such as rest and taking paracetamol or ibuprofen</li><li>refer you to hospital for an <a href=\"/tests-and-treatments/x-ray/\">X-ray</a> or to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause</li></ul>"
+            }
+          ],
+          "headline": "Treatment for limping in children from a GP",
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Limping in children is not usually serious and could be caused by something minor like a sprain or strain. But see a GP if the cause is not obvious.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Limping in children",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Limping in children",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Common causes of limping in children are a sprain or strain, or a broken bone. But a limp without an obvious cause should always be checked by a GP.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Depending on what’s causing your child's limp, a GP may advise you to treat it at home or refer them to a specialist if it's more serious.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-01-23T09:00:00+00:00",
+        "2028-01-23T09:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Limping in children",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Limping in children",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/limp-in-children/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/limp-in-children/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Limping in children is not usually serious and could be caused by something minor like a sprain or strain. But you should see a GP if it's not obvious what's causing it.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"7l4qy\"><b>Limping in children is not usually serious and could be caused by something minor like a sprain or strain. But you should see a GP if it's not obvious what's causing it.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Causes of limping in children",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of limping in children"
+        }
+      ],
+      "text": "Causes of limping in children\nLimping in children is often caused by an obvious injury to the leg or foot, such as:\na\nsprain or strain\na\nblister\n, cut or bruise\na broken bone\nSometimes it may not be clear what's causing your child to limp. The symptoms might give you an idea of what the cause might be.\nBut do not self-diagnose – a limp with no obvious cause should always be checked by a GP as it could be a sign of something serious.\nOther causes of limping in children\nOther symptoms\nPossible cause\nSudden pain in the hip, knee or thigh, sometimes after a viral infection\nIrritable hip\nPain in the groin, hip or knee, stiff hip, foot or leg turns inward\nSlipped upper femoral epiphysis\nPainful, swollen joints that lasts for longer than 6 weeks\nDifferent types of juvenile arthritis\nPain in the groin, thigh or knee, stiff hip\nPerthes' disease\nA lump on your child's leg, weight loss, pain at night\nA cancer, such as leukaemia,\nsarcoma\nor lymphoma",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "a\nsprain or strain",
+            "a\nblister\n, cut or bruise",
+            "a broken bone"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "sprain or strain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "blister",
+          "url": "https://www.nhs.uk/conditions/blisters/"
+        },
+        {
+          "text": "Irritable hip",
+          "url": "https://www.nhs.uk/conditions/hip-pain-children-irritable-hip/"
+        },
+        {
+          "text": "sarcoma",
+          "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of limping in children</h2>\n<p data-block-key=\"efrx8\">Limping in children is often caused by an obvious injury to the leg or foot, such as:</p><ul><li data-block-key=\"8c2lt\">a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li data-block-key=\"1qvm5\">a <a href=\"/conditions/blisters/\">blister</a>, cut or bruise</li><li data-block-key=\"4r0d8\">a broken bone</li></ul><p data-block-key=\"f25sd\">Sometimes it may not be clear what's causing your child to limp. The symptoms might give you an idea of what the cause might be.</p><p data-block-key=\"4qsvt\">But do not self-diagnose – a limp with no obvious cause should always be checked by a GP as it could be a sign of something serious.</p>\n<div class=\"nhsuk-table-container\">\n<table><caption class=\"nhsuk-u-visually-hidden\">Other causes of limping in children</caption>\n<thead>\n<tr>\n<th scope=\"col\">Other symptoms</th>\n<th scope=\"col\">Possible cause</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Sudden pain in the hip, knee or thigh, sometimes after a viral infection</td>\n<td><a href=\"/conditions/hip-pain-children-irritable-hip/\">Irritable hip</a></td>\n</tr>\n<tr>\n<td>Pain in the groin, hip or knee, stiff hip, foot or leg turns inward</td>\n<td>Slipped upper femoral epiphysis</td>\n</tr>\n<tr>\n<td>Painful, swollen joints that lasts for longer than 6 weeks</td>\n<td>Different types of juvenile arthritis</td>\n</tr>\n<tr>\n<td>Pain in the groin, thigh or knee, stiff hip</td>\n<td>Perthes' disease</td>\n</tr>\n<tr>\n<td>A lump on your child's leg, weight loss, pain at night</td>\n<td>A cancer, such as leukaemia, <a href=\"/conditions/soft-tissue-sarcoma/\">sarcoma</a> or lymphoma</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nyour child has a limp and you're not sure what's causing it",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your child has a limp and you're not sure what's causing it"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6cxdc\">your child has a limp and you're not sure what's causing it</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Immediate action required: Call 999 or go to A&E if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go to A&E if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go to A&E if:\nyour child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)\nyour child cannot put any weight on their leg\nthe leg has changed shape or is pointing at an odd angle\nyour child feels generally unwell and has a high temperature, or feels hot, cold or shivery\nyour child also has severe pain in the lower part of their tummy\nyour child's symptoms get worse\nFind your nearest A&E\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)",
+            "your child cannot put any weight on their leg",
+            "the leg has changed shape or is pointing at an odd angle",
+            "your child feels generally unwell and has a high temperature, or feels hot, cold or shivery",
+            "your child also has severe pain in the lower part of their tummy",
+            "your child's symptoms get worse"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there and so bad it's hard to think or talk",
+            "you cannot sleep",
+            "it's very hard to move, get out of bed, go to the bathroom, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "always there",
+            "makes it hard to concentrate or sleep",
+            "you can manage to get up, wash or dress"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "comes and goes",
+            "is annoying but does not stop you doing daily activities"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6cxdc\">your child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)</li><li data-block-key=\"e1qu1\">your child cannot put any weight on their leg</li><li data-block-key=\"9cbhn\">the leg has changed shape or is pointing at an odd angle</li><li data-block-key=\"bpjgj\">your child feels generally unwell and has a high temperature, or feels hot, cold or shivery</li><li data-block-key=\"c0fvv\">your child also has severe pain in the lower part of their tummy</li><li data-block-key=\"809sr\">your child's symptoms get worse</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for limping in children from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for limping in children from a GP"
+        }
+      ],
+      "text": "Treatment for limping in children from a GP\nTreatment will depend on what's causing your child to limp. Sometimes it may get better on its own.\nA GP will examine your child and may arrange for more tests to find out what's causing your child to limp.\nThey might:\ngive you advice on\nhow to treat a sprain or strain\nat home, such as rest and taking paracetamol or ibuprofen\nrefer you to hospital for an\nX-ray\nor to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "give you advice on\nhow to treat a sprain or strain\nat home, such as rest and taking paracetamol or ibuprofen",
+            "refer you to hospital for an\nX-ray\nor to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "how to treat a sprain or strain",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.nhs.uk/tests-and-treatments/x-ray/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for limping in children from a GP</h2>\n<p data-block-key=\"pzrt0\">Treatment will depend on what's causing your child to limp. Sometimes it may get better on its own.</p><p data-block-key=\"9msku\">A GP will examine your child and may arrange for more tests to find out what's causing your child to limp.</p><p data-block-key=\"299ca\">They might:</p><ul><li data-block-key=\"5gsj6\">give you advice on <a href=\"/conditions/sprains-and-strains/\">how to treat a sprain or strain</a> at home, such as rest and taking paracetamol or ibuprofen</li><li data-block-key=\"6i1c6\">refer you to hospital for an <a href=\"/tests-and-treatments/x-ray/\">X-ray</a> or to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause</li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Limping in children is not usually serious and could be caused by something minor like a sprain or strain. But you should see a GP if it's not obvious what's causing it.\nCauses of limping in children\nLimping in children is often caused by an obvious injury to the leg or foot, such as:\na\nsprain or strain\na\nblister\n, cut or bruise\na broken bone\nSometimes it may not be clear what's causing your child to limp. The symptoms might give you an idea of what the cause might be.\nBut do not self-diagnose – a limp with no obvious cause should always be checked by a GP as it could be a sign of something serious.\nOther causes of limping in children\nOther symptoms\nPossible cause\nSudden pain in the hip, knee or thigh, sometimes after a viral infection\nIrritable hip\nPain in the groin, hip or knee, stiff hip, foot or leg turns inward\nSlipped upper femoral epiphysis\nPainful, swollen joints that lasts for longer than 6 weeks\nDifferent types of juvenile arthritis\nPain in the groin, thigh or knee, stiff hip\nPerthes' disease\nA lump on your child's leg, weight loss, pain at night\nA cancer, such as leukaemia,\nsarcoma\nor lymphoma\nNon-urgent advice:\nSee a GP if:\nyour child has a limp and you're not sure what's causing it\nImmediate action required:\nCall 999 or go to A&E if:\nyour child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)\nyour child cannot put any weight on their leg\nthe leg has changed shape or is pointing at an odd angle\nyour child feels generally unwell and has a high temperature, or feels hot, cold or shivery\nyour child also has severe pain in the lower part of their tummy\nyour child's symptoms get worse\nFind your nearest A&E\nWhat we mean by severe pain\nSevere pain:\nalways there and so bad it's hard to think or talk\nyou cannot sleep\nit's very hard to move, get out of bed, go to the bathroom, wash or dress\nModerate pain:\nalways there\nmakes it hard to concentrate or sleep\nyou can manage to get up, wash or dress\nMild pain:\ncomes and goes\nis annoying but does not stop you doing daily activities\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nTreatment for limping in children from a GP\nTreatment will depend on what's causing your child to limp. Sometimes it may get better on its own.\nA GP will examine your child and may arrange for more tests to find out what's causing your child to limp.\nThey might:\ngive you advice on\nhow to treat a sprain or strain\nat home, such as rest and taking paracetamol or ibuprofen\nrefer you to hospital for an\nX-ray\nor to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause\nPage last reviewed: 23 January 2025\nNext review due: 23 January 2028",
+  "links": [
+    {
+      "text": "sprain or strain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "blister",
+      "url": "https://www.nhs.uk/conditions/blisters/"
+    },
+    {
+      "text": "Irritable hip",
+      "url": "https://www.nhs.uk/conditions/hip-pain-children-irritable-hip/"
+    },
+    {
+      "text": "sarcoma",
+      "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "how to treat a sprain or strain",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "X-ray",
+      "url": "https://www.nhs.uk/tests-and-treatments/x-ray/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"7l4qy\"><b>Limping in children is not usually serious and could be caused by something minor like a sprain or strain. But you should see a GP if it's not obvious what's causing it.</b></p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of limping in children</h2>\n<p data-block-key=\"efrx8\">Limping in children is often caused by an obvious injury to the leg or foot, such as:</p><ul><li data-block-key=\"8c2lt\">a <a href=\"/conditions/sprains-and-strains/\">sprain or strain</a></li><li data-block-key=\"1qvm5\">a <a href=\"/conditions/blisters/\">blister</a>, cut or bruise</li><li data-block-key=\"4r0d8\">a broken bone</li></ul><p data-block-key=\"f25sd\">Sometimes it may not be clear what's causing your child to limp. The symptoms might give you an idea of what the cause might be.</p><p data-block-key=\"4qsvt\">But do not self-diagnose – a limp with no obvious cause should always be checked by a GP as it could be a sign of something serious.</p>\n<div class=\"nhsuk-table-container\">\n<table><caption class=\"nhsuk-u-visually-hidden\">Other causes of limping in children</caption>\n<thead>\n<tr>\n<th scope=\"col\">Other symptoms</th>\n<th scope=\"col\">Possible cause</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Sudden pain in the hip, knee or thigh, sometimes after a viral infection</td>\n<td><a href=\"/conditions/hip-pain-children-irritable-hip/\">Irritable hip</a></td>\n</tr>\n<tr>\n<td>Pain in the groin, hip or knee, stiff hip, foot or leg turns inward</td>\n<td>Slipped upper femoral epiphysis</td>\n</tr>\n<tr>\n<td>Painful, swollen joints that lasts for longer than 6 weeks</td>\n<td>Different types of juvenile arthritis</td>\n</tr>\n<tr>\n<td>Pain in the groin, thigh or knee, stiff hip</td>\n<td>Perthes' disease</td>\n</tr>\n<tr>\n<td>A lump on your child's leg, weight loss, pain at night</td>\n<td>A cancer, such as leukaemia, <a href=\"/conditions/soft-tissue-sarcoma/\">sarcoma</a> or lymphoma</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6cxdc\">your child has a limp and you're not sure what's causing it</li></ul>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6cxdc\">your child gets sudden pain in their hip, knee or thigh (hip problems can sometimes be felt in the thigh or knee)</li><li data-block-key=\"e1qu1\">your child cannot put any weight on their leg</li><li data-block-key=\"9cbhn\">the leg has changed shape or is pointing at an odd angle</li><li data-block-key=\"bpjgj\">your child feels generally unwell and has a high temperature, or feels hot, cold or shivery</li><li data-block-key=\"c0fvv\">your child also has severe pain in the lower part of their tummy</li><li data-block-key=\"809sr\">your child's symptoms get worse</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    What we mean by severe pain\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<dl class=\"nhsuk-summary-list\">\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Severe pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"6pxfo\">always there and so bad it's hard to think or talk</li><li data-block-key=\"71b4t\">you cannot sleep</li><li data-block-key=\"q90gp\">it's very hard to move, get out of bed, go to the bathroom, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Moderate pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"lwhtw\">always there</li><li data-block-key=\"6fysl\">makes it hard to concentrate or sleep</li><li data-block-key=\"8qp1n\">you can manage to get up, wash or dress</li></ul>\n</dd>\n</div>\n<div class=\"nhsuk-summary-list__row\">\n<dt class=\"nhsuk-summary-list__key\">\n          Mild pain:\n      </dt>\n<dd class=\"nhsuk-summary-list__value\">\n<ul><li data-block-key=\"cosvy\">comes and goes</li><li data-block-key=\"luchc\">is annoying but does not stop you doing daily activities</li></ul>\n</dd>\n</div>\n</dl>\n</div>\n</details>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for limping in children from a GP</h2>\n<p data-block-key=\"pzrt0\">Treatment will depend on what's causing your child to limp. Sometimes it may get better on its own.</p><p data-block-key=\"9msku\">A GP will examine your child and may arrange for more tests to find out what's causing your child to limp.</p><p data-block-key=\"299ca\">They might:</p><ul><li data-block-key=\"5gsj6\">give you advice on <a href=\"/conditions/sprains-and-strains/\">how to treat a sprain or strain</a> at home, such as rest and taking paracetamol or ibuprofen</li><li data-block-key=\"6i1c6\">refer you to hospital for an <a href=\"/tests-and-treatments/x-ray/\">X-ray</a> or to a specialist (for example, a paediatric orthopaedic surgeon) to help find the cause</li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 23 January 2025<br/>\n    Next review due: 23 January 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

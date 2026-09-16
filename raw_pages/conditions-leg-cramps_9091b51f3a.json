@@ -1,0 +1,519 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/leg-cramps/",
+  "final_url": "https://www.nhs.uk/conditions/leg-cramps/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:08.099126+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "L",
+      "label": "Leg cramps",
+      "url": "https://www.nhs.uk/conditions/leg-cramps/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Leg cramps",
+  "meta_description": "Find out about leg cramps, a common condition where the muscles in the leg suddenly become tight and painful.",
+  "review_dates": {
+    "page_last_reviewed": "01 December 2023",
+    "next_review_due": "01 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about leg cramps, a common condition where the muscles in the leg suddenly become tight and painful."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/leg-cramps/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nLeg cramps\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about leg cramps, a common condition where the muscles in the leg suddenly become tight and painful."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "9 Jul 2026, 2:56 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "23 Oct 2017, 2:17 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Leg cramps"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/leg-cramps/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Leg cramps"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-07-09T13:56:42+00:00",
+      "description": "Find out about leg cramps, a common condition where the muscles in the leg suddenly become tight and painful.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptom of leg cramps is a sudden pain in a leg muscle that lasts a short time before going away.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Leg cramps happen when a muscle in the leg tightens and causes a sudden pain that can make it hard to move.</p><p>The cramps can last from a few seconds to 10 minutes.</p><p>They can affect the:</p><ul><li>calf muscle, below the knee at the back of the leg</li><li>muscles in the feet or the thighs (less often)</li></ul><p>After the cramp has stopped, the muscle might feel sore for up to 24 hours.</p>"
+            }
+          ],
+          "headline": "Symptoms of leg cramps",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Stretching and massaging your leg muscles can help with leg cramps. Paracetamol or ibuprofen can help ease the pain after the cramps have stopped.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "During a cramp",
+              "text": "<p>Stretching and massaging the muscle may ease the pain during a cramp, although most cramps go away without you doing anything.</p><p>Standing up and putting your weight on the leg with the cramp may also help.</p><p><a href=\"/medicines/paracetamol-for-adults/\">Paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> can help to ease muscle soreness after a cramp, but they will not help when it's happening as they take too long to work.</p><h3>Preventing cramps</h3><p>Regular calf-stretching exercises may help to reduce cramps but may not completely stop them from happening.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "How to stretch your calf muscles",
+              "text": "<div class=\"block-richtext\">\n<ol><li>Stand facing a wall and stretch out your arms until your hands can just touch it.</li><li>Make sure you're able to stand up straight and that your feet are flat on the floor.</li><li>Lean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.</li><li>Stand up straight again.</li><li>Repeat a few times for 5 minutes, 3 times a day (the last time just before bed).</li></ol><p>If the number of cramps reduces, you might only need to do the exercise once or twice a day.</p>\n</div>"
+            }
+          ],
+          "headline": "Things you can do about leg cramps yourself",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  leg cramps are disturbing your sleep\n </li>\n<li>\n  you also have numbness or swelling in your legs\n </li>\n<li>\n  cramps last longer than 10 minutes\n </li>\n</ul>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A GP may be able to suggest stretches and massages to help ease your leg cramps. They may prescribe a medicine called quinine if these do not help.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A GP will examine you to try to find out the reason for your leg cramps.</p><p>They will suggest a treatment depending on the cause.</p><p>This might be:</p><ul><li>stretching exercises</li><li>quinine tablets if exercise has not helped</li></ul><p>Quinine is not suitable for everyone. The GP will discuss potential risks and side effects with you.</p>"
+            }
+          ],
+          "headline": "Treatment for leg cramps from a GP",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Leg cramps can sometimes be caused by ageing, doing lots of exercise, dehydration or pregnancy.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Leg cramps can sometimes be caused by:</p><ul><li>ageing</li><li>putting too much strain on muscles during exercise, which can be worse in hot or humid weather</li><li>pregnancy (usually in the later stage)</li><li>certain medicines – for example, medicine for lowering cholesterol (<a href=\"/medicines/statins/\">statins</a>) or high blood pressure (diuretics)</li><li>not drinking enough fluids (<a href=\"/conditions/dehydration/\">dehydration</a>)</li><li>liver disease because of drinking too much alcohol</li></ul><p>The reason for some cramps is unknown.</p>"
+            }
+          ],
+          "headline": "Causes of leg cramps",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Leg cramps are sudden pains in your legs caused by your leg muscles becoming tight.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Leg cramps",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Leg cramps",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Leg cramps",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Leg cramps",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptom of leg cramps is a sudden pain in a leg muscle that lasts a short time before going away.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Stretching and massaging your leg muscles can help with leg cramps. Paracetamol or ibuprofen can help ease the pain after the cramps have stopped.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A GP may be able to suggest stretches and massages to help ease your leg cramps. They may prescribe a medicine called quinine if these do not help.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Leg cramps can sometimes be caused by ageing, doing lots of exercise, dehydration or pregnancy.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/leg-cramps/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-01T00:00:00+00:00",
+        "2026-12-01T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Leg cramps",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Leg cramps",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/leg-cramps/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/leg-cramps/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Leg cramps are common, usually harmless, and only last a short time. They can happen at any time, but most people have them at night or when resting.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"vwxmr\"><b>Leg cramps are common, usually harmless, and only last a short time. They can happen at any time, but most people have them at night or when resting.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Symptoms of leg cramps",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of leg cramps"
+        }
+      ],
+      "text": "Symptoms of leg cramps\nLeg cramps happen when a muscle in the leg tightens and causes a sudden pain that can make it hard to move.\nThe cramps can last from a few seconds to 10 minutes.\nThey can affect the:\ncalf muscle, below the knee at the back of the leg\nmuscles in the feet or the thighs (less often)\nAfter the cramp has stopped, the muscle might feel sore for up to 24 hours.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "calf muscle, below the knee at the back of the leg",
+            "muscles in the feet or the thighs (less often)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of leg cramps</h2>\n<p data-block-key=\"i5uhc\">Leg cramps happen when a muscle in the leg tightens and causes a sudden pain that can make it hard to move.</p><p data-block-key=\"4u4cb\">The cramps can last from a few seconds to 10 minutes.</p><p data-block-key=\"ql5c8\">They can affect the:</p><ul><li data-block-key=\"qiu51\">calf muscle, below the knee at the back of the leg</li><li data-block-key=\"7o0lv\">muscles in the feet or the thighs (less often)</li></ul><p data-block-key=\"ac0hg\">After the cramp has stopped, the muscle might feel sore for up to 24 hours.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Things you can do about leg cramps yourself",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Things you can do about leg cramps yourself"
+        },
+        {
+          "level": "h3",
+          "text": "During a cramp"
+        },
+        {
+          "level": "h3",
+          "text": "Preventing cramps"
+        }
+      ],
+      "text": "Things you can do about leg cramps yourself\nDuring a cramp\nStretching and massaging the muscle may ease the pain during a cramp, although most cramps go away without you doing anything.\nStanding up and putting your weight on the leg with the cramp may also help.\nParacetamol\nor\nibuprofen\ncan help to ease muscle soreness after a cramp, but they will not help when it's happening as they take too long to work.\nPreventing cramps\nRegular calf-stretching exercises may help to reduce cramps but may not completely stop them from happening.\nHow to stretch your calf muscles\nStand facing a wall and stretch out your arms until your hands can just touch it.\nMake sure you're able to stand up straight and that your feet are flat on the floor.\nLean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.\nStand up straight again.\nRepeat a few times for 5 minutes, 3 times a day (the last time just before bed).\nIf the number of cramps reduces, you might only need to do the exercise once or twice a day.",
+      "lists": [
+        {
+          "type": "ordered",
+          "items": [
+            "Stand facing a wall and stretch out your arms until your hands can just touch it.",
+            "Make sure you're able to stand up straight and that your feet are flat on the floor.",
+            "Lean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.",
+            "Stand up straight again.",
+            "Repeat a few times for 5 minutes, 3 times a day (the last time just before bed)."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">Things you can do about leg cramps yourself</h2>\n<h3 data-block-key=\"alrg4\">During a cramp</h3><p data-block-key=\"9n492\">Stretching and massaging the muscle may ease the pain during a cramp, although most cramps go away without you doing anything.</p><p data-block-key=\"djruv\">Standing up and putting your weight on the leg with the cramp may also help.</p><p data-block-key=\"062hb\"><a href=\"/medicines/paracetamol-for-adults/\">Paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> can help to ease muscle soreness after a cramp, but they will not help when it's happening as they take too long to work.</p><h3 data-block-key=\"pkr9h\">Preventing cramps</h3><p data-block-key=\"sr3r0\">Regular calf-stretching exercises may help to reduce cramps but may not completely stop them from happening.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to stretch your calf muscles\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"6ws0q\">Stand facing a wall and stretch out your arms until your hands can just touch it.</li><li data-block-key=\"8g452\">Make sure you're able to stand up straight and that your feet are flat on the floor.</li><li data-block-key=\"4cfm5\">Lean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.</li><li data-block-key=\"4237t\">Stand up straight again.</li><li data-block-key=\"13tdo\">Repeat a few times for 5 minutes, 3 times a day (the last time just before bed).</li></ol><p data-block-key=\"2rijm\">If the number of cramps reduces, you might only need to do the exercise once or twice a day.</p>\n</div>\n</details>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nleg cramps are disturbing your sleep\nyou also have numbness or swelling in your legs\ncramps last longer than 10 minutes",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "leg cramps are disturbing your sleep",
+            "you also have numbness or swelling in your legs",
+            "cramps last longer than 10 minutes"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"1al0f\">leg cramps are disturbing your sleep</li><li data-block-key=\"593mk\">you also have numbness or swelling in your legs</li><li data-block-key=\"ce12x\">cramps last longer than 10 minutes</li></ul>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatment for leg cramps from a GP",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for leg cramps from a GP"
+        }
+      ],
+      "text": "Treatment for leg cramps from a GP\nA GP will examine you to try to find out the reason for your leg cramps.\nThey will suggest a treatment depending on the cause.\nThis might be:\nstretching exercises\nquinine tablets if exercise has not helped\nQuinine is not suitable for everyone. The GP will discuss potential risks and side effects with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stretching exercises",
+            "quinine tablets if exercise has not helped"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for leg cramps from a GP</h2>\n<p data-block-key=\"upc02\">A GP will examine you to try to find out the reason for your leg cramps.</p><p data-block-key=\"i9zc6\">They will suggest a treatment depending on the cause.</p><p data-block-key=\"7yz3g\">This might be:</p><ul><li data-block-key=\"yl4p1\">stretching exercises</li><li data-block-key=\"3auxd\">quinine tablets if exercise has not helped</li></ul><p data-block-key=\"vo87x\">Quinine is not suitable for everyone. The GP will discuss potential risks and side effects with you.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Causes of leg cramps",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of leg cramps"
+        }
+      ],
+      "text": "Causes of leg cramps\nLeg cramps can sometimes be caused by:\nageing\nputting too much strain on muscles during exercise, which can be worse in hot or humid weather\npregnancy (usually in the later stage)\ncertain medicines – for example, medicine for lowering cholesterol (\nstatins\n) or high blood pressure (diuretics)\nnot drinking enough fluids (\ndehydration\n)\nliver disease because of drinking too much alcohol\nThe reason for some cramps is unknown.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "ageing",
+            "putting too much strain on muscles during exercise, which can be worse in hot or humid weather",
+            "pregnancy (usually in the later stage)",
+            "certain medicines – for example, medicine for lowering cholesterol (\nstatins\n) or high blood pressure (diuretics)",
+            "not drinking enough fluids (\ndehydration\n)",
+            "liver disease because of drinking too much alcohol"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "statins",
+          "url": "https://www.nhs.uk/medicines/statins/"
+        },
+        {
+          "text": "dehydration",
+          "url": "https://www.nhs.uk/conditions/dehydration/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of leg cramps</h2>\n<p data-block-key=\"le358\">Leg cramps can sometimes be caused by:</p><ul><li data-block-key=\"1f5tg\">ageing</li><li data-block-key=\"w3mr3\">putting too much strain on muscles during exercise, which can be worse in hot or humid weather</li><li data-block-key=\"kjy9y\">pregnancy (usually in the later stage)</li><li data-block-key=\"4smsz\">certain medicines – for example, medicine for lowering cholesterol (<a href=\"/medicines/statins/\">statins</a>) or high blood pressure (diuretics)</li><li data-block-key=\"lg3tr\">not drinking enough fluids (<a href=\"/conditions/dehydration/\">dehydration</a>)</li><li data-block-key=\"n7lds\">liver disease because of drinking too much alcohol</li></ul><p data-block-key=\"jhba3\">The reason for some cramps is unknown.</p>\n</section>"
+    }
+  ],
+  "page_text": "Leg cramps are common, usually harmless, and only last a short time. They can happen at any time, but most people have them at night or when resting.\nSymptoms of leg cramps\nLeg cramps happen when a muscle in the leg tightens and causes a sudden pain that can make it hard to move.\nThe cramps can last from a few seconds to 10 minutes.\nThey can affect the:\ncalf muscle, below the knee at the back of the leg\nmuscles in the feet or the thighs (less often)\nAfter the cramp has stopped, the muscle might feel sore for up to 24 hours.\nThings you can do about leg cramps yourself\nDuring a cramp\nStretching and massaging the muscle may ease the pain during a cramp, although most cramps go away without you doing anything.\nStanding up and putting your weight on the leg with the cramp may also help.\nParacetamol\nor\nibuprofen\ncan help to ease muscle soreness after a cramp, but they will not help when it's happening as they take too long to work.\nPreventing cramps\nRegular calf-stretching exercises may help to reduce cramps but may not completely stop them from happening.\nHow to stretch your calf muscles\nStand facing a wall and stretch out your arms until your hands can just touch it.\nMake sure you're able to stand up straight and that your feet are flat on the floor.\nLean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.\nStand up straight again.\nRepeat a few times for 5 minutes, 3 times a day (the last time just before bed).\nIf the number of cramps reduces, you might only need to do the exercise once or twice a day.\nNon-urgent advice:\nSee a GP if:\nleg cramps are disturbing your sleep\nyou also have numbness or swelling in your legs\ncramps last longer than 10 minutes\nTreatment for leg cramps from a GP\nA GP will examine you to try to find out the reason for your leg cramps.\nThey will suggest a treatment depending on the cause.\nThis might be:\nstretching exercises\nquinine tablets if exercise has not helped\nQuinine is not suitable for everyone. The GP will discuss potential risks and side effects with you.\nCauses of leg cramps\nLeg cramps can sometimes be caused by:\nageing\nputting too much strain on muscles during exercise, which can be worse in hot or humid weather\npregnancy (usually in the later stage)\ncertain medicines – for example, medicine for lowering cholesterol (\nstatins\n) or high blood pressure (diuretics)\nnot drinking enough fluids (\ndehydration\n)\nliver disease because of drinking too much alcohol\nThe reason for some cramps is unknown.\nPage last reviewed: 01 December 2023\nNext review due: 01 December 2026",
+  "links": [
+    {
+      "text": "Paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "statins",
+      "url": "https://www.nhs.uk/medicines/statins/"
+    },
+    {
+      "text": "dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"vwxmr\"><b>Leg cramps are common, usually harmless, and only last a short time. They can happen at any time, but most people have them at night or when resting.</b></p>\n</section>\n<section>\n<h2 id=\"symptoms\">Symptoms of leg cramps</h2>\n<p data-block-key=\"i5uhc\">Leg cramps happen when a muscle in the leg tightens and causes a sudden pain that can make it hard to move.</p><p data-block-key=\"4u4cb\">The cramps can last from a few seconds to 10 minutes.</p><p data-block-key=\"ql5c8\">They can affect the:</p><ul><li data-block-key=\"qiu51\">calf muscle, below the knee at the back of the leg</li><li data-block-key=\"7o0lv\">muscles in the feet or the thighs (less often)</li></ul><p data-block-key=\"ac0hg\">After the cramp has stopped, the muscle might feel sore for up to 24 hours.</p>\n</section>\n<section>\n<h2 id=\"self-care\">Things you can do about leg cramps yourself</h2>\n<h3 data-block-key=\"alrg4\">During a cramp</h3><p data-block-key=\"9n492\">Stretching and massaging the muscle may ease the pain during a cramp, although most cramps go away without you doing anything.</p><p data-block-key=\"djruv\">Standing up and putting your weight on the leg with the cramp may also help.</p><p data-block-key=\"062hb\"><a href=\"/medicines/paracetamol-for-adults/\">Paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> can help to ease muscle soreness after a cramp, but they will not help when it's happening as they take too long to work.</p><h3 data-block-key=\"pkr9h\">Preventing cramps</h3><p data-block-key=\"sr3r0\">Regular calf-stretching exercises may help to reduce cramps but may not completely stop them from happening.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    How to stretch your calf muscles\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<ol><li data-block-key=\"6ws0q\">Stand facing a wall and stretch out your arms until your hands can just touch it.</li><li data-block-key=\"8g452\">Make sure you're able to stand up straight and that your feet are flat on the floor.</li><li data-block-key=\"4cfm5\">Lean forward, pressing your hands against the wall until you feel your calf muscles stretch. Hold for 2 or 3 seconds.</li><li data-block-key=\"4237t\">Stand up straight again.</li><li data-block-key=\"13tdo\">Repeat a few times for 5 minutes, 3 times a day (the last time just before bed).</li></ol><p data-block-key=\"2rijm\">If the number of cramps reduces, you might only need to do the exercise once or twice a day.</p>\n</div>\n</details>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"1al0f\">leg cramps are disturbing your sleep</li><li data-block-key=\"593mk\">you also have numbness or swelling in your legs</li><li data-block-key=\"ce12x\">cramps last longer than 10 minutes</li></ul>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for leg cramps from a GP</h2>\n<p data-block-key=\"upc02\">A GP will examine you to try to find out the reason for your leg cramps.</p><p data-block-key=\"i9zc6\">They will suggest a treatment depending on the cause.</p><p data-block-key=\"7yz3g\">This might be:</p><ul><li data-block-key=\"yl4p1\">stretching exercises</li><li data-block-key=\"3auxd\">quinine tablets if exercise has not helped</li></ul><p data-block-key=\"vo87x\">Quinine is not suitable for everyone. The GP will discuss potential risks and side effects with you.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of leg cramps</h2>\n<p data-block-key=\"le358\">Leg cramps can sometimes be caused by:</p><ul><li data-block-key=\"1f5tg\">ageing</li><li data-block-key=\"w3mr3\">putting too much strain on muscles during exercise, which can be worse in hot or humid weather</li><li data-block-key=\"kjy9y\">pregnancy (usually in the later stage)</li><li data-block-key=\"4smsz\">certain medicines – for example, medicine for lowering cholesterol (<a href=\"/medicines/statins/\">statins</a>) or high blood pressure (diuretics)</li><li data-block-key=\"lg3tr\">not drinking enough fluids (<a href=\"/conditions/dehydration/\">dehydration</a>)</li><li data-block-key=\"n7lds\">liver disease because of drinking too much alcohol</li></ul><p data-block-key=\"jhba3\">The reason for some cramps is unknown.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 01 December 2023<br/>\n    Next review due: 01 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

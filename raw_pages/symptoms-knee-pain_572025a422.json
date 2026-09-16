@@ -1,0 +1,561 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/knee-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/knee-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:06.970709+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "K",
+      "label": "Knee pain",
+      "url": "https://www.nhs.uk/symptoms/knee-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Knee pain",
+  "meta_description": "Sudden knee pain is often caused by overusing the knee or injuring it. Find out what you can do to treat it yourself and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "21 December 2023",
+    "next_review_due": "21 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Sudden knee pain is often caused by overusing the knee or injuring it. Find out what you can do to treat it yourself and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/knee-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nKnee pain\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Sudden knee pain is often caused by overusing the knee or injuring it. Find out what you can do to treat it yourself and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "14 Apr 2026, 4:10 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "19 Oct 2017, 8:07 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Knee pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/knee-pain/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Knee pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-04-14T15:10:48+00:00",
+      "description": "Sudden knee pain is often caused by overusing the knee or injuring it. Find out what you can do to treat it yourself and when to get medical help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "To ease knee pain and swelling, avoid putting weight on your knee, use an ice pack for up to 20 minutes every 2 to 3 hours, and take painkillers.",
+          "hasHealthAspect": "http://schema.org/SelfCareHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you have knee pain, try these things at first:</p><ul><li>put as little weight as possible on your knee – for example, avoid standing for a long time</li><li>use an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours</li><li>use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> gel or tablets</li></ul>"
+            }
+          ],
+          "headline": "How to ease knee pain and swelling",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#self-care"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  knee pain does not improve within a few weeks\n </li>\n</ul>\n<div class=\"block-common_content\">\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">\n   Information:\n  </span>\n<h3>\n<b>\n    Refer yourself for back or joint\n   </b>\n<b>\n    help\n   </b>\n</h3>\n<p>\n   In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\n  </p>\n<p>\n<a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">\n    Get NHS help for back or joint problems\n   </a>\n</p>\n</div>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get advice from 111 now if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  your knee is very painful\n </li>\n<li>\n  you cannot move your knee or put any weight on it\n </li>\n<li>\n  your knee is badly swollen or has changed shape\n </li>\n<li>\n  your knee locks, gives way or painfully clicks – painless clicking is normal\n </li>\n<li>\n  you have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection\n </li>\n</ul>\n<p>\n 111 will tell you what to do. They can tell you the right place to get help if you need to see someone.\n</p>\n<p>\n Get help from\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  NHS 111 online\n </a>\n or\n <a href=\"tel:111\">\n  call 111\n </a>\n .\n</p>\n<div class=\"block-details\">\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Other ways to get urgent help\n   </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p>\n    You can also go to an urgent treatment centre if you need to see someone now.\n   </p>\n<p>\n    They're also called walk-in centres or minor injuries units.\n   </p>\n<p>\n    You may be seen quicker than you would at A&amp;E.\n   </p>\n</div>\n</details>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "A GP can look for causes of your knee pain and recommend treatments like physiotherapy. Sometimes they may refer you to a specialist.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>A doctor can suggest treatment based on what's causing your knee pain.</p><p>They might:</p><ul><li>prescribe medicine or physiotherapy</li><li>refer you to hospital for a scan or specialist treatment (for example, surgery)</li></ul>"
+            }
+          ],
+          "headline": "Treatments for knee pain",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many possible causes of knee pain, including a sprain or strain, tendonitis, cartilage damage, arthritis and gout.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Knee pain can be a symptom of many different conditions.</p><p>This information might give you an idea of what the cause might be. But do not self-diagnose – see a GP if you're worried.</p>"
+            }
+          ],
+          "headline": "Common causes of knee pain",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Knee pain can often be treated at home with rest, ice and painkillers. But you should call 111 if the pain is very bad.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Knee pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Knee pain",
+              "text": "Self-care"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Knee pain",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are many possible causes of knee pain, including a sprain or strain, tendonitis, cartilage damage, arthritis and gout.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>To ease knee pain and swelling, avoid putting weight on your knee, use an ice pack for up to 20 minutes every 2 to 3 hours, and take painkillers.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>A GP can look for causes of your knee pain and recommend treatments like physiotherapy. Sometimes they may refer you to a specialist.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/knee-pain/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-21T00:00:00+00:00",
+        "2026-12-21T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Knee pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Knee pain",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/knee-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/knee-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Knee pain can often be treated at home. You should start to feel better in a few days. Call 111 if the pain is very bad.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"fuc53\"><b>Knee pain can often be treated at home. You should start to feel better in a few days. Call 111 if the pain is very bad.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "How to ease knee pain and swelling",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "How to ease knee pain and swelling"
+        }
+      ],
+      "text": "How to ease knee pain and swelling\nIf you have knee pain, try these things at first:\nput as little weight as possible on your knee – for example, avoid standing for a long time\nuse an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen\ngel or tablets",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "put as little weight as possible on your knee – for example, avoid standing for a long time",
+            "use an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours",
+            "use painkillers such as\nparacetamol\nor\nibuprofen\ngel or tablets"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "paracetamol",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "text": "ibuprofen",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"self-care\">How to ease knee pain and swelling</h2>\n<p data-block-key=\"wjk5i\">If you have knee pain, try these things at first:</p><ul><li data-block-key=\"yu1qb\">put as little weight as possible on your knee – for example, avoid standing for a long time</li><li data-block-key=\"q8r0z\">use an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours</li><li data-block-key=\"i8gkm\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> gel or tablets</li></ul>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Refer yourself for back or joint help"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nknee pain does not improve within a few weeks\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "knee pain does not improve within a few weeks"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Get NHS help for back or joint problems",
+          "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s7ck4\">knee pain does not improve within a few weeks</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Urgent advice: Get advice from 111 now if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Get advice from 111 now if:"
+        }
+      ],
+      "text": "Urgent advice:\nGet advice from 111 now if:\nyour knee is very painful\nyou cannot move your knee or put any weight on it\nyour knee is badly swollen or has changed shape\nyour knee locks, gives way or painfully clicks – painless clicking is normal\nyou have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection\n111 will tell you what to do. They can tell you the right place to get help if you need to see someone.\nGet help from\nNHS 111 online\nor\ncall 111\n.\nOther ways to get urgent help\nYou can also go to an urgent treatment centre if you need to see someone now.\nThey're also called walk-in centres or minor injuries units.\nYou may be seen quicker than you would at A&E.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your knee is very painful",
+            "you cannot move your knee or put any weight on it",
+            "your knee is badly swollen or has changed shape",
+            "your knee locks, gives way or painfully clicks – painless clicking is normal",
+            "you have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "NHS 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        },
+        {
+          "text": "call 111",
+          "url": "tel:111"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get advice from 111 now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"rkne3\">your knee is very painful</li><li data-block-key=\"v4701\">you cannot move your knee or put any weight on it</li><li data-block-key=\"p2xbi\">your knee is badly swollen or has changed shape</li><li data-block-key=\"fhinc\">your knee locks, gives way or painfully clicks – painless clicking is normal</li><li data-block-key=\"evfwy\">you have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection</li></ul><p data-block-key=\"hjmf9\">111 will tell you what to do. They can tell you the right place to get help if you need to see someone.</p><p data-block-key=\"5k69x\">Get help from <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">NHS 111 online</a> or <a href=\"tel:111\">call 111</a>.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Other ways to get urgent help\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"bu8ob\">You can also go to an urgent treatment centre if you need to see someone now.</p><p data-block-key=\"kermg\">They're also called walk-in centres or minor injuries units.</p><p data-block-key=\"905b7\">You may be seen quicker than you would at A&amp;E.</p>\n</div>\n</details>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Treatments for knee pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for knee pain"
+        }
+      ],
+      "text": "Treatments for knee pain\nA doctor can suggest treatment based on what's causing your knee pain.\nThey might:\nprescribe medicine or physiotherapy\nrefer you to hospital for a scan or specialist treatment (for example, surgery)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "prescribe medicine or physiotherapy",
+            "refer you to hospital for a scan or specialist treatment (for example, surgery)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for knee pain</h2>\n<p data-block-key=\"9jk4y\">A doctor can suggest treatment based on what's causing your knee pain.</p><p data-block-key=\"vn4ld\">They might:</p><ul><li data-block-key=\"iqr5m\">prescribe medicine or physiotherapy</li><li data-block-key=\"542kj\">refer you to hospital for a scan or specialist treatment (for example, surgery)</li></ul>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Common causes of knee pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common causes of knee pain"
+        }
+      ],
+      "text": "Common causes of knee pain\nKnee pain can be a symptom of many different conditions.\nThis information might give you an idea of what the cause might be. But do not self-diagnose – see a GP if you're worried.\nKnee pain after an injury\nKnee symptoms\nPossible cause\nPain after overstretching, overusing or twisting, often during exercise\nSprains and strains\nPain between your kneecap and shin, often caused by repetitive running or jumping\nTendonitis\nUnstable, gives way when you try to stand, unable to straighten, may hear a popping sound during injury\nTorn ligament, tendon or meniscus,\ncartilage damage\nKneecap changes shape after a collision or sudden change in direction\nDislocated kneecap\nKnee pain with no obvious injury\nKnee symptoms\nPossible causes\nPain and stiffness in both knees, mild swelling, more common in older people\nOsteoarthritis\nWarm and red, kneeling or bending makes pain and swelling worse\nBursitis\nSwelling, warmth, bruising, more likely while taking anticoagulants\nBleeding in the joint\nHot and red, sudden attacks of very bad pain\nGout\nor\nseptic arthritis\nTeenagers and young adults with pain and swelling below kneecap\nOsgood Schlatter's disease",
+      "lists": [],
+      "links": [
+        {
+          "text": "Sprains and strains",
+          "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+        },
+        {
+          "text": "Tendonitis",
+          "url": "https://www.nhs.uk/conditions/tendonitis/"
+        },
+        {
+          "text": "cartilage damage",
+          "url": "https://www.nhs.uk/conditions/meniscus-tear/"
+        },
+        {
+          "text": "Dislocated kneecap",
+          "url": "https://www.nhs.uk/conditions/dislocated-kneecap/"
+        },
+        {
+          "text": "Osteoarthritis",
+          "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+        },
+        {
+          "text": "Bursitis",
+          "url": "https://www.nhs.uk/conditions/bursitis/"
+        },
+        {
+          "text": "Gout",
+          "url": "https://www.nhs.uk/conditions/gout/"
+        },
+        {
+          "text": "septic arthritis",
+          "url": "https://www.nhs.uk/conditions/septic-arthritis/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Common causes of knee pain</h2>\n<p data-block-key=\"jyhd6\">Knee pain can be a symptom of many different conditions.</p><p data-block-key=\"34222\">This information might give you an idea of what the cause might be. But do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Knee pain after an injury</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Knee symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain after overstretching, overusing or twisting, often during exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/sprains-and-strains/\">Sprains and strains</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain between your kneecap and shin, often caused by repetitive running or jumping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/tendonitis/\">Tendonitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Unstable, gives way when you try to stand, unable to straighten, may hear a popping sound during injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Torn ligament, tendon or meniscus, <a href=\"/conditions/meniscus-tear/\">cartilage damage</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Kneecap changes shape after a collision or sudden change in direction</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/dislocated-kneecap/\">Dislocated kneecap</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Knee pain with no obvious injury</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Knee symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain and stiffness in both knees, mild swelling, more common in older people</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/osteoarthritis/\">Osteoarthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Warm and red, kneeling or bending makes pain and swelling worse</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/bursitis/\">Bursitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Swelling, warmth, bruising, more likely while taking anticoagulants</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Bleeding in the joint</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Hot and red, sudden attacks of very bad pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/gout/\">Gout</a> or <a href=\"/conditions/septic-arthritis/\">septic arthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Teenagers and young adults with pain and swelling below kneecap</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Osgood Schlatter's disease</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Knee pain can often be treated at home. You should start to feel better in a few days. Call 111 if the pain is very bad.\nHow to ease knee pain and swelling\nIf you have knee pain, try these things at first:\nput as little weight as possible on your knee – for example, avoid standing for a long time\nuse an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours\nuse painkillers such as\nparacetamol\nor\nibuprofen\ngel or tablets\nNon-urgent advice:\nSee a GP if:\nknee pain does not improve within a few weeks\nInformation:\nRefer yourself for back or joint\nhelp\nIn many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.\nGet NHS help for back or joint problems\nUrgent advice:\nGet advice from 111 now if:\nyour knee is very painful\nyou cannot move your knee or put any weight on it\nyour knee is badly swollen or has changed shape\nyour knee locks, gives way or painfully clicks – painless clicking is normal\nyou have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection\n111 will tell you what to do. They can tell you the right place to get help if you need to see someone.\nGet help from\nNHS 111 online\nor\ncall 111\n.\nOther ways to get urgent help\nYou can also go to an urgent treatment centre if you need to see someone now.\nThey're also called walk-in centres or minor injuries units.\nYou may be seen quicker than you would at A&E.\nTreatments for knee pain\nA doctor can suggest treatment based on what's causing your knee pain.\nThey might:\nprescribe medicine or physiotherapy\nrefer you to hospital for a scan or specialist treatment (for example, surgery)\nCommon causes of knee pain\nKnee pain can be a symptom of many different conditions.\nThis information might give you an idea of what the cause might be. But do not self-diagnose – see a GP if you're worried.\nKnee pain after an injury\nKnee symptoms\nPossible cause\nPain after overstretching, overusing or twisting, often during exercise\nSprains and strains\nPain between your kneecap and shin, often caused by repetitive running or jumping\nTendonitis\nUnstable, gives way when you try to stand, unable to straighten, may hear a popping sound during injury\nTorn ligament, tendon or meniscus,\ncartilage damage\nKneecap changes shape after a collision or sudden change in direction\nDislocated kneecap\nKnee pain with no obvious injury\nKnee symptoms\nPossible causes\nPain and stiffness in both knees, mild swelling, more common in older people\nOsteoarthritis\nWarm and red, kneeling or bending makes pain and swelling worse\nBursitis\nSwelling, warmth, bruising, more likely while taking anticoagulants\nBleeding in the joint\nHot and red, sudden attacks of very bad pain\nGout\nor\nseptic arthritis\nTeenagers and young adults with pain and swelling below kneecap\nOsgood Schlatter's disease\nPage last reviewed: 21 December 2023\nNext review due: 21 December 2026",
+  "links": [
+    {
+      "text": "paracetamol",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "text": "Get NHS help for back or joint problems",
+      "url": "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/"
+    },
+    {
+      "text": "NHS 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "call 111",
+      "url": "tel:111"
+    },
+    {
+      "text": "Sprains and strains",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/"
+    },
+    {
+      "text": "Tendonitis",
+      "url": "https://www.nhs.uk/conditions/tendonitis/"
+    },
+    {
+      "text": "cartilage damage",
+      "url": "https://www.nhs.uk/conditions/meniscus-tear/"
+    },
+    {
+      "text": "Dislocated kneecap",
+      "url": "https://www.nhs.uk/conditions/dislocated-kneecap/"
+    },
+    {
+      "text": "Osteoarthritis",
+      "url": "https://www.nhs.uk/conditions/osteoarthritis/"
+    },
+    {
+      "text": "Bursitis",
+      "url": "https://www.nhs.uk/conditions/bursitis/"
+    },
+    {
+      "text": "Gout",
+      "url": "https://www.nhs.uk/conditions/gout/"
+    },
+    {
+      "text": "septic arthritis",
+      "url": "https://www.nhs.uk/conditions/septic-arthritis/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"fuc53\"><b>Knee pain can often be treated at home. You should start to feel better in a few days. Call 111 if the pain is very bad.</b></p>\n</section>\n<section>\n<h2 id=\"self-care\">How to ease knee pain and swelling</h2>\n<p data-block-key=\"wjk5i\">If you have knee pain, try these things at first:</p><ul><li data-block-key=\"yu1qb\">put as little weight as possible on your knee – for example, avoid standing for a long time</li><li data-block-key=\"q8r0z\">use an ice pack or bag of frozen peas wrapped in a tea towel on your knee for up to 20 minutes every 2 to 3 hours</li><li data-block-key=\"i8gkm\">use painkillers such as <a href=\"/medicines/paracetamol-for-adults/\">paracetamol</a> or <a href=\"/medicines/ibuprofen-for-adults/\">ibuprofen</a> gel or tablets</li></ul>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"s7ck4\">knee pain does not improve within a few weeks</li></ul>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"1karw\"><b>Refer yourself for back or joint</b> <b>help </b></h3><p data-block-key=\"1co1r\">In many areas you may be able to get help, such as physiotherapy, from NHS community musculoskeletal (MSK) services without needing a referral from a GP.</p><p data-block-key=\"19pbj\"> <a href=\"https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/\">Get NHS help for back or joint problems</a> </p>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get advice from 111 now if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"rkne3\">your knee is very painful</li><li data-block-key=\"v4701\">you cannot move your knee or put any weight on it</li><li data-block-key=\"p2xbi\">your knee is badly swollen or has changed shape</li><li data-block-key=\"fhinc\">your knee locks, gives way or painfully clicks – painless clicking is normal</li><li data-block-key=\"evfwy\">you have a very high temperature (or feel hot, cold or shivery) and have redness or heat around your knee – this can be a sign of infection</li></ul><p data-block-key=\"hjmf9\">111 will tell you what to do. They can tell you the right place to get help if you need to see someone.</p><p data-block-key=\"5k69x\">Get help from <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">NHS 111 online</a> or <a href=\"tel:111\">call 111</a>.</p>\n<details class=\"nhsuk-details\">\n<summary class=\"nhsuk-details__summary\">\n<span class=\"nhsuk-details__summary-text\">\n    Other ways to get urgent help\n    </span>\n</summary>\n<div class=\"nhsuk-details__text\">\n<p data-block-key=\"bu8ob\">You can also go to an urgent treatment centre if you need to see someone now.</p><p data-block-key=\"kermg\">They're also called walk-in centres or minor injuries units.</p><p data-block-key=\"905b7\">You may be seen quicker than you would at A&amp;E.</p>\n</div>\n</details>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for knee pain</h2>\n<p data-block-key=\"9jk4y\">A doctor can suggest treatment based on what's causing your knee pain.</p><p data-block-key=\"vn4ld\">They might:</p><ul><li data-block-key=\"iqr5m\">prescribe medicine or physiotherapy</li><li data-block-key=\"542kj\">refer you to hospital for a scan or specialist treatment (for example, surgery)</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Common causes of knee pain</h2>\n<p data-block-key=\"jyhd6\">Knee pain can be a symptom of many different conditions.</p><p data-block-key=\"34222\">This information might give you an idea of what the cause might be. But do not self-diagnose – see a GP if you're worried.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Knee pain after an injury</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Knee symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain after overstretching, overusing or twisting, often during exercise</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/sprains-and-strains/\">Sprains and strains</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain between your kneecap and shin, often caused by repetitive running or jumping</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/tendonitis/\">Tendonitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Unstable, gives way when you try to stand, unable to straighten, may hear a popping sound during injury</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Torn ligament, tendon or meniscus, <a href=\"/conditions/meniscus-tear/\">cartilage damage</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Kneecap changes shape after a collision or sudden change in direction</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/dislocated-kneecap/\">Dislocated kneecap</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Knee pain with no obvious injury</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Knee symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible causes\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Pain and stiffness in both knees, mild swelling, more common in older people</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/osteoarthritis/\">Osteoarthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Warm and red, kneeling or bending makes pain and swelling worse</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/bursitis/\">Bursitis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Swelling, warmth, bruising, more likely while taking anticoagulants</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Bleeding in the joint</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Hot and red, sudden attacks of very bad pain</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\"><a href=\"/conditions/gout/\">Gout</a> or <a href=\"/conditions/septic-arthritis/\">septic arthritis</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Teenagers and young adults with pain and swelling below kneecap</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"8c9i5\">Osgood Schlatter's disease</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 21 December 2023<br/>\n    Next review due: 21 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

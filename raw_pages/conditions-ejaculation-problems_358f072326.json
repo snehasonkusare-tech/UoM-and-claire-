@@ -1,0 +1,744 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+  "final_url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:25.343874+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "E",
+      "label": "Ejaculation problems",
+      "url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "is_see_reference": false
+    },
+    {
+      "letter": "P",
+      "label": "Premature ejaculation, see Ejaculation problems",
+      "url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "is_see_reference": true
+    }
+  ],
+  "title": "Ejaculation problems",
+  "meta_description": "Ejaculation problems such as premature, delayed and retrograde ejaculation are a common cause of sexual problems in men.",
+  "review_dates": {
+    "page_last_reviewed": "09 February 2023",
+    "next_review_due": "09 February 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Ejaculation problems such as premature, delayed and retrograde ejaculation are a common cause of sexual problems in men."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/ejaculation-problems/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nEjaculation problems\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Ejaculation problems such as premature, delayed and retrograde ejaculation are a common cause of sexual problems in men."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "8 Sep 2026, 3:05 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 10:42 a.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "WebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Premature ejaculation"
+        ],
+        "name": "Ejaculation problems"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/ejaculation-problems/",
+              "genre": [
+                "Advice or information"
+              ],
+              "name": "Ejaculation problems"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-09-08T14:05:23+00:00",
+      "description": "Ejaculation problems such as premature, delayed and retrograde ejaculation are a common cause of sexual problems in men.",
+      "genre": [
+        "Advice or information"
+      ],
+      "hasPart": [],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-02-09T01:00:00+00:00",
+        "2026-02-09T01:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Ejaculation problems",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Ejaculation problems",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/ejaculation-problems/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/ejaculation-problems/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Ejaculation problems are common sexual problems in men.\nThe 3 main types of ejaculation problems are:\npremature ejaculation\ndelayed ejaculation\nretrograde ejaculation\nIf you have a persistent problem with ejaculation, visit your GP, who will discuss the problem with you and may examine you or refer you to a specialist.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "premature ejaculation",
+            "delayed ejaculation",
+            "retrograde ejaculation"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"rut7c\"><b>Ejaculation problems are common sexual problems in men.</b></p><p data-block-key=\"p9vqy\">The 3 main types of ejaculation problems are:</p><ul><li data-block-key=\"raxo2\">premature ejaculation</li><li data-block-key=\"mc7mn\">delayed ejaculation</li><li data-block-key=\"gilt0\">retrograde ejaculation</li></ul><p data-block-key=\"e88uh\">If you have a persistent problem with ejaculation, visit your GP, who will discuss the problem with you and may examine you or refer you to a specialist.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Premature ejaculation",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Premature ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Causes of premature ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Treating premature ejaculation"
+        },
+        {
+          "level": "h4",
+          "text": "Antidepressants"
+        },
+        {
+          "level": "h4",
+          "text": "Dapoxetine (Priligy)"
+        },
+        {
+          "level": "h4",
+          "text": "Phosphodiesterase-5 inhibitors"
+        },
+        {
+          "level": "h4",
+          "text": "Topical anaesthetics and condoms"
+        },
+        {
+          "level": "h4",
+          "text": "Things you can try yourself"
+        },
+        {
+          "level": "h4",
+          "text": "Psychosexual counselling"
+        }
+      ],
+      "text": "Premature ejaculation\nPremature ejaculation is a common ejaculation problem. It's where the male ejaculates sooner than he or his partner wishes during sexual arousal.\nOccasional episodes of premature ejaculation are common and are not a cause for concern. However, if you're finding that it happens more than you'd like, and it's a problem for you, it might help to get treatment.\nCauses of premature ejaculation\nVarious psychological and physical factors can cause a man to suddenly experience premature ejaculation.\nCommon physical causes include:\nprostate problems\nthyroid problems – an\noveractive thyroid\nor an\nunderactive thyroid\nusing recreational drugs\nCommon psychological causes may include:\ndepression\nstress\nrelationship problems\nanxiety about sexual performance (particularly at the start of a new relationship, or when a man has had previous problems with sexual performance)\nIt's possible for a man to have experienced premature ejaculation since becoming sexually active. A number of possible causes for this are:\nconditioning – it's possible that early sexual experiences can influence future sexual behaviour. For example, if a teenager conditions himself to ejaculate quickly to avoid being caught masturbating, it may later be difficult to break the habit\na previous traumatic sexual experience – this can range from being caught masturbating to sexual abuse\na strict upbringing and beliefs about sex\nTreating premature ejaculation\nAntidepressants\nSelective serotonin reuptake inhibitors (SSRIs) are a type of\nantidepressant\n, but they also delay ejaculation. SSRIs used for this purpose include:\nparoxetine\nsertraline\nfluoxetine\nAnother type of antidepressant called clomipramine is also sometimes used.\nSome men may experience an improvement a few days after treatment begins. However, you'll usually need to take the medicine for 1 to 2 weeks before you notice the full effects.\nSide effects of SSRIs are usually mild and should improve after 2 to 3 weeks. They include:\nfeeling sick and being sick\ndiarrhoea\nexcessive sweating (hyperhidrosis)\nRead more about the\nside effects of antidepressants\n.\nDapoxetine (Priligy)\nAn SSRI specifically designed to treat premature ejaculation, known as dapoxetine (Priligy), has been licensed in the UK. Local NHS authorities can choose to prescribe it on the NHS.\nIt acts much faster than the other SSRIs used for premature ejaculation and can be used \"on demand\". You'll usually be advised to take it between 1 and 3 hours before sex, but not more than once a day.\nYour response to the treatment will then be reviewed after 4 weeks (or after 6 doses), and again every 6 months.\nDapoxetine is not suitable for all men diagnosed with premature ejaculation. For example, it is not recommended for some men with heart, kidney and liver problems. It can also interact with other medicines, such as other antidepressants.\nCommon side effects include:\nheadaches\ndizziness\nfeeling sick\nPhosphodiesterase-5 inhibitors\nPhosphodiesterase-5 inhibitors, such as sildenafil (sold as Viagra), are a class of medicine used to treat erectile dysfunction. Research has found that they may also help with premature ejaculation.\nYou can get sildenafil on prescription, or buy it from a pharmacy after a discussion with the pharmacist to make sure it's safe for you to take.\nRead more about\nsildenafil including information on how and when to take it\n.\nTopical anaesthetics and condoms\nThe use of topical anaesthetics such as lidocaine or prilocaine can help but may be transferred and absorbed to the vagina, causing decreased sensation. Condoms can also be used and are effective, particularly when combined with local anaesthesia.\nThings you can try yourself\nThere are also a number of things you can try yourself. It can sometimes help to:\nmasturbate an hour or 2 before having sex\nuse a thick condom to help decrease sensation\nhave sex with your partner on top (to allow them to pull away when you are close to ejaculating)\nPsychosexual counselling\nYou may benefit from having psychosexual counselling, where a therapist can help you, and a partner if you have one, with sex related problems. During these sessions, the therapist will:\nencourage you to explore any relationship issues you may have, and give advice about how to resolve them\nshow you techniques that can help you \"unlearn\" the habit of premature ejaculation (these include the \"squeeze\" and \"stop-go\" techniques)\nIn the squeeze technique, you masturbate but stop before the point of ejaculation and squeeze the head of your penis for between 10 to 20 seconds. Then let go and wait for another 30 seconds before resuming masturbation. This process is carried out several times before ejaculation is allowed to occur.\nThe stop-go technique is similar, but you do not squeeze your penis. Once you feel more confident about delaying ejaculation, you could try this technique during sex, stopping and starting as required.\nThese techniques may sound simple, but they require lots of practice.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "prostate problems",
+            "thyroid problems – an\noveractive thyroid\nor an\nunderactive thyroid",
+            "using recreational drugs"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "depression",
+            "stress",
+            "relationship problems",
+            "anxiety about sexual performance (particularly at the start of a new relationship, or when a man has had previous problems with sexual performance)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "conditioning – it's possible that early sexual experiences can influence future sexual behaviour. For example, if a teenager conditions himself to ejaculate quickly to avoid being caught masturbating, it may later be difficult to break the habit",
+            "a previous traumatic sexual experience – this can range from being caught masturbating to sexual abuse",
+            "a strict upbringing and beliefs about sex"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "paroxetine",
+            "sertraline",
+            "fluoxetine"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "feeling sick and being sick",
+            "diarrhoea",
+            "excessive sweating (hyperhidrosis)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "headaches",
+            "dizziness",
+            "feeling sick"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "masturbate an hour or 2 before having sex",
+            "use a thick condom to help decrease sensation",
+            "have sex with your partner on top (to allow them to pull away when you are close to ejaculating)"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "encourage you to explore any relationship issues you may have, and give advice about how to resolve them",
+            "show you techniques that can help you \"unlearn\" the habit of premature ejaculation (these include the \"squeeze\" and \"stop-go\" techniques)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "overactive thyroid",
+          "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+        },
+        {
+          "text": "underactive thyroid",
+          "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+        },
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+        },
+        {
+          "text": "stress",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "text": "antidepressant",
+          "url": "https://www.nhs.uk/medicines/antidepressants/"
+        },
+        {
+          "text": "paroxetine",
+          "url": "https://www.nhs.uk/medicines/paroxetine/"
+        },
+        {
+          "text": "sertraline",
+          "url": "https://www.nhs.uk/medicines/sertraline/"
+        },
+        {
+          "text": "fluoxetine",
+          "url": "https://www.nhs.uk/medicines/fluoxetine/"
+        },
+        {
+          "text": "diarrhoea",
+          "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+        },
+        {
+          "text": "excessive sweating (hyperhidrosis)",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+        },
+        {
+          "text": "side effects of antidepressants",
+          "url": "https://www.nhs.uk/medicines/antidepressants/"
+        },
+        {
+          "text": "sildenafil including information on how and when to take it",
+          "url": "https://www.nhs.uk/medicines/sildenafil-viagra/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"j2ie0\">Premature ejaculation</h2><p data-block-key=\"jbgvx\">Premature ejaculation is a common ejaculation problem. It's where the male ejaculates sooner than he or his partner wishes during sexual arousal.</p><p data-block-key=\"oz9jb\">Occasional episodes of premature ejaculation are common and are not a cause for concern. However, if you're finding that it happens more than you'd like, and it's a problem for you, it might help to get treatment.</p><h3 data-block-key=\"vwb8z\">Causes of premature ejaculation </h3><p data-block-key=\"p9zcv\">Various psychological and physical factors can cause a man to suddenly experience premature ejaculation.</p><p data-block-key=\"gk8zf\">Common physical causes include:</p><ul><li data-block-key=\"zo6jf\">prostate problems</li><li data-block-key=\"vv18y\">thyroid problems – an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a></li><li data-block-key=\"7gdy9\">using recreational drugs</li></ul><p data-block-key=\"is9fe\">Common psychological causes may include:</p><ul><li data-block-key=\"gxc0u\"><a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a></li><li data-block-key=\"k0cso\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a></li><li data-block-key=\"tz1ip\">relationship problems</li><li data-block-key=\"u622p\">anxiety about sexual performance (particularly at the start of a new relationship, or when a man has had previous problems with sexual performance)</li></ul><p data-block-key=\"kvx22\">It's possible for a man to have experienced premature ejaculation since becoming sexually active. A number of possible causes for this are:</p><ul><li data-block-key=\"ups18\">conditioning – it's possible that early sexual experiences can influence future sexual behaviour. For example, if a teenager conditions himself to ejaculate quickly to avoid being caught masturbating, it may later be difficult to break the habit</li><li data-block-key=\"t00vw\">a previous traumatic sexual experience – this can range from being caught masturbating to sexual abuse</li><li data-block-key=\"d2m71\">a strict upbringing and beliefs about sex</li></ul><h3 data-block-key=\"64n3z\">Treating premature ejaculation</h3><h4 data-block-key=\"08bi9\">Antidepressants</h4><p data-block-key=\"us8w1\">Selective serotonin reuptake inhibitors (SSRIs) are a type of <a href=\"/medicines/antidepressants/\">antidepressant</a>, but they also delay ejaculation. SSRIs used for this purpose include:</p><ul><li data-block-key=\"r6ame\"><a href=\"/medicines/paroxetine/\">paroxetine</a></li><li data-block-key=\"zzvrp\"><a href=\"/medicines/sertraline/\">sertraline</a></li><li data-block-key=\"x8zeh\"><a href=\"/medicines/fluoxetine/\">fluoxetine</a></li></ul><p data-block-key=\"o40c2\">Another type of antidepressant called clomipramine is also sometimes used.</p><p data-block-key=\"57lvk\">Some men may experience an improvement a few days after treatment begins. However, you'll usually need to take the medicine for 1 to 2 weeks before you notice the full effects.</p><p data-block-key=\"mochq\">Side effects of SSRIs are usually mild and should improve after 2 to 3 weeks. They include:</p><ul><li data-block-key=\"18ga1\">feeling sick and being sick</li><li data-block-key=\"sq59m\"><a href=\"/symptoms/diarrhoea-and-vomiting/\">diarrhoea</a></li><li data-block-key=\"6ineh\"><a href=\"/conditions/excessive-sweating-hyperhidrosis/\">excessive sweating (hyperhidrosis)</a></li></ul><p data-block-key=\"ewzyf\">Read more about the <a href=\"/medicines/antidepressants/\">side effects of antidepressants</a>.</p><h4 data-block-key=\"vq1k9\">Dapoxetine (Priligy)</h4><p data-block-key=\"077z3\">An SSRI specifically designed to treat premature ejaculation, known as dapoxetine (Priligy), has been licensed in the UK. Local NHS authorities can choose to prescribe it on the NHS.</p><p data-block-key=\"lcaqn\">It acts much faster than the other SSRIs used for premature ejaculation and can be used \"on demand\". You'll usually be advised to take it between 1 and 3 hours before sex, but not more than once a day.</p><p data-block-key=\"wnswo\">Your response to the treatment will then be reviewed after 4 weeks (or after 6 doses), and again every 6 months.</p><p data-block-key=\"ebseo\">Dapoxetine is not suitable for all men diagnosed with premature ejaculation. For example, it is not recommended for some men with heart, kidney and liver problems. It can also interact with other medicines, such as other antidepressants.</p><p data-block-key=\"kwga2\">Common side effects include:</p><ul><li data-block-key=\"jha3u\">headaches</li><li data-block-key=\"t41yx\">dizziness</li><li data-block-key=\"xxasn\">feeling sick</li></ul><h4 data-block-key=\"020ig\">Phosphodiesterase-5 inhibitors</h4><p data-block-key=\"sxg92\">Phosphodiesterase-5 inhibitors, such as sildenafil (sold as Viagra), are a class of medicine used to treat erectile dysfunction. Research has found that they may also help with premature ejaculation.</p><p data-block-key=\"8ejiw\">You can get sildenafil on prescription, or buy it from a pharmacy after a discussion with the pharmacist to make sure it's safe for you to take.</p><p data-block-key=\"n5q1r\">Read more about <a href=\"/medicines/sildenafil-viagra/\">sildenafil including information on how and when to take it</a>.</p><h4 data-block-key=\"fswdt\">Topical anaesthetics and condoms</h4><p data-block-key=\"whtz6\">The use of topical anaesthetics such as lidocaine or prilocaine can help but may be transferred and absorbed to the vagina, causing decreased sensation. Condoms can also be used and are effective, particularly when combined with local anaesthesia.</p><h4 data-block-key=\"95ks7\">Things you can try yourself</h4><p data-block-key=\"2jbm9\">There are also a number of things you can try yourself. It can sometimes help to:</p><ul><li data-block-key=\"502dm\">masturbate an hour or 2 before having sex</li><li data-block-key=\"8n4a9\">use a thick condom to help decrease sensation</li><li data-block-key=\"90qd5\">have sex with your partner on top (to allow them to pull away when you are close to ejaculating)</li></ul><h4 data-block-key=\"abfed\">Psychosexual counselling</h4><p data-block-key=\"798ce\">You may benefit from having psychosexual counselling, where a therapist can help you, and a partner if you have one, with sex related problems. During these sessions, the therapist will:</p><ul><li data-block-key=\"7hsnt\">encourage you to explore any relationship issues you may have, and give advice about how to resolve them</li><li data-block-key=\"7976n\">show you techniques that can help you \"unlearn\" the habit of premature ejaculation (these include the \"squeeze\" and \"stop-go\" techniques)</li></ul><p data-block-key=\"a4rpd\">In the squeeze technique, you masturbate but stop before the point of ejaculation and squeeze the head of your penis for between 10 to 20 seconds. Then let go and wait for another 30 seconds before resuming masturbation. This process is carried out several times before ejaculation is allowed to occur.</p><p data-block-key=\"7d8sh\">The stop-go technique is similar, but you do not squeeze your penis. Once you feel more confident about delaying ejaculation, you could try this technique during sex, stopping and starting as required.</p><p data-block-key=\"conhc\">These techniques may sound simple, but they require lots of practice.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Delayed ejaculation",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Delayed ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Causes of delayed ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Treating delayed ejaculation"
+        },
+        {
+          "level": "h4",
+          "text": "Sex therapy"
+        },
+        {
+          "level": "h4",
+          "text": "Switching medicine"
+        },
+        {
+          "level": "h4",
+          "text": "Alcohol and drugs"
+        },
+        {
+          "level": "h4",
+          "text": "Pseudoephedrine"
+        }
+      ],
+      "text": "Delayed ejaculation\nDelayed ejaculation (male orgasmic disorder) is classed as either:\nexperiencing a significant delay before ejaculation\nbeing unable to ejaculate at all, even though the man wants to and his erection is normal\nYou may have delayed ejaculation if you're unable to ejaculate more than half the times you have sex.\nCauses of delayed ejaculation\nLike premature ejaculation, delayed ejaculation can be caused by psychological and physical factors.\nPossible psychological causes of delayed ejaculation are similar to those of premature ejaculation – for example, relationship problems, stress or depression.\nPhysical causes of delayed ejaculation include:\ndiabetes\nspinal cord injuries\nmultiple sclerosis\nsurgery to the bladder or prostate gland\nincreasing age\nMany medicines are known to cause delayed ejaculation, including:\nantidepressants\n, particularly selective serotonin reuptake inhibitors (SSRIs)\nmedicines to treat high blood pressure, such as\nbeta-blockers\nantipsychotics, used to treat episodes of psychosis\nDelayed ejaculation can suddenly start to happen after previously having no problems, or (less commonly) the man may have always experienced it.\nTreating delayed ejaculation\nSex therapy\nSex therapy is a form of\ncounselling\nthat uses a combination of\npsychotherapy\nand structured changes in your sex life. This can help to increase your feeling of enjoyment during sex and help make ejaculation easier.\nSome integrated care boards (ICBs) provide a sex therapy service on the NHS. Availability can vary widely depending on where you live.\nYou can also pay privately. The\nCollege of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area\n.\nThe relationship counselling service Relate also offers sex therapy at a number of its centres\n. You'll need to pay for each session.\nDuring sex therapy, you'll have the opportunity to discuss any emotional or psychological issues related to your sexuality and relationship, in a non-judgemental way.\nActivities may also be recommended for you to try at home while you're having sex with your partner (you should never be asked to take part in any sexual activities during a session with the therapist).\nThese may include:\nerotic fantasies and \"sex games\" to make your lovemaking more exciting\nusing sexual aids, such as vibrators, to increase pleasure\nRead more information about\nwhat a sex therapist can do\n.\nSwitching medicine\nThere are a number of medicines that can be used if it's thought SSRIs are responsible for causing delayed ejaculation. These include:\namantadine – originally designed to treat viral infections\nbupropion – usually prescribed to help people quit smoking\nyohimbine – originally designed to treat erectile dysfunction\nThese help block some of the chemical effects of SSRIs that may contribute towards delayed ejaculation.\nAlcohol and drugs\nAlcohol misuse and recreational drug use can be separate underlying causes of delayed ejaculation, so addressing these problems may help.\nRead more about getting help with\nalcohol-use disorder\nand\ndrug use\n.\nPseudoephedrine\nPseudoephedrine tablets may be tried, but these will need to be prescribed \"off-label\". This means the medicine shows promise in treating delayed ejaculation but it has not been licensed for this particular use (pseudoephedrine is normally used as a decongestant).",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "experiencing a significant delay before ejaculation",
+            "being unable to ejaculate at all, even though the man wants to and his erection is normal"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "diabetes",
+            "spinal cord injuries",
+            "multiple sclerosis",
+            "surgery to the bladder or prostate gland",
+            "increasing age"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "antidepressants\n, particularly selective serotonin reuptake inhibitors (SSRIs)",
+            "medicines to treat high blood pressure, such as\nbeta-blockers",
+            "antipsychotics, used to treat episodes of psychosis"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "erotic fantasies and \"sex games\" to make your lovemaking more exciting",
+            "using sexual aids, such as vibrators, to increase pleasure"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "amantadine – originally designed to treat viral infections",
+            "bupropion – usually prescribed to help people quit smoking",
+            "yohimbine – originally designed to treat erectile dysfunction"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "antidepressants",
+          "url": "https://www.nhs.uk/medicines/antidepressants/"
+        },
+        {
+          "text": "beta-blockers",
+          "url": "https://www.nhs.uk/medicines/beta-blockers/"
+        },
+        {
+          "text": "counselling",
+          "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+        },
+        {
+          "text": "psychotherapy",
+          "url": "https://www.nhs.uk/tests-and-treatments/talking-therapies/"
+        },
+        {
+          "text": "College of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area",
+          "url": "https://www.cosrt.org.uk/therapists-nearest-me-search-results/"
+        },
+        {
+          "text": "The relationship counselling service Relate also offers sex therapy at a number of its centres",
+          "url": "https://www.relate.org.uk/what-we-do/counselling-services/sex-therapy"
+        },
+        {
+          "text": "what a sex therapist can do",
+          "url": "https://www.relate.org.uk/what-we-do/counselling/sex-therapy"
+        },
+        {
+          "text": "alcohol-use disorder",
+          "url": "https://www.nhs.uk/conditions/alcohol-use-disorder/"
+        },
+        {
+          "text": "drug use",
+          "url": "https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"wxxso\">Delayed ejaculation</h2><p data-block-key=\"uc9bv\">Delayed ejaculation (male orgasmic disorder) is classed as either:</p><ul><li data-block-key=\"spabw\">experiencing a significant delay before ejaculation</li><li data-block-key=\"doxki\">being unable to ejaculate at all, even though the man wants to and his erection is normal</li></ul><p data-block-key=\"spsdt\">You may have delayed ejaculation if you're unable to ejaculate more than half the times you have sex.</p><h3 data-block-key=\"6cyqe\">Causes of delayed ejaculation</h3><p data-block-key=\"3km1b\">Like premature ejaculation, delayed ejaculation can be caused by psychological and physical factors.</p><p data-block-key=\"udwct\">Possible psychological causes of delayed ejaculation are similar to those of premature ejaculation – for example, relationship problems, stress or depression.</p><p data-block-key=\"t5wit\">Physical causes of delayed ejaculation include:</p><ul><li data-block-key=\"2fp6q\">diabetes</li><li data-block-key=\"vcnhz\">spinal cord injuries</li><li data-block-key=\"0d8wd\">multiple sclerosis</li><li data-block-key=\"5jxgk\">surgery to the bladder or prostate gland</li><li data-block-key=\"accql\">increasing age</li></ul><p data-block-key=\"hl74k\">Many medicines are known to cause delayed ejaculation, including:</p><ul><li data-block-key=\"0dbjg\"><a href=\"/medicines/antidepressants/\">antidepressants</a>, particularly selective serotonin reuptake inhibitors (SSRIs)</li><li data-block-key=\"gdtwm\">medicines to treat high blood pressure, such as <a href=\"/medicines/beta-blockers/\">beta-blockers</a></li><li data-block-key=\"6pxsz\">antipsychotics, used to treat episodes of psychosis</li></ul><p data-block-key=\"vzyc3\">Delayed ejaculation can suddenly start to happen after previously having no problems, or (less commonly) the man may have always experienced it.</p><h3 data-block-key=\"idf6k\">Treating delayed ejaculation</h3><h4 data-block-key=\"nxosp\">Sex therapy</h4><p data-block-key=\"ast50\">Sex therapy is a form of <a href=\"/tests-and-treatments/counselling/\">counselling</a> that uses a combination of <a href=\"/tests-and-treatments/talking-therapies/\">psychotherapy</a> and structured changes in your sex life. This can help to increase your feeling of enjoyment during sex and help make ejaculation easier.</p><p data-block-key=\"a2js0\">Some integrated care boards (ICBs) provide a sex therapy service on the NHS. Availability can vary widely depending on where you live.</p><p data-block-key=\"p2754\">You can also pay privately. The <a href=\"https://www.cosrt.org.uk/therapists-nearest-me-search-results/\">College of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area</a>.</p><p data-block-key=\"citl3\"><a href=\"https://www.relate.org.uk/what-we-do/counselling-services/sex-therapy\">The relationship counselling service Relate also offers sex therapy at a number of its centres</a>. You'll need to pay for each session. </p><p data-block-key=\"g8s7d\">During sex therapy, you'll have the opportunity to discuss any emotional or psychological issues related to your sexuality and relationship, in a non-judgemental way.</p><p data-block-key=\"qme8e\">Activities may also be recommended for you to try at home while you're having sex with your partner (you should never be asked to take part in any sexual activities during a session with the therapist).</p><p data-block-key=\"rj9uf\">These may include:</p><ul><li data-block-key=\"lk46v\">erotic fantasies and \"sex games\" to make your lovemaking more exciting</li><li data-block-key=\"ujhif\">using sexual aids, such as vibrators, to increase pleasure</li></ul><p data-block-key=\"b8g4w\">Read more information about <a href=\"https://www.relate.org.uk/what-we-do/counselling/sex-therapy\">what a sex therapist can do</a>.</p><h4 data-block-key=\"eh2dd\">Switching medicine</h4><p data-block-key=\"t7myi\">There are a number of medicines that can be used if it's thought SSRIs are responsible for causing delayed ejaculation. These include:</p><ul><li data-block-key=\"ja4z1\">amantadine – originally designed to treat viral infections</li><li data-block-key=\"zgoxg\">bupropion – usually prescribed to help people quit smoking</li><li data-block-key=\"w7nnd\">yohimbine – originally designed to treat erectile dysfunction</li></ul><p data-block-key=\"b76uh\">These help block some of the chemical effects of SSRIs that may contribute towards delayed ejaculation.</p><h4 data-block-key=\"u2p7j\">Alcohol and drugs</h4><p data-block-key=\"z7omo\">Alcohol misuse and recreational drug use can be separate underlying causes of delayed ejaculation, so addressing these problems may help.</p><p data-block-key=\"lc0an\">Read more about getting help with <a href=\"/conditions/alcohol-use-disorder/\">alcohol-use disorder</a> and <a href=\"/live-well/addiction-support/drug-addiction-getting-help/\">drug use</a>.</p><h4 data-block-key=\"ka8sy\">Pseudoephedrine</h4><p data-block-key=\"ntbcp\">Pseudoephedrine tablets may be tried, but these will need to be prescribed \"off-label\". This means the medicine shows promise in treating delayed ejaculation but it has not been licensed for this particular use (pseudoephedrine is normally used as a decongestant).</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Retrograde ejaculation",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Retrograde ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Causes of retrograde ejaculation"
+        },
+        {
+          "level": "h3",
+          "text": "Treating retrograde ejaculation"
+        }
+      ],
+      "text": "Retrograde ejaculation\nRetrograde ejaculation is a rarer type of ejaculation problem. It happens when semen travels backwards into the bladder instead of through the urethra (the tube that urine passes through).\nThe main symptoms of retrograde ejaculation include:\nproducing no semen, or only a small amount, during ejaculation\nproducing cloudy urine (because of the semen in it) when you first go to the toilet after having sex\nMen with retrograde ejaculation still experience the feeling of an orgasm and the condition does not pose a danger to health. However, it can affect the ability to father a child.\nCauses of retrograde ejaculation\nRetrograde ejaculation happens when the neck of the bladder does not close and semen passes into the bladder.\nUsually when you ejaculate, semen is pushed out of your urethra. It is prevented from entering your bladder by the muscles around the neck of the bladder, which close tightly at the moment of orgasm.\nHowever, damage to the surrounding muscles or nerves can stop the bladder neck closing, causing the semen to move into the bladder rather than up through the urethra.\nCauses of retrograde ejaculation include\nprostate gland surgery\n, bladder surgery,\ndiabetes\n,\nmultiple sclerosis\n, and a class of medicines known as alpha blockers, which are often used to treat high blood pressure (hypertension).\nTreating retrograde ejaculation\nMost men do not need treatment for retrograde ejaculation because they are still able to enjoy a healthy sex life and the condition does not have adverse effects on their health.\nBut if treatment is required (usually because of wanting to father a child), there are options to try.\nFor example, pseudoephedrine (commonly used as a decongestant) has proved effective in treating retrograde ejaculation caused by diabetes or surgery.\nIf retrograde ejaculation is caused by using a certain medicine, then normal ejaculation will usually return once medicine is stopped. Speak to your GP before stopping any prescribed medicine.\nHowever, if the retrograde ejaculation has been caused by significant muscle or nerve damage, treatment may not be possible.\nMen who want to have children can have sperm taken from their urine or testicles for use in\nintrauterine insemination\nor\nin-vitro fertilisation (IVF)\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "producing no semen, or only a small amount, during ejaculation",
+            "producing cloudy urine (because of the semen in it) when you first go to the toilet after having sex"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "prostate gland surgery",
+          "url": "https://www.nhs.uk/conditions/enlarged-prostate/"
+        },
+        {
+          "text": "diabetes",
+          "url": "https://www.nhs.uk/conditions/diabetes/"
+        },
+        {
+          "text": "multiple sclerosis",
+          "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+        },
+        {
+          "text": "intrauterine insemination",
+          "url": "https://www.nhs.uk/tests-and-treatments/intrauterine-insemination-iui/"
+        },
+        {
+          "text": "in-vitro fertilisation (IVF)",
+          "url": "https://www.nhs.uk/tests-and-treatments/ivf/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"n1l7v\">Retrograde ejaculation</h2><p data-block-key=\"970sv\">Retrograde ejaculation is a rarer type of ejaculation problem. It happens when semen travels backwards into the bladder instead of through the urethra (the tube that urine passes through).</p><p data-block-key=\"haopl\">The main symptoms of retrograde ejaculation include:</p><ul><li data-block-key=\"upgri\">producing no semen, or only a small amount, during ejaculation</li><li data-block-key=\"sutp9\">producing cloudy urine (because of the semen in it) when you first go to the toilet after having sex</li></ul><p data-block-key=\"4rccm\">Men with retrograde ejaculation still experience the feeling of an orgasm and the condition does not pose a danger to health. However, it can affect the ability to father a child.</p><h3 data-block-key=\"ka1u7\">Causes of retrograde ejaculation</h3><p data-block-key=\"80mh4\">Retrograde ejaculation happens when the neck of the bladder does not close and semen passes into the bladder.</p><p data-block-key=\"arbdw\">Usually when you ejaculate, semen is pushed out of your urethra. It is prevented from entering your bladder by the muscles around the neck of the bladder, which close tightly at the moment of orgasm.</p><p data-block-key=\"frmb4\">However, damage to the surrounding muscles or nerves can stop the bladder neck closing, causing the semen to move into the bladder rather than up through the urethra.</p><p data-block-key=\"0jbvj\">Causes of retrograde ejaculation include <a href=\"/conditions/enlarged-prostate/\">prostate gland surgery</a>, bladder surgery, <a href=\"/conditions/diabetes/\">diabetes</a>, <a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a>, and a class of medicines known as alpha blockers, which are often used to treat high blood pressure (hypertension).</p><h3 data-block-key=\"9xvwa\">Treating retrograde ejaculation</h3><p data-block-key=\"sfaau\">Most men do not need treatment for retrograde ejaculation because they are still able to enjoy a healthy sex life and the condition does not have adverse effects on their health.</p><p data-block-key=\"r4sd8\">But if treatment is required (usually because of wanting to father a child), there are options to try.</p><p data-block-key=\"939y4\">For example, pseudoephedrine (commonly used as a decongestant) has proved effective in treating retrograde ejaculation caused by diabetes or surgery.</p><p data-block-key=\"7ei52\">If retrograde ejaculation is caused by using a certain medicine, then normal ejaculation will usually return once medicine is stopped. Speak to your GP before stopping any prescribed medicine.</p><p data-block-key=\"eak4z\">However, if the retrograde ejaculation has been caused by significant muscle or nerve damage, treatment may not be possible.</p><p data-block-key=\"tuuay\">Men who want to have children can have sperm taken from their urine or testicles for use in <a href=\"/tests-and-treatments/intrauterine-insemination-iui/\">intrauterine insemination</a> or <a href=\"/tests-and-treatments/ivf/\">in-vitro fertilisation (IVF)</a>.</p>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Involve your partner",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Involve your partner"
+        }
+      ],
+      "text": "Involve your partner\nIf you're having problems with your sex life and are seeking treatment, it is usually recommended you involve your partner as much as possible.\nCommunicating your concerns can often go a long way to helping to resolve them. And, in some cases, your partner may also have their own problems that are contributing towards problems with your sex life.\nFor example, some women are unable to reach climax during \"normal\" intercourse and require manual or oral stimulation.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 data-block-key=\"dpt55\">Involve your partner</h2><p data-block-key=\"zg4bn\">If you're having problems with your sex life and are seeking treatment, it is usually recommended you involve your partner as much as possible.</p><p data-block-key=\"wcah5\">Communicating your concerns can often go a long way to helping to resolve them. And, in some cases, your partner may also have their own problems that are contributing towards problems with your sex life.</p><p data-block-key=\"ba4h6\">For example, some women are unable to reach climax during \"normal\" intercourse and require manual or oral stimulation.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Blood in your semen",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Blood in your semen"
+        }
+      ],
+      "text": "Blood in your semen\nFinding\nblood in your semen\ncan be alarming. However, in most cases it's not serious and will pass within a few days.\nIt can be caused by an infection of your urethra (\nurethritis\n) or prostate (\nprostatitis\n).\nSee your GP if you have blood in your semen. They can check if you need further tests or treatment.\nRead more about\nblood in the semen\n.",
+      "lists": [],
+      "links": [
+        {
+          "text": "blood in your semen",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+        },
+        {
+          "text": "urethritis",
+          "url": "https://www.nhs.uk/conditions/urethritis/"
+        },
+        {
+          "text": "prostatitis",
+          "url": "https://www.nhs.uk/conditions/prostatitis/"
+        },
+        {
+          "text": "blood in the semen",
+          "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+        }
+      ],
+      "html": "<section>\n<h2 data-block-key=\"3h2rm\">Blood in your semen</h2><p data-block-key=\"imm28\">Finding <a href=\"/symptoms/blood-in-semen/\">blood in your semen</a> can be alarming. However, in most cases it's not serious and will pass within a few days.</p><p data-block-key=\"u2xrn\">It can be caused by an infection of your urethra (<a href=\"/conditions/urethritis/\">urethritis</a>) or prostate (<a href=\"/conditions/prostatitis/\">prostatitis</a>).</p><p data-block-key=\"wp39d\">See your GP if you have blood in your semen. They can check if you need further tests or treatment.</p><p data-block-key=\"w4l4w\">Read more about <a href=\"/symptoms/blood-in-semen/\">blood in the semen</a>.</p>\n</section>"
+    }
+  ],
+  "page_text": "Ejaculation problems are common sexual problems in men.\nThe 3 main types of ejaculation problems are:\npremature ejaculation\ndelayed ejaculation\nretrograde ejaculation\nIf you have a persistent problem with ejaculation, visit your GP, who will discuss the problem with you and may examine you or refer you to a specialist.\nPremature ejaculation\nPremature ejaculation is a common ejaculation problem. It's where the male ejaculates sooner than he or his partner wishes during sexual arousal.\nOccasional episodes of premature ejaculation are common and are not a cause for concern. However, if you're finding that it happens more than you'd like, and it's a problem for you, it might help to get treatment.\nCauses of premature ejaculation\nVarious psychological and physical factors can cause a man to suddenly experience premature ejaculation.\nCommon physical causes include:\nprostate problems\nthyroid problems – an\noveractive thyroid\nor an\nunderactive thyroid\nusing recreational drugs\nCommon psychological causes may include:\ndepression\nstress\nrelationship problems\nanxiety about sexual performance (particularly at the start of a new relationship, or when a man has had previous problems with sexual performance)\nIt's possible for a man to have experienced premature ejaculation since becoming sexually active. A number of possible causes for this are:\nconditioning – it's possible that early sexual experiences can influence future sexual behaviour. For example, if a teenager conditions himself to ejaculate quickly to avoid being caught masturbating, it may later be difficult to break the habit\na previous traumatic sexual experience – this can range from being caught masturbating to sexual abuse\na strict upbringing and beliefs about sex\nTreating premature ejaculation\nAntidepressants\nSelective serotonin reuptake inhibitors (SSRIs) are a type of\nantidepressant\n, but they also delay ejaculation. SSRIs used for this purpose include:\nparoxetine\nsertraline\nfluoxetine\nAnother type of antidepressant called clomipramine is also sometimes used.\nSome men may experience an improvement a few days after treatment begins. However, you'll usually need to take the medicine for 1 to 2 weeks before you notice the full effects.\nSide effects of SSRIs are usually mild and should improve after 2 to 3 weeks. They include:\nfeeling sick and being sick\ndiarrhoea\nexcessive sweating (hyperhidrosis)\nRead more about the\nside effects of antidepressants\n.\nDapoxetine (Priligy)\nAn SSRI specifically designed to treat premature ejaculation, known as dapoxetine (Priligy), has been licensed in the UK. Local NHS authorities can choose to prescribe it on the NHS.\nIt acts much faster than the other SSRIs used for premature ejaculation and can be used \"on demand\". You'll usually be advised to take it between 1 and 3 hours before sex, but not more than once a day.\nYour response to the treatment will then be reviewed after 4 weeks (or after 6 doses), and again every 6 months.\nDapoxetine is not suitable for all men diagnosed with premature ejaculation. For example, it is not recommended for some men with heart, kidney and liver problems. It can also interact with other medicines, such as other antidepressants.\nCommon side effects include:\nheadaches\ndizziness\nfeeling sick\nPhosphodiesterase-5 inhibitors\nPhosphodiesterase-5 inhibitors, such as sildenafil (sold as Viagra), are a class of medicine used to treat erectile dysfunction. Research has found that they may also help with premature ejaculation.\nYou can get sildenafil on prescription, or buy it from a pharmacy after a discussion with the pharmacist to make sure it's safe for you to take.\nRead more about\nsildenafil including information on how and when to take it\n.\nTopical anaesthetics and condoms\nThe use of topical anaesthetics such as lidocaine or prilocaine can help but may be transferred and absorbed to the vagina, causing decreased sensation. Condoms can also be used and are effective, particularly when combined with local anaesthesia.\nThings you can try yourself\nThere are also a number of things you can try yourself. It can sometimes help to:\nmasturbate an hour or 2 before having sex\nuse a thick condom to help decrease sensation\nhave sex with your partner on top (to allow them to pull away when you are close to ejaculating)\nPsychosexual counselling\nYou may benefit from having psychosexual counselling, where a therapist can help you, and a partner if you have one, with sex related problems. During these sessions, the therapist will:\nencourage you to explore any relationship issues you may have, and give advice about how to resolve them\nshow you techniques that can help you \"unlearn\" the habit of premature ejaculation (these include the \"squeeze\" and \"stop-go\" techniques)\nIn the squeeze technique, you masturbate but stop before the point of ejaculation and squeeze the head of your penis for between 10 to 20 seconds. Then let go and wait for another 30 seconds before resuming masturbation. This process is carried out several times before ejaculation is allowed to occur.\nThe stop-go technique is similar, but you do not squeeze your penis. Once you feel more confident about delaying ejaculation, you could try this technique during sex, stopping and starting as required.\nThese techniques may sound simple, but they require lots of practice.\nDelayed ejaculation\nDelayed ejaculation (male orgasmic disorder) is classed as either:\nexperiencing a significant delay before ejaculation\nbeing unable to ejaculate at all, even though the man wants to and his erection is normal\nYou may have delayed ejaculation if you're unable to ejaculate more than half the times you have sex.\nCauses of delayed ejaculation\nLike premature ejaculation, delayed ejaculation can be caused by psychological and physical factors.\nPossible psychological causes of delayed ejaculation are similar to those of premature ejaculation – for example, relationship problems, stress or depression.\nPhysical causes of delayed ejaculation include:\ndiabetes\nspinal cord injuries\nmultiple sclerosis\nsurgery to the bladder or prostate gland\nincreasing age\nMany medicines are known to cause delayed ejaculation, including:\nantidepressants\n, particularly selective serotonin reuptake inhibitors (SSRIs)\nmedicines to treat high blood pressure, such as\nbeta-blockers\nantipsychotics, used to treat episodes of psychosis\nDelayed ejaculation can suddenly start to happen after previously having no problems, or (less commonly) the man may have always experienced it.\nTreating delayed ejaculation\nSex therapy\nSex therapy is a form of\ncounselling\nthat uses a combination of\npsychotherapy\nand structured changes in your sex life. This can help to increase your feeling of enjoyment during sex and help make ejaculation easier.\nSome integrated care boards (ICBs) provide a sex therapy service on the NHS. Availability can vary widely depending on where you live.\nYou can also pay privately. The\nCollege of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area\n.\nThe relationship counselling service Relate also offers sex therapy at a number of its centres\n. You'll need to pay for each session.\nDuring sex therapy, you'll have the opportunity to discuss any emotional or psychological issues related to your sexuality and relationship, in a non-judgemental way.\nActivities may also be recommended for you to try at home while you're having sex with your partner (you should never be asked to take part in any sexual activities during a session with the therapist).\nThese may include:\nerotic fantasies and \"sex games\" to make your lovemaking more exciting\nusing sexual aids, such as vibrators, to increase pleasure\nRead more information about\nwhat a sex therapist can do\n.\nSwitching medicine\nThere are a number of medicines that can be used if it's thought SSRIs are responsible for causing delayed ejaculation. These include:\namantadine – originally designed to treat viral infections\nbupropion – usually prescribed to help people quit smoking\nyohimbine – originally designed to treat erectile dysfunction\nThese help block some of the chemical effects of SSRIs that may contribute towards delayed ejaculation.\nAlcohol and drugs\nAlcohol misuse and recreational drug use can be separate underlying causes of delayed ejaculation, so addressing these problems may help.\nRead more about getting help with\nalcohol-use disorder\nand\ndrug use\n.\nPseudoephedrine\nPseudoephedrine tablets may be tried, but these will need to be prescribed \"off-label\". This means the medicine shows promise in treating delayed ejaculation but it has not been licensed for this particular use (pseudoephedrine is normally used as a decongestant).\nRetrograde ejaculation\nRetrograde ejaculation is a rarer type of ejaculation problem. It happens when semen travels backwards into the bladder instead of through the urethra (the tube that urine passes through).\nThe main symptoms of retrograde ejaculation include:\nproducing no semen, or only a small amount, during ejaculation\nproducing cloudy urine (because of the semen in it) when you first go to the toilet after having sex\nMen with retrograde ejaculation still experience the feeling of an orgasm and the condition does not pose a danger to health. However, it can affect the ability to father a child.\nCauses of retrograde ejaculation\nRetrograde ejaculation happens when the neck of the bladder does not close and semen passes into the bladder.\nUsually when you ejaculate, semen is pushed out of your urethra. It is prevented from entering your bladder by the muscles around the neck of the bladder, which close tightly at the moment of orgasm.\nHowever, damage to the surrounding muscles or nerves can stop the bladder neck closing, causing the semen to move into the bladder rather than up through the urethra.\nCauses of retrograde ejaculation include\nprostate gland surgery\n, bladder surgery,\ndiabetes\n,\nmultiple sclerosis\n, and a class of medicines known as alpha blockers, which are often used to treat high blood pressure (hypertension).\nTreating retrograde ejaculation\nMost men do not need treatment for retrograde ejaculation because they are still able to enjoy a healthy sex life and the condition does not have adverse effects on their health.\nBut if treatment is required (usually because of wanting to father a child), there are options to try.\nFor example, pseudoephedrine (commonly used as a decongestant) has proved effective in treating retrograde ejaculation caused by diabetes or surgery.\nIf retrograde ejaculation is caused by using a certain medicine, then normal ejaculation will usually return once medicine is stopped. Speak to your GP before stopping any prescribed medicine.\nHowever, if the retrograde ejaculation has been caused by significant muscle or nerve damage, treatment may not be possible.\nMen who want to have children can have sperm taken from their urine or testicles for use in\nintrauterine insemination\nor\nin-vitro fertilisation (IVF)\n.\nInvolve your partner\nIf you're having problems with your sex life and are seeking treatment, it is usually recommended you involve your partner as much as possible.\nCommunicating your concerns can often go a long way to helping to resolve them. And, in some cases, your partner may also have their own problems that are contributing towards problems with your sex life.\nFor example, some women are unable to reach climax during \"normal\" intercourse and require manual or oral stimulation.\nBlood in your semen\nFinding\nblood in your semen\ncan be alarming. However, in most cases it's not serious and will pass within a few days.\nIt can be caused by an infection of your urethra (\nurethritis\n) or prostate (\nprostatitis\n).\nSee your GP if you have blood in your semen. They can check if you need further tests or treatment.\nRead more about\nblood in the semen\n.\nPage last reviewed: 09 February 2023\nNext review due: 09 February 2026",
+  "links": [
+    {
+      "text": "overactive thyroid",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    {
+      "text": "underactive thyroid",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+    },
+    {
+      "text": "antidepressant",
+      "url": "https://www.nhs.uk/medicines/antidepressants/"
+    },
+    {
+      "text": "paroxetine",
+      "url": "https://www.nhs.uk/medicines/paroxetine/"
+    },
+    {
+      "text": "sertraline",
+      "url": "https://www.nhs.uk/medicines/sertraline/"
+    },
+    {
+      "text": "fluoxetine",
+      "url": "https://www.nhs.uk/medicines/fluoxetine/"
+    },
+    {
+      "text": "diarrhoea",
+      "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+    },
+    {
+      "text": "excessive sweating (hyperhidrosis)",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
+    },
+    {
+      "text": "side effects of antidepressants",
+      "url": "https://www.nhs.uk/medicines/antidepressants/"
+    },
+    {
+      "text": "sildenafil including information on how and when to take it",
+      "url": "https://www.nhs.uk/medicines/sildenafil-viagra/"
+    },
+    {
+      "text": "antidepressants",
+      "url": "https://www.nhs.uk/medicines/antidepressants/"
+    },
+    {
+      "text": "beta-blockers",
+      "url": "https://www.nhs.uk/medicines/beta-blockers/"
+    },
+    {
+      "text": "counselling",
+      "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+    },
+    {
+      "text": "psychotherapy",
+      "url": "https://www.nhs.uk/tests-and-treatments/talking-therapies/"
+    },
+    {
+      "text": "College of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area",
+      "url": "https://www.cosrt.org.uk/therapists-nearest-me-search-results/"
+    },
+    {
+      "text": "The relationship counselling service Relate also offers sex therapy at a number of its centres",
+      "url": "https://www.relate.org.uk/what-we-do/counselling-services/sex-therapy"
+    },
+    {
+      "text": "what a sex therapist can do",
+      "url": "https://www.relate.org.uk/what-we-do/counselling/sex-therapy"
+    },
+    {
+      "text": "alcohol-use disorder",
+      "url": "https://www.nhs.uk/conditions/alcohol-use-disorder/"
+    },
+    {
+      "text": "drug use",
+      "url": "https://www.nhs.uk/live-well/addiction-support/drug-addiction-getting-help/"
+    },
+    {
+      "text": "prostate gland surgery",
+      "url": "https://www.nhs.uk/conditions/enlarged-prostate/"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/"
+    },
+    {
+      "text": "multiple sclerosis",
+      "url": "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    },
+    {
+      "text": "intrauterine insemination",
+      "url": "https://www.nhs.uk/tests-and-treatments/intrauterine-insemination-iui/"
+    },
+    {
+      "text": "in-vitro fertilisation (IVF)",
+      "url": "https://www.nhs.uk/tests-and-treatments/ivf/"
+    },
+    {
+      "text": "blood in your semen",
+      "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+    },
+    {
+      "text": "urethritis",
+      "url": "https://www.nhs.uk/conditions/urethritis/"
+    },
+    {
+      "text": "prostatitis",
+      "url": "https://www.nhs.uk/conditions/prostatitis/"
+    },
+    {
+      "text": "blood in the semen",
+      "url": "https://www.nhs.uk/symptoms/blood-in-semen/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"rut7c\"><b>Ejaculation problems are common sexual problems in men.</b></p><p data-block-key=\"p9vqy\">The 3 main types of ejaculation problems are:</p><ul><li data-block-key=\"raxo2\">premature ejaculation</li><li data-block-key=\"mc7mn\">delayed ejaculation</li><li data-block-key=\"gilt0\">retrograde ejaculation</li></ul><p data-block-key=\"e88uh\">If you have a persistent problem with ejaculation, visit your GP, who will discuss the problem with you and may examine you or refer you to a specialist.</p>\n</section>\n<section>\n<h2 data-block-key=\"j2ie0\">Premature ejaculation</h2><p data-block-key=\"jbgvx\">Premature ejaculation is a common ejaculation problem. It's where the male ejaculates sooner than he or his partner wishes during sexual arousal.</p><p data-block-key=\"oz9jb\">Occasional episodes of premature ejaculation are common and are not a cause for concern. However, if you're finding that it happens more than you'd like, and it's a problem for you, it might help to get treatment.</p><h3 data-block-key=\"vwb8z\">Causes of premature ejaculation </h3><p data-block-key=\"p9zcv\">Various psychological and physical factors can cause a man to suddenly experience premature ejaculation.</p><p data-block-key=\"gk8zf\">Common physical causes include:</p><ul><li data-block-key=\"zo6jf\">prostate problems</li><li data-block-key=\"vv18y\">thyroid problems – an <a href=\"/conditions/overactive-thyroid-hyperthyroidism/\">overactive thyroid</a> or an <a href=\"/conditions/underactive-thyroid-hypothyroidism/\">underactive thyroid</a></li><li data-block-key=\"7gdy9\">using recreational drugs</li></ul><p data-block-key=\"is9fe\">Common psychological causes may include:</p><ul><li data-block-key=\"gxc0u\"><a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a></li><li data-block-key=\"k0cso\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a></li><li data-block-key=\"tz1ip\">relationship problems</li><li data-block-key=\"u622p\">anxiety about sexual performance (particularly at the start of a new relationship, or when a man has had previous problems with sexual performance)</li></ul><p data-block-key=\"kvx22\">It's possible for a man to have experienced premature ejaculation since becoming sexually active. A number of possible causes for this are:</p><ul><li data-block-key=\"ups18\">conditioning – it's possible that early sexual experiences can influence future sexual behaviour. For example, if a teenager conditions himself to ejaculate quickly to avoid being caught masturbating, it may later be difficult to break the habit</li><li data-block-key=\"t00vw\">a previous traumatic sexual experience – this can range from being caught masturbating to sexual abuse</li><li data-block-key=\"d2m71\">a strict upbringing and beliefs about sex</li></ul><h3 data-block-key=\"64n3z\">Treating premature ejaculation</h3><h4 data-block-key=\"08bi9\">Antidepressants</h4><p data-block-key=\"us8w1\">Selective serotonin reuptake inhibitors (SSRIs) are a type of <a href=\"/medicines/antidepressants/\">antidepressant</a>, but they also delay ejaculation. SSRIs used for this purpose include:</p><ul><li data-block-key=\"r6ame\"><a href=\"/medicines/paroxetine/\">paroxetine</a></li><li data-block-key=\"zzvrp\"><a href=\"/medicines/sertraline/\">sertraline</a></li><li data-block-key=\"x8zeh\"><a href=\"/medicines/fluoxetine/\">fluoxetine</a></li></ul><p data-block-key=\"o40c2\">Another type of antidepressant called clomipramine is also sometimes used.</p><p data-block-key=\"57lvk\">Some men may experience an improvement a few days after treatment begins. However, you'll usually need to take the medicine for 1 to 2 weeks before you notice the full effects.</p><p data-block-key=\"mochq\">Side effects of SSRIs are usually mild and should improve after 2 to 3 weeks. They include:</p><ul><li data-block-key=\"18ga1\">feeling sick and being sick</li><li data-block-key=\"sq59m\"><a href=\"/symptoms/diarrhoea-and-vomiting/\">diarrhoea</a></li><li data-block-key=\"6ineh\"><a href=\"/conditions/excessive-sweating-hyperhidrosis/\">excessive sweating (hyperhidrosis)</a></li></ul><p data-block-key=\"ewzyf\">Read more about the <a href=\"/medicines/antidepressants/\">side effects of antidepressants</a>.</p><h4 data-block-key=\"vq1k9\">Dapoxetine (Priligy)</h4><p data-block-key=\"077z3\">An SSRI specifically designed to treat premature ejaculation, known as dapoxetine (Priligy), has been licensed in the UK. Local NHS authorities can choose to prescribe it on the NHS.</p><p data-block-key=\"lcaqn\">It acts much faster than the other SSRIs used for premature ejaculation and can be used \"on demand\". You'll usually be advised to take it between 1 and 3 hours before sex, but not more than once a day.</p><p data-block-key=\"wnswo\">Your response to the treatment will then be reviewed after 4 weeks (or after 6 doses), and again every 6 months.</p><p data-block-key=\"ebseo\">Dapoxetine is not suitable for all men diagnosed with premature ejaculation. For example, it is not recommended for some men with heart, kidney and liver problems. It can also interact with other medicines, such as other antidepressants.</p><p data-block-key=\"kwga2\">Common side effects include:</p><ul><li data-block-key=\"jha3u\">headaches</li><li data-block-key=\"t41yx\">dizziness</li><li data-block-key=\"xxasn\">feeling sick</li></ul><h4 data-block-key=\"020ig\">Phosphodiesterase-5 inhibitors</h4><p data-block-key=\"sxg92\">Phosphodiesterase-5 inhibitors, such as sildenafil (sold as Viagra), are a class of medicine used to treat erectile dysfunction. Research has found that they may also help with premature ejaculation.</p><p data-block-key=\"8ejiw\">You can get sildenafil on prescription, or buy it from a pharmacy after a discussion with the pharmacist to make sure it's safe for you to take.</p><p data-block-key=\"n5q1r\">Read more about <a href=\"/medicines/sildenafil-viagra/\">sildenafil including information on how and when to take it</a>.</p><h4 data-block-key=\"fswdt\">Topical anaesthetics and condoms</h4><p data-block-key=\"whtz6\">The use of topical anaesthetics such as lidocaine or prilocaine can help but may be transferred and absorbed to the vagina, causing decreased sensation. Condoms can also be used and are effective, particularly when combined with local anaesthesia.</p><h4 data-block-key=\"95ks7\">Things you can try yourself</h4><p data-block-key=\"2jbm9\">There are also a number of things you can try yourself. It can sometimes help to:</p><ul><li data-block-key=\"502dm\">masturbate an hour or 2 before having sex</li><li data-block-key=\"8n4a9\">use a thick condom to help decrease sensation</li><li data-block-key=\"90qd5\">have sex with your partner on top (to allow them to pull away when you are close to ejaculating)</li></ul><h4 data-block-key=\"abfed\">Psychosexual counselling</h4><p data-block-key=\"798ce\">You may benefit from having psychosexual counselling, where a therapist can help you, and a partner if you have one, with sex related problems. During these sessions, the therapist will:</p><ul><li data-block-key=\"7hsnt\">encourage you to explore any relationship issues you may have, and give advice about how to resolve them</li><li data-block-key=\"7976n\">show you techniques that can help you \"unlearn\" the habit of premature ejaculation (these include the \"squeeze\" and \"stop-go\" techniques)</li></ul><p data-block-key=\"a4rpd\">In the squeeze technique, you masturbate but stop before the point of ejaculation and squeeze the head of your penis for between 10 to 20 seconds. Then let go and wait for another 30 seconds before resuming masturbation. This process is carried out several times before ejaculation is allowed to occur.</p><p data-block-key=\"7d8sh\">The stop-go technique is similar, but you do not squeeze your penis. Once you feel more confident about delaying ejaculation, you could try this technique during sex, stopping and starting as required.</p><p data-block-key=\"conhc\">These techniques may sound simple, but they require lots of practice.</p>\n</section>\n<section>\n<h2 data-block-key=\"wxxso\">Delayed ejaculation</h2><p data-block-key=\"uc9bv\">Delayed ejaculation (male orgasmic disorder) is classed as either:</p><ul><li data-block-key=\"spabw\">experiencing a significant delay before ejaculation</li><li data-block-key=\"doxki\">being unable to ejaculate at all, even though the man wants to and his erection is normal</li></ul><p data-block-key=\"spsdt\">You may have delayed ejaculation if you're unable to ejaculate more than half the times you have sex.</p><h3 data-block-key=\"6cyqe\">Causes of delayed ejaculation</h3><p data-block-key=\"3km1b\">Like premature ejaculation, delayed ejaculation can be caused by psychological and physical factors.</p><p data-block-key=\"udwct\">Possible psychological causes of delayed ejaculation are similar to those of premature ejaculation – for example, relationship problems, stress or depression.</p><p data-block-key=\"t5wit\">Physical causes of delayed ejaculation include:</p><ul><li data-block-key=\"2fp6q\">diabetes</li><li data-block-key=\"vcnhz\">spinal cord injuries</li><li data-block-key=\"0d8wd\">multiple sclerosis</li><li data-block-key=\"5jxgk\">surgery to the bladder or prostate gland</li><li data-block-key=\"accql\">increasing age</li></ul><p data-block-key=\"hl74k\">Many medicines are known to cause delayed ejaculation, including:</p><ul><li data-block-key=\"0dbjg\"><a href=\"/medicines/antidepressants/\">antidepressants</a>, particularly selective serotonin reuptake inhibitors (SSRIs)</li><li data-block-key=\"gdtwm\">medicines to treat high blood pressure, such as <a href=\"/medicines/beta-blockers/\">beta-blockers</a></li><li data-block-key=\"6pxsz\">antipsychotics, used to treat episodes of psychosis</li></ul><p data-block-key=\"vzyc3\">Delayed ejaculation can suddenly start to happen after previously having no problems, or (less commonly) the man may have always experienced it.</p><h3 data-block-key=\"idf6k\">Treating delayed ejaculation</h3><h4 data-block-key=\"nxosp\">Sex therapy</h4><p data-block-key=\"ast50\">Sex therapy is a form of <a href=\"/tests-and-treatments/counselling/\">counselling</a> that uses a combination of <a href=\"/tests-and-treatments/talking-therapies/\">psychotherapy</a> and structured changes in your sex life. This can help to increase your feeling of enjoyment during sex and help make ejaculation easier.</p><p data-block-key=\"a2js0\">Some integrated care boards (ICBs) provide a sex therapy service on the NHS. Availability can vary widely depending on where you live.</p><p data-block-key=\"p2754\">You can also pay privately. The <a href=\"https://www.cosrt.org.uk/therapists-nearest-me-search-results/\">College of Sexual and Relationship Therapists website provides information about private sex therapists and how to find a therapist in your local area</a>.</p><p data-block-key=\"citl3\"><a href=\"https://www.relate.org.uk/what-we-do/counselling-services/sex-therapy\">The relationship counselling service Relate also offers sex therapy at a number of its centres</a>. You'll need to pay for each session. </p><p data-block-key=\"g8s7d\">During sex therapy, you'll have the opportunity to discuss any emotional or psychological issues related to your sexuality and relationship, in a non-judgemental way.</p><p data-block-key=\"qme8e\">Activities may also be recommended for you to try at home while you're having sex with your partner (you should never be asked to take part in any sexual activities during a session with the therapist).</p><p data-block-key=\"rj9uf\">These may include:</p><ul><li data-block-key=\"lk46v\">erotic fantasies and \"sex games\" to make your lovemaking more exciting</li><li data-block-key=\"ujhif\">using sexual aids, such as vibrators, to increase pleasure</li></ul><p data-block-key=\"b8g4w\">Read more information about <a href=\"https://www.relate.org.uk/what-we-do/counselling/sex-therapy\">what a sex therapist can do</a>.</p><h4 data-block-key=\"eh2dd\">Switching medicine</h4><p data-block-key=\"t7myi\">There are a number of medicines that can be used if it's thought SSRIs are responsible for causing delayed ejaculation. These include:</p><ul><li data-block-key=\"ja4z1\">amantadine – originally designed to treat viral infections</li><li data-block-key=\"zgoxg\">bupropion – usually prescribed to help people quit smoking</li><li data-block-key=\"w7nnd\">yohimbine – originally designed to treat erectile dysfunction</li></ul><p data-block-key=\"b76uh\">These help block some of the chemical effects of SSRIs that may contribute towards delayed ejaculation.</p><h4 data-block-key=\"u2p7j\">Alcohol and drugs</h4><p data-block-key=\"z7omo\">Alcohol misuse and recreational drug use can be separate underlying causes of delayed ejaculation, so addressing these problems may help.</p><p data-block-key=\"lc0an\">Read more about getting help with <a href=\"/conditions/alcohol-use-disorder/\">alcohol-use disorder</a> and <a href=\"/live-well/addiction-support/drug-addiction-getting-help/\">drug use</a>.</p><h4 data-block-key=\"ka8sy\">Pseudoephedrine</h4><p data-block-key=\"ntbcp\">Pseudoephedrine tablets may be tried, but these will need to be prescribed \"off-label\". This means the medicine shows promise in treating delayed ejaculation but it has not been licensed for this particular use (pseudoephedrine is normally used as a decongestant).</p>\n</section>\n<section>\n<h2 data-block-key=\"n1l7v\">Retrograde ejaculation</h2><p data-block-key=\"970sv\">Retrograde ejaculation is a rarer type of ejaculation problem. It happens when semen travels backwards into the bladder instead of through the urethra (the tube that urine passes through).</p><p data-block-key=\"haopl\">The main symptoms of retrograde ejaculation include:</p><ul><li data-block-key=\"upgri\">producing no semen, or only a small amount, during ejaculation</li><li data-block-key=\"sutp9\">producing cloudy urine (because of the semen in it) when you first go to the toilet after having sex</li></ul><p data-block-key=\"4rccm\">Men with retrograde ejaculation still experience the feeling of an orgasm and the condition does not pose a danger to health. However, it can affect the ability to father a child.</p><h3 data-block-key=\"ka1u7\">Causes of retrograde ejaculation</h3><p data-block-key=\"80mh4\">Retrograde ejaculation happens when the neck of the bladder does not close and semen passes into the bladder.</p><p data-block-key=\"arbdw\">Usually when you ejaculate, semen is pushed out of your urethra. It is prevented from entering your bladder by the muscles around the neck of the bladder, which close tightly at the moment of orgasm.</p><p data-block-key=\"frmb4\">However, damage to the surrounding muscles or nerves can stop the bladder neck closing, causing the semen to move into the bladder rather than up through the urethra.</p><p data-block-key=\"0jbvj\">Causes of retrograde ejaculation include <a href=\"/conditions/enlarged-prostate/\">prostate gland surgery</a>, bladder surgery, <a href=\"/conditions/diabetes/\">diabetes</a>, <a href=\"/conditions/multiple-sclerosis/\">multiple sclerosis</a>, and a class of medicines known as alpha blockers, which are often used to treat high blood pressure (hypertension).</p><h3 data-block-key=\"9xvwa\">Treating retrograde ejaculation</h3><p data-block-key=\"sfaau\">Most men do not need treatment for retrograde ejaculation because they are still able to enjoy a healthy sex life and the condition does not have adverse effects on their health.</p><p data-block-key=\"r4sd8\">But if treatment is required (usually because of wanting to father a child), there are options to try.</p><p data-block-key=\"939y4\">For example, pseudoephedrine (commonly used as a decongestant) has proved effective in treating retrograde ejaculation caused by diabetes or surgery.</p><p data-block-key=\"7ei52\">If retrograde ejaculation is caused by using a certain medicine, then normal ejaculation will usually return once medicine is stopped. Speak to your GP before stopping any prescribed medicine.</p><p data-block-key=\"eak4z\">However, if the retrograde ejaculation has been caused by significant muscle or nerve damage, treatment may not be possible.</p><p data-block-key=\"tuuay\">Men who want to have children can have sperm taken from their urine or testicles for use in <a href=\"/tests-and-treatments/intrauterine-insemination-iui/\">intrauterine insemination</a> or <a href=\"/tests-and-treatments/ivf/\">in-vitro fertilisation (IVF)</a>.</p>\n</section>\n<section>\n<h2 data-block-key=\"dpt55\">Involve your partner</h2><p data-block-key=\"zg4bn\">If you're having problems with your sex life and are seeking treatment, it is usually recommended you involve your partner as much as possible.</p><p data-block-key=\"wcah5\">Communicating your concerns can often go a long way to helping to resolve them. And, in some cases, your partner may also have their own problems that are contributing towards problems with your sex life.</p><p data-block-key=\"ba4h6\">For example, some women are unable to reach climax during \"normal\" intercourse and require manual or oral stimulation.</p>\n</section>\n<section>\n<h2 data-block-key=\"3h2rm\">Blood in your semen</h2><p data-block-key=\"imm28\">Finding <a href=\"/symptoms/blood-in-semen/\">blood in your semen</a> can be alarming. However, in most cases it's not serious and will pass within a few days.</p><p data-block-key=\"u2xrn\">It can be caused by an infection of your urethra (<a href=\"/conditions/urethritis/\">urethritis</a>) or prostate (<a href=\"/conditions/prostatitis/\">prostatitis</a>).</p><p data-block-key=\"wp39d\">See your GP if you have blood in your semen. They can check if you need further tests or treatment.</p><p data-block-key=\"w4l4w\">Read more about <a href=\"/symptoms/blood-in-semen/\">blood in the semen</a>.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 09 February 2023<br/>\n    Next review due: 09 February 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

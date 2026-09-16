@@ -1,0 +1,397 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+  "final_url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:43.835122+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "F",
+      "label": "Fits (seizures), see What to do if someone has a seizure (fit)",
+      "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "S",
+      "label": "Seizures (fits), see What to do if someone has a seizure (fit)",
+      "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "W",
+      "label": "What to do if someone has a seizure (fit)",
+      "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "What to do if someone has a seizure (fit)",
+  "meta_description": "Find out what you can do to help if you see someone having a seizure or fit.",
+  "review_dates": {
+    "page_last_reviewed": "19 December 2023",
+    "next_review_due": "19 December 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out what you can do to help if you see someone having a seizure or fit."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nWhat to do if someone has a seizure (fit)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out what you can do to help if you see someone having a seizure or fit."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "7 Aug 2026, 1:32 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "9 Apr 2018, 1:22 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Seizures (fits)",
+          "Fits (seizures)"
+        ],
+        "name": "What to do if someone has a seizure (fit)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "What to do if someone has a seizure (fit)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-08-07T12:32:14+00:00",
+      "description": "Find out what you can do to help if you see someone having a seizure or fit.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-12-19T14:13:00+00:00",
+        "2026-12-19T14:13:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "What to do if someone has a seizure (fit)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "What to do if someone has a seizure (fit)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "If you see someone having a seizure or fit, there are some simple things you can do to help.\nIt might be scary to witness, but do not panic.\nIf you're with someone having a seizure:\nonly move them if they're in danger, such as near a busy road or hot cooker\ncushion their head if they're on the ground\nloosen any tight clothing around their neck, such as a collar or tie, to aid breathing\nturn them on to their side after their convulsions stop –\nread more about the recovery position on the St John Ambulance website\nstay with them and talk to them calmly until they recover\nnote the time the seizure starts and finishes\nIf the person is in a wheelchair, put the brakes on and leave any seatbelt or harness on. Support them gently and cushion their head, but do not try to move them.\nDo not put anything in their mouth, including your fingers. They should not have any food or drink until they have fully recovered.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "only move them if they're in danger, such as near a busy road or hot cooker",
+            "cushion their head if they're on the ground",
+            "loosen any tight clothing around their neck, such as a collar or tie, to aid breathing",
+            "turn them on to their side after their convulsions stop –\nread more about the recovery position on the St John Ambulance website",
+            "stay with them and talk to them calmly until they recover",
+            "note the time the seizure starts and finishes"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "read more about the recovery position on the St John Ambulance website",
+          "url": "https://www.sja.org.uk/first-aid-advice/recovery-position/"
+        }
+      ],
+      "html": "<section>\n<p data-block-key=\"kxnxb\"><b>If you see someone having a seizure or fit, there are some simple things you can do to help.</b></p><p data-block-key=\"2muoc\">It might be scary to witness, but do not panic.</p><p data-block-key=\"zlkrk\">If you're with someone having a seizure:</p><ul><li data-block-key=\"09pbi\">only move them if they're in danger, such as near a busy road or hot cooker</li><li data-block-key=\"wryom\">cushion their head if they're on the ground</li><li data-block-key=\"j002t\">loosen any tight clothing around their neck, such as a collar or tie, to aid breathing</li><li data-block-key=\"2hay4\">turn them on to their side after their convulsions stop – <a href=\"https://www.sja.org.uk/first-aid-advice/recovery-position/\">read more about the recovery position on the St John Ambulance website</a></li><li data-block-key=\"57ucf\">stay with them and talk to them calmly until they recover</li><li data-block-key=\"mfpg6\">note the time the seizure starts and finishes</li></ul><p data-block-key=\"ujow1\">If the person is in a wheelchair, put the brakes on and leave any seatbelt or harness on. Support them gently and cushion their head, but do not try to move them.</p><p data-block-key=\"w68mg\">Do not put anything in their mouth, including your fingers. They should not have any food or drink until they have fully recovered.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "When to call an ambulance",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "When to call an ambulance"
+        }
+      ],
+      "text": "When to call an ambulance\nCall 999 and ask for an ambulance if:\nit's the first time someone has had a seizure\nthe seizure lasts longer than is usual for them\nthe seizure lasts more than 5 minutes, if you do not know how long their seizures usually last\nthe person does not regain full consciousness, or has several seizures without regaining consciousness\nthe person is seriously injured during the seizure\nthe person has difficulty breathing after the seizure\nPeople with epilepsy do not always need an ambulance or to go to hospital every time they have a seizure.\nThey usually have a care plan agreed with doctors and their family or carers that says what to do when they have a seizure, such as giving emergency medicine. If you know what to do and have been trained then you can follow their care plan.\nSome people with\nepilepsy\nwear a special bracelet or carry a card to let medical professionals and anyone witnessing a seizure know they have epilepsy.\nEpilepsy Action has more information about seizures that last longer than 5 minutes\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "it's the first time someone has had a seizure",
+            "the seizure lasts longer than is usual for them",
+            "the seizure lasts more than 5 minutes, if you do not know how long their seizures usually last",
+            "the person does not regain full consciousness, or has several seizures without regaining consciousness",
+            "the person is seriously injured during the seizure",
+            "the person has difficulty breathing after the seizure"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "epilepsy",
+          "url": "https://www.nhs.uk/conditions/epilepsy/"
+        },
+        {
+          "text": "Epilepsy Action has more information about seizures that last longer than 5 minutes",
+          "url": "https://www.epilepsy.org.uk/info/first-aid/emergency-treatment-seizures-last-long-time"
+        }
+      ],
+      "html": "<section>\n<h2>When to call an ambulance</h2>\n<p data-block-key=\"8al7w\">Call 999 and ask for an ambulance if:</p><ul><li data-block-key=\"thood\">it's the first time someone has had a seizure</li><li data-block-key=\"dgsup\">the seizure lasts longer than is usual for them</li><li data-block-key=\"vfetr\">the seizure lasts more than 5 minutes, if you do not know how long their seizures usually last</li><li data-block-key=\"k1oz8\">the person does not regain full consciousness, or has several seizures without regaining consciousness</li><li data-block-key=\"b8xvy\">the person is seriously injured during the seizure</li><li data-block-key=\"ahtm8\">the person has difficulty breathing after the seizure</li></ul><p data-block-key=\"g7c0r\">People with epilepsy do not always need an ambulance or to go to hospital every time they have a seizure.</p><p data-block-key=\"2b4u7\">They usually have a care plan agreed with doctors and their family or carers that says what to do when they have a seizure, such as giving emergency medicine. If you know what to do and have been trained then you can follow their care plan.</p><p data-block-key=\"459r6\">Some people with <a href=\"/conditions/epilepsy/\">epilepsy</a> wear a special bracelet or carry a card to let medical professionals and anyone witnessing a seizure know they have epilepsy.</p><p data-block-key=\"n1837\"><a href=\"https://www.epilepsy.org.uk/info/first-aid/emergency-treatment-seizures-last-long-time\">Epilepsy Action has more information about seizures that last longer than 5 minutes</a>.</p>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Make a note of any useful information",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Make a note of any useful information"
+        }
+      ],
+      "text": "Make a note of any useful information\nIf you see someone having a seizure, you may notice things that could be useful for the person or their doctor to know:\nWhat were they doing before the seizure?\nDid the person mention any unusual sensations, such as an odd smell or taste?\nDid you notice any mood change, such as excitement, anxiety or anger?\nWhat brought your attention to the seizure? Was it a noise, such as the person falling over, or body movements, such as their eyes rolling or head turning?\nDid the seizure happen without warning?\nWas there any loss of consciousness or altered awareness?\nDid the person's colour change? For example, did they become paler than usual, flushed, blue or grey? If so, where – the face, lips or hands? On brown or black skin, changes in colour may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids.\nDid any parts of their body stiffen, jerk or twitch? If so, which parts?\nDid the person's breathing change?\nDid they perform any actions, such as mumble, wander about or fumble with clothing?\nHow long did the seizure last?\nDid the person lose control of their bladder or bowel?\nDid they bite their tongue?\nHow were they after the seizure?\nDid they need to sleep? If so, for how long?\nThe\nRoyal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "What were they doing before the seizure?",
+            "Did the person mention any unusual sensations, such as an odd smell or taste?",
+            "Did you notice any mood change, such as excitement, anxiety or anger?",
+            "What brought your attention to the seizure? Was it a noise, such as the person falling over, or body movements, such as their eyes rolling or head turning?",
+            "Did the seizure happen without warning?",
+            "Was there any loss of consciousness or altered awareness?",
+            "Did the person's colour change? For example, did they become paler than usual, flushed, blue or grey? If so, where – the face, lips or hands? On brown or black skin, changes in colour may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids.",
+            "Did any parts of their body stiffen, jerk or twitch? If so, which parts?",
+            "Did the person's breathing change?",
+            "Did they perform any actions, such as mumble, wander about or fumble with clothing?",
+            "How long did the seizure last?",
+            "Did the person lose control of their bladder or bowel?",
+            "Did they bite their tongue?",
+            "How were they after the seizure?",
+            "Did they need to sleep? If so, for how long?"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Royal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people",
+          "url": "https://www.rcpch.ac.uk/resources/safety-netting-information-following-first-seizure-without-fever-children-young-people"
+        }
+      ],
+      "html": "<section>\n<h2>Make a note of any useful information</h2>\n<p data-block-key=\"4ukje\">If you see someone having a seizure, you may notice things that could be useful for the person or their doctor to know:</p><ul><li data-block-key=\"on5ld\">What were they doing before the seizure?</li><li data-block-key=\"km45s\">Did the person mention any unusual sensations, such as an odd smell or taste?</li><li data-block-key=\"vsteb\">Did you notice any mood change, such as excitement, anxiety or anger?</li><li data-block-key=\"nd9qk\">What brought your attention to the seizure? Was it a noise, such as the person falling over, or body movements, such as their eyes rolling or head turning?</li><li data-block-key=\"h0pbq\">Did the seizure happen without warning?</li><li data-block-key=\"6hgcd\">Was there any loss of consciousness or altered awareness?</li><li data-block-key=\"wpwzn\">Did the person's colour change? For example, did they become paler than usual, flushed, blue or grey? If so, where – the face, lips or hands? On brown or black skin, changes in colour may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids.</li><li data-block-key=\"c63xi\">Did any parts of their body stiffen, jerk or twitch? If so, which parts?</li><li data-block-key=\"2jhs9\">Did the person's breathing change?</li><li data-block-key=\"ewncp\">Did they perform any actions, such as mumble, wander about or fumble with clothing?</li><li data-block-key=\"zy11i\">How long did the seizure last?</li><li data-block-key=\"gobng\">Did the person lose control of their bladder or bowel?</li><li data-block-key=\"ymljz\">Did they bite their tongue?</li><li data-block-key=\"hava2\">How were they after the seizure?</li><li data-block-key=\"ff5mq\">Did they need to sleep? If so, for how long?</li></ul><p data-block-key=\"0x86h\">The <a href=\"https://www.rcpch.ac.uk/resources/safety-netting-information-following-first-seizure-without-fever-children-young-people\">Royal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people</a>.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Keeping a seizure diary",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Keeping a seizure diary"
+        }
+      ],
+      "text": "Keeping a seizure diary\nIf you have epilepsy, it can be helpful to record the details of your seizures in a diary.\nRead more about seizure diaries and download one for free from:\nEpilepsy Action: keeping a seizure diary\nEpilepsy Society: seizure diaries",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "Epilepsy Action: keeping a seizure diary",
+            "Epilepsy Society: seizure diaries"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Epilepsy Action: keeping a seizure diary",
+          "url": "https://www.epilepsy.org.uk/living/seizure-diary"
+        },
+        {
+          "text": "Epilepsy Society: seizure diaries",
+          "url": "https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-diaries"
+        }
+      ],
+      "html": "<section>\n<h2>Keeping a seizure diary</h2>\n<p data-block-key=\"dqvq0\">If you have epilepsy, it can be helpful to record the details of your seizures in a diary.</p><p data-block-key=\"ddbd3\">Read more about seizure diaries and download one for free from:</p><ul><li data-block-key=\"dnmm8\"><a href=\"https://www.epilepsy.org.uk/living/seizure-diary\">Epilepsy Action: keeping a seizure diary</a></li><li data-block-key=\"knp40\"><a href=\"https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-diaries\">Epilepsy Society: seizure diaries</a></li></ul>\n</section>"
+    }
+  ],
+  "page_text": "If you see someone having a seizure or fit, there are some simple things you can do to help.\nIt might be scary to witness, but do not panic.\nIf you're with someone having a seizure:\nonly move them if they're in danger, such as near a busy road or hot cooker\ncushion their head if they're on the ground\nloosen any tight clothing around their neck, such as a collar or tie, to aid breathing\nturn them on to their side after their convulsions stop –\nread more about the recovery position on the St John Ambulance website\nstay with them and talk to them calmly until they recover\nnote the time the seizure starts and finishes\nIf the person is in a wheelchair, put the brakes on and leave any seatbelt or harness on. Support them gently and cushion their head, but do not try to move them.\nDo not put anything in their mouth, including your fingers. They should not have any food or drink until they have fully recovered.\nWhen to call an ambulance\nCall 999 and ask for an ambulance if:\nit's the first time someone has had a seizure\nthe seizure lasts longer than is usual for them\nthe seizure lasts more than 5 minutes, if you do not know how long their seizures usually last\nthe person does not regain full consciousness, or has several seizures without regaining consciousness\nthe person is seriously injured during the seizure\nthe person has difficulty breathing after the seizure\nPeople with epilepsy do not always need an ambulance or to go to hospital every time they have a seizure.\nThey usually have a care plan agreed with doctors and their family or carers that says what to do when they have a seizure, such as giving emergency medicine. If you know what to do and have been trained then you can follow their care plan.\nSome people with\nepilepsy\nwear a special bracelet or carry a card to let medical professionals and anyone witnessing a seizure know they have epilepsy.\nEpilepsy Action has more information about seizures that last longer than 5 minutes\n.\nMake a note of any useful information\nIf you see someone having a seizure, you may notice things that could be useful for the person or their doctor to know:\nWhat were they doing before the seizure?\nDid the person mention any unusual sensations, such as an odd smell or taste?\nDid you notice any mood change, such as excitement, anxiety or anger?\nWhat brought your attention to the seizure? Was it a noise, such as the person falling over, or body movements, such as their eyes rolling or head turning?\nDid the seizure happen without warning?\nWas there any loss of consciousness or altered awareness?\nDid the person's colour change? For example, did they become paler than usual, flushed, blue or grey? If so, where – the face, lips or hands? On brown or black skin, changes in colour may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids.\nDid any parts of their body stiffen, jerk or twitch? If so, which parts?\nDid the person's breathing change?\nDid they perform any actions, such as mumble, wander about or fumble with clothing?\nHow long did the seizure last?\nDid the person lose control of their bladder or bowel?\nDid they bite their tongue?\nHow were they after the seizure?\nDid they need to sleep? If so, for how long?\nThe\nRoyal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people\n.\nKeeping a seizure diary\nIf you have epilepsy, it can be helpful to record the details of your seizures in a diary.\nRead more about seizure diaries and download one for free from:\nEpilepsy Action: keeping a seizure diary\nEpilepsy Society: seizure diaries\nPage last reviewed: 19 December 2023\nNext review due: 19 December 2026",
+  "links": [
+    {
+      "text": "read more about the recovery position on the St John Ambulance website",
+      "url": "https://www.sja.org.uk/first-aid-advice/recovery-position/"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.nhs.uk/conditions/epilepsy/"
+    },
+    {
+      "text": "Epilepsy Action has more information about seizures that last longer than 5 minutes",
+      "url": "https://www.epilepsy.org.uk/info/first-aid/emergency-treatment-seizures-last-long-time"
+    },
+    {
+      "text": "Royal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people",
+      "url": "https://www.rcpch.ac.uk/resources/safety-netting-information-following-first-seizure-without-fever-children-young-people"
+    },
+    {
+      "text": "Epilepsy Action: keeping a seizure diary",
+      "url": "https://www.epilepsy.org.uk/living/seizure-diary"
+    },
+    {
+      "text": "Epilepsy Society: seizure diaries",
+      "url": "https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-diaries"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"kxnxb\"><b>If you see someone having a seizure or fit, there are some simple things you can do to help.</b></p><p data-block-key=\"2muoc\">It might be scary to witness, but do not panic.</p><p data-block-key=\"zlkrk\">If you're with someone having a seizure:</p><ul><li data-block-key=\"09pbi\">only move them if they're in danger, such as near a busy road or hot cooker</li><li data-block-key=\"wryom\">cushion their head if they're on the ground</li><li data-block-key=\"j002t\">loosen any tight clothing around their neck, such as a collar or tie, to aid breathing</li><li data-block-key=\"2hay4\">turn them on to their side after their convulsions stop – <a href=\"https://www.sja.org.uk/first-aid-advice/recovery-position/\">read more about the recovery position on the St John Ambulance website</a></li><li data-block-key=\"57ucf\">stay with them and talk to them calmly until they recover</li><li data-block-key=\"mfpg6\">note the time the seizure starts and finishes</li></ul><p data-block-key=\"ujow1\">If the person is in a wheelchair, put the brakes on and leave any seatbelt or harness on. Support them gently and cushion their head, but do not try to move them.</p><p data-block-key=\"w68mg\">Do not put anything in their mouth, including your fingers. They should not have any food or drink until they have fully recovered.</p>\n</section>\n<section>\n<h2>When to call an ambulance</h2>\n<p data-block-key=\"8al7w\">Call 999 and ask for an ambulance if:</p><ul><li data-block-key=\"thood\">it's the first time someone has had a seizure</li><li data-block-key=\"dgsup\">the seizure lasts longer than is usual for them</li><li data-block-key=\"vfetr\">the seizure lasts more than 5 minutes, if you do not know how long their seizures usually last</li><li data-block-key=\"k1oz8\">the person does not regain full consciousness, or has several seizures without regaining consciousness</li><li data-block-key=\"b8xvy\">the person is seriously injured during the seizure</li><li data-block-key=\"ahtm8\">the person has difficulty breathing after the seizure</li></ul><p data-block-key=\"g7c0r\">People with epilepsy do not always need an ambulance or to go to hospital every time they have a seizure.</p><p data-block-key=\"2b4u7\">They usually have a care plan agreed with doctors and their family or carers that says what to do when they have a seizure, such as giving emergency medicine. If you know what to do and have been trained then you can follow their care plan.</p><p data-block-key=\"459r6\">Some people with <a href=\"/conditions/epilepsy/\">epilepsy</a> wear a special bracelet or carry a card to let medical professionals and anyone witnessing a seizure know they have epilepsy.</p><p data-block-key=\"n1837\"><a href=\"https://www.epilepsy.org.uk/info/first-aid/emergency-treatment-seizures-last-long-time\">Epilepsy Action has more information about seizures that last longer than 5 minutes</a>.</p>\n</section>\n<section>\n<h2>Make a note of any useful information</h2>\n<p data-block-key=\"4ukje\">If you see someone having a seizure, you may notice things that could be useful for the person or their doctor to know:</p><ul><li data-block-key=\"on5ld\">What were they doing before the seizure?</li><li data-block-key=\"km45s\">Did the person mention any unusual sensations, such as an odd smell or taste?</li><li data-block-key=\"vsteb\">Did you notice any mood change, such as excitement, anxiety or anger?</li><li data-block-key=\"nd9qk\">What brought your attention to the seizure? Was it a noise, such as the person falling over, or body movements, such as their eyes rolling or head turning?</li><li data-block-key=\"h0pbq\">Did the seizure happen without warning?</li><li data-block-key=\"6hgcd\">Was there any loss of consciousness or altered awareness?</li><li data-block-key=\"wpwzn\">Did the person's colour change? For example, did they become paler than usual, flushed, blue or grey? If so, where – the face, lips or hands? On brown or black skin, changes in colour may be easier to see on the palms of the hands, soles of the feet, lips, gums and inside the eyelids.</li><li data-block-key=\"c63xi\">Did any parts of their body stiffen, jerk or twitch? If so, which parts?</li><li data-block-key=\"2jhs9\">Did the person's breathing change?</li><li data-block-key=\"ewncp\">Did they perform any actions, such as mumble, wander about or fumble with clothing?</li><li data-block-key=\"zy11i\">How long did the seizure last?</li><li data-block-key=\"gobng\">Did the person lose control of their bladder or bowel?</li><li data-block-key=\"ymljz\">Did they bite their tongue?</li><li data-block-key=\"hava2\">How were they after the seizure?</li><li data-block-key=\"ff5mq\">Did they need to sleep? If so, for how long?</li></ul><p data-block-key=\"0x86h\">The <a href=\"https://www.rcpch.ac.uk/resources/safety-netting-information-following-first-seizure-without-fever-children-young-people\">Royal College of Paediatrics and Child Health (RCPCH) also has useful leaflets you can download about a first seizure without a fever in children and young people</a>.</p>\n</section>\n<section>\n<h2>Keeping a seizure diary</h2>\n<p data-block-key=\"dqvq0\">If you have epilepsy, it can be helpful to record the details of your seizures in a diary.</p><p data-block-key=\"ddbd3\">Read more about seizure diaries and download one for free from:</p><ul><li data-block-key=\"dnmm8\"><a href=\"https://www.epilepsy.org.uk/living/seizure-diary\">Epilepsy Action: keeping a seizure diary</a></li><li data-block-key=\"knp40\"><a href=\"https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-diaries\">Epilepsy Society: seizure diaries</a></li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 19 December 2023<br/>\n    Next review due: 19 December 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

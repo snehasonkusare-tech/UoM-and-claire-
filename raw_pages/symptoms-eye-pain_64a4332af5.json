@@ -1,0 +1,390 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/eye-pain/",
+  "final_url": "https://www.nhs.uk/symptoms/eye-pain/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:02:33.936541+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "E",
+      "label": "Eye pain",
+      "url": "https://www.nhs.uk/symptoms/eye-pain/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Eye pain",
+  "meta_description": "Find out more about eye pain, including what can cause it and when to get medical help.",
+  "review_dates": {
+    "page_last_reviewed": "21 October 2025",
+    "next_review_due": "21 October 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out more about eye pain, including what can cause it and when to get medical help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/eye-pain/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Eye pain"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out more about eye pain, including what can cause it and when to get medical help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "27 Oct 2025, 2:13 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "27 Oct 2025, 2:13 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Eye pain"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/eye-pain/",
+              "genre": [],
+              "name": "Eye pain"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-10-27T14:13:30+00:00",
+      "description": "Find out more about eye pain, including what can cause it and when to get medical help.",
+      "genre": [],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Eye pain can be behind, inside or around the eye and is usually nothing to worry about. Sometimes it can be serious and you'll need medical help.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Eye pain",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Many things can cause eye pain, including getting dirt in your eye, infections like conjunctivitis, or conditions like glaucoma or uveitis.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/eye-pain/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Many things can cause eye pain, including getting dirt in your eye, infections like conjunctivitis, or conditions like glaucoma or uveitis.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are many possible causes of eye pain, including different eye conditions.</p><p>Other things that can also cause eye pain include <a href=\"/conditions/eye-injuries/\">eye injuries</a> and <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a>.</p><p>Do not try to diagnose the cause of the pain yourself.</p>"
+            }
+          ],
+          "headline": "Causes of eye pain",
+          "url": "https://www.nhs.uk/symptoms/eye-pain/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP or optician appointment, or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<p>\n You have eye pain and:\n</p>\n<ul>\n<li>\n  the pain is severe\n </li>\n<li>\n  sensitivity to light\n </li>\n<li>\n  changes to your vision, like blurring, how you see colour or loss of vision\n </li>\n<li>\n  your eye is very red (1 or both eyes)\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">\n  get help from 111 online\n </a>\n . Call 111 if you need help for a child under 5.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/eye-pain/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 or go straight to A&E if:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  your eye symptoms start suddenly\n </li>\n<li>\n  you have eye pain that keeps you awake at night\n </li>\n<li>\n  you wear contact lenses and have eye pain and vision loss\n </li>\n<li>\n  you have a red eye, severe headache and feel sick\n </li>\n<li>\n  you have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks\n </li>\n<li>\n  you cannot see (loss of vision)\n </li>\n<li>\n  you have injured or pierced your eye\n </li>\n<li>\n  something is stuck in your eye (like a piece of glass or grit)\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/eye-pain/#emergency-medical-help-old"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-10-21T11:22:00+00:00",
+        "2028-10-21T11:22:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Eye pain",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Symptoms A to Z",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/"
+        },
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Eye pain",
+          "position": 1,
+          "url": "https://www.nhs.uk/symptoms/eye-pain/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/symptoms/eye-pain/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Causes of eye pain",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of eye pain"
+        }
+      ],
+      "text": "Causes of eye pain\nThere are many possible causes of eye pain, including different eye conditions.\nOther things that can also cause eye pain include\neye injuries\nand\neyelid problems\n.\nDo not try to diagnose the cause of the pain yourself.\nPossible causes of eye pain\nSymptoms\nPossible cause\nPainful and watering eye, blurred vision, feeling like there's something in your eye\nSomething in your eye, like dirt or an insect, or a scratch on the surface of your eye\nPain with a gritty or burning feeling, sticky eyes\nConjunctivitis\nSore, blurry or watery eyes\nDry eyes\nSharp, burning or piercing pain around the eye\nCluster headache\nPain, red eyes, blurred vision, sensitivity to light\nInfection, such as an infection caused by wearing contact lenses or herpes simplex eye infection\nTenderness around the eyes, vision changes\nGlaucoma\nPain that's worse when reading, watering eyes, vision changes\nUveitis, a rare condition that causes inflammation inside part of your eye\nPain, vision problems, changes in how you see colour\nNeuromyelitis optica, a rare condition that affects the nerves in your eyes",
+      "lists": [],
+      "links": [
+        {
+          "text": "eye injuries",
+          "url": "https://www.nhs.uk/conditions/eye-injuries/"
+        },
+        {
+          "text": "eyelid problems",
+          "url": "https://www.nhs.uk/symptoms/eyelid-problems/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of eye pain</h2>\n<p data-block-key=\"awgyh\">There are many possible causes of eye pain, including different eye conditions.</p><p data-block-key=\"eva7s\">Other things that can also cause eye pain include <a href=\"/conditions/eye-injuries/\">eye injuries</a> and <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a>.</p><p data-block-key=\"bl1sa\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of eye pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Painful and watering eye, blurred vision, feeling like there's something in your eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Something in your eye, like dirt or an insect, or a scratch on the surface of your eye</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain with a gritty or burning feeling, sticky eyes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Conjunctivitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Sore, blurry or watery eyes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Dry eyes</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Sharp, burning or piercing pain around the eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Cluster headache</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain, red eyes, blurred vision, sensitivity to light</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Infection, such as an infection caused by wearing contact lenses or herpes simplex eye infection</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Tenderness around the eyes, vision changes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Glaucoma</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain that's worse when reading, watering eyes, vision changes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Uveitis, a rare condition that causes inflammation inside part of your eye</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Pain, vision problems, changes in how you see colour</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Neuromyelitis optica, a rare condition that affects the nerves in your eyes</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Urgent advice: Ask for an urgent GP or optician appointment, or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP or optician appointment, or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP or optician appointment, or get help from NHS 111 if:\nYou have eye pain and:\nthe pain is severe\nsensitivity to light\nchanges to your vision, like blurring, how you see colour or loss of vision\nyour eye is very red (1 or both eyes)\nYou can call 111 or\nget help from 111 online\n. Call 111 if you need help for a child under 5.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "the pain is severe",
+            "sensitivity to light",
+            "changes to your vision, like blurring, how you see colour or loss of vision",
+            "your eye is very red (1 or both eyes)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from 111 online",
+          "url": "https://111.nhs.uk/triage/check-your-symptoms"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP or optician appointment, or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"6ed8l\">You have eye pain and:</p><ul><li data-block-key=\"agoem\">the pain is severe</li><li data-block-key=\"4vba1\">sensitivity to light</li><li data-block-key=\"ad01g\">changes to your vision, like blurring, how you see colour or loss of vision</li><li data-block-key=\"85kfv\">your eye is very red (1 or both eyes)</li></ul><p data-block-key=\"ep02a\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>. Call 111 if you need help for a child under 5.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Call 999 or go straight to A&E if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 or go straight to A&E if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 or go straight to A&E if:\nyour eye symptoms start suddenly\nyou have eye pain that keeps you awake at night\nyou wear contact lenses and have eye pain and vision loss\nyou have a red eye, severe headache and feel sick\nyou have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks\nyou cannot see (loss of vision)\nyou have injured or pierced your eye\nsomething is stuck in your eye (like a piece of glass or grit)\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "your eye symptoms start suddenly",
+            "you have eye pain that keeps you awake at night",
+            "you wear contact lenses and have eye pain and vision loss",
+            "you have a red eye, severe headache and feel sick",
+            "you have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks",
+            "you cannot see (loss of vision)",
+            "you have injured or pierced your eye",
+            "something is stuck in your eye (like a piece of glass or grit)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go straight to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6ed8l\">your eye symptoms start suddenly</li><li data-block-key=\"756pr\">you have eye pain that keeps you awake at night</li><li data-block-key=\"1bn8v\">you wear contact lenses and have eye pain and vision loss</li><li data-block-key=\"61dse\">you have a red eye, severe headache and feel sick</li><li data-block-key=\"6s7k6\">you have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks</li><li data-block-key=\"4eirm\">you cannot see (loss of vision)</li><li data-block-key=\"dhrsp\">you have injured or pierced your eye</li><li data-block-key=\"dpk9i\">something is stuck in your eye (like a piece of glass or grit)</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Causes of eye pain\nThere are many possible causes of eye pain, including different eye conditions.\nOther things that can also cause eye pain include\neye injuries\nand\neyelid problems\n.\nDo not try to diagnose the cause of the pain yourself.\nPossible causes of eye pain\nSymptoms\nPossible cause\nPainful and watering eye, blurred vision, feeling like there's something in your eye\nSomething in your eye, like dirt or an insect, or a scratch on the surface of your eye\nPain with a gritty or burning feeling, sticky eyes\nConjunctivitis\nSore, blurry or watery eyes\nDry eyes\nSharp, burning or piercing pain around the eye\nCluster headache\nPain, red eyes, blurred vision, sensitivity to light\nInfection, such as an infection caused by wearing contact lenses or herpes simplex eye infection\nTenderness around the eyes, vision changes\nGlaucoma\nPain that's worse when reading, watering eyes, vision changes\nUveitis, a rare condition that causes inflammation inside part of your eye\nPain, vision problems, changes in how you see colour\nNeuromyelitis optica, a rare condition that affects the nerves in your eyes\nUrgent advice:\nAsk for an urgent GP or optician appointment, or get help from NHS 111 if:\nYou have eye pain and:\nthe pain is severe\nsensitivity to light\nchanges to your vision, like blurring, how you see colour or loss of vision\nyour eye is very red (1 or both eyes)\nYou can call 111 or\nget help from 111 online\n. Call 111 if you need help for a child under 5.\nImmediate action required:\nCall 999 or go straight to A&E if:\nyour eye symptoms start suddenly\nyou have eye pain that keeps you awake at night\nyou wear contact lenses and have eye pain and vision loss\nyou have a red eye, severe headache and feel sick\nyou have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks\nyou cannot see (loss of vision)\nyou have injured or pierced your eye\nsomething is stuck in your eye (like a piece of glass or grit)\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+  "links": [
+    {
+      "text": "eye injuries",
+      "url": "https://www.nhs.uk/conditions/eye-injuries/"
+    },
+    {
+      "text": "eyelid problems",
+      "url": "https://www.nhs.uk/symptoms/eyelid-problems/"
+    },
+    {
+      "text": "get help from 111 online",
+      "url": "https://111.nhs.uk/triage/check-your-symptoms"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"causes\">Causes of eye pain</h2>\n<p data-block-key=\"awgyh\">There are many possible causes of eye pain, including different eye conditions.</p><p data-block-key=\"eva7s\">Other things that can also cause eye pain include <a href=\"/conditions/eye-injuries/\">eye injuries</a> and <a href=\"/symptoms/eyelid-problems/\">eyelid problems</a>.</p><p data-block-key=\"bl1sa\">Do not try to diagnose the cause of the pain yourself.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Possible causes of eye pain</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Painful and watering eye, blurred vision, feeling like there's something in your eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Something in your eye, like dirt or an insect, or a scratch on the surface of your eye</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain with a gritty or burning feeling, sticky eyes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Conjunctivitis</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Sore, blurry or watery eyes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Dry eyes</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Sharp, burning or piercing pain around the eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Cluster headache</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain, red eyes, blurred vision, sensitivity to light</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Infection, such as an infection caused by wearing contact lenses or herpes simplex eye infection</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Tenderness around the eyes, vision changes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Glaucoma</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Pain that's worse when reading, watering eyes, vision changes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"b9r6v\">Uveitis, a rare condition that causes inflammation inside part of your eye</p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Pain, vision problems, changes in how you see colour</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"wsmek\">Neuromyelitis optica, a rare condition that affects the nerves in your eyes</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP or optician appointment, or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"6ed8l\">You have eye pain and:</p><ul><li data-block-key=\"agoem\">the pain is severe</li><li data-block-key=\"4vba1\">sensitivity to light</li><li data-block-key=\"ad01g\">changes to your vision, like blurring, how you see colour or loss of vision</li><li data-block-key=\"85kfv\">your eye is very red (1 or both eyes)</li></ul><p data-block-key=\"ep02a\">You can call 111 or <a href=\"https://111.nhs.uk/triage/check-your-symptoms\">get help from 111 online</a>. Call 111 if you need help for a child under 5.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 or go straight to A&amp;E if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"6ed8l\">your eye symptoms start suddenly</li><li data-block-key=\"756pr\">you have eye pain that keeps you awake at night</li><li data-block-key=\"1bn8v\">you wear contact lenses and have eye pain and vision loss</li><li data-block-key=\"61dse\">you have a red eye, severe headache and feel sick</li><li data-block-key=\"6s7k6\">you have severe pain or loss of vision and had eye surgery or treatment in the last 4 weeks</li><li data-block-key=\"4eirm\">you cannot see (loss of vision)</li><li data-block-key=\"dhrsp\">you have injured or pierced your eye</li><li data-block-key=\"dpk9i\">something is stuck in your eye (like a piece of glass or grit)</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

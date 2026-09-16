@@ -1,0 +1,717 @@
+{
+  "requested_url": "https://www.nhs.uk/conditions/vision-loss/",
+  "final_url": "https://www.nhs.uk/conditions/vision-loss/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:03:59.791040+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "V",
+      "label": "Vision loss",
+      "url": "https://www.nhs.uk/conditions/vision-loss/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Vision loss",
+  "meta_description": "Find out about vision loss, including what the symptoms are, what causes it, how it's treated, and what support is available.",
+  "review_dates": {
+    "page_last_reviewed": "28 August 2025",
+    "next_review_due": "28 August 2028"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Conditions A to Z",
+      "url": "https://www.nhs.uk/conditions/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about vision loss, including what the symptoms are, what causes it, how it's treated, and what support is available."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/conditions/vision-loss/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nVision loss\n"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about vision loss, including what the symptoms are, what causes it, how it's treated, and what support is available."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "11 Nov 2025, 4:20 p.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "18 Oct 2017, 3:48 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": "",
+        "name": "Vision loss"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/",
+              "genre": [],
+              "name": "Conditions A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/conditions/vision-loss/",
+              "genre": [
+                "Condition",
+                "Symptom"
+              ],
+              "name": "Vision loss"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-11-11T16:20:08+00:00",
+      "description": "Find out about vision loss, including what the symptoms are, what causes it, how it's treated, and what support is available.",
+      "genre": [
+        "Condition",
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "The main symptom of vision loss is not being able to see as well as usual. You may also notice other changes to your vision.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>The main symptom of vision loss is not being able to see properly.</p><p>It can gradually get worse over time or happen suddenly. It can affect 1 or both eyes.</p><p>Symptoms of vision loss can include:</p><ul><li>changes to your vision</li><li>difficulty reading, watching TV, or seeing peoples' faces clearly</li><li>your eyes being uncomfortable in or sensitive to bright light</li><li>difficulty seeing at night and in low light</li></ul><p>You can have vision loss at any age, but it's more common as you get older.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>Vision loss in children</h3><p>Vision loss in children is rare, but any problems will usually be found during routine <a href=\"/tests-and-treatments/eye-tests-in-children/\">eye tests for children</a>.</p><p>Speak to your health visitor or GP if you're worried about your child's vision.</p>"
+            }
+          ],
+          "headline": "Symptoms of vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See an optician if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  you think you may have vision loss\n </li>\n</ul>\n<p>\n Early diagnosis and treatment may help stop your vision getting worse.\n</p>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find an NHS sight test\n  </span>\n</a>\n</div>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Ask for an urgent GP appointment or get help from NHS 111 if:",
+              "identifier": "urgent",
+              "text": "<ul>\n<li>\n  you have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes\n </li>\n<li>\n  you have a dark shadow moving across your vision\n </li>\n<li>\n  you have pain in 1 or both eyes\n </li>\n<li>\n  your eye is red and painful\n </li>\n<li>\n  your eyes feel painful or uncomfortable in bright light\n </li>\n</ul>\n<p>\n You can call 111 or\n <a href=\"https://111.nhs.uk/\">\n  get help from NHS 111 online\n </a>\n .\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Go to A&E or call 999 if you:",
+              "identifier": "immediate",
+              "text": "<ul>\n<li>\n  suddenly cannot see from 1 or both eyes\n </li>\n<li>\n  suddenly have severe eye pain\n </li>\n</ul>\n<div class=\"block-action_link\">\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\">\n</path>\n</svg>\n<span class=\"nhsuk-action-link__text\">\n   Find your nearest A&amp;E\n  </span>\n</a>\n</div>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "A&E safety messaging",
+              "text": "<p>Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p>Bring any medicines you take with you.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are lots of causes of vision loss. Some common causes can be treated, but some conditions can cause permanent vision loss.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>There are lots of possible causes of vision loss. Some are common and can be treated, but some conditions may cause permanent vision loss.</p><p>Your symptoms may give you an idea what could be causing it.</p>"
+            }
+          ],
+          "headline": "Causes of vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Vision loss may be treatable with medicines or surgery. Sometimes it cannot be treated, but you can get support with living with visual impairment.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for vision loss depends on what’s causing it.</p><p>If the optician or GP thinks your vision loss is caused by a condition, you’ll usually be referred to an eye specialist (ophthalmologist) for further tests.</p><p>The ophthalmologist will discuss any available treatments with you that may improve your vision or may help stop it getting worse. Treatments may include medicines or surgery.</p><p>Some conditions can cause permanent vision loss that cannot be treated.</p><p>If you have long-term vision loss, the ophthalmologist or GP should refer you to local services that can support you with adapting to living with impaired vision.</p>"
+            }
+          ],
+          "headline": "Treatments for vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#medical-treatments"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Support is available if you have permanent vision loss. Registering as sight impaired can help you access benefits and local support services.",
+          "hasHealthAspect": "http://schema.org/LivingWithHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Everyone experiences vision loss differently.</p><p>If you have permanent vision loss, support you may need can include:</p><ul><li>advice and help with adapting your home to help with things like cooking and washing</li><li>help using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet</li><li>help with travelling and using transport</li><li>advice and help with getting benefits</li><li>help with adapting your workplace, or finding jobs</li><li>support with learning at school, college or university</li><li>talking therapies such as <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> or <a href=\"/tests-and-treatments/counselling/\">counselling</a></li></ul><h3>Registering as sight impaired</h3><p>If you've been assessed by an ophthalmologist who says you have severe sight impairment (blind) or you're sight impaired (partially sighted), you can register as sight impaired with your local authority.</p><p>This can help you access low vision support and services in your area, and means you can apply for benefits.</p>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Information",
+              "text": "<h3>More information</h3><ul><li><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/\">RNIB: registering as sight impaired</a></li><li><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/the-criteria-for-certification/\">RNIB: criteria for certification</a></li><li><a href=\"https://www.gov.uk/blind-persons-allowance/eligibility\">GOV.UK: blind person's allowance eligibility</a></li></ul>"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Royal National Institute of Blind People (RNIB)",
+              "text": "<p>Royal National Institute of Blind People (RNIB) is a national charity that offers information and support for anyone affected by vision loss.</p><ul><li>Website <a href=\"http://www.rnib.org.uk/\">www.rnib.org.uk</a></li><li>Helpline: 0303 123 9999</li><li><a href=\"https://www.rnib.org.uk/living-with-sight-loss/\">RNIB: practical and emotional support</a></li><li><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/diagnosis-and-next-steps/coming-to-terms-with-sight-loss/\">RNIB: coming to terms with sight loss</a></li></ul>"
+            }
+          ],
+          "headline": "Help and support with vision loss",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#support"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Vision loss can sometimes be treated but may be permanent. Get your sight checked if you’re worried about vision loss.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Vision loss",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vision loss",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vision loss",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vision loss",
+              "text": "Support"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>The main symptom of vision loss is not being able to see as well as usual. You may also notice other changes to your vision.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are lots of causes of vision loss. Some common causes can be treated, but some conditions can cause permanent vision loss.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Vision loss may be treatable with medicines or surgery. Sometimes it cannot be treated, but you can get support with living with visual impairment.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Support is available if you have permanent vision loss. Registering as sight impaired can help you access benefits and local support services.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/conditions/vision-loss/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2025-08-28T00:00:00+00:00",
+        "2028-08-28T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Vision loss",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Vision loss",
+          "position": 0,
+          "url": "https://www.nhs.uk/conditions/vision-loss/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/conditions/vision-loss/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Symptoms of vision loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Symptoms of vision loss"
+        },
+        {
+          "level": "h3",
+          "text": "Vision loss in children"
+        }
+      ],
+      "text": "Symptoms of vision loss\nThe main symptom of vision loss is not being able to see properly.\nIt can gradually get worse over time or happen suddenly. It can affect 1 or both eyes.\nSymptoms of vision loss can include:\nchanges to your vision\ndifficulty reading, watching TV, or seeing peoples' faces clearly\nyour eyes being uncomfortable in or sensitive to bright light\ndifficulty seeing at night and in low light\nYou can have vision loss at any age, but it's more common as you get older.\nInformation:\nVision loss in children\nVision loss in children is rare, but any problems will usually be found during routine\neye tests for children\n.\nSpeak to your health visitor or GP if you're worried about your child's vision.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "changes to your vision",
+            "difficulty reading, watching TV, or seeing peoples' faces clearly",
+            "your eyes being uncomfortable in or sensitive to bright light",
+            "difficulty seeing at night and in low light"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "eye tests for children",
+          "url": "https://www.nhs.uk/tests-and-treatments/eye-tests-in-children/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"symptoms\">Symptoms of vision loss</h2>\n<p data-block-key=\"7j95b\">The main symptom of vision loss is not being able to see properly.</p><p data-block-key=\"2pii7\">It can gradually get worse over time or happen suddenly. It can affect 1 or both eyes.</p><p data-block-key=\"foavh\">Symptoms of vision loss can include:</p><ul><li data-block-key=\"5fu96\">changes to your vision</li><li data-block-key=\"bu190\">difficulty reading, watching TV, or seeing peoples' faces clearly</li><li data-block-key=\"4gfb\">your eyes being uncomfortable in or sensitive to bright light</li><li data-block-key=\"35b0m\">difficulty seeing at night and in low light</li></ul><p data-block-key=\"336qg\">You can have vision loss at any age, but it's more common as you get older.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"ycxjq\">Vision loss in children</h3><p data-block-key=\"1nj13\">Vision loss in children is rare, but any problems will usually be found during routine <a href=\"/tests-and-treatments/eye-tests-in-children/\">eye tests for children</a>.</p><p data-block-key=\"eurq6\">Speak to your health visitor or GP if you're worried about your child's vision.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See an optician if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See an optician if:"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee an optician if:\nyou think you may have vision loss\nEarly diagnosis and treatment may help stop your vision getting worse.\nFind an NHS sight test",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you think you may have vision loss"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find an NHS sight test",
+          "url": "https://www.nhs.uk/service-search/find-an-NHS-sight-test/location"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See an optician if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">you think you may have vision loss</li></ul><p data-block-key=\"26iv8\">Early diagnosis and treatment may help stop your vision getting worse.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS sight test</span>\n</a>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:"
+        }
+      ],
+      "text": "Urgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes\nyou have a dark shadow moving across your vision\nyou have pain in 1 or both eyes\nyour eye is red and painful\nyour eyes feel painful or uncomfortable in bright light\nYou can call 111 or\nget help from NHS 111 online\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes",
+            "you have a dark shadow moving across your vision",
+            "you have pain in 1 or both eyes",
+            "your eye is red and painful",
+            "your eyes feel painful or uncomfortable in bright light"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "get help from NHS 111 online",
+          "url": "https://111.nhs.uk/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">you have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes</li><li data-block-key=\"5vkms\">you have a dark shadow moving across your vision</li><li data-block-key=\"cq2j\">you have pain in 1 or both eyes</li><li data-block-key=\"bdt15\">your eye is red and painful</li><li data-block-key=\"38n8p\">your eyes feel painful or uncomfortable in bright light</li></ul><p data-block-key=\"f0sp0\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from NHS 111 online</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Immediate action required: Go to A&E or call 999 if you:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Go to A&E or call 999 if you:"
+        }
+      ],
+      "text": "Immediate action required:\nGo to A&E or call 999 if you:\nsuddenly cannot see from 1 or both eyes\nsuddenly have severe eye pain\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "suddenly cannot see from 1 or both eyes",
+            "suddenly have severe eye pain"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "Find your nearest A&E",
+          "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">suddenly cannot see from 1 or both eyes</li><li data-block-key=\"65sq5\">suddenly have severe eye pain</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of vision loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of vision loss"
+        }
+      ],
+      "text": "Causes of vision loss\nThere are lots of possible causes of vision loss. Some are common and can be treated, but some conditions may cause permanent vision loss.\nYour symptoms may give you an idea what could be causing it.\nCommon causes of vision loss\nSymptoms\nPossible cause\nBlurred or cloudy vision, seeing a glowing ring (halo) around lights, colours looking less bright\nCataracts in adults\nDots, lines, flashes, darkness, or shadows appearing in your vision, often starts suddenly\nDetached retina (retinal detachment)\nDistorted area in the middle of your vision, difficulty reading, difficulty seeing peoples’ faces\nAge-related macular degeneration (AMD)\nGradual worsening of your sight and you have diabetes\nDiabetic retinopathy\nBlurred vision, severe eye pain, red eye\nGlaucoma",
+      "lists": [],
+      "links": [
+        {
+          "text": "Cataracts in adults",
+          "url": "https://www.nhs.uk/conditions/cataracts/"
+        },
+        {
+          "text": "Detached retina (retinal detachment)",
+          "url": "https://www.nhs.uk/conditions/detached-retina-retinal-detachment/"
+        },
+        {
+          "text": "Age-related macular degeneration (AMD)",
+          "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/"
+        },
+        {
+          "text": "Diabetic retinopathy",
+          "url": "https://www.nhs.uk/conditions/diabetic-retinopathy/"
+        },
+        {
+          "text": "Glaucoma",
+          "url": "https://www.nhs.uk/conditions/glaucoma-old/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of vision loss</h2>\n<p data-block-key=\"hxmwq\">There are lots of possible causes of vision loss. Some are common and can be treated, but some conditions may cause permanent vision loss.</p><p data-block-key=\"3ls4o\">Your symptoms may give you an idea what could be causing it.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of vision loss</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Blurred or cloudy vision, seeing a glowing ring (halo) around lights, colours looking less bright</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/cataracts/\">Cataracts in adults</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Dots, lines, flashes, darkness, or shadows appearing in your vision, often starts suddenly</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/detached-retina-retinal-detachment/\">Detached retina (retinal detachment)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Distorted area in the middle of your vision, difficulty reading, difficulty seeing peoples’ faces</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/age-related-macular-degeneration-amd/\">Age-related macular degeneration (AMD)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Gradual worsening of your sight and you have diabetes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/diabetic-retinopathy/\">Diabetic retinopathy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"e3z1r\">Blurred vision, severe eye pain, red eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"e3z1r\"><a href=\"/conditions/glaucoma-old/\">Glaucoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatments for vision loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatments for vision loss"
+        }
+      ],
+      "text": "Treatments for vision loss\nTreatment for vision loss depends on what’s causing it.\nIf the optician or GP thinks your vision loss is caused by a condition, you’ll usually be referred to an eye specialist (ophthalmologist) for further tests.\nThe ophthalmologist will discuss any available treatments with you that may improve your vision or may help stop it getting worse. Treatments may include medicines or surgery.\nSome conditions can cause permanent vision loss that cannot be treated.\nIf you have long-term vision loss, the ophthalmologist or GP should refer you to local services that can support you with adapting to living with impaired vision.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatments for vision loss</h2>\n<p data-block-key=\"7j95b\">Treatment for vision loss depends on what’s causing it.</p><p data-block-key=\"bl06s\">If the optician or GP thinks your vision loss is caused by a condition, you’ll usually be referred to an eye specialist (ophthalmologist) for further tests.</p><p data-block-key=\"adk1o\">The ophthalmologist will discuss any available treatments with you that may improve your vision or may help stop it getting worse. Treatments may include medicines or surgery.</p><p data-block-key=\"cpml9\">Some conditions can cause permanent vision loss that cannot be treated.</p><p data-block-key=\"6m7jj\">If you have long-term vision loss, the ophthalmologist or GP should refer you to local services that can support you with adapting to living with impaired vision.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "Help and support with vision loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Help and support with vision loss"
+        },
+        {
+          "level": "h3",
+          "text": "Registering as sight impaired"
+        },
+        {
+          "level": "h3",
+          "text": "More information"
+        },
+        {
+          "level": "h3",
+          "text": "Royal National Institute of Blind People (RNIB)"
+        }
+      ],
+      "text": "Help and support with vision loss\nEveryone experiences vision loss differently.\nIf you have permanent vision loss, support you may need can include:\nadvice and help with adapting your home to help with things like cooking and washing\nhelp using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet\nhelp with travelling and using transport\nadvice and help with getting benefits\nhelp with adapting your workplace, or finding jobs\nsupport with learning at school, college or university\ntalking therapies such as\ncognitive behavioural therapy (CBT)\nor\ncounselling\nRegistering as sight impaired\nIf you've been assessed by an ophthalmologist who says you have severe sight impairment (blind) or you're sight impaired (partially sighted), you can register as sight impaired with your local authority.\nThis can help you access low vision support and services in your area, and means you can apply for benefits.\nInformation:\nMore information\nRNIB: registering as sight impaired\nRNIB: criteria for certification\nGOV.UK: blind person's allowance eligibility\nRoyal National Institute of Blind People (RNIB)\nRoyal National Institute of Blind People (RNIB) is a national charity that offers information and support for anyone affected by vision loss.\nWebsite\nwww.rnib.org.uk\nHelpline: 0303 123 9999\nRNIB: practical and emotional support\nRNIB: coming to terms with sight loss",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "advice and help with adapting your home to help with things like cooking and washing",
+            "help using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet",
+            "help with travelling and using transport",
+            "advice and help with getting benefits",
+            "help with adapting your workplace, or finding jobs",
+            "support with learning at school, college or university",
+            "talking therapies such as\ncognitive behavioural therapy (CBT)\nor\ncounselling"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "RNIB: registering as sight impaired",
+            "RNIB: criteria for certification",
+            "GOV.UK: blind person's allowance eligibility"
+          ]
+        },
+        {
+          "type": "unordered",
+          "items": [
+            "Website\nwww.rnib.org.uk",
+            "Helpline: 0303 123 9999",
+            "RNIB: practical and emotional support",
+            "RNIB: coming to terms with sight loss"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "cognitive behavioural therapy (CBT)",
+          "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+        },
+        {
+          "text": "counselling",
+          "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+        },
+        {
+          "text": "RNIB: registering as sight impaired",
+          "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/"
+        },
+        {
+          "text": "RNIB: criteria for certification",
+          "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/the-criteria-for-certification/"
+        },
+        {
+          "text": "GOV.UK: blind person's allowance eligibility",
+          "url": "https://www.gov.uk/blind-persons-allowance/eligibility"
+        },
+        {
+          "text": "www.rnib.org.uk",
+          "url": "http://www.rnib.org.uk/"
+        },
+        {
+          "text": "RNIB: practical and emotional support",
+          "url": "https://www.rnib.org.uk/living-with-sight-loss/"
+        },
+        {
+          "text": "RNIB: coming to terms with sight loss",
+          "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/diagnosis-and-next-steps/coming-to-terms-with-sight-loss/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"support\">Help and support with vision loss</h2>\n<p data-block-key=\"7j95b\">Everyone experiences vision loss differently.</p><p data-block-key=\"cghah\">If you have permanent vision loss, support you may need can include:</p><ul><li data-block-key=\"b5psp\">advice and help with adapting your home to help with things like cooking and washing</li><li data-block-key=\"el6td\">help using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet</li><li data-block-key=\"5h5cf\">help with travelling and using transport</li><li data-block-key=\"dubaj\">advice and help with getting benefits</li><li data-block-key=\"8afjh\">help with adapting your workplace, or finding jobs</li><li data-block-key=\"139ek\">support with learning at school, college or university</li><li data-block-key=\"anjr0\">talking therapies such as <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> or <a href=\"/tests-and-treatments/counselling/\">counselling</a></li></ul><h3 data-block-key=\"1ieqo\">Registering as sight impaired</h3><p data-block-key=\"dil7s\">If you've been assessed by an ophthalmologist who says you have severe sight impairment (blind) or you're sight impaired (partially sighted), you can register as sight impaired with your local authority.</p><p data-block-key=\"fv6en\">This can help you access low vision support and services in your area, and means you can apply for benefits.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"5fy7x\">More information</h3><ul><li data-block-key=\"bp2qu\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/\">RNIB: registering as sight impaired</a></li><li data-block-key=\"bt304\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/the-criteria-for-certification/\">RNIB: criteria for certification</a></li><li data-block-key=\"1v5bj\"><a href=\"https://www.gov.uk/blind-persons-allowance/eligibility\">GOV.UK: blind person's allowance eligibility</a></li></ul>\n</div>\n<h3 data-block-key=\"zd5eo\">Royal National Institute of Blind People (RNIB)</h3><p data-block-key=\"9ccnf\">Royal National Institute of Blind People (RNIB) is a national charity that offers information and support for anyone affected by vision loss.</p><ul><li data-block-key=\"afir3\">Website <a href=\"http://www.rnib.org.uk/\">www.rnib.org.uk</a></li><li data-block-key=\"9pndt\">Helpline: 0303 123 9999</li><li data-block-key=\"7iqe6\"><a href=\"https://www.rnib.org.uk/living-with-sight-loss/\">RNIB: practical and emotional support</a></li><li data-block-key=\"2r3cr\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/diagnosis-and-next-steps/coming-to-terms-with-sight-loss/\">RNIB: coming to terms with sight loss</a></li></ul>\n</section>"
+    }
+  ],
+  "page_text": "Symptoms of vision loss\nThe main symptom of vision loss is not being able to see properly.\nIt can gradually get worse over time or happen suddenly. It can affect 1 or both eyes.\nSymptoms of vision loss can include:\nchanges to your vision\ndifficulty reading, watching TV, or seeing peoples' faces clearly\nyour eyes being uncomfortable in or sensitive to bright light\ndifficulty seeing at night and in low light\nYou can have vision loss at any age, but it's more common as you get older.\nInformation:\nVision loss in children\nVision loss in children is rare, but any problems will usually be found during routine\neye tests for children\n.\nSpeak to your health visitor or GP if you're worried about your child's vision.\nNon-urgent advice:\nSee an optician if:\nyou think you may have vision loss\nEarly diagnosis and treatment may help stop your vision getting worse.\nFind an NHS sight test\nUrgent advice:\nAsk for an urgent GP appointment or get help from NHS 111 if:\nyou have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes\nyou have a dark shadow moving across your vision\nyou have pain in 1 or both eyes\nyour eye is red and painful\nyour eyes feel painful or uncomfortable in bright light\nYou can call 111 or\nget help from NHS 111 online\n.\nImmediate action required:\nGo to A&E or call 999 if you:\nsuddenly cannot see from 1 or both eyes\nsuddenly have severe eye pain\nFind your nearest A&E\nInformation:\nDo not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance.\nBring any medicines you take with you.\nCauses of vision loss\nThere are lots of possible causes of vision loss. Some are common and can be treated, but some conditions may cause permanent vision loss.\nYour symptoms may give you an idea what could be causing it.\nCommon causes of vision loss\nSymptoms\nPossible cause\nBlurred or cloudy vision, seeing a glowing ring (halo) around lights, colours looking less bright\nCataracts in adults\nDots, lines, flashes, darkness, or shadows appearing in your vision, often starts suddenly\nDetached retina (retinal detachment)\nDistorted area in the middle of your vision, difficulty reading, difficulty seeing peoples’ faces\nAge-related macular degeneration (AMD)\nGradual worsening of your sight and you have diabetes\nDiabetic retinopathy\nBlurred vision, severe eye pain, red eye\nGlaucoma\nTreatments for vision loss\nTreatment for vision loss depends on what’s causing it.\nIf the optician or GP thinks your vision loss is caused by a condition, you’ll usually be referred to an eye specialist (ophthalmologist) for further tests.\nThe ophthalmologist will discuss any available treatments with you that may improve your vision or may help stop it getting worse. Treatments may include medicines or surgery.\nSome conditions can cause permanent vision loss that cannot be treated.\nIf you have long-term vision loss, the ophthalmologist or GP should refer you to local services that can support you with adapting to living with impaired vision.\nHelp and support with vision loss\nEveryone experiences vision loss differently.\nIf you have permanent vision loss, support you may need can include:\nadvice and help with adapting your home to help with things like cooking and washing\nhelp using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet\nhelp with travelling and using transport\nadvice and help with getting benefits\nhelp with adapting your workplace, or finding jobs\nsupport with learning at school, college or university\ntalking therapies such as\ncognitive behavioural therapy (CBT)\nor\ncounselling\nRegistering as sight impaired\nIf you've been assessed by an ophthalmologist who says you have severe sight impairment (blind) or you're sight impaired (partially sighted), you can register as sight impaired with your local authority.\nThis can help you access low vision support and services in your area, and means you can apply for benefits.\nInformation:\nMore information\nRNIB: registering as sight impaired\nRNIB: criteria for certification\nGOV.UK: blind person's allowance eligibility\nRoyal National Institute of Blind People (RNIB)\nRoyal National Institute of Blind People (RNIB) is a national charity that offers information and support for anyone affected by vision loss.\nWebsite\nwww.rnib.org.uk\nHelpline: 0303 123 9999\nRNIB: practical and emotional support\nRNIB: coming to terms with sight loss\nPage last reviewed: 28 August 2025\nNext review due: 28 August 2028",
+  "links": [
+    {
+      "text": "eye tests for children",
+      "url": "https://www.nhs.uk/tests-and-treatments/eye-tests-in-children/"
+    },
+    {
+      "text": "Find an NHS sight test",
+      "url": "https://www.nhs.uk/service-search/find-an-NHS-sight-test/location"
+    },
+    {
+      "text": "get help from NHS 111 online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "text": "Find your nearest A&E",
+      "url": "https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/"
+    },
+    {
+      "text": "Cataracts in adults",
+      "url": "https://www.nhs.uk/conditions/cataracts/"
+    },
+    {
+      "text": "Detached retina (retinal detachment)",
+      "url": "https://www.nhs.uk/conditions/detached-retina-retinal-detachment/"
+    },
+    {
+      "text": "Age-related macular degeneration (AMD)",
+      "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/"
+    },
+    {
+      "text": "Diabetic retinopathy",
+      "url": "https://www.nhs.uk/conditions/diabetic-retinopathy/"
+    },
+    {
+      "text": "Glaucoma",
+      "url": "https://www.nhs.uk/conditions/glaucoma-old/"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    },
+    {
+      "text": "counselling",
+      "url": "https://www.nhs.uk/tests-and-treatments/counselling/"
+    },
+    {
+      "text": "RNIB: registering as sight impaired",
+      "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/"
+    },
+    {
+      "text": "RNIB: criteria for certification",
+      "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/the-criteria-for-certification/"
+    },
+    {
+      "text": "GOV.UK: blind person's allowance eligibility",
+      "url": "https://www.gov.uk/blind-persons-allowance/eligibility"
+    },
+    {
+      "text": "www.rnib.org.uk",
+      "url": "http://www.rnib.org.uk/"
+    },
+    {
+      "text": "RNIB: practical and emotional support",
+      "url": "https://www.rnib.org.uk/living-with-sight-loss/"
+    },
+    {
+      "text": "RNIB: coming to terms with sight loss",
+      "url": "https://www.rnib.org.uk/your-eyes/navigating-sight-loss/diagnosis-and-next-steps/coming-to-terms-with-sight-loss/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Symptoms of vision loss</h2>\n<p data-block-key=\"7j95b\">The main symptom of vision loss is not being able to see properly.</p><p data-block-key=\"2pii7\">It can gradually get worse over time or happen suddenly. It can affect 1 or both eyes.</p><p data-block-key=\"foavh\">Symptoms of vision loss can include:</p><ul><li data-block-key=\"5fu96\">changes to your vision</li><li data-block-key=\"bu190\">difficulty reading, watching TV, or seeing peoples' faces clearly</li><li data-block-key=\"4gfb\">your eyes being uncomfortable in or sensitive to bright light</li><li data-block-key=\"35b0m\">difficulty seeing at night and in low light</li></ul><p data-block-key=\"336qg\">You can have vision loss at any age, but it's more common as you get older.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"ycxjq\">Vision loss in children</h3><p data-block-key=\"1nj13\">Vision loss in children is rare, but any problems will usually be found during routine <a href=\"/tests-and-treatments/eye-tests-in-children/\">eye tests for children</a>.</p><p data-block-key=\"eurq6\">Speak to your health visitor or GP if you're worried about your child's vision.</p>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See an optician if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">you think you may have vision loss</li></ul><p data-block-key=\"26iv8\">Early diagnosis and treatment may help stop your vision getting worse.</p>\n<a class=\"nhsuk-action-link\" href=\"https://www.nhs.uk/service-search/find-an-NHS-sight-test/location\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find an NHS sight test</span>\n</a>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Ask for an urgent GP appointment or get help from NHS 111 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">you have changes in your vision, such as blurred vision, double vision, or seeing flashing lights or shapes</li><li data-block-key=\"5vkms\">you have a dark shadow moving across your vision</li><li data-block-key=\"cq2j\">you have pain in 1 or both eyes</li><li data-block-key=\"bdt15\">your eye is red and painful</li><li data-block-key=\"38n8p\">your eyes feel painful or uncomfortable in bright light</li></ul><p data-block-key=\"f0sp0\">You can call 111 or <a href=\"https://111.nhs.uk/\">get help from NHS 111 online</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Go to A&amp;E or call 999 if you:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"i62gn\">suddenly cannot see from 1 or both eyes</li><li data-block-key=\"65sq5\">suddenly have severe eye pain</li></ul>\n<a class=\"nhsuk-action-link nhsuk-action-link--reverse\" href=\"https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/\">\n<svg aria-hidden=\"true\" class=\"nhsuk-icon nhsuk-icon--arrow-right-circle\" focusable=\"false\" height=\"16\" viewbox=\"0 0 24 24\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2a10 10 0 0 0-10 9h11.7l-4-4a1 1 0 0 1 1.5-1.4l5.6 5.7a1 1 0 0 1 0 1.4l-5.6 5.7a1 1 0 0 1-1.5 0 1 1 0 0 1 0-1.4l4-4H2A10 10 0 1 0 12 2z\"></path>\n</svg>\n<span class=\"nhsuk-action-link__text\">Find your nearest A&amp;E</span>\n</a>\n</div>\n</div>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<p data-block-key=\"kiwqw\">Do not drive to A&amp;E. Ask someone to drive you or call 999 and ask for an ambulance.</p><p data-block-key=\"8ha8n\">Bring any medicines you take with you.</p>\n</div>\n</section>\n<section>\n<h2 id=\"causes\">Causes of vision loss</h2>\n<p data-block-key=\"hxmwq\">There are lots of possible causes of vision loss. Some are common and can be treated, but some conditions may cause permanent vision loss.</p><p data-block-key=\"3ls4o\">Your symptoms may give you an idea what could be causing it.</p>\n<div class=\"nhsuk-table-container\">\n<table class=\"nhsuk-table\" role=\"table\">\n<caption class=\"nhsuk-table__caption\">Common causes of vision loss</caption>\n<thead class=\"nhsuk-table__head\" role=\"rowgroup\">\n<tr role=\"row\">\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Symptoms\n          </th>\n<th class=\"\" role=\"columnheader\" scope=\"col\">\n            Possible cause\n          </th>\n</tr>\n</thead>\n<tbody class=\"nhsuk-table__body\">\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Blurred or cloudy vision, seeing a glowing ring (halo) around lights, colours looking less bright</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/cataracts/\">Cataracts in adults</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Dots, lines, flashes, darkness, or shadows appearing in your vision, often starts suddenly</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/detached-retina-retinal-detachment/\">Detached retina (retinal detachment)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Distorted area in the middle of your vision, difficulty reading, difficulty seeing peoples’ faces</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/age-related-macular-degeneration-amd/\">Age-related macular degeneration (AMD)</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\">Gradual worsening of your sight and you have diabetes</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"zvjd9\"><a href=\"/conditions/diabetic-retinopathy/\">Diabetic retinopathy</a></p>\n</td>\n</tr>\n<tr class=\"nhsuk-table__row\" role=\"row\">\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"e3z1r\">Blurred vision, severe eye pain, red eye</p>\n</td>\n<td class=\"nhsuk-table__cell\">\n<p data-block-key=\"e3z1r\"><a href=\"/conditions/glaucoma-old/\">Glaucoma</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatments for vision loss</h2>\n<p data-block-key=\"7j95b\">Treatment for vision loss depends on what’s causing it.</p><p data-block-key=\"bl06s\">If the optician or GP thinks your vision loss is caused by a condition, you’ll usually be referred to an eye specialist (ophthalmologist) for further tests.</p><p data-block-key=\"adk1o\">The ophthalmologist will discuss any available treatments with you that may improve your vision or may help stop it getting worse. Treatments may include medicines or surgery.</p><p data-block-key=\"cpml9\">Some conditions can cause permanent vision loss that cannot be treated.</p><p data-block-key=\"6m7jj\">If you have long-term vision loss, the ophthalmologist or GP should refer you to local services that can support you with adapting to living with impaired vision.</p>\n</section>\n<section>\n<h2 id=\"support\">Help and support with vision loss</h2>\n<p data-block-key=\"7j95b\">Everyone experiences vision loss differently.</p><p data-block-key=\"cghah\">If you have permanent vision loss, support you may need can include:</p><ul><li data-block-key=\"b5psp\">advice and help with adapting your home to help with things like cooking and washing</li><li data-block-key=\"el6td\">help using low vision aids and assistive technology to help you with things like reading, using phones, and using the internet</li><li data-block-key=\"5h5cf\">help with travelling and using transport</li><li data-block-key=\"dubaj\">advice and help with getting benefits</li><li data-block-key=\"8afjh\">help with adapting your workplace, or finding jobs</li><li data-block-key=\"139ek\">support with learning at school, college or university</li><li data-block-key=\"anjr0\">talking therapies such as <a href=\"/tests-and-treatments/cognitive-behavioural-therapy-cbt/\">cognitive behavioural therapy (CBT)</a> or <a href=\"/tests-and-treatments/counselling/\">counselling</a></li></ul><h3 data-block-key=\"1ieqo\">Registering as sight impaired</h3><p data-block-key=\"dil7s\">If you've been assessed by an ophthalmologist who says you have severe sight impairment (blind) or you're sight impaired (partially sighted), you can register as sight impaired with your local authority.</p><p data-block-key=\"fv6en\">This can help you access low vision support and services in your area, and means you can apply for benefits.</p>\n<div class=\"nhsuk-inset-text\">\n<span class=\"nhsuk-u-visually-hidden\">Information: </span>\n<h3 data-block-key=\"5fy7x\">More information</h3><ul><li data-block-key=\"bp2qu\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/\">RNIB: registering as sight impaired</a></li><li data-block-key=\"bt304\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/registering-as-sight-impaired/the-criteria-for-certification/\">RNIB: criteria for certification</a></li><li data-block-key=\"1v5bj\"><a href=\"https://www.gov.uk/blind-persons-allowance/eligibility\">GOV.UK: blind person's allowance eligibility</a></li></ul>\n</div>\n<h3 data-block-key=\"zd5eo\">Royal National Institute of Blind People (RNIB)</h3><p data-block-key=\"9ccnf\">Royal National Institute of Blind People (RNIB) is a national charity that offers information and support for anyone affected by vision loss.</p><ul><li data-block-key=\"afir3\">Website <a href=\"http://www.rnib.org.uk/\">www.rnib.org.uk</a></li><li data-block-key=\"9pndt\">Helpline: 0303 123 9999</li><li data-block-key=\"7iqe6\"><a href=\"https://www.rnib.org.uk/living-with-sight-loss/\">RNIB: practical and emotional support</a></li><li data-block-key=\"2r3cr\"><a href=\"https://www.rnib.org.uk/your-eyes/navigating-sight-loss/diagnosis-and-next-steps/coming-to-terms-with-sight-loss/\">RNIB: coming to terms with sight loss</a></li></ul>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 28 August 2025<br/>\n    Next review due: 28 August 2028\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}

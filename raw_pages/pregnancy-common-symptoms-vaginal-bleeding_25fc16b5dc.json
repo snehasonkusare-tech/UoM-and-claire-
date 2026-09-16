@@ -1,0 +1,576 @@
+{
+  "requested_url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/",
+  "final_url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:52.013362+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "B",
+      "label": "Bleeding from the vagina in pregnancy, see Vaginal bleeding in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "V",
+      "label": "Vaginal bleeding in pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Vaginal bleeding in pregnancy",
+  "meta_description": "Find out about vaginal bleeding in pregnancy, including causes and where to get help.",
+  "review_dates": {
+    "page_last_reviewed": "17 February 2026",
+    "next_review_due": "17 February 2029"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Pregnancy",
+      "url": "https://www.nhs.uk/pregnancy/"
+    },
+    {
+      "text": "Pregnancy symptoms",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "Find out about vaginal bleeding in pregnancy, including causes and where to get help."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "Vaginal bleeding in pregnancy"
+    },
+    {
+      "key": "og:description",
+      "content": "Find out about vaginal bleeding in pregnancy, including causes and where to get help."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "13 May 2026, 10:14 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "3 Dec 2020, 8:56 p.m."
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Bleeding from the vagina in pregnancy"
+        ],
+        "name": "Vaginal bleeding in pregnancy"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/",
+              "genre": [],
+              "name": "Pregnancy"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/common-symptoms/",
+              "genre": [],
+              "name": "Pregnancy symptoms"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Vaginal bleeding in pregnancy"
+            },
+            "position": 2
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2026-05-13T09:14:04+00:00",
+      "description": "Find out about vaginal bleeding in pregnancy, including causes and where to get help.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "Vaginal bleeding in pregnancy is not always serious, but it sometimes needs urgent medical treatment.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding in pregnancy",
+              "text": "Symptoms"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding in pregnancy",
+              "text": "Diagnosis"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding in pregnancy",
+              "text": "Medical treatments"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Vaginal bleeding in pregnancy",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Signs of vaginal bleeding in pregnancy may vary from spots on toilet paper to heavy bleeding. The blood may be pink, red or brown.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Diagnosing the cause of vaginal bleeding in pregnancy may involve an ultrasound scan, blood test and an examination by a doctor, nurse or midwife.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>Treatment for vaginal bleeding in pregnancy depends on the cause and may include medicine or surgery. Sometimes no treatment is needed.</p> "
+            },
+            {
+              "@type": "WebPageElement",
+              "text": "<p>There are many causes of vaginal bleeding throughout pregnancy, including miscarriage, infection or when an egg implants in the womb.</p> "
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#overview"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Signs of vaginal bleeding in pregnancy may vary from spots on toilet paper to heavy bleeding. The blood may be pink, red or brown.",
+          "hasHealthAspect": "http://schema.org/SymptomsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Signs of vaginal bleeding in pregnancy may include:</p><ul><li>spots of pink, red or brown blood on your underwear or toilet paper (spotting)</li><li>larger areas of pink, red or brown blood that may need a period pad (light bleeding)</li><li>red blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps</li></ul><p>The bleeding may be constant, or may come and go.</p>"
+            }
+          ],
+          "headline": "Signs of vaginal bleeding in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#symptoms"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpUrgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Get urgent help if:",
+              "identifier": "urgent",
+              "text": "<p>\n You're pregnant and have light bleeding or spotting with:\n</p>\n<ul>\n<li>\n  no pain, or mild tummy pain (the pain does not stop you doing daily tasks)\n </li>\n<li>\n  diarrhoea, or pain or pressure when you pee or poo\n </li>\n</ul>\n<p>\n Call your maternity unit if you have the phone number.\n</p>\n<p>\n If you're less than 20 weeks pregnant, an early pregnancy unit may be able to help. You can find how to contact one on your local NHS trust website or in your maternity notes.\n</p>\n<p>\n If you do not have a maternity unit yet or cannot contact an early pregnancy unit, call NHS 111.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpEmergencyHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Call 999 if:",
+              "identifier": "immediate",
+              "text": "<p>\n You're pregnant and bleeding and:\n</p>\n<ul>\n<li>\n  you have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)\n </li>\n<li>\n  you have pain in your shoulder\n </li>\n<li>\n  you feel sick, faint, dizzy or lose consciousness\n </li>\n<li>\n  the bleeding is heavy (soaking a period pad soon after putting it on)\n </li>\n</ul>\n<p>\n These can be signs you need immediate treatment.\n</p>\n"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#emergency-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Diagnosing the cause of vaginal bleeding in pregnancy may involve an ultrasound scan, blood test and an examination by a doctor, nurse or midwife.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>To find out what could be causing the vaginal bleeding, you'll be asked about your health, your symptoms and how many weeks pregnant you are.</p><p>You may also be asked about any bleeding or pregnancies you've had in the past. If you've been given your maternity notes, take these with you if possible.</p><p>If you're at a hospital or early pregnancy unit, a doctor, nurse or midwife may ask to do some checks. These may include:</p><ul><li>looking inside your vagina</li><li>an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a> on your tummy or inside your vagina</li><li>blood tests</li><li>testing a sample of your pee (urine)</li></ul>"
+            }
+          ],
+          "headline": "Tests to find the cause of vaginal bleeding",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "There are many causes of vaginal bleeding throughout pregnancy, including miscarriage, infection or when an egg implants in the womb.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Bleeding in pregnancy can be caused by different things, including:</p><ul><li>implantation bleeding in very early pregnancy (when the egg implants into the womb)</li><li>changes to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example</li><li>a leak of blood from inside the womb</li><li>infection (such as a urine infection or sexually transmitted infection)</li><li><a href=\"/conditions/miscarriage/\">miscarriage</a></li><li><a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li><li><a href=\"/conditions/molar-pregnancy/\">molar pregnancy</a></li><li>complications with <a href=\"/pregnancy/labour-and-birth/placenta-complications/\">the placenta</a>, such as placenta praevia</li><li>a \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting</li></ul><p>Sometimes it's not possible to find the cause of vaginal bleeding in pregnancy.</p>"
+            }
+          ],
+          "headline": "Causes of vaginal bleeding in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Treatment for vaginal bleeding in pregnancy depends on the cause and may include medicine or surgery. Sometimes no treatment is needed.",
+          "hasHealthAspect": "http://schema.org/TreatmentsHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Treatment for vaginal bleeding in pregnancy depends on the cause, and may depend on how many weeks pregnant you are.</p><p>You may be offered closer monitoring in pregnancy to check the health of you and your baby. This may involve being admitted to hospital.</p><p>You may not need treatment if tests find the bleeding is not serious and the pregnancy is healthy.</p><p>If you need treatment, this may include:</p><ul><li>medicine</li><li>surgery</li></ul><p>If you're in the later weeks of pregnancy you may be offered an induction of labour.</p><p>If bleeding is caused by placenta problems, you may be offered a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a> to help your baby be born safely.</p><p>The doctor will discuss the options with you to help you make the right choice for you and your baby.</p>"
+            }
+          ],
+          "headline": "Treatment for vaginal bleeding in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/#medical-treatments"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2026-02-17T15:16:00+00:00",
+        "2029-02-17T00:00:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Vaginal bleeding in pregnancy",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Pregnancy symptoms",
+          "position": 0,
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Signs of vaginal bleeding in pregnancy",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Signs of vaginal bleeding in pregnancy"
+        }
+      ],
+      "text": "Signs of vaginal bleeding in pregnancy\nSigns of vaginal bleeding in pregnancy may include:\nspots of pink, red or brown blood on your underwear or toilet paper (spotting)\nlarger areas of pink, red or brown blood that may need a period pad (light bleeding)\nred blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps\nThe bleeding may be constant, or may come and go.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "spots of pink, red or brown blood on your underwear or toilet paper (spotting)",
+            "larger areas of pink, red or brown blood that may need a period pad (light bleeding)",
+            "red blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<h2 id=\"symptoms\">Signs of vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"tb7cw\">Signs of vaginal bleeding in pregnancy may include:</p><ul><li data-block-key=\"fs0h6\">spots of pink, red or brown blood on your underwear or toilet paper (spotting)</li><li data-block-key=\"cuqg1\">larger areas of pink, red or brown blood that may need a period pad (light bleeding)</li><li data-block-key=\"4ep5v\">red blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps</li></ul><p data-block-key=\"9pc6q\">The bleeding may be constant, or may come and go.</p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Urgent advice: Get urgent help if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Urgent advice: Get urgent help if:"
+        }
+      ],
+      "text": "Urgent advice:\nGet urgent help if:\nYou're pregnant and have light bleeding or spotting with:\nno pain, or mild tummy pain (the pain does not stop you doing daily tasks)\ndiarrhoea, or pain or pressure when you pee or poo\nCall your maternity unit if you have the phone number.\nIf you're less than 20 weeks pregnant, an early pregnancy unit may be able to help. You can find how to contact one on your local NHS trust website or in your maternity notes.\nIf you do not have a maternity unit yet or cannot contact an early pregnancy unit, call NHS 111.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "no pain, or mild tummy pain (the pain does not stop you doing daily tasks)",
+            "diarrhoea, or pain or pressure when you pee or poo"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get urgent help if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"rhkop\">You're pregnant and have light bleeding or spotting with:</p><ul><li data-block-key=\"35pcd\">no pain, or mild tummy pain (the pain does not stop you doing daily tasks)</li><li data-block-key=\"guhv\">diarrhoea, or pain or pressure when you pee or poo</li></ul><p data-block-key=\"dglt1\">Call your maternity unit if you have the phone number.</p><p data-block-key=\"34i3e\">If you're less than 20 weeks pregnant, an early pregnancy unit may be able to help. You can find how to contact one on your local NHS trust website or in your maternity notes.</p><p data-block-key=\"83a2u\">If you do not have a maternity unit yet or cannot contact an early pregnancy unit, call NHS 111.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "Immediate action required: Call 999 if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Immediate action required: Call 999 if:"
+        }
+      ],
+      "text": "Immediate action required:\nCall 999 if:\nYou're pregnant and bleeding and:\nyou have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)\nyou have pain in your shoulder\nyou feel sick, faint, dizzy or lose consciousness\nthe bleeding is heavy (soaking a period pad soon after putting it on)\nThese can be signs you need immediate treatment.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "you have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)",
+            "you have pain in your shoulder",
+            "you feel sick, faint, dizzy or lose consciousness",
+            "the bleeding is heavy (soaking a period pad soon after putting it on)"
+          ]
+        }
+      ],
+      "links": [],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"njkdk\">You're pregnant and bleeding and:</p><ul><li data-block-key=\"2o0kb\">you have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)</li><li data-block-key=\"nk28\">you have pain in your shoulder</li><li data-block-key=\"1a0q7\">you feel sick, faint, dizzy or lose consciousness</li><li data-block-key=\"1plgk\">the bleeding is heavy (soaking a period pad soon after putting it on)</li></ul><p data-block-key=\"ajk60\">These can be signs you need immediate treatment.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Tests to find the cause of vaginal bleeding",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Tests to find the cause of vaginal bleeding"
+        }
+      ],
+      "text": "Tests to find the cause of vaginal bleeding\nTo find out what could be causing the vaginal bleeding, you'll be asked about your health, your symptoms and how many weeks pregnant you are.\nYou may also be asked about any bleeding or pregnancies you've had in the past. If you've been given your maternity notes, take these with you if possible.\nIf you're at a hospital or early pregnancy unit, a doctor, nurse or midwife may ask to do some checks. These may include:\nlooking inside your vagina\nan\nultrasound scan\non your tummy or inside your vagina\nblood tests\ntesting a sample of your pee (urine)",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "looking inside your vagina",
+            "an\nultrasound scan\non your tummy or inside your vagina",
+            "blood tests",
+            "testing a sample of your pee (urine)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "ultrasound scan",
+          "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"diagnosis\">Tests to find the cause of vaginal bleeding</h2>\n<p data-block-key=\"7y08c\">To find out what could be causing the vaginal bleeding, you'll be asked about your health, your symptoms and how many weeks pregnant you are.</p><p data-block-key=\"qc9s\">You may also be asked about any bleeding or pregnancies you've had in the past. If you've been given your maternity notes, take these with you if possible.</p><p data-block-key=\"3inv3\">If you're at a hospital or early pregnancy unit, a doctor, nurse or midwife may ask to do some checks. These may include:</p><ul><li data-block-key=\"2rap0\">looking inside your vagina</li><li data-block-key=\"3j4rk\">an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a> on your tummy or inside your vagina</li><li data-block-key=\"e2aid\">blood tests</li><li data-block-key=\"bh3c3\">testing a sample of your pee (urine)</li></ul>\n</section>"
+    },
+    {
+      "position": 5,
+      "heading": "Causes of vaginal bleeding in pregnancy",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of vaginal bleeding in pregnancy"
+        }
+      ],
+      "text": "Causes of vaginal bleeding in pregnancy\nBleeding in pregnancy can be caused by different things, including:\nimplantation bleeding in very early pregnancy (when the egg implants into the womb)\nchanges to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example\na leak of blood from inside the womb\ninfection (such as a urine infection or sexually transmitted infection)\nmiscarriage\nectopic pregnancy\nmolar pregnancy\ncomplications with\nthe placenta\n, such as placenta praevia\na \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting\nSometimes it's not possible to find the cause of vaginal bleeding in pregnancy.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "implantation bleeding in very early pregnancy (when the egg implants into the womb)",
+            "changes to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example",
+            "a leak of blood from inside the womb",
+            "infection (such as a urine infection or sexually transmitted infection)",
+            "miscarriage",
+            "ectopic pregnancy",
+            "molar pregnancy",
+            "complications with\nthe placenta\n, such as placenta praevia",
+            "a \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "miscarriage",
+          "url": "https://www.nhs.uk/conditions/miscarriage/"
+        },
+        {
+          "text": "ectopic pregnancy",
+          "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+        },
+        {
+          "text": "molar pregnancy",
+          "url": "https://www.nhs.uk/conditions/molar-pregnancy/"
+        },
+        {
+          "text": "the placenta",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/placenta-complications/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"5wvr6\">Bleeding in pregnancy can be caused by different things, including:</p><ul><li data-block-key=\"8pjn7\">implantation bleeding in very early pregnancy (when the egg implants into the womb)</li><li data-block-key=\"49rv\">changes to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example</li><li data-block-key=\"bjfdd\">a leak of blood from inside the womb</li><li data-block-key=\"8i02l\">infection (such as a urine infection or sexually transmitted infection)</li><li data-block-key=\"3ipie\"><a href=\"/conditions/miscarriage/\">miscarriage</a></li><li data-block-key=\"bfub5\"><a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li><li data-block-key=\"9477v\"><a href=\"/conditions/molar-pregnancy/\">molar pregnancy</a></li><li data-block-key=\"82mlg\">complications with <a href=\"/pregnancy/labour-and-birth/placenta-complications/\">the placenta</a>, such as placenta praevia</li><li data-block-key=\"9pf5q\">a \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting</li></ul><p data-block-key=\"8fi67\">Sometimes it's not possible to find the cause of vaginal bleeding in pregnancy.</p>\n</section>"
+    },
+    {
+      "position": 6,
+      "heading": "Treatment for vaginal bleeding in pregnancy",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Treatment for vaginal bleeding in pregnancy"
+        }
+      ],
+      "text": "Treatment for vaginal bleeding in pregnancy\nTreatment for vaginal bleeding in pregnancy depends on the cause, and may depend on how many weeks pregnant you are.\nYou may be offered closer monitoring in pregnancy to check the health of you and your baby. This may involve being admitted to hospital.\nYou may not need treatment if tests find the bleeding is not serious and the pregnancy is healthy.\nIf you need treatment, this may include:\nmedicine\nsurgery\nIf you're in the later weeks of pregnancy you may be offered an induction of labour.\nIf bleeding is caused by placenta problems, you may be offered a\ncaesarean section\nto help your baby be born safely.\nThe doctor will discuss the options with you to help you make the right choice for you and your baby.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "medicine",
+            "surgery"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "caesarean section",
+          "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"medical-treatments\">Treatment for vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"6ch6i\">Treatment for vaginal bleeding in pregnancy depends on the cause, and may depend on how many weeks pregnant you are.</p><p data-block-key=\"8klnq\">You may be offered closer monitoring in pregnancy to check the health of you and your baby. This may involve being admitted to hospital.</p><p data-block-key=\"1kbc\">You may not need treatment if tests find the bleeding is not serious and the pregnancy is healthy.</p><p data-block-key=\"33q2h\">If you need treatment, this may include:</p><ul><li data-block-key=\"ebk84\">medicine</li><li data-block-key=\"5shiv\">surgery</li></ul><p data-block-key=\"d9lhc\">If you're in the later weeks of pregnancy you may be offered an induction of labour.</p><p data-block-key=\"6d9a7\">If bleeding is caused by placenta problems, you may be offered a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a> to help your baby be born safely.</p><p data-block-key=\"3t27s\">The doctor will discuss the options with you to help you make the right choice for you and your baby.</p>\n</section>"
+    },
+    {
+      "position": 7,
+      "heading": "What should I do if I start bleeding during early pregnancy?",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What should I do if I start bleeding during early pregnancy?"
+        }
+      ],
+      "text": "What should I do if I start bleeding during early pregnancy?\nThis video explains what to do if you have vaginal bleeding in early pregnancy.\nMedia last reviewed: 23 April 2026\nMedia review due: 23 April 2029",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>What should I do if I start bleeding during early pregnancy?</h2>\n<p>This video explains what to do if you have vaginal bleeding in early pregnancy.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6372884585112\" id=\"6372884585112\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 23 April 2026<br/>\n    Media review due: 23 April 2029\n  </div>\n</div>\n</section>"
+    }
+  ],
+  "page_text": "Signs of vaginal bleeding in pregnancy\nSigns of vaginal bleeding in pregnancy may include:\nspots of pink, red or brown blood on your underwear or toilet paper (spotting)\nlarger areas of pink, red or brown blood that may need a period pad (light bleeding)\nred blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps\nThe bleeding may be constant, or may come and go.\nUrgent advice:\nGet urgent help if:\nYou're pregnant and have light bleeding or spotting with:\nno pain, or mild tummy pain (the pain does not stop you doing daily tasks)\ndiarrhoea, or pain or pressure when you pee or poo\nCall your maternity unit if you have the phone number.\nIf you're less than 20 weeks pregnant, an early pregnancy unit may be able to help. You can find how to contact one on your local NHS trust website or in your maternity notes.\nIf you do not have a maternity unit yet or cannot contact an early pregnancy unit, call NHS 111.\nImmediate action required:\nCall 999 if:\nYou're pregnant and bleeding and:\nyou have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)\nyou have pain in your shoulder\nyou feel sick, faint, dizzy or lose consciousness\nthe bleeding is heavy (soaking a period pad soon after putting it on)\nThese can be signs you need immediate treatment.\nTests to find the cause of vaginal bleeding\nTo find out what could be causing the vaginal bleeding, you'll be asked about your health, your symptoms and how many weeks pregnant you are.\nYou may also be asked about any bleeding or pregnancies you've had in the past. If you've been given your maternity notes, take these with you if possible.\nIf you're at a hospital or early pregnancy unit, a doctor, nurse or midwife may ask to do some checks. These may include:\nlooking inside your vagina\nan\nultrasound scan\non your tummy or inside your vagina\nblood tests\ntesting a sample of your pee (urine)\nCauses of vaginal bleeding in pregnancy\nBleeding in pregnancy can be caused by different things, including:\nimplantation bleeding in very early pregnancy (when the egg implants into the womb)\nchanges to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example\na leak of blood from inside the womb\ninfection (such as a urine infection or sexually transmitted infection)\nmiscarriage\nectopic pregnancy\nmolar pregnancy\ncomplications with\nthe placenta\n, such as placenta praevia\na \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting\nSometimes it's not possible to find the cause of vaginal bleeding in pregnancy.\nTreatment for vaginal bleeding in pregnancy\nTreatment for vaginal bleeding in pregnancy depends on the cause, and may depend on how many weeks pregnant you are.\nYou may be offered closer monitoring in pregnancy to check the health of you and your baby. This may involve being admitted to hospital.\nYou may not need treatment if tests find the bleeding is not serious and the pregnancy is healthy.\nIf you need treatment, this may include:\nmedicine\nsurgery\nIf you're in the later weeks of pregnancy you may be offered an induction of labour.\nIf bleeding is caused by placenta problems, you may be offered a\ncaesarean section\nto help your baby be born safely.\nThe doctor will discuss the options with you to help you make the right choice for you and your baby.\nWhat should I do if I start bleeding during early pregnancy?\nThis video explains what to do if you have vaginal bleeding in early pregnancy.\nMedia last reviewed: 23 April 2026\nMedia review due: 23 April 2029",
+  "links": [
+    {
+      "text": "ultrasound scan",
+      "url": "https://www.nhs.uk/tests-and-treatments/ultrasound-scan/"
+    },
+    {
+      "text": "miscarriage",
+      "url": "https://www.nhs.uk/conditions/miscarriage/"
+    },
+    {
+      "text": "ectopic pregnancy",
+      "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"
+    },
+    {
+      "text": "molar pregnancy",
+      "url": "https://www.nhs.uk/conditions/molar-pregnancy/"
+    },
+    {
+      "text": "the placenta",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/placenta-complications/"
+    },
+    {
+      "text": "caesarean section",
+      "url": "https://www.nhs.uk/tests-and-treatments/caesarean-section/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<h2 id=\"symptoms\">Signs of vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"tb7cw\">Signs of vaginal bleeding in pregnancy may include:</p><ul><li data-block-key=\"fs0h6\">spots of pink, red or brown blood on your underwear or toilet paper (spotting)</li><li data-block-key=\"cuqg1\">larger areas of pink, red or brown blood that may need a period pad (light bleeding)</li><li data-block-key=\"4ep5v\">red blood that soaks through a period pad (heavy bleeding) – there may be clots or lumps</li></ul><p data-block-key=\"9pc6q\">The bleeding may be constant, or may come and go.</p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Urgent advice: </span>Get urgent help if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"rhkop\">You're pregnant and have light bleeding or spotting with:</p><ul><li data-block-key=\"35pcd\">no pain, or mild tummy pain (the pain does not stop you doing daily tasks)</li><li data-block-key=\"guhv\">diarrhoea, or pain or pressure when you pee or poo</li></ul><p data-block-key=\"dglt1\">Call your maternity unit if you have the phone number.</p><p data-block-key=\"34i3e\">If you're less than 20 weeks pregnant, an early pregnancy unit may be able to help. You can find how to contact one on your local NHS trust website or in your maternity notes.</p><p data-block-key=\"83a2u\">If you do not have a maternity unit yet or cannot contact an early pregnancy unit, call NHS 111.</p>\n</div>\n</div>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--emergency\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Immediate action required: </span>Call 999 if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<p data-block-key=\"njkdk\">You're pregnant and bleeding and:</p><ul><li data-block-key=\"2o0kb\">you have severe pain in your tummy (you cannot focus on TV, read a book or do daily tasks because of the pain)</li><li data-block-key=\"nk28\">you have pain in your shoulder</li><li data-block-key=\"1a0q7\">you feel sick, faint, dizzy or lose consciousness</li><li data-block-key=\"1plgk\">the bleeding is heavy (soaking a period pad soon after putting it on)</li></ul><p data-block-key=\"ajk60\">These can be signs you need immediate treatment.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">Tests to find the cause of vaginal bleeding</h2>\n<p data-block-key=\"7y08c\">To find out what could be causing the vaginal bleeding, you'll be asked about your health, your symptoms and how many weeks pregnant you are.</p><p data-block-key=\"qc9s\">You may also be asked about any bleeding or pregnancies you've had in the past. If you've been given your maternity notes, take these with you if possible.</p><p data-block-key=\"3inv3\">If you're at a hospital or early pregnancy unit, a doctor, nurse or midwife may ask to do some checks. These may include:</p><ul><li data-block-key=\"2rap0\">looking inside your vagina</li><li data-block-key=\"3j4rk\">an <a href=\"/tests-and-treatments/ultrasound-scan/\">ultrasound scan</a> on your tummy or inside your vagina</li><li data-block-key=\"e2aid\">blood tests</li><li data-block-key=\"bh3c3\">testing a sample of your pee (urine)</li></ul>\n</section>\n<section>\n<h2 id=\"causes\">Causes of vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"5wvr6\">Bleeding in pregnancy can be caused by different things, including:</p><ul><li data-block-key=\"8pjn7\">implantation bleeding in very early pregnancy (when the egg implants into the womb)</li><li data-block-key=\"49rv\">changes to the blood vessels in your cervix (entrance to your womb) which can cause bleeding after sex for example</li><li data-block-key=\"bjfdd\">a leak of blood from inside the womb</li><li data-block-key=\"8i02l\">infection (such as a urine infection or sexually transmitted infection)</li><li data-block-key=\"3ipie\"><a href=\"/conditions/miscarriage/\">miscarriage</a></li><li data-block-key=\"bfub5\"><a href=\"/conditions/ectopic-pregnancy/\">ectopic pregnancy</a></li><li data-block-key=\"9477v\"><a href=\"/conditions/molar-pregnancy/\">molar pregnancy</a></li><li data-block-key=\"82mlg\">complications with <a href=\"/pregnancy/labour-and-birth/placenta-complications/\">the placenta</a>, such as placenta praevia</li><li data-block-key=\"9pf5q\">a \"show\", when the plug of mucus that seals the opening of your cervix comes away, sometimes with blood – a show can mean labour is starting</li></ul><p data-block-key=\"8fi67\">Sometimes it's not possible to find the cause of vaginal bleeding in pregnancy.</p>\n</section>\n<section>\n<h2 id=\"medical-treatments\">Treatment for vaginal bleeding in pregnancy</h2>\n<p data-block-key=\"6ch6i\">Treatment for vaginal bleeding in pregnancy depends on the cause, and may depend on how many weeks pregnant you are.</p><p data-block-key=\"8klnq\">You may be offered closer monitoring in pregnancy to check the health of you and your baby. This may involve being admitted to hospital.</p><p data-block-key=\"1kbc\">You may not need treatment if tests find the bleeding is not serious and the pregnancy is healthy.</p><p data-block-key=\"33q2h\">If you need treatment, this may include:</p><ul><li data-block-key=\"ebk84\">medicine</li><li data-block-key=\"5shiv\">surgery</li></ul><p data-block-key=\"d9lhc\">If you're in the later weeks of pregnancy you may be offered an induction of labour.</p><p data-block-key=\"6d9a7\">If bleeding is caused by placenta problems, you may be offered a <a href=\"/tests-and-treatments/caesarean-section/\">caesarean section</a> to help your baby be born safely.</p><p data-block-key=\"3t27s\">The doctor will discuss the options with you to help you make the right choice for you and your baby.</p>\n</section>\n<section>\n<div class=\"app-brightcove-video\">\n<div class=\"nhsuk-card__content\">\n<h2>What should I do if I start bleeding during early pregnancy?</h2>\n<p>This video explains what to do if you have vaginal bleeding in early pregnancy.</p>\n</div>\n<div class=\"app-brightcove-videoplayer\">\n<video class=\"video-js vjs-fluid\" controls=\"\" data-account=\"79855382001\" data-application-id=\"\" data-embed=\"default\" data-player=\"EkC1XU82e\" data-video-id=\"6372884585112\" id=\"6372884585112\">\n</video>\n<script src=\"//players.brightcove.net/79855382001/EkC1XU82e_default/index.min.js\"></script>\n</div>\n<div class=\"app-brightcove-video--date\">\n    \n    Media last reviewed: 23 April 2026<br/>\n    Media review due: 23 April 2029\n  </div>\n</div>\n</section>\n</div>\n</div>\n</article>"
+}

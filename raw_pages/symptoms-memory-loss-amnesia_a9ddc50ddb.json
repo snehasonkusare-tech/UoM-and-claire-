@@ -1,0 +1,423 @@
+{
+  "requested_url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/",
+  "final_url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-09-12T13:01:34.372678+00:00",
+  "etag": "",
+  "last_modified_header": "",
+  "index_entries": [
+    {
+      "letter": "A",
+      "label": "Amnesia, see Memory loss (amnesia)",
+      "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/",
+      "is_see_reference": true
+    },
+    {
+      "letter": "M",
+      "label": "Memory loss (amnesia)",
+      "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/",
+      "is_see_reference": false
+    }
+  ],
+  "title": "Memory loss (amnesia)",
+  "meta_description": "NHS information about memory loss (amnesia), including advice about what to do if you have problems with your memory and what the cause might be.",
+  "review_dates": {
+    "page_last_reviewed": "09 October 2023",
+    "next_review_due": "09 October 2026"
+  },
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "url": "https://www.nhs.uk/"
+    },
+    {
+      "text": "Health A to Z",
+      "url": "https://www.nhs.uk/health-a-to-z/"
+    },
+    {
+      "text": "Symptoms A to Z",
+      "url": "https://www.nhs.uk/symptoms/"
+    }
+  ],
+  "meta_tags": [
+    {
+      "key": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    {
+      "key": "description",
+      "content": "NHS information about memory loss (amnesia), including advice about what to do if you have problems with your memory and what the cause might be."
+    },
+    {
+      "key": "google-site-verification",
+      "content": "a4yrvgi5ZlBnKWfqFKkQ3_mEjqow_fpwbtF2bUTmZgc"
+    },
+    {
+      "key": "keywords",
+      "content": ""
+    },
+    {
+      "key": "msapplication-TileImage",
+      "content": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png"
+    },
+    {
+      "key": "msapplication-TileColor",
+      "content": "#005eb8"
+    },
+    {
+      "key": "msapplication-square70x70logo",
+      "content": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png"
+    },
+    {
+      "key": "msapplication-square150x150logo",
+      "content": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png"
+    },
+    {
+      "key": "msapplication-wide310x150logo",
+      "content": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png"
+    },
+    {
+      "key": "msapplication-square310x310logo",
+      "content": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png"
+    },
+    {
+      "key": "og:url",
+      "content": "https://www.nhs.uk/symptoms/memory-loss-amnesia/"
+    },
+    {
+      "key": "og:site_name",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "og:title",
+      "content": "\nMemory loss (amnesia)\n"
+    },
+    {
+      "key": "og:description",
+      "content": "NHS information about memory loss (amnesia), including advice about what to do if you have problems with your memory and what the cause might be."
+    },
+    {
+      "key": "og:type",
+      "content": "website"
+    },
+    {
+      "key": "og:locale",
+      "content": "en_GB"
+    },
+    {
+      "key": "og:image",
+      "content": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+    },
+    {
+      "key": "og:image:alt",
+      "content": "nhs.uk"
+    },
+    {
+      "key": "article:author",
+      "content": "https://www.facebook.com/nhswebsite/"
+    },
+    {
+      "key": "article:modified_time",
+      "content": "16 Apr 2025, 11:16 a.m."
+    },
+    {
+      "key": "article:published_time",
+      "content": "8 Jan 2018, 5:16 p.m."
+    },
+    {
+      "key": "article:section",
+      "content": "conditions"
+    },
+    {
+      "key": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "key": "twitter:site",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:creator",
+      "content": "@nhsuk"
+    },
+    {
+      "key": "twitter:image:alt",
+      "content": "nhs.uk"
+    }
+  ],
+  "structured_data_json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "MedicalWebPage",
+      "about": {
+        "@type": "WebPage",
+        "alternateName": [
+          "Amnesia"
+        ],
+        "name": "Memory loss (amnesia)"
+      },
+      "author": {
+        "@type": "Organization",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "logo": "https://assets.nhs.uk/nhsuk-cms/images/nhs-attribution.width-510.png",
+        "name": "NHS website",
+        "url": "https://www.nhs.uk"
+      },
+      "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/",
+              "genre": [],
+              "name": "Symptoms A to Z"
+            },
+            "position": 0
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.nhs.uk/symptoms/memory-loss-amnesia/",
+              "genre": [
+                "Symptom"
+              ],
+              "name": "Memory loss (amnesia)"
+            },
+            "position": 1
+          }
+        ]
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Crown Copyright"
+      },
+      "dateModified": "2025-04-16T10:16:56+00:00",
+      "description": "NHS information about memory loss (amnesia), including advice about what to do if you have problems with your memory and what the cause might be.",
+      "genre": [
+        "Symptom"
+      ],
+      "hasPart": [
+        {
+          "@type": "HealthTopicContent",
+          "description": "",
+          "hasHealthAspect": "http://schema.org/MedicalHelpNonurgentHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "See a GP if:",
+              "identifier": "primary",
+              "text": "<ul>\n<li>\n  memory problems are affecting your day-to-day life\n </li>\n</ul>\n<p>\n It's often nothing serious, but it's best to get checked because any treatment you need may work better if it's started early.\n</p>\n"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Concern for a relative",
+              "text": "<p>If you're worried about an older relative who's becoming increasingly forgetful, speak to a GP about whether it could be a <a href=\"/conditions/dementia/symptoms-and-diagnosis/symptoms/\">sign of dementia</a>.</p>"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/#non-urgent-medical-help-old"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "To find out why you have memory loss, a GP may ask questions with help from someone you know or refer you to a memory specialist for tests and scans.",
+          "hasHealthAspect": "http://schema.org/DiagnosisHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>If you're having problems with your memory, a GP will ask you some questions to try to find the cause.</p><p>It might be useful to bring someone else with you who can help describe the problems you're having.</p><p>The GP may refer you to a memory specialist for an in-depth assessment. Further tests, such as scans, may also sometimes be needed.</p><p>Any treatment that's recommended will depend on the cause of your memory problems.</p>"
+            }
+          ],
+          "headline": "What happens at your appointment",
+          "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/#diagnosis"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Memory loss can happen naturally as you get older. It can also be caused by stress, insomnia, anxiety, depression or something serious like dementia.",
+          "hasHealthAspect": "http://schema.org/CausesHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "",
+              "text": "<p>Memory loss can just be a natural part of getting older.</p><p>Sometimes it may be caused by something common and treatable like:</p><ul><li><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a></li><li><a href=\"/mental-health/conditions/generalised-anxiety-disorder-gad/\">anxiety</a> or <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a></li><li><a href=\"/conditions/insomnia/\">sleeping problems (insomnia)</a></li></ul><p>Occasionally, memory loss can be a sign of something more serious, such as <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a>.</p><p>Do not try to self-diagnose the cause of your memory loss – always see a GP.</p>"
+            }
+          ],
+          "headline": "Causes of memory loss",
+          "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/#causes"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "description": "Most people forget things from time to time. See a GP if you keep having problems with your memory, it could be caused by something treatable.",
+          "hasHealthAspect": "http://schema.org/OverviewHealthAspect",
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "headline": "Memory loss (amnesia)",
+              "text": "Causes"
+            },
+            {
+              "@type": "WebPageElement",
+              "headline": "Memory loss (amnesia)",
+              "text": "Diagnosis"
+            }
+          ],
+          "headline": "",
+          "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/#overview"
+        }
+      ],
+      "keywords": "",
+      "lastReviewed": [
+        "2023-10-09T15:31:00+00:00",
+        "2026-10-09T15:31:00+00:00"
+      ],
+      "license": "https://developer.api.nhs.uk/terms",
+      "name": "Memory loss (amnesia)",
+      "relatedLink": [
+        {
+          "@type": "LinkRole",
+          "linkRelationship": "Navigation",
+          "name": "Memory loss (amnesia)",
+          "position": 0,
+          "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/"
+        }
+      ],
+      "schemaVersion": "http://schema.org/version/13.0/",
+      "url": "https://www.nhs.uk/symptoms/memory-loss-amnesia/"
+    }
+  ],
+  "sections": [
+    {
+      "position": 1,
+      "heading": "Introduction",
+      "headings": [],
+      "text": "Most people forget things from time to time, but see a GP if you keep having problems with your memory. It could be caused by something that can be treated.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<p data-block-key=\"kf3u9\"><b>Most people forget things from time to time, but see a GP if you keep having problems with your memory. It could be caused by something that can be treated.</b></p>\n</section>"
+    },
+    {
+      "position": 2,
+      "heading": "Non-urgent advice: See a GP if:",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Non-urgent advice: See a GP if:"
+        },
+        {
+          "level": "h3",
+          "text": "Important: Concern for a relative"
+        }
+      ],
+      "text": "Non-urgent advice:\nSee a GP if:\nmemory problems are affecting your day-to-day life\nIt's often nothing serious, but it's best to get checked because any treatment you need may work better if it's started early.\nImportant:\nConcern for a relative\nIf you're worried about an older relative who's becoming increasingly forgetful, speak to a GP about whether it could be a\nsign of dementia\n.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "memory problems are affecting your day-to-day life"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "sign of dementia",
+          "url": "https://www.nhs.uk/conditions/dementia/symptoms-and-diagnosis/symptoms/"
+        }
+      ],
+      "html": "<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"xechd\">memory problems are affecting your day-to-day life</li></ul><p data-block-key=\"zholt\">It's often nothing serious, but it's best to get checked because any treatment you need may work better if it's started early.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Concern for a relative\n        </span>\n</h3>\n<p data-block-key=\"2taoi\">If you're worried about an older relative who's becoming increasingly forgetful, speak to a GP about whether it could be a <a href=\"/conditions/dementia/symptoms-and-diagnosis/symptoms/\">sign of dementia</a>.</p>\n</div>\n</div>\n</section>"
+    },
+    {
+      "position": 3,
+      "heading": "What happens at your appointment",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What happens at your appointment"
+        }
+      ],
+      "text": "What happens at your appointment\nIf you're having problems with your memory, a GP will ask you some questions to try to find the cause.\nIt might be useful to bring someone else with you who can help describe the problems you're having.\nThe GP may refer you to a memory specialist for an in-depth assessment. Further tests, such as scans, may also sometimes be needed.\nAny treatment that's recommended will depend on the cause of your memory problems.",
+      "lists": [],
+      "links": [],
+      "html": "<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"fmvax\">If you're having problems with your memory, a GP will ask you some questions to try to find the cause.</p><p data-block-key=\"98i95\">It might be useful to bring someone else with you who can help describe the problems you're having.</p><p data-block-key=\"eqihi\">The GP may refer you to a memory specialist for an in-depth assessment. Further tests, such as scans, may also sometimes be needed.</p><p data-block-key=\"7ba3q\">Any treatment that's recommended will depend on the cause of your memory problems.</p>\n</section>"
+    },
+    {
+      "position": 4,
+      "heading": "Causes of memory loss",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Causes of memory loss"
+        }
+      ],
+      "text": "Causes of memory loss\nMemory loss can just be a natural part of getting older.\nSometimes it may be caused by something common and treatable like:\nstress\nanxiety\nor\ndepression\nsleeping problems (insomnia)\nOccasionally, memory loss can be a sign of something more serious, such as\ndementia\n.\nDo not try to self-diagnose the cause of your memory loss – always see a GP.",
+      "lists": [
+        {
+          "type": "unordered",
+          "items": [
+            "stress",
+            "anxiety\nor\ndepression",
+            "sleeping problems (insomnia)"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "stress",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+        },
+        {
+          "text": "anxiety",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+        },
+        {
+          "text": "depression",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+        },
+        {
+          "text": "sleeping problems (insomnia)",
+          "url": "https://www.nhs.uk/conditions/insomnia/"
+        },
+        {
+          "text": "dementia",
+          "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+        }
+      ],
+      "html": "<section>\n<h2 id=\"causes\">Causes of memory loss</h2>\n<p data-block-key=\"dqxs2\">Memory loss can just be a natural part of getting older.</p><p data-block-key=\"mq71m\">Sometimes it may be caused by something common and treatable like:</p><ul><li data-block-key=\"k4l4d\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a></li><li data-block-key=\"4k578\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder-gad/\">anxiety</a> or <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a></li><li data-block-key=\"1y3il\"><a href=\"/conditions/insomnia/\">sleeping problems (insomnia)</a></li></ul><p data-block-key=\"27qgo\">Occasionally, memory loss can be a sign of something more serious, such as <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a>.</p><p data-block-key=\"zu5kf\">Do not try to self-diagnose the cause of your memory loss – always see a GP.</p>\n</section>"
+    }
+  ],
+  "page_text": "Most people forget things from time to time, but see a GP if you keep having problems with your memory. It could be caused by something that can be treated.\nNon-urgent advice:\nSee a GP if:\nmemory problems are affecting your day-to-day life\nIt's often nothing serious, but it's best to get checked because any treatment you need may work better if it's started early.\nImportant:\nConcern for a relative\nIf you're worried about an older relative who's becoming increasingly forgetful, speak to a GP about whether it could be a\nsign of dementia\n.\nWhat happens at your appointment\nIf you're having problems with your memory, a GP will ask you some questions to try to find the cause.\nIt might be useful to bring someone else with you who can help describe the problems you're having.\nThe GP may refer you to a memory specialist for an in-depth assessment. Further tests, such as scans, may also sometimes be needed.\nAny treatment that's recommended will depend on the cause of your memory problems.\nCauses of memory loss\nMemory loss can just be a natural part of getting older.\nSometimes it may be caused by something common and treatable like:\nstress\nanxiety\nor\ndepression\nsleeping problems (insomnia)\nOccasionally, memory loss can be a sign of something more serious, such as\ndementia\n.\nDo not try to self-diagnose the cause of your memory loss – always see a GP.\nPage last reviewed: 09 October 2023\nNext review due: 09 October 2026",
+  "links": [
+    {
+      "text": "sign of dementia",
+      "url": "https://www.nhs.uk/conditions/dementia/symptoms-and-diagnosis/symptoms/"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+    },
+    {
+      "text": "sleeping problems (insomnia)",
+      "url": "https://www.nhs.uk/conditions/insomnia/"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.nhs.uk/conditions/dementia/about-dementia/what-is-dementia/"
+    }
+  ],
+  "images": [],
+  "article_html": "<article>\n<div class=\"nhsuk-grid-row\">\n<div class=\"nhsuk-grid-column-two-thirds\">\n<section>\n<p data-block-key=\"kf3u9\"><b>Most people forget things from time to time, but see a GP if you keep having problems with your memory. It could be caused by something that can be treated.</b></p>\n</section>\n<section>\n<div class=\"nhsuk-card nhsuk-card--care nhsuk-card--care--non-urgent\">\n<div class=\"nhsuk-card__heading-container\">\n<h2 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Non-urgent advice:  </span>See a GP if:\n      </span>\n</h2>\n<span aria-hidden=\"true\" class=\"nhsuk-card--care__arrow\"></span>\n</div>\n<div class=\"nhsuk-card__content\">\n<ul><li data-block-key=\"xechd\">memory problems are affecting your day-to-day life</li></ul><p data-block-key=\"zholt\">It's often nothing serious, but it's best to get checked because any treatment you need may work better if it's started early.</p>\n</div>\n</div>\n<div class=\"nhsuk-card nhsuk-card--warning\">\n<div class=\"nhsuk-card__content\">\n<h3 class=\"nhsuk-card__heading\">\n<span role=\"text\">\n<span class=\"nhsuk-u-visually-hidden\">Important: </span>\n          Concern for a relative\n        </span>\n</h3>\n<p data-block-key=\"2taoi\">If you're worried about an older relative who's becoming increasingly forgetful, speak to a GP about whether it could be a <a href=\"/conditions/dementia/symptoms-and-diagnosis/symptoms/\">sign of dementia</a>.</p>\n</div>\n</div>\n</section>\n<section>\n<h2 id=\"diagnosis\">What happens at your appointment</h2>\n<p data-block-key=\"fmvax\">If you're having problems with your memory, a GP will ask you some questions to try to find the cause.</p><p data-block-key=\"98i95\">It might be useful to bring someone else with you who can help describe the problems you're having.</p><p data-block-key=\"eqihi\">The GP may refer you to a memory specialist for an in-depth assessment. Further tests, such as scans, may also sometimes be needed.</p><p data-block-key=\"7ba3q\">Any treatment that's recommended will depend on the cause of your memory problems.</p>\n</section>\n<section>\n<h2 id=\"causes\">Causes of memory loss</h2>\n<p data-block-key=\"dqxs2\">Memory loss can just be a natural part of getting older.</p><p data-block-key=\"mq71m\">Sometimes it may be caused by something common and treatable like:</p><ul><li data-block-key=\"k4l4d\"><a href=\"/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/\">stress</a></li><li data-block-key=\"4k578\"><a href=\"/mental-health/conditions/generalised-anxiety-disorder-gad/\">anxiety</a> or <a href=\"/mental-health/conditions/depression-in-adults/overview/\">depression</a></li><li data-block-key=\"1y3il\"><a href=\"/conditions/insomnia/\">sleeping problems (insomnia)</a></li></ul><p data-block-key=\"27qgo\">Occasionally, memory loss can be a sign of something more serious, such as <a href=\"/conditions/dementia/about-dementia/what-is-dementia/\">dementia</a>.</p><p data-block-key=\"zu5kf\">Do not try to self-diagnose the cause of your memory loss – always see a GP.</p>\n</section>\n<div>\n<p class=\"nhsuk-body-s nhsuk-u-margin-top-7 nhsuk-u-secondary-text-color\">\n    Page last reviewed: 09 October 2023<br/>\n    Next review due: 09 October 2026\n  </p>\n</div>\n</div>\n</div>\n</article>"
+}
